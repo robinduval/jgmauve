@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 14 Nov 2003 00:00:00 +0000
+Message-ID: <3992986790@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il est préférable de examiner certaines voies déjà en notre possession
+
+Cordialement,
+Bob Smith
+

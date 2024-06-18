@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 27 Feb 2007 00:00:00 +0000
+Message-ID: <3374935025@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui nous occupe on ne peut se passer de se préoccuper de la totalité des voies envisageables
+
+Cordialement,
+Bob Smith
+

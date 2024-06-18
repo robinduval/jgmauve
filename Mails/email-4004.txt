@@ -1,0 +1,13 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 22 Oct 2000 00:00:00 +0000
+
+Le bon mail répond aux points suivant : 
+– la somme de ses 4 chiffres est 13,
+– le chiffre des milliers est 2 fois plus grand que celui des unités,
+– le chiffre des centaines est 3 fois plus grand que celui des dizaines
+
+Cordialement,
+Emma Lee
+

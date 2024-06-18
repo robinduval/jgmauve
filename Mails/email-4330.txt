@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 09 Jun 2000 00:00:00 +0000
+Message-ID: <8182814945@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de cette fin de siècle il faut anticiper toutes les solutions possibles
+
+Cordialement,
+Laura Wilson
+

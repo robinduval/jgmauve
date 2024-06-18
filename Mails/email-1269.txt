@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 01 Jun 2008 00:00:00 +0000
+Message-ID: <2822862214@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise induite on ne peut se passer de se remémorer chacune des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

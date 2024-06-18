@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 13 Jun 2005 00:00:00 +0000
+Message-ID: <9996701428@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de ces derniers temps il convient de examiner chacune des issues possibles
+
+Cordialement,
+Samuel White
+

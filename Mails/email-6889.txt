@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Wed, 09 Oct 2002 00:00:00 +0000
+Message-ID: <2759735081@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de ces derniers temps on se doit de prendre en considération la majorité des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

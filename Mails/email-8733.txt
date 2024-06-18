@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 16 Jul 2002 00:00:00 +0000
+Message-ID: <6118887457@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de cette fin de siècle il est préférable de se préoccuper de toutes les voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

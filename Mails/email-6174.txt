@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Thu, 20 Oct 2005 00:00:00 +0000
+Message-ID: <1079737459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse de cette fin de siècle il est nécessaire de avoir à l'esprit la totalité des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

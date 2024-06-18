@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 17 Sep 2003 00:00:00 +0000
+Message-ID: <2187075300@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation conjoncturelle il est préférable de se préoccuper de la somme des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

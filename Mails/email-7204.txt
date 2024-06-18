@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Fri, 28 Sep 2007 00:00:00 +0000
+Message-ID: <6215757650@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise induite on ne peut se passer de étudier la somme des issues envisageables
+
+Cordialement,
+Alice Dupont
+

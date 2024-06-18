@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Thu, 30 Jul 2009 00:00:00 +0000
+Message-ID: <3210350664@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation induite il est nécessaire de avoir à l'esprit toutes les alternatives de bon sens
+
+Cordialement,
+John Doe
+

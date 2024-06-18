@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 12 Jun 2002 00:00:00 +0000
+Message-ID: <8752573683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture présente on se doit de prendre en considération toutes les voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

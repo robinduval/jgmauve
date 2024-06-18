@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 14 Jun 2000 00:00:00 +0000
+Message-ID: <8490853002@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre il est préférable de anticiper chacune des voies de bon sens
+
+Cordialement,
+Samuel White
+

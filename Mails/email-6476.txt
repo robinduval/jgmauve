@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 17 Oct 2005 00:00:00 +0000
+Message-ID: <2974139217@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle il faut imaginer la majorité des alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

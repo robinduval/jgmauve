@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 08 Jan 2002 00:00:00 +0000
+Message-ID: <6461672759@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie qui est la nôtre il convient de imaginer la totalité des voies possibles
+
+Cordialement,
+Eva Thomas
+

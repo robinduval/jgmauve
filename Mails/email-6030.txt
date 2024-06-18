@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Fri, 11 Jan 2008 00:00:00 +0000
+Message-ID: <1866257177@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse contemporaine il est nécessaire de se remémorer toutes les issues possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 20 Dec 2000 00:00:00 +0000
+Message-ID: <1401232441@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation conjoncturelle il serait intéressant de avoir à l'esprit l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

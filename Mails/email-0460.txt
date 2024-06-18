@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Tue, 15 Jul 2008 00:00:00 +0000
+Message-ID: <3160384527@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation présente il est préférable de avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+Olivia Harris
+

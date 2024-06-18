@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Wed, 06 Sep 2006 00:00:00 +0000
+Message-ID: <9533621461@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de la société il ne faut pas négliger de prendre en considération certaines issues de bon sens
+
+Cordialement,
+Michael Taylor
+

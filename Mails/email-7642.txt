@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 01 Nov 2004 00:00:00 +0000
+Message-ID: <1379088042@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation actuelle il est préférable de imaginer certaines issues déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

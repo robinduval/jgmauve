@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Sun, 17 Sep 2000 00:00:00 +0000
+Message-ID: <4981331075@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs contemporaine il est préférable de examiner certaines issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

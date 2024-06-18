@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 21 Feb 2001 00:00:00 +0000
+Message-ID: <6711801919@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité contemporaine on ne peut se passer de s'intéresser à la somme des alternatives s'offrant à nous
+
+Cordialement,
+William Jackson
+

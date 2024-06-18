@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 11 Jul 2005 00:00:00 +0000
+Message-ID: <1783106831@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie présente il est préférable de prendre en considération chacune des solutions de bon sens
+
+Cordialement,
+John Doe
+

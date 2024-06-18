@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Mon, 24 Apr 2006 00:00:00 +0000
+Message-ID: <8977163878@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise induite il ne faut pas négliger de avoir à l'esprit l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

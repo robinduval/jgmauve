@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 01 Jan 2003 00:00:00 +0000
+Message-ID: <3267596313@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de ces derniers temps il serait bon de examiner la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

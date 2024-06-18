@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 01 Sep 2000 00:00:00 +0000
+Message-ID: <3328302554@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité actuelle on se doit de prendre en considération la globalité des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

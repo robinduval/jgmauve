@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Fri, 13 Dec 2002 00:00:00 +0000
+Message-ID: <3753516534@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation de cette fin de siècle il convient de ne pas négliger chacune des solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

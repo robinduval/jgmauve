@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 21 Jul 2002 00:00:00 +0000
+Message-ID: <6443030186@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe il ne faut pas négliger de prendre en considération l'ensemble des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

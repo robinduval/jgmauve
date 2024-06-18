@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 10 Feb 2000 00:00:00 +0000
+Message-ID: <4202995044@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs conjoncturelle il est préférable de étudier la majorité des voies de bon sens
+
+Cordialement,
+Bob Smith
+

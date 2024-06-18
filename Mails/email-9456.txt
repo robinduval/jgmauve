@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Tue, 26 Aug 2003 00:00:00 +0000
+Message-ID: <1170418990@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie contemporaine on ne peut se passer de prendre en considération toutes les alternatives possibles
+
+Cordialement,
+Michael Taylor
+

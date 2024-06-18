@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 02 May 2000 00:00:00 +0000
+Message-ID: <8285383946@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation contemporaine on ne peut se passer de avoir à l'esprit la somme des issues possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 30 May 2006 00:00:00 +0000
+Message-ID: <6159583718@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de la société il ne faut pas négliger de se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

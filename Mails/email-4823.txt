@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Tue, 04 Dec 2007 00:00:00 +0000
+Message-ID: <4096431311@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il convient de se préoccuper de l'ensemble des alternatives possibles
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 13 Feb 2009 00:00:00 +0000
+Message-ID: <2153537091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de ces derniers temps il faut de toute urgence imaginer la totalité des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

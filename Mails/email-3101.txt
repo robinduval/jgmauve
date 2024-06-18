@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 31 Oct 2006 00:00:00 +0000
+Message-ID: <3178038832@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse contemporaine il est nécessaire de se remémorer toutes les problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

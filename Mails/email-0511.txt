@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 16 Feb 2009 00:00:00 +0000
+Message-ID: <4870578716@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse conjoncturelle il convient de imaginer chacune des issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

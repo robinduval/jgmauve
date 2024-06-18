@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Mon, 23 May 2005 00:00:00 +0000
+Message-ID: <8008348054@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité présente il serait bon de se préoccuper de toutes les problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

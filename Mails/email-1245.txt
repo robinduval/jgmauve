@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 29 Dec 2005 00:00:00 +0000
+Message-ID: <8245765417@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de cette fin de siècle il faut de toute urgence ne pas négliger la somme des issues envisageables
+
+Cordialement,
+Daniel Clark
+

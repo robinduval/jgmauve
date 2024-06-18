@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 05 May 2007 00:00:00 +0000
+Message-ID: <4912656596@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose conjoncturelle il faut examiner la globalité des issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

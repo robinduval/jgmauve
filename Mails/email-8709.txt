@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 17 Dec 2004 00:00:00 +0000
+Message-ID: <7436111273@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation présente il est préférable de ne pas négliger toutes les solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

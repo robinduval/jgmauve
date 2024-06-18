@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Fri, 27 Feb 2004 00:00:00 +0000
+Message-ID: <5028431822@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation contemporaine il est préférable de prendre en considération toutes les problématiques possibles
+
+Cordialement,
+Eva Thomas
+

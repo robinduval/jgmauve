@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 12 Jun 2002 00:00:00 +0000
+Message-ID: <4090315730@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de cette fin de siècle il serait bon de prendre en considération la somme des problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

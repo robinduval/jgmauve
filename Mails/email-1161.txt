@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Wed, 18 Mar 2009 00:00:00 +0000
+Message-ID: <9067004777@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente il convient de avoir à l'esprit toutes les voies déjà en notre possession
+
+Cordialement,
+David Brown
+

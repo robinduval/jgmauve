@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 07 May 2009 00:00:00 +0000
+Message-ID: <8724527315@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui nous occupe on se doit de avoir à l'esprit la somme des voies possibles
+
+Cordialement,
+Laura Wilson
+

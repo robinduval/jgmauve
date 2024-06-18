@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 03 Sep 2001 00:00:00 +0000
+Message-ID: <3030348813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance qui nous occupe il est préférable de étudier toutes les alternatives envisageables
+
+Cordialement,
+Jean Neige
+

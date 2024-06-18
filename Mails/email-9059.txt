@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 10 Dec 2003 00:00:00 +0000
+Message-ID: <5185674600@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de la société il convient de prendre en considération toutes les voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

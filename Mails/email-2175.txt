@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 23 Nov 2004 00:00:00 +0000
+Message-ID: <6487592688@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps il convient de ne pas négliger la totalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

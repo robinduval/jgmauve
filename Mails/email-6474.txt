@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 04 Dec 2006 00:00:00 +0000
+Message-ID: <7340502716@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de la société il faut anticiper la somme des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

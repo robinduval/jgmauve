@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 19 Apr 2002 00:00:00 +0000
+Message-ID: <1035077689@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de la société on ne peut se passer de prendre en considération l'ensemble des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

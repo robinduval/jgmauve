@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Sun, 15 Mar 2009 00:00:00 +0000
+Message-ID: <9898354712@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre on se doit de imaginer toutes les issues de bon sens
+
+Cordialement,
+Daniel Clark
+

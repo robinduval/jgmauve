@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 14 Feb 2009 00:00:00 +0000
+Message-ID: <9697199283@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose induite il serait bon de se préoccuper de la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

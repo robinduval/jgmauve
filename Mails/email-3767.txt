@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 12 Jan 2008 00:00:00 +0000
+Message-ID: <7812672483@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité qui est la nôtre on ne peut se passer de anticiper la majorité des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

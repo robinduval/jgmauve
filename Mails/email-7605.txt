@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 26 Mar 2009 00:00:00 +0000
+Message-ID: <1516846224@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de ces derniers temps on se doit de examiner toutes les problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

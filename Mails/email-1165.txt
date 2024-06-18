@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Wed, 13 Dec 2000 00:00:00 +0000
+Message-ID: <3524768174@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de cette fin de siècle il est nécessaire de se préoccuper de la totalité des problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

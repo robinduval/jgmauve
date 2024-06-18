@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 22 Jul 2001 00:00:00 +0000
+Message-ID: <8422004133@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation qui nous occupe il est nécessaire de se remémorer la globalité des solutions envisageables
+
+Cordialement,
+Alice Dupont
+

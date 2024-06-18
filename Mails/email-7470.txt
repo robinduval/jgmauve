@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 19 Dec 2000 00:00:00 +0000
+Message-ID: <7652167229@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de cette fin de siècle il est nécessaire de se remémorer la globalité des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

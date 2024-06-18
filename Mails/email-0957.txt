@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 20 Jan 2001 00:00:00 +0000
+Message-ID: <2724694705@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de cette fin de siècle il faut de toute urgence étudier l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

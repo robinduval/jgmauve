@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 17 Sep 2005 00:00:00 +0000
+Message-ID: <1425875447@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise présente on se doit de imaginer la majorité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

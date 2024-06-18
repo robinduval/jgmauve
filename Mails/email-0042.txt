@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 31 Jul 2007 00:00:00 +0000
+Message-ID: <8827233766@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de la société il serait bon de s'intéresser à l'ensemble des voies de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 13 Jan 2005 00:00:00 +0000
+Message-ID: <5295534900@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité conjoncturelle on ne peut se passer de étudier toutes les voies de bon sens
+
+Cordialement,
+Eva Thomas
+

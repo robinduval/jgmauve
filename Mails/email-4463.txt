@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 05 Sep 2004 00:00:00 +0000
+Message-ID: <8321184589@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il est préférable de imaginer toutes les solutions possibles
+
+Cordialement,
+Emma Lee
+

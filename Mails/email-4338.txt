@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 06 Sep 2000 00:00:00 +0000
+Message-ID: <9365601249@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de cette fin de siècle il convient de examiner la globalité des issues envisageables
+
+Cordialement,
+Bob Smith
+

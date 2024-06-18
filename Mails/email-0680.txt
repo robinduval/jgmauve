@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Mon, 31 Dec 2001 00:00:00 +0000
+Message-ID: <9169328424@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture présente il faut de toute urgence ne pas négliger l'ensemble des issues envisageables
+
+Cordialement,
+Laura Wilson
+

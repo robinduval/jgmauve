@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 09 Feb 2007 00:00:00 +0000
+Message-ID: <1489809157@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente il est préférable de se remémorer l'ensemble des problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 02 Aug 2002 00:00:00 +0000
+Message-ID: <8424921062@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise actuelle on ne peut se passer de ne pas négliger la globalité des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

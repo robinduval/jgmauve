@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 07 Sep 2003 00:00:00 +0000
+Message-ID: <5776863582@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui nous occupe on se doit de anticiper l'ensemble des solutions possibles
+
+Cordialement,
+Olivia Harris
+

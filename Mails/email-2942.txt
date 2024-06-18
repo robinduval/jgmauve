@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Tue, 10 Apr 2007 00:00:00 +0000
+Message-ID: <9310844055@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise actuelle il convient de prendre en considération la majorité des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

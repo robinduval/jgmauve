@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 31 Dec 2005 00:00:00 +0000
+Message-ID: <9832491857@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de la société il faut se préoccuper de certaines solutions possibles
+
+Cordialement,
+William Jackson
+

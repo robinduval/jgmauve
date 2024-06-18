@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 22 Jul 2004 00:00:00 +0000
+Message-ID: <1295670918@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation qui est la nôtre on ne peut se passer de se remémorer toutes les issues possibles
+
+Cordialement,
+Alice Dupont
+

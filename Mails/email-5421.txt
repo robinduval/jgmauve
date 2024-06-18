@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 03 Aug 2008 00:00:00 +0000
+Message-ID: <4641189706@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture contemporaine on ne peut se passer de anticiper la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

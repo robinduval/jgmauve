@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Sat, 28 Oct 2000 00:00:00 +0000
+Message-ID: <7883855397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise qui nous occupe il ne faut pas négliger de avoir à l'esprit la majorité des solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

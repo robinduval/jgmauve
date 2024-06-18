@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 17 Sep 2001 00:00:00 +0000
+Message-ID: <5158727159@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs actuelle il est préférable de anticiper toutes les solutions envisageables
+
+Cordialement,
+Laura Wilson
+

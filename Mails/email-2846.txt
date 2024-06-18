@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 23 Dec 2009 00:00:00 +0000
+Message-ID: <6219344646@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe on ne peut se passer de imaginer toutes les alternatives déjà en notre possession
+
+Cordialement,
+Samuel White
+

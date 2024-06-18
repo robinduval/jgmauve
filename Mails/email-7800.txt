@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 07 Sep 2008 00:00:00 +0000
+Message-ID: <7649873149@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il convient de imaginer la globalité des alternatives envisageables
+
+Cordialement,
+William Jackson
+

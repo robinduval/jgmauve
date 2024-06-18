@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 26 Sep 2008 00:00:00 +0000
+Message-ID: <9929814328@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance présente il est préférable de anticiper toutes les issues possibles
+
+Cordialement,
+Sophie Martin
+

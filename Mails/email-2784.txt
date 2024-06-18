@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 02 Jan 2005 00:00:00 +0000
+Message-ID: <2202420683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps il serait bon de anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+David Brown
+

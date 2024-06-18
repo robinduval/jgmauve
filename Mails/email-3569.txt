@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 17 Nov 2007 00:00:00 +0000
+Message-ID: <9651274163@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse induite il est nécessaire de examiner la totalité des problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 26 Jan 2001 00:00:00 +0000
+Message-ID: <7676595752@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation induite il est nécessaire de prendre en considération la majorité des issues envisageables
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Tue, 10 Oct 2000 00:00:00 +0000
+Message-ID: <7006986745@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de la société il ne faut pas négliger de anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

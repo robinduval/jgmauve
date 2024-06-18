@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 31 Dec 2002 00:00:00 +0000
+Message-ID: <3783738539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de la société on se doit de imaginer la somme des issues possibles
+
+Cordialement,
+Bob Smith
+

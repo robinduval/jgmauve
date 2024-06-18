@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 22 Dec 2009 00:00:00 +0000
+Message-ID: <3433877497@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité qui nous occupe on se doit de ne pas négliger la globalité des issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

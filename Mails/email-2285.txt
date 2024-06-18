@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Mon, 18 Aug 2003 00:00:00 +0000
+Message-ID: <4434710653@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de ces derniers temps il serait bon de s'intéresser à la majorité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

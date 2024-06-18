@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Fri, 24 Oct 2008 00:00:00 +0000
+Message-ID: <3378150865@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui nous occupe il faut s'intéresser à toutes les issues possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 30 Oct 2001 00:00:00 +0000
+Message-ID: <2401122807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de cette fin de siècle il est préférable de étudier toutes les alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

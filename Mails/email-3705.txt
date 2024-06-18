@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 09 Nov 2009 00:00:00 +0000
+Message-ID: <5352087849@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation présente on se doit de imaginer la majorité des alternatives envisageables
+
+Cordialement,
+David Brown
+

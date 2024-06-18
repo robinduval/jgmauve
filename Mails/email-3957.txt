@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 31 Aug 2001 00:00:00 +0000
+Message-ID: <1629077991@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs de cette fin de siècle il serait bon de se remémorer l'ensemble des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

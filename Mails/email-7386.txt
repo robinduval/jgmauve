@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 09 May 2000 00:00:00 +0000
+Message-ID: <2219623437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture présente il ne faut pas négliger de prendre en considération la majorité des problématiques possibles
+
+Cordialement,
+Sophie Martin
+

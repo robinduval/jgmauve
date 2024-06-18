@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 19 Sep 2000 00:00:00 +0000
+Message-ID: <1751622742@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture présente il est préférable de s'intéresser à toutes les solutions possibles
+
+Cordialement,
+Olivia Harris
+

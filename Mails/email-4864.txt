@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 28 Apr 2009 00:00:00 +0000
+Message-ID: <9880809386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de ces derniers temps il faut de toute urgence se remémorer la somme des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

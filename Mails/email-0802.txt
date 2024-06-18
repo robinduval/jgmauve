@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 06 May 2009 00:00:00 +0000
+Message-ID: <8387999563@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui nous occupe il faut de toute urgence s'intéresser à toutes les issues possibles
+
+Cordialement,
+Eva Thomas
+

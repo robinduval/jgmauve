@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Mon, 10 May 2004 00:00:00 +0000
+Message-ID: <9328323959@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs présente il convient de avoir à l'esprit toutes les issues de bon sens
+
+Cordialement,
+Jean Neige
+

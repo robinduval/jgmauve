@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 12 Oct 2003 00:00:00 +0000
+Message-ID: <3332968604@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse présente on ne peut se passer de se remémorer la totalité des solutions possibles
+
+Cordialement,
+Michael Taylor
+

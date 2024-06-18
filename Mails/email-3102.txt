@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 16 Mar 2005 00:00:00 +0000
+Message-ID: <3886855761@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture actuelle on ne peut se passer de imaginer la somme des alternatives possibles
+
+Cordialement,
+Michael Taylor
+

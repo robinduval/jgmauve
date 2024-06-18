@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 13 Oct 2007 00:00:00 +0000
+Message-ID: <7796107370@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui nous occupe il serait bon de avoir à l'esprit l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

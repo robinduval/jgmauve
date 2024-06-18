@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 07 Aug 2003 00:00:00 +0000
+Message-ID: <7163296393@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il serait bon de s'intéresser à toutes les alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

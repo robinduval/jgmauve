@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 09 Dec 2007 00:00:00 +0000
+Message-ID: <9960011079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de ces derniers temps on ne peut se passer de imaginer la somme des issues envisageables
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 27 Dec 2006 00:00:00 +0000
+Message-ID: <6996107374@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance induite il convient de avoir à l'esprit l'ensemble des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

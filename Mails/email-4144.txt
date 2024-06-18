@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Thu, 21 Jun 2001 00:00:00 +0000
+Message-ID: <1951392102@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de ces derniers temps il convient de imaginer toutes les issues possibles
+
+Cordialement,
+Samuel White
+

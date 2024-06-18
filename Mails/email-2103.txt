@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 22 Aug 2001 00:00:00 +0000
+Message-ID: <4062333079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre on ne peut se passer de ne pas négliger certaines issues de bon sens
+
+Cordialement,
+Olivia Harris
+

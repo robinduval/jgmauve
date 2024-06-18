@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 29 Jun 2006 00:00:00 +0000
+Message-ID: <1439069562@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de cette fin de siècle il faut de toute urgence se remémorer la majorité des problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Tue, 27 Aug 2002 00:00:00 +0000
+Message-ID: <5237413397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance actuelle il serait bon de se remémorer la somme des solutions déjà en notre possession
+
+Cordialement,
+David Brown
+

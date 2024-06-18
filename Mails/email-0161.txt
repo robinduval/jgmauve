@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 09 Nov 2002 00:00:00 +0000
+Message-ID: <4157996061@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs induite il faut étudier la somme des issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

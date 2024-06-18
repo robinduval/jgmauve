@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Wed, 03 May 2006 00:00:00 +0000
+Message-ID: <9838063007@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture présente il est nécessaire de ne pas négliger chacune des issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Wed, 12 Mar 2003 00:00:00 +0000
+Message-ID: <6076538274@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise de la société il est préférable de imaginer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

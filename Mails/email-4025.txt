@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 08 Oct 2003 00:00:00 +0000
+Message-ID: <9440603911@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il convient de prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

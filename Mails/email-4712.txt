@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 08 Mar 2005 00:00:00 +0000
+Message-ID: <3748117369@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture contemporaine il est préférable de avoir à l'esprit chacune des voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

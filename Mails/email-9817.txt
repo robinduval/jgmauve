@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 02 Mar 2007 00:00:00 +0000
+Message-ID: <3609611091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de ces derniers temps il est nécessaire de examiner chacune des issues de bon sens
+
+Cordialement,
+Michael Taylor
+

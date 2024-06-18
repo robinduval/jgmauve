@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 26 Jan 2003 00:00:00 +0000
+Message-ID: <8489303517@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs présente il convient de se préoccuper de la majorité des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

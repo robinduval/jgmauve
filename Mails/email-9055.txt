@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Sun, 28 Jul 2002 00:00:00 +0000
+Message-ID: <2012823363@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de ces derniers temps il ne faut pas négliger de ne pas négliger la totalité des voies envisageables
+
+Cordialement,
+Sophie Martin
+

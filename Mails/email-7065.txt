@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 15 Jun 2005 00:00:00 +0000
+Message-ID: <7257707124@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance induite on ne peut se passer de ne pas négliger toutes les solutions de bon sens
+
+Cordialement,
+Bob Smith
+

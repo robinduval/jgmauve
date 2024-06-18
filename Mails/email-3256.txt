@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sun, 28 Sep 2008 00:00:00 +0000
+Message-ID: <5163137009@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui est la nôtre il faut examiner l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

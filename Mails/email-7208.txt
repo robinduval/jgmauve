@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 29 Nov 2009 00:00:00 +0000
+Message-ID: <7585133924@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose présente il faut se préoccuper de certaines problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

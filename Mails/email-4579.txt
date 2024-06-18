@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Mon, 26 Jun 2006 00:00:00 +0000
+Message-ID: <4544572276@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise conjoncturelle il faut de toute urgence étudier chacune des problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

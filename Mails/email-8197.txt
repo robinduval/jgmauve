@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 15 Oct 2006 00:00:00 +0000
+Message-ID: <4959094061@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle il convient de se préoccuper de toutes les voies envisageables
+
+Cordialement,
+Samuel White
+

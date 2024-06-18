@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 14 Feb 2000 00:00:00 +0000
+Message-ID: <1743886331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il serait bon de étudier certaines voies possibles
+
+Cordialement,
+Olivia Harris
+

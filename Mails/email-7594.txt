@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Fri, 10 Mar 2006 00:00:00 +0000
+Message-ID: <8240153856@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de ces derniers temps il serait bon de ne pas négliger toutes les voies déjà en notre possession
+
+Cordialement,
+Jean Neige
+

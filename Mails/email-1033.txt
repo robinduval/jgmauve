@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 10 Sep 2009 00:00:00 +0000
+Message-ID: <7304565095@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il serait intéressant de avoir à l'esprit certaines voies envisageables
+
+Cordialement,
+Olivia Harris
+

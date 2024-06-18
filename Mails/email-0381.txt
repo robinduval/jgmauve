@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 26 Apr 2001 00:00:00 +0000
+Message-ID: <2908532104@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture présente il faut de toute urgence anticiper la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

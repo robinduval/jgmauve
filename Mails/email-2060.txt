@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 16 Oct 2003 00:00:00 +0000
+Message-ID: <1617896219@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de ces derniers temps il est préférable de examiner l'ensemble des problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

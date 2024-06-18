@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 06 Dec 2004 00:00:00 +0000
+Message-ID: <9693535337@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle on se doit de étudier certaines alternatives possibles
+
+Cordialement,
+Emma Lee
+

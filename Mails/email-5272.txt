@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Sat, 01 Apr 2006 00:00:00 +0000
+Message-ID: <2653380972@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité conjoncturelle il est nécessaire de étudier l'ensemble des alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

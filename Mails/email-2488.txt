@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Wed, 29 Jul 2009 00:00:00 +0000
+Message-ID: <1650903759@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs contemporaine il faut prendre en considération toutes les voies s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

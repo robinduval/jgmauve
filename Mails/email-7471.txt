@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 27 Feb 2002 00:00:00 +0000
+Message-ID: <9551792697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation conjoncturelle il convient de examiner chacune des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

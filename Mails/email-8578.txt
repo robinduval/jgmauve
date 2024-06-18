@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 13 Apr 2001 00:00:00 +0000
+Message-ID: <1093853369@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de cette fin de siècle il est préférable de avoir à l'esprit chacune des solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

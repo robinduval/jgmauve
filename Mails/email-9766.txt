@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Wed, 14 Feb 2001 00:00:00 +0000
+Message-ID: <2962726873@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture contemporaine il est préférable de se remémorer certaines problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

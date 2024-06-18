@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 30 Oct 2007 00:00:00 +0000
+Message-ID: <7496529258@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse présente il convient de ne pas négliger certaines solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

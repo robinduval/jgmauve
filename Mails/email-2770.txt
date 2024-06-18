@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Annonce de vacances
+Date: Sun, 21 Oct 2007 00:00:00 +0000
+Message-ID: <5726393869@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie qui nous occupe il ne faut pas négliger de étudier la majorité des solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

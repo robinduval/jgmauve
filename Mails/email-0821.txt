@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 20 Dec 2004 00:00:00 +0000
+Message-ID: <6538655485@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation conjoncturelle on ne peut se passer de anticiper la totalité des solutions envisageables
+
+Cordialement,
+Laura Wilson
+

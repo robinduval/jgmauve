@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 09 Nov 2008 00:00:00 +0000
+Message-ID: <4384206446@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui est la nôtre il serait bon de se remémorer la globalité des alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

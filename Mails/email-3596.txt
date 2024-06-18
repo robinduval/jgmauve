@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 10 May 2001 00:00:00 +0000
+Message-ID: <4611819966@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose qui est la nôtre il faut de toute urgence étudier toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

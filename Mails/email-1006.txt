@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 31 Jul 2009 00:00:00 +0000
+Message-ID: <6687404708@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle il faut de toute urgence examiner certaines solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

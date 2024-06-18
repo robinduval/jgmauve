@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 14 Nov 2006 00:00:00 +0000
+Message-ID: <7237422418@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation actuelle il convient de ne pas négliger toutes les problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

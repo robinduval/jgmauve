@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 12 May 2006 00:00:00 +0000
+Message-ID: <6019865992@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance conjoncturelle il faut imaginer la majorité des solutions de bon sens
+
+Cordialement,
+Samuel White
+

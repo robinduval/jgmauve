@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 17 Jun 2000 00:00:00 +0000
+Message-ID: <2667776760@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité contemporaine il est nécessaire de imaginer l'ensemble des solutions possibles
+
+Cordialement,
+Samuel White
+

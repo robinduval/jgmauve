@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 30 Jun 2001 00:00:00 +0000
+Message-ID: <6794017641@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de la société il serait intéressant de se préoccuper de l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

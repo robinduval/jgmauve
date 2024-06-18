@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 06 Aug 2005 00:00:00 +0000
+Message-ID: <6819374204@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui nous occupe il faut de toute urgence ne pas négliger la majorité des alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

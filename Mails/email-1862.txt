@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 15 Jun 2003 00:00:00 +0000
+Message-ID: <6582925321@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation qui nous occupe il serait intéressant de se remémorer la globalité des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

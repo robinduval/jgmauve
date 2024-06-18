@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 26 Jul 2005 00:00:00 +0000
+Message-ID: <3427175280@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise contemporaine on se doit de imaginer chacune des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

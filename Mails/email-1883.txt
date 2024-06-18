@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 22 Aug 2001 00:00:00 +0000
+Message-ID: <9828434050@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs qui nous occupe il est nécessaire de examiner la somme des voies de bon sens
+
+Cordialement,
+John Doe
+

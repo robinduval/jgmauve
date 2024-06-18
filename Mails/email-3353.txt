@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 03 Oct 2003 00:00:00 +0000
+Message-ID: <9031741153@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise conjoncturelle il convient de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

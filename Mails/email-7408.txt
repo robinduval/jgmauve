@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 26 Oct 2006 00:00:00 +0000
+Message-ID: <4042910088@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose contemporaine il est nécessaire de ne pas négliger toutes les alternatives possibles
+
+Cordialement,
+Olivia Harris
+

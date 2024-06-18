@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Wed, 19 Jan 2000 00:00:00 +0000
+Message-ID: <8495623876@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation qui est la nôtre il convient de anticiper la totalité des alternatives possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 10 May 2007 00:00:00 +0000
+Message-ID: <9386687008@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle on se doit de prendre en considération la somme des voies s'offrant à nous
+
+Cordialement,
+David Brown
+

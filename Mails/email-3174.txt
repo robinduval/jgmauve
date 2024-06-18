@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 27 Mar 2000 00:00:00 +0000
+Message-ID: <9408254875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture conjoncturelle il faut de toute urgence se remémorer chacune des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

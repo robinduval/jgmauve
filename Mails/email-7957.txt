@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Fri, 07 Feb 2003 00:00:00 +0000
+Message-ID: <3526393713@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation présente il faut se remémorer la majorité des alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 25 Aug 2009 00:00:00 +0000
+Message-ID: <9405600565@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de cette fin de siècle il est nécessaire de imaginer la majorité des solutions envisageables
+
+Cordialement,
+William Jackson
+

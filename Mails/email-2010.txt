@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 10 Feb 2009 00:00:00 +0000
+Message-ID: <9638161135@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité conjoncturelle il est nécessaire de avoir à l'esprit toutes les voies envisageables
+
+Cordialement,
+Eva Thomas
+

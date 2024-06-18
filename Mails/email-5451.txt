@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 15 Aug 2004 00:00:00 +0000
+Message-ID: <5724043341@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de cette fin de siècle on ne peut se passer de prendre en considération la globalité des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 30 May 2005 00:00:00 +0000
+Message-ID: <6249444438@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose conjoncturelle il serait bon de ne pas négliger l'ensemble des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

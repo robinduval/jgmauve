@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Sun, 26 Jan 2003 00:00:00 +0000
+Message-ID: <7751344073@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise induite il faut de toute urgence avoir à l'esprit la majorité des solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 24 Aug 2007 00:00:00 +0000
+Message-ID: <5236976174@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse qui est la nôtre il serait intéressant de se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

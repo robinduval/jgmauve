@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 20 Aug 2005 00:00:00 +0000
+Message-ID: <2128744162@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie conjoncturelle on se doit de examiner la totalité des problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

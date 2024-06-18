@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 27 Nov 2008 00:00:00 +0000
+Message-ID: <6433648950@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise induite on ne peut se passer de imaginer la globalité des alternatives de bon sens
+
+Cordialement,
+John Doe
+

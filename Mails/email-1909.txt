@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sat, 11 Sep 2004 00:00:00 +0000
+Message-ID: <7710815595@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation actuelle il est préférable de examiner toutes les voies déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

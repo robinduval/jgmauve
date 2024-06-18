@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 12 Oct 2001 00:00:00 +0000
+Message-ID: <3963188118@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance qui est la nôtre il est nécessaire de se préoccuper de la somme des problématiques possibles
+
+Cordialement,
+Samuel White
+

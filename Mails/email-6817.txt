@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 19 Nov 2006 00:00:00 +0000
+Message-ID: <3361773933@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de la société il convient de se préoccuper de certaines alternatives de bon sens
+
+Cordialement,
+David Brown
+

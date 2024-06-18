@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Mon, 24 Apr 2000 00:00:00 +0000
+Message-ID: <3009256923@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation conjoncturelle il ne faut pas négliger de se remémorer toutes les solutions de bon sens
+
+Cordialement,
+William Jackson
+

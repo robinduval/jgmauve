@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 18 Mar 2001 00:00:00 +0000
+Message-ID: <5099655611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation actuelle on ne peut se passer de examiner toutes les voies possibles
+
+Cordialement,
+Samuel White
+

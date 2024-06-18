@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 08 Jun 2001 00:00:00 +0000
+Message-ID: <3391945407@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation conjoncturelle il faut de toute urgence se remémorer la totalité des problématiques envisageables
+
+Cordialement,
+Samuel White
+

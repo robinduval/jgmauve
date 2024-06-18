@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 02 Sep 2000 00:00:00 +0000
+Message-ID: <3740815419@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance contemporaine il est préférable de anticiper la somme des issues possibles
+
+Cordialement,
+David Brown
+

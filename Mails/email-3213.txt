@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 11 Dec 2008 00:00:00 +0000
+Message-ID: <1692494146@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse contemporaine il est nécessaire de avoir à l'esprit l'ensemble des voies possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 10 Feb 2007 00:00:00 +0000
+Message-ID: <1124501936@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise de cette fin de siècle il convient de ne pas négliger toutes les alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

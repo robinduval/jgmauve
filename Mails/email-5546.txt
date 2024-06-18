@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 28 Jan 2002 00:00:00 +0000
+Message-ID: <9166715981@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité qui nous occupe on ne peut se passer de examiner la somme des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

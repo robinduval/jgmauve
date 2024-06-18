@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 10 May 2003 00:00:00 +0000
+Message-ID: <5208216563@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise conjoncturelle il serait intéressant de examiner la globalité des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

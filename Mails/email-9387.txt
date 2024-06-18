@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 25 Jan 2007 00:00:00 +0000
+Message-ID: <2292799561@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie qui nous occupe il serait bon de se préoccuper de la somme des problématiques envisageables
+
+Cordialement,
+Samuel White
+

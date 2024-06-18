@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 18 Jan 2005 00:00:00 +0000
+Message-ID: <9422048199@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il convient de anticiper la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

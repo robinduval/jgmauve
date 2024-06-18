@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Thu, 19 Aug 2004 00:00:00 +0000
+Message-ID: <9803245745@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance actuelle il est préférable de anticiper l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

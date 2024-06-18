@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Fri, 11 Feb 2000 00:00:00 +0000
+Message-ID: <8996375493@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation présente il est nécessaire de se remémorer la totalité des voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

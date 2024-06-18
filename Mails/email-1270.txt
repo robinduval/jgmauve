@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sat, 05 Jul 2003 00:00:00 +0000
+Message-ID: <9986860905@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs actuelle on se doit de imaginer toutes les voies déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

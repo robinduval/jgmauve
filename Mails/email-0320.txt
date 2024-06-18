@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 01 Feb 2001 00:00:00 +0000
+Message-ID: <8008957605@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation actuelle il faut de toute urgence ne pas négliger certaines problématiques possibles
+
+Cordialement,
+Jean Neige
+

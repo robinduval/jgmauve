@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 10 Jun 2006 00:00:00 +0000
+Message-ID: <7839352632@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse actuelle il faut se remémorer toutes les issues s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

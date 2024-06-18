@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 05 May 2003 00:00:00 +0000
+Message-ID: <6249160746@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de cette fin de siècle il est nécessaire de se préoccuper de toutes les solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

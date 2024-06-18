@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 03 Sep 2006 00:00:00 +0000
+Message-ID: <4295376476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs présente il convient de ne pas négliger la majorité des alternatives envisageables
+
+Cordialement,
+Samuel White
+

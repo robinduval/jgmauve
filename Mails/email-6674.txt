@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 01 Dec 2007 00:00:00 +0000
+Message-ID: <4216179123@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle il est nécessaire de se remémorer la totalité des voies envisageables
+
+Cordialement,
+Samuel White
+

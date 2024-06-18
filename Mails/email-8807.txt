@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 28 Jan 2003 00:00:00 +0000
+Message-ID: <5929665566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation contemporaine il convient de se remémorer toutes les alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Sat, 08 Jun 2002 00:00:00 +0000
+Message-ID: <9792855381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de la société il faut s'intéresser à l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

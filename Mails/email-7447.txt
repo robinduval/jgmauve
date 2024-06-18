@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 13 Jan 2005 00:00:00 +0000
+Message-ID: <5151475321@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui nous occupe il est préférable de examiner toutes les problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

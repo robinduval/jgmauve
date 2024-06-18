@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 22 Nov 2009 00:00:00 +0000
+Message-ID: <5214137427@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité induite il convient de se préoccuper de la totalité des issues possibles
+
+Cordialement,
+Charlotte Moore
+

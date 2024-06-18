@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Sun, 16 Nov 2008 00:00:00 +0000
+Message-ID: <8909261508@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de la société il faut de toute urgence se préoccuper de certaines alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

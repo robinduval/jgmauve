@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sat, 30 May 2009 00:00:00 +0000
+Message-ID: <3788269818@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité conjoncturelle il faut avoir à l'esprit toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

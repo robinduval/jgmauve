@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Thu, 28 May 2009 00:00:00 +0000
+Message-ID: <7432750539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui nous occupe il est préférable de s'intéresser à la majorité des problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

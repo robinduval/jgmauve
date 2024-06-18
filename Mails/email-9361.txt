@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 20 Jun 2007 00:00:00 +0000
+Message-ID: <3360119560@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation induite il est préférable de anticiper toutes les issues possibles
+
+Cordialement,
+Laura Wilson
+

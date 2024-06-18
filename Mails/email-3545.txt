@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 27 Sep 2001 00:00:00 +0000
+Message-ID: <2804367406@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui nous occupe il serait bon de étudier la totalité des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

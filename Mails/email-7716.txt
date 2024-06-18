@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Fri, 14 Apr 2000 00:00:00 +0000
+Message-ID: <4413909887@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie contemporaine il faut de toute urgence s'intéresser à certaines solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

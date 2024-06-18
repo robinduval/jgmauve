@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 25 Dec 2004 00:00:00 +0000
+Message-ID: <4584784128@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de cette fin de siècle on se doit de avoir à l'esprit la majorité des problématiques possibles
+
+Cordialement,
+Jean Neige
+

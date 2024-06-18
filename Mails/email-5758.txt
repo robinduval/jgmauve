@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 11 Dec 2008 00:00:00 +0000
+Message-ID: <5576617310@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de ces derniers temps il convient de étudier toutes les problématiques possibles
+
+Cordialement,
+William Jackson
+

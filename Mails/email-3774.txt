@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 07 Aug 2001 00:00:00 +0000
+Message-ID: <9659201271@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité présente il est nécessaire de prendre en considération toutes les issues possibles
+
+Cordialement,
+Emma Lee
+

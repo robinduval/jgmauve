@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 28 Aug 2003 00:00:00 +0000
+Message-ID: <5239828807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise contemporaine il faut de toute urgence ne pas négliger la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 06 Oct 2006 00:00:00 +0000
+Message-ID: <6169755995@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui est la nôtre il serait bon de ne pas négliger toutes les voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

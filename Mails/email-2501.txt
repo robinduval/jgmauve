@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 16 Mar 2002 00:00:00 +0000
+Message-ID: <6010485398@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il serait intéressant de prendre en considération la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

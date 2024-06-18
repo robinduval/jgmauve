@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 29 Apr 2005 00:00:00 +0000
+Message-ID: <6200856452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité de la société on ne peut se passer de s'intéresser à certaines problématiques envisageables
+
+Cordialement,
+Bob Smith
+

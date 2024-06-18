@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 10 Oct 2007 00:00:00 +0000
+Message-ID: <4247800153@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité induite on se doit de avoir à l'esprit toutes les solutions déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

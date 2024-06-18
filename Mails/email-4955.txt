@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 23 Jan 2001 00:00:00 +0000
+Message-ID: <9026428415@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de ces derniers temps il est nécessaire de s'intéresser à chacune des alternatives de bon sens
+
+Cordialement,
+Michael Taylor
+

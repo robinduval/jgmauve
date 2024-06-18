@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 30 Nov 2005 00:00:00 +0000
+Message-ID: <3515083735@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise conjoncturelle il convient de se remémorer la totalité des issues de bon sens
+
+Cordialement,
+Jean Neige
+

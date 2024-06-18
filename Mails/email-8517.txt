@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 06 Aug 2002 00:00:00 +0000
+Message-ID: <1367880510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de la société on se doit de anticiper chacune des alternatives envisageables
+
+Cordialement,
+David Brown
+

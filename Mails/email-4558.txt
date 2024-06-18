@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 17 Jun 2007 00:00:00 +0000
+Message-ID: <7851872583@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de la société il est préférable de examiner l'ensemble des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

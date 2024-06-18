@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Sun, 20 Nov 2005 00:00:00 +0000
+Message-ID: <5362599077@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance présente on ne peut se passer de ne pas négliger la globalité des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

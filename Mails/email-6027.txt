@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Oct 2009 00:00:00 +0000
+Message-ID: <7711201766@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de ces derniers temps il faut anticiper toutes les alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

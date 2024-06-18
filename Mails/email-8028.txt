@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Sun, 25 Jun 2000 00:00:00 +0000
+Message-ID: <7917667659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui nous occupe il est préférable de se remémorer certaines alternatives possibles
+
+Cordialement,
+Eva Thomas
+

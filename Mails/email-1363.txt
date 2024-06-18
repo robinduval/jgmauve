@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Mon, 17 Dec 2001 00:00:00 +0000
+Message-ID: <1365962584@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse qui nous occupe il est nécessaire de examiner toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

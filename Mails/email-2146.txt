@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 28 Oct 2003 00:00:00 +0000
+Message-ID: <4397788376@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation contemporaine il convient de avoir à l'esprit chacune des voies déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

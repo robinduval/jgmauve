@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Thu, 05 Jul 2001 00:00:00 +0000
+Message-ID: <8622832998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre il est préférable de se préoccuper de la totalité des voies possibles
+
+Cordialement,
+Daniel Clark
+

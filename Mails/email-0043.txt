@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 19 Oct 2008 00:00:00 +0000
+Message-ID: <1660436775@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs présente il serait intéressant de étudier toutes les alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

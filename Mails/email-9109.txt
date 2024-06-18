@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 15 Apr 2005 00:00:00 +0000
+Message-ID: <7822346849@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité contemporaine il faut de toute urgence s'intéresser à la totalité des issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

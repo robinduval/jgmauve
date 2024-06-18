@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Fri, 07 Jul 2006 00:00:00 +0000
+Message-ID: <7768360209@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de la société il faut s'intéresser à certaines solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

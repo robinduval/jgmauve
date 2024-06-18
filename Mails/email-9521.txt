@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 22 Jan 2005 00:00:00 +0000
+Message-ID: <9271036371@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation induite il convient de se remémorer l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Thu, 29 Jun 2000 00:00:00 +0000
+Message-ID: <8683322095@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente on ne peut se passer de ne pas négliger toutes les problématiques déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

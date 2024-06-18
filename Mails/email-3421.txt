@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 26 Jul 2009 00:00:00 +0000
+Message-ID: <6600962524@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de la société il faut de toute urgence avoir à l'esprit certaines problématiques envisageables
+
+Cordialement,
+John Doe
+

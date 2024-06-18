@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 05 Aug 2007 00:00:00 +0000
+Message-ID: <7144795446@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il convient de prendre en considération la globalité des alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

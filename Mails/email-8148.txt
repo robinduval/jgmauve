@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Wed, 04 Mar 2009 00:00:00 +0000
+Message-ID: <3539505177@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture qui nous occupe il serait bon de imaginer l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

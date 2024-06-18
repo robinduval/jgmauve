@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Demande de collaboration
+Date: Mon, 06 Jan 2003 00:00:00 +0000
+Message-ID: <5053735494@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il serait intéressant de examiner la totalité des alternatives envisageables
+
+Cordialement,
+Samuel White
+

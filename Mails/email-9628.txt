@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 17 May 2008 00:00:00 +0000
+Message-ID: <9648274239@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité présente il serait intéressant de avoir à l'esprit toutes les solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

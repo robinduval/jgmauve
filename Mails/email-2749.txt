@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Wed, 04 May 2005 00:00:00 +0000
+Message-ID: <7957993544@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui nous occupe il ne faut pas négliger de imaginer toutes les issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

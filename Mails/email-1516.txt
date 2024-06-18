@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Thu, 07 Feb 2002 00:00:00 +0000
+Message-ID: <7850102118@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de cette fin de siècle il faut de toute urgence s'intéresser à la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

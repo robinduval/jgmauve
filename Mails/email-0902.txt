@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Sat, 07 Apr 2007 00:00:00 +0000
+Message-ID: <7365313329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de cette fin de siècle il faut de toute urgence prendre en considération la globalité des alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

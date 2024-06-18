@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 31 Jul 2005 00:00:00 +0000
+Message-ID: <3270376841@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de cette fin de siècle il serait intéressant de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

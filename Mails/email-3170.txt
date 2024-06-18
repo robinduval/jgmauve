@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 08 May 2000 00:00:00 +0000
+Message-ID: <3194428799@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture qui est la nôtre il serait bon de imaginer la majorité des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

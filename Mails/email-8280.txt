@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Mon, 26 Sep 2005 00:00:00 +0000
+Message-ID: <7025521186@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité présente il est nécessaire de ne pas négliger la globalité des issues envisageables
+
+Cordialement,
+Emma Lee
+

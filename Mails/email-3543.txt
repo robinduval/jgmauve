@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 28 Aug 2005 00:00:00 +0000
+Message-ID: <7347150856@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de cette fin de siècle il serait bon de s'intéresser à la somme des voies envisageables
+
+Cordialement,
+Daniel Clark
+

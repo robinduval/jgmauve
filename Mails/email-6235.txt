@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 05 Aug 2004 00:00:00 +0000
+Message-ID: <3331867692@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs conjoncturelle il est préférable de imaginer toutes les solutions possibles
+
+Cordialement,
+Sophie Martin
+

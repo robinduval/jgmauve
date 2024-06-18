@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 28 Oct 2005 00:00:00 +0000
+Message-ID: <8545166224@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de cette fin de siècle il est préférable de se préoccuper de chacune des voies déjà en notre possession
+
+Cordialement,
+Bob Smith
+

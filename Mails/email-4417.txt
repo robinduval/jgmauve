@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 17 Dec 2005 00:00:00 +0000
+Message-ID: <6441178122@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de ces derniers temps on se doit de se remémorer toutes les solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

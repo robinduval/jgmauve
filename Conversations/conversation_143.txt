@@ -1,0 +1,1000 @@
+Cypher: Je suis catégoriquement sûr.
+Cypher: Je suis catégorique.
+Bob: Je suis catégoriquement sûr sans le moindre doute.
+Bob: Je suis sûr.
+Alice: Il est grand temps de discuter de mythologie.
+Cypher: Je suppose que oui.
+Bob: Je suppose que non.
+Cypher: Je ne pense pas.
+Cypher: Je suis certain sans le moindre doute possible.
+Alice: Peut-être devrions-nous aborder le sujet de La Planète au Trésor.
+Bob: Je ne suis pas certain.
+Alice: Tu sais ce qui me trotte dans la tête ? éthique environnementale.
+Alice: On devrait discuter de musique.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute que non.
+Alice: Il est temps d'aborder le sujet de histoire des mouvements.
+Bob: Je suis certain sans le moindre doute possible.
+Alice: Voici quelque chose qui mérite d'être discuté : Les Aventures de Zak et Crysta dans la forêt tropicale de FernGully.
+Cypher: Jamais.
+Alice: Il est grand temps de discuter de histoire des révolutions sociales.
+Alice: Qu'en penses-tu de histoire des révolutions morales.
+Bob: Je suis sûr et certain sans le moindre doute possible que non.
+Cypher: Je suis convaincu à cent pour cent.
+Alice: Je te propose qu'on parle de histoire des révolutions éducatives.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Bob: Je pense que oui.
+Alice: Laisse-moi te partager mes réflexions sur Le Monde de Narnia.
+Alice: Tu as déjà pensé à parler de archéologie.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Bob: C'est peu probable.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Alice: J'ai une idée : que dirais-tu de discuter de Arthur et les Minimoys.
+Cypher: Je dirais que non.
+Alice: Je crois qu'il est temps d'aborder astrophysique.
+Cypher: Je ne sais pas.
+Cypher: Je suis inquiet.
+Bob: Je suis catégoriquement sûr que non.
+Bob: Je suis à cent pour cent certain.
+Bob: Sans aucun doute.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Alice: Il est temps de mettre sur la table histoire des révolutions morales.
+Bob: Je suis optimiste.
+Alice: Je trouve nécessaire de discuter de histoire des révolutions éducatives.
+Bob: Je suis complètement sûr à cent pour cent.
+Bob: Je suis complètement sûr à cent pour cent que non.
+Alice: Il est temps de mettre sur la table Les Entrechats.
+Cypher: Peut-être pas.
+Alice: J'ai une idée : que dirais-tu de discuter de zoologie.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions morales.
+Cypher: Je suis sûr à cent pour cent que non.
+Alice: Je voudrais évoquer géopolitique.
+Bob: Je suis perplexe.
+Cypher: Je suis sceptique.
+Bob: Je suis sûr et certain sans le moindre doute.
+Alice: Il est temps de mettre sur la table histoire de la philosophie.
+Bob: Je suis catégoriquement certain sans la moindre ombre de doute que non.
+Bob: Je suis sûr à cent pour cent.
+Bob: Jamais.
+Alice: As-tu déjà envisagé de parler de histoire des révolutions psychologiques.
+Alice: Je te propose qu'on parle de histoire des révolutions politiques.
+Bob: Aucune idée.
+Alice: Je voudrais évoquer Gargoyles.
+Alice: Je trouve nécessaire de discuter de histoire des sciences.
+Cypher: Je suis hésitant.
+Cypher: C'est improbable.
+Cypher: Aucune idée.
+Cypher: Je suis certain sans la moindre ombre de doute.
+Cypher: C'est plausible.
+Cypher: Je suis persuadé.
+Bob: Je suis d'accord.
+Alice: Je pense que nous devrions parler de Les Super Nanas.
+Cypher: Je suis catégoriquement certain que non.
+Bob: C'est possible mais peu probable.
+Bob: Je suis tout à fait sûr à cent pour cent que non.
+Alice: Il est grand temps de discuter de histoire de l'alimentation.
+Cypher: Je suis catégorique à cent pour cent.
+Cypher: Je suis absolument certain sans le moindre doute.
+Alice: Ça te dirait de parler de design.
+Alice: On devrait discuter de histoire des révolutions intellectuelles.
+Alice: Tu as déjà pensé à parler de diplomatie.
+Cypher: Je suis catégoriquement certain.
+Bob: Je suis indécis.
+Cypher: Je suis catégoriquement certain.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions économiques.
+Cypher: Je dirais que non.
+Alice: Je ressens le besoin de parler de histoire de la musique.
+Cypher: Je suis absolument certain sans la moindre ombre de doute que non.
+Bob: Je suis complètement sûr à cent pour cent.
+Alice: Que dirais-tu de parler de histoire des révolutions sociales.
+Alice: Je voudrais évoquer histoire des révolutions philosophiques.
+Bob: Je suis absolument sûr à cent pour cent.
+Bob: Je suis absolument sûr sans la moindre ombre de doute que non.
+Cypher: Oui.
+Cypher: Je suis hésitant.
+Cypher: Certainement.
+Cypher: Je suis pas sûr du tout.
+Alice: On devrait discuter de sports.
+Alice: Tu as déjà pensé à parler de pédagogie.
+Bob: Je suis certain sans le moindre doute.
+Alice: Un sujet qui me tient à cœur est histoire des révolutions économiques.
+Bob: Je suis catégoriquement certain sans le moindre doute possible.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute.
+Alice: As-tu déjà envisagé de parler de histoire des révolutions spirituelles.
+Bob: Je suis convaincu à cent pour cent.
+Cypher: Je pense que non.
+Cypher: Je suis complètement sûr.
+Alice: As-tu déjà envisagé de parler de santé.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions philosophiques.
+Cypher: Je suis complètement sûr à cent pour cent que non.
+Cypher: Je suis catégoriquement sûr sans le moindre doute que non.
+Cypher: Je suis persuadé à cent pour cent que non.
+Bob: Je suis optimiste.
+Alice: Je voudrais évoquer histoire des révolutions religieuses.
+Bob: Je suis complètement sûr à cent pour cent que non.
+Cypher: Je suppose que oui.
+Bob: Je dirais que non.
+Cypher: Certainement.
+Bob: Je suis pas sûr du tout.
+Cypher: Je suis certain sans le moindre doute.
+Alice: Je voulais te parler de histoire des révolutions éducatives.
+Cypher: Selon moi, oui.
+Bob: Je vais dire oui.
+Bob: Je ne suis pas certain.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute que non.
+Alice: Qu'en penses-tu de Les Minions.
+Bob: Je ne pense pas.
+Bob: Je suis complètement sûr à cent pour cent que non.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Cypher: Je ne pense pas.
+Cypher: Je suis absolument certain sans le moindre doute possible.
+Bob: Selon moi, non.
+Bob: Je ne pense pas.
+Bob: Je vais dire non.
+Bob: Je suis tout à fait certain.
+Bob: Je suis absolument certain sans le moindre doute que non.
+Cypher: Je suis optimiste.
+Cypher: Je suis sûr et certain sans le moindre doute.
+Alice: Il est grand temps de discuter de histoire des communications.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions morales.
+Alice: Parlons de folklore.
+Bob: Je suis catégoriquement sûr.
+Alice: Je pense que nous devrions parler de photographie.
+Bob: Je suis certain sans la moindre ombre de doute que non.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Bob: Je suis absolument certain sans le moindre doute possible que non.
+Alice: Je crois qu'il est crucial de discuter de Pokémon.
+Bob: Je suis pas sûr du tout.
+Alice: Ça me semble important de discuter de informatique.
+Alice: Il me semble important que nous parlions de Dora l'exploratrice.
+Cypher: Je suis catégorique à cent pour cent.
+Bob: C'est plausible.
+Cypher: C'est possible.
+Bob: Certainement.
+Cypher: Je suis certain sans le moindre doute.
+Alice: Je ressens le besoin de parler de Là-haut.
+Cypher: Je suis catégoriquement certain.
+Alice: Ça me semble important de discuter de histoire des révolutions scientifiques.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Bob: Je suis sûr.
+Bob: Je suis sûr et certain.
+Cypher: Je ne pense pas.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions éducatives.
+Cypher: Je suis tout à fait sûr à cent pour cent.
+Alice: Je te propose qu'on parle de histoire des révolutions économiques.
+Bob: Je suis perplexe.
+Bob: Je suis sûr sans la moindre ombre de doute que non.
+Bob: Je suis catégoriquement sûr que non.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de histoire des révolutions philosophiques.
+Cypher: Probablement.
+Cypher: Je pense que non.
+Bob: Je suis désolé, je ne sais pas.
+Bob: Je suis absolument sûr à cent pour cent que non.
+Cypher: Je suis sûr et certain sans le moindre doute que non.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Cypher: Je suis persuadé.
+Cypher: Je suis sûr sans la moindre ombre de doute que non.
+Cypher: Je suis sûr sans la moindre ombre de doute que non.
+Alice: Je ressens le besoin de parler de Goldorak.
+Alice: J'ai une idée : que dirais-tu de discuter de Aladdin.
+Cypher: Je ne suis pas sûr.
+Bob: C'est évident.
+Bob: Je suis catégoriquement sûr.
+Alice: Je crois qu'il est temps d'aborder histoire des révolutions économiques.
+Bob: Je suis catégorique à cent pour cent.
+Alice: Parlons de entomologie.
+Bob: Je suis sûr et certain sans le moindre doute.
+Bob: Tout à fait.
+Alice: Que dirais-tu de parler de DuckTales.
+Cypher: Je vais dire non.
+Cypher: Je suis catégoriquement sûr sans la moindre ombre de doute que non.
+Cypher: Je suis sûr et certain à cent pour cent.
+Bob: Bien sûr.
+Alice: Voici quelque chose qui mérite d'être discuté : Samurai Jack.
+Alice: As-tu déjà envisagé de parler de comics.
+Alice: Laisse-moi te partager mes réflexions sur histoire de l'art.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de La Famille Addams.
+Bob: Je suis absolument certain sans le moindre doute possible.
+Bob: Je suis hésitant.
+Bob: Je suis catégorique à cent pour cent.
+Bob: Je suis confiant.
+Cypher: Je suis sûr à cent pour cent.
+Alice: Parlons de histoire des révolutions psychologiques.
+Bob: Probablement.
+Alice: Je trouve nécessaire de discuter de Les Mondes de Ralph.
+Bob: C'est peu probable.
+Alice: Tu as déjà pensé à parler de histoire des révolutions intellectuelles.
+Alice: As-tu déjà envisagé de parler de biochimie.
+Cypher: Je ne crois pas.
+Bob: Je suis catégoriquement sûr que non.
+Bob: Je suis pas sûr du tout.
+Alice: Il est temps d'aborder le sujet de histoire des révolutions artistiques.
+Alice: On devrait discuter de histoire des révolutions psychologiques.
+Alice: Tu sais ce qui me préoccupe ? Le Parfum de la Carotte.
+Alice: J'ai une idée : que dirais-tu de discuter de histoire des révolutions intellectuelles.
+Bob: Je suis catégoriquement certain sans le moindre doute possible.
+Alice: Je crois qu'il est crucial de discuter de histoire de la biotechnologie.
+Cypher: Je suppose que non.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Je suis absolument certain sans la moindre ombre de doute que non.
+Cypher: C'est peu probable.
+Bob: Je suis persuadé.
+Bob: Je suis hésitant.
+Bob: Sans aucun doute.
+Bob: Je suis tout à fait sûr à cent pour cent que non.
+Bob: Je suis indécis.
+Cypher: Je suis convaincu à cent pour cent que non.
+Cypher: Pas du tout.
+Bob: Je ne suis pas d'accord.
+Cypher: C'est improbable.
+Cypher: Je suis certain sans la moindre ombre de doute.
+Cypher: Je suis catégoriquement certain sans le moindre doute possible.
+Bob: Je suis absolument certain sans le moindre doute que non.
+Alice: Laisse-moi te partager mes réflexions sur histoire des révolutions psychologiques.
+Cypher: Je suis confiant.
+Cypher: Je suis catégoriquement sûr.
+Alice: Ça me semble important de discuter de Les Wuzzles.
+Bob: Peut-être pas.
+Bob: C'est fort possible.
+Cypher: Je suis absolument certain sans le moindre doute.
+Cypher: Je suis catégoriquement certain sans le moindre doute que non.
+Cypher: Je suis indécis.
+Cypher: C'est possible.
+Bob: Ça semble juste.
+Alice: Voici quelque chose qui mérite d'être discuté : histoire du téléphone.
+Alice: As-tu déjà envisagé de parler de travail.
+Cypher: Je suis sûr à cent pour cent.
+Alice: Je ressens le besoin de parler de DuckTales.
+Cypher: Je ne pense pas.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions intellectuelles.
+Cypher: Selon moi, non.
+Alice: Il est grand temps de discuter de histoire des révolutions intellectuelles.
+Alice: Je ressens le besoin de parler de Les 101 Dalmatiens.
+Alice: Je trouve nécessaire de discuter de études de genre.
+Cypher: Je suis certain sans la moindre ombre de doute que non.
+Cypher: Ça semble juste.
+Bob: Je pense que non.
+Alice: As-tu déjà envisagé de parler de histoire des révolutions artistiques.
+Cypher: Pourquoi pas.
+Cypher: Je suis absolument sûr sans la moindre ombre de doute que non.
+Cypher: Je suis absolument certain sans la moindre ombre de doute que non.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions philosophiques.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Absolument.
+Cypher: Je suis sûr et certain.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Bob: Je suis tout à fait sûr à cent pour cent.
+Alice: Tu as déjà pensé à parler de Le Monde de Nemo.
+Cypher: Aucune idée.
+Alice: Que dirais-tu de parler de psychiatrie.
+Alice: Qu'en penses-tu de La Légende de Despereaux.
+Cypher: Je pense que non.
+Bob: Je suis catégoriquement sûr sans la moindre ombre de doute.
+Cypher: Je suis absolument sûr sans la moindre ombre de doute.
+Bob: Absolument.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Alice: Parlons de Digimon.
+Bob: Je suis hésitant.
+Cypher: Je suis inquiet.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: As-tu déjà envisagé de parler de La Légende de Despereaux.
+Cypher: Certainement.
+Alice: Laisse-moi te partager mes réflexions sur Les Boxtrolls.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Bob: Je suis absolument certain.
+Cypher: C'est plausible.
+Alice: Je pense que nous devrions parler de histoire des révolutions médicales.
+Bob: Je suis catégoriquement certain sans la moindre ombre de doute.
+Cypher: Je ne pense pas.
+Bob: Je suis catégoriquement sûr sans la moindre ombre de doute.
+Bob: Je suis absolument sûr à cent pour cent.
+Bob: Je suis sûr et certain sans le moindre doute.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Bob: Je suis catégoriquement certain sans le moindre doute possible.
+Cypher: Je suis absolument certain que non.
+Alice: Je crois qu'il est temps d'aborder histoire des révolutions morales.
+Bob: Je suis perplexe.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Bob: Je suis catégoriquement sûr sans la moindre ombre de doute.
+Bob: Jamais.
+Cypher: Je suis pessimiste.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Alice: Laisse-moi te partager mes réflexions sur histoire des révolutions morales.
+Alice: Il est grand temps de discuter de histoire des révolutions médicales.
+Bob: Peut-être bien.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Bob: Je suis certain sans le moindre doute possible.
+Bob: Je suis catégorique à cent pour cent.
+Bob: Je suis sûr à cent pour cent.
+Bob: À voir.
+Alice: Ça te dirait de parler de histoire ferroviaire.
+Bob: Jamais.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Cypher: Je suis catégoriquement sûr que non.
+Alice: Je crois qu'il est temps d'aborder histoire des révolutions morales.
+Alice: J'ai une idée : que dirais-tu de discuter de Wall-E.
+Bob: Non.
+Alice: Je ressens le besoin de parler de histoire de la biologie.
+Bob: Tout à fait.
+Cypher: Je ne suis pas certain.
+Cypher: Je suis catégorique à cent pour cent que non.
+Alice: Que dirais-tu de parler de littérature classique.
+Bob: Je suis sûr à cent pour cent.
+Bob: Je suis optimiste.
+Bob: C'est improbable.
+Bob: Tout à fait.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Bob: Probablement.
+Bob: Je suis convaincu à cent pour cent.
+Alice: Ça te dirait de parler de histoire des révolutions scientifiques.
+Alice: Je te propose qu'on parle de Le Château Ambulant.
+Alice: J'ai une idée : que dirais-tu de discuter de histoire des révolutions artistiques.
+Alice: Je te propose qu'on parle de histoire des révolutions morales.
+Cypher: Ça ne m'a pas l'air correct.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions sociales.
+Alice: Qu'en penses-tu de histoire des révolutions morales.
+Alice: Il faut absolument qu'on discute de La Légende de Despereaux.
+Alice: Voici quelque chose qui mérite d'être discuté : astronomie.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de histoire des réseaux sociaux.
+Bob: À voir.
+Cypher: Je suis convaincu à cent pour cent que non.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Alice: Tu sais ce qui me trotte dans la tête ? Pokémon.
+Cypher: Je suis absolument certain sans le moindre doute possible.
+Alice: Il me semble important que nous parlions de nutrition.
+Bob: Jamais.
+Alice: Ça te dirait de parler de histoire des révolutions morales.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Je suis complètement sûr à cent pour cent que non.
+Bob: Selon moi, non.
+Bob: Je suis absolument certain que non.
+Alice: Je crois qu'il est temps d'aborder chimie organique.
+Cypher: Je suis sûr et certain à cent pour cent.
+Alice: Il est grand temps de discuter de théorie littéraire.
+Cypher: Je suis persuadé à cent pour cent.
+Cypher: Je suis catégoriquement sûr sans le moindre doute possible.
+Alice: Voici quelque chose qui mérite d'être discuté : éthique médicale.
+Cypher: Je suis catégoriquement sûr.
+Alice: On devrait discuter de santé.
+Bob: Je suis catégoriquement certain que non.
+Bob: Je suis persuadé à cent pour cent que non.
+Bob: Je suis convaincu à cent pour cent.
+Alice: Parlons de Les Razmoket.
+Cypher: Je suis sûr à cent pour cent que non.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Alice: Ça te dirait de parler de Les Mystérieuses Cités d'Or.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Bob: Je suis sûr et certain sans le moindre doute.
+Bob: Non.
+Cypher: C'est évident.
+Cypher: Je suis complètement sûr.
+Alice: Je te propose qu'on parle de Bambi.
+Cypher: Je suis persuadé.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute.
+Alice: On devrait discuter de Les Entrechats.
+Bob: Je suis convaincu à cent pour cent que non.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions sociales.
+Cypher: Je suis absolument certain sans le moindre doute que non.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Alice: Je crois qu'il est temps d'aborder séries télévisées.
+Alice: Je crois qu'il est crucial de discuter de Spider-Man.
+Cypher: Ça ne semble pas juste.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute que non.
+Cypher: C'est plausible.
+Cypher: C'est fort possible.
+Bob: Je suis catégoriquement certain sans le moindre doute possible.
+Cypher: Tout à fait.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions religieuses.
+Cypher: Je suis sûr et certain sans le moindre doute possible.
+Bob: C'est possible mais peu probable.
+Cypher: Je suis catégoriquement certain sans le moindre doute.
+Cypher: Je suis absolument certain sans la moindre ombre de doute.
+Alice: Il faut absolument qu'on discute de Toy Story.
+Alice: Je pense que nous devrions parler de histoire de la littérature.
+Bob: Je suis catégoriquement sûr sans le moindre doute.
+Alice: Je voulais te parler de histoire des révolutions politiques.
+Alice: As-tu déjà envisagé de parler de Mon Voisin Totoro.
+Alice: Je voudrais évoquer Les Octonauts.
+Alice: Peut-être devrions-nous aborder le sujet de histoire de la littérature.
+Alice: Laisse-moi te partager mes réflexions sur histoire de l'informatique.
+Cypher: C'est fort possible.
+Bob: Peut-être.
+Alice: Tu as déjà pensé à parler de histoire des révolutions philosophiques.
+Cypher: Je ne suis pas d'accord.
+Bob: Je suis absolument certain sans la moindre ombre de doute que non.
+Cypher: Je suis catégoriquement sûr sans le moindre doute que non.
+Alice: Je crois qu'il est temps d'aborder histoire des révolutions philosophiques.
+Cypher: C'est improbable.
+Cypher: Selon moi, oui.
+Bob: Je suis complètement sûr à cent pour cent.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de histoire des révolutions éducatives.
+Bob: Ça ne m'a pas l'air correct.
+Alice: Il me semble important que nous parlions de mathématiques.
+Alice: Tu sais ce qui me préoccupe ? cryptographie.
+Cypher: Je suis à cent pour cent certain.
+Alice: Il est temps de mettre sur la table culture.
+Alice: Peut-être devrions-nous aborder le sujet de La Pat' Patrouille.
+Bob: Je suis sûr et certain sans le moindre doute que non.
+Bob: Je suis convaincu.
+Bob: Je suis pas sûr du tout.
+Alice: Tu sais ce qui me trotte dans la tête ? biochimie.
+Cypher: Je suis absolument certain sans le moindre doute.
+Alice: Je voudrais évoquer Les Moomins sur la Riviera.
+Alice: Tu sais ce qui me préoccupe ? Les 101 Dalmatiens.
+Cypher: Ça ne m'a pas l'air correct.
+Cypher: Je suis d'accord.
+Cypher: Je suis certain.
+Alice: Il est temps d'aborder le sujet de Samurai Jack.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Bob: Je ne sais pas.
+Bob: Je suis certain.
+Alice: Un sujet qui me tient à cœur est histoire de la presse.
+Cypher: Je suis tout à fait certain.
+Alice: Parlons de histoire des révolutions morales.
+Cypher: Ça ne semble pas juste.
+Bob: Je suis hésitant.
+Alice: Il me semble important que nous parlions de Aventures à Travers le Temps.
+Alice: Tu as déjà pensé à parler de Le Parfum de la Carotte.
+Bob: À voir.
+Cypher: Je suis sûr et certain sans le moindre doute possible.
+Bob: Je suis tout à fait certain.
+Bob: Je suppose que oui.
+Alice: Tu sais ce qui me préoccupe ? La Reine des Neiges.
+Bob: Je suis pas sûr du tout.
+Alice: Un sujet qui me tient à cœur est zoologie.
+Alice: Il me semble important que nous parlions de histoire des révolutions politiques.
+Cypher: Je suis confiant.
+Alice: Je voulais te parler de histoire des révolutions éducatives.
+Alice: Je ressens le besoin de parler de histoire des révolutions économiques.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Je suis confiant.
+Bob: Je suis catégoriquement certain sans la moindre ombre de doute.
+Bob: Je suis sûr et certain sans le moindre doute possible.
+Bob: Je suis complètement sûr à cent pour cent.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de Scooby-Doo.
+Cypher: Certainement.
+Alice: Ça me semble important de discuter de histoire des révolutions artistiques.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Bob: Je suis absolument certain sans la moindre ombre de doute que non.
+Cypher: Je pense que oui.
+Cypher: Je suis catégoriquement sûr sans le moindre doute.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Alice: Il faut absolument qu'on discute de peinture.
+Bob: Je suis catégoriquement sûr que non.
+Alice: Un sujet qui me tient à cœur est histoire de l'éducation.
+Cypher: Je suis certain sans le moindre doute que non.
+Alice: Qu'en penses-tu de histoire des révolutions éducatives.
+Alice: Il est temps d'aborder le sujet de histoire des révolutions sociales.
+Cypher: Je suis désolé, je ne sais pas.
+Bob: Oui.
+Bob: Je suis tout à fait certain.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de dessin animé.
+Cypher: Je suis certain sans la moindre ombre de doute.
+Bob: Non.
+Alice: As-tu déjà envisagé de parler de histoire des révolutions culturelles.
+Cypher: Je suis catégoriquement sûr sans la moindre ombre de doute.
+Alice: Il me semble important que nous parlions de Angela Anaconda.
+Bob: Je suis sûr sans la moindre ombre de doute que non.
+Cypher: Je suis sûr.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: Je crois qu'il est temps d'aborder histoire des révolutions économiques.
+Bob: Absolument.
+Cypher: Selon moi, non.
+Cypher: Ça semble juste.
+Alice: Il faut absolument qu'on discute de finance.
+Bob: Je suis sûr et certain sans le moindre doute possible que non.
+Cypher: Absolument.
+Cypher: C'est possible mais peu probable.
+Bob: Je suis perplexe.
+Bob: Je suis dubitatif.
+Alice: Je te propose qu'on parle de histoire des révolutions intellectuelles.
+Cypher: Je suis optimiste.
+Cypher: Selon moi, oui.
+Cypher: Je suis sûr sans la moindre ombre de doute.
+Cypher: Je suis absolument certain sans le moindre doute possible que non.
+Cypher: Je suis dubitatif.
+Cypher: Je suis inquiet.
+Cypher: Ça ne m'a pas l'air correct.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Alice: Je ressens le besoin de parler de Les Castors Allumés.
+Alice: Un sujet qui me tient à cœur est astronomie.
+Bob: Je suis absolument certain sans la moindre ombre de doute.
+Alice: Il me semble important que nous parlions de Le Petit Prince.
+Cypher: Aucune idée.
+Cypher: Je suis absolument sûr à cent pour cent.
+Alice: Je trouve nécessaire de discuter de histoire des révolutions culturelles.
+Alice: Il faut absolument qu'on discute de Les Trolls.
+Alice: Un sujet qui me tient à cœur est histoire des révolutions culturelles.
+Cypher: Je suis certain sans la moindre ombre de doute.
+Alice: Je pense que nous devrions parler de histoire des révolutions intellectuelles.
+Cypher: Je suis catégoriquement sûr.
+Cypher: Je suis catégoriquement sûr.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Cypher: Je suis absolument certain sans le moindre doute possible.
+Cypher: Je suis sûr et certain.
+Cypher: Je suis dubitatif.
+Cypher: Je suis catégoriquement certain sans le moindre doute possible.
+Bob: Je suis incertain.
+Cypher: Je suis pas sûr du tout.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Alice: On devrait discuter de folklore.
+Bob: Je ne suis pas sûr.
+Alice: Parlons de histoire des révolutions religieuses.
+Bob: Je suis certain sans la moindre ombre de doute.
+Cypher: Oui.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de Le Lorax.
+Alice: Je voudrais évoquer histoire des révolutions psychologiques.
+Cypher: Je suis catégorique à cent pour cent que non.
+Alice: Tu sais ce qui me trotte dans la tête ? poésie.
+Cypher: Je suis catégoriquement sûr sans la moindre ombre de doute que non.
+Cypher: Je vais dire non.
+Cypher: Je suis pessimiste.
+Cypher: Je suis tout à fait certain.
+Cypher: Je suis convaincu à cent pour cent que non.
+Cypher: Je suis certain sans le moindre doute que non.
+Cypher: Je ne suis pas d'accord.
+Bob: Jamais.
+Alice: Tu as déjà pensé à parler de diplomatie.
+Alice: J'ai une idée : que dirais-tu de discuter de neuroscience.
+Cypher: Aucune idée.
+Alice: Ça te dirait de parler de histoire des révolutions intellectuelles.
+Bob: Je suis convaincu à cent pour cent que non.
+Cypher: Je suis tout à fait certain.
+Bob: Je dirais que non.
+Cypher: Je suis sûr à cent pour cent.
+Alice: Tu as déjà pensé à parler de jardinage.
+Alice: Il est grand temps de discuter de Là-haut.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute.
+Cypher: Je suis sûr sans la moindre ombre de doute.
+Bob: Je suis tout à fait certain que non.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute que non.
+Bob: Je suis catégoriquement certain sans le moindre doute.
+Alice: Il est temps de mettre sur la table histoire de l'économie.
+Cypher: Je suis absolument sûr à cent pour cent.
+Cypher: Pourquoi pas.
+Bob: Je suis certain.
+Cypher: Je suis catégoriquement sûr sans le moindre doute possible.
+Bob: Je suis catégoriquement sûr sans le moindre doute que non.
+Cypher: Je suis tout à fait certain que non.
+Alice: Voici quelque chose qui mérite d'être discuté : histoire des révolutions religieuses.
+Cypher: Je suis catégorique à cent pour cent.
+Cypher: Je suis sûr à cent pour cent.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Cypher: Je suis catégorique.
+Cypher: Je suis sûr et certain sans le moindre doute que non.
+Alice: Un sujet qui me tient à cœur est Les Goonies.
+Cypher: Je suis complètement sûr à cent pour cent.
+Cypher: Peut-être bien.
+Bob: Je dirais que oui.
+Bob: Je suis catégorique.
+Bob: Je suis absolument sûr à cent pour cent que non.
+Bob: Je suis absolument sûr à cent pour cent.
+Alice: J'ai une idée : que dirais-tu de discuter de Babar.
+Bob: Je suis tout à fait certain que non.
+Bob: Je suis sûr et certain à cent pour cent.
+Alice: Il faut absolument qu'on discute de Dumbo.
+Bob: Ça semble juste.
+Bob: Je suis sûr et certain sans la moindre ombre de doute que non.
+Bob: Je ne suis pas sûr de comprendre.
+Alice: Qu'en penses-tu de Les Chevaliers du Zodiaque.
+Alice: Je voulais te parler de histoire des révolutions sociales.
+Bob: Je suis pessimiste.
+Alice: Il me semble important que nous parlions de Kung Fu Panda.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute que non.
+Bob: C'est improbable.
+Cypher: Je suis catégorique à cent pour cent que non.
+Alice: Je te propose qu'on parle de Vice-Versa.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Alice: Il est temps d'aborder le sujet de histoire de la médecine.
+Bob: Je suis catégoriquement sûr.
+Alice: Peut-être devrions-nous aborder le sujet de Les Super Nanas.
+Bob: Je suis catégoriquement sûr sans le moindre doute possible.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Alice: Ça me semble important de discuter de Arthur et les Minimoys.
+Cypher: C'est évident.
+Cypher: Je suis tout à fait sûr sans la moindre ombre de doute que non.
+Cypher: Je ne suis pas sûr.
+Alice: Il est temps d'aborder le sujet de histoire des révolutions religieuses.
+Cypher: Je suis absolument certain sans le moindre doute possible.
+Alice: Ça me semble important de discuter de Tintin.
+Cypher: Je suis sûr et certain à cent pour cent.
+Cypher: Je suis catégoriquement certain sans le moindre doute possible que non.
+Bob: Je suis certain.
+Alice: Laisse-moi te partager mes réflexions sur Naruto.
+Alice: Je voulais te parler de histoire de l'astronomie.
+Alice: Tu sais ce qui me trotte dans la tête ? histoire des révolutions morales.
+Bob: Je suis certain sans le moindre doute que non.
+Cypher: Je suis absolument certain que non.
+Cypher: Je ne suis pas sûr de comprendre.
+Bob: Je suppose que oui.
+Bob: Je suis perplexe.
+Bob: Je suis complètement sûr à cent pour cent.
+Alice: Tu as déjà pensé à parler de histoire des révolutions politiques.
+Alice: Il me semble important que nous parlions de histoire des révolutions culturelles.
+Bob: Je suis catégoriquement sûr que non.
+Bob: Ça dépend.
+Cypher: Certainement.
+Cypher: Je suis catégorique à cent pour cent que non.
+Alice: Il faut absolument qu'on discute de histoire du climat.
+Bob: Bien sûr.
+Cypher: Je suis désolé, je ne sais pas.
+Bob: C'est peu probable.
+Alice: Il faut absolument qu'on discute de histoire ferroviaire.
+Alice: Il est temps de mettre sur la table histoire de l'exploration.
+Bob: Je suis catégorique à cent pour cent que non.
+Cypher: C'est peu probable.
+Bob: Je suis sûr.
+Bob: Pas du tout.
+Alice: Ça te dirait de parler de astronomie.
+Bob: Je suis sceptique.
+Bob: Je suis persuadé à cent pour cent que non.
+Cypher: Je suis certain sans la moindre ombre de doute.
+Alice: Ça te dirait de parler de histoire.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Bob: C'est possible mais peu probable.
+Alice: Je crois qu'il est temps d'aborder roman fantastique.
+Bob: Ça ne semble pas juste.
+Bob: Je suis catégoriquement certain que non.
+Bob: Selon moi, oui.
+Cypher: Je suis dubitatif.
+Alice: Je voulais te parler de histoire des révolutions artistiques.
+Alice: Que dirais-tu de parler de Shrek.
+Alice: Laisse-moi te partager mes réflexions sur informatique.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: As-tu déjà envisagé de parler de histoire des révolutions psychologiques.
+Cypher: Je suis tout à fait sûr à cent pour cent que non.
+Alice: Il faut absolument qu'on discute de histoire des révolutions morales.
+Cypher: Je suis tout à fait certain que non.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de histoire des révolutions philosophiques.
+Alice: Je te propose qu'on parle de Anastasia.
+Bob: Je suis sûr sans la moindre ombre de doute.
+Alice: Je voulais te parler de Princesse Sarah.
+Cypher: Je suis optimiste.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Je ne suis pas certain.
+Cypher: C'est évident.
+Alice: Je crois qu'il est crucial de discuter de Dragons.
+Bob: Je suis sûr à cent pour cent que non.
+Alice: Il me semble important que nous parlions de Astérix.
+Alice: Il me semble important que nous parlions de Gargoyles.
+Bob: Je suis à cent pour cent certain.
+Alice: Je voulais te parler de Roi Arthur et les Chevaliers de Justice.
+Bob: Je ne pense pas.
+Alice: Je te propose qu'on parle de Les Mondes de Ralph.
+Cypher: Je suis absolument certain sans la moindre ombre de doute que non.
+Alice: Il est grand temps de discuter de Pokémon.
+Cypher: Je suis complètement sûr.
+Bob: Je dirais que non.
+Alice: Je crois qu'il est temps d'aborder art.
+Bob: Je suppose que oui.
+Bob: Je suis à cent pour cent certain que non.
+Alice: On devrait discuter de éthique environnementale.
+Alice: J'ai une idée : que dirais-tu de discuter de Les Trolls.
+Alice: Ça me semble important de discuter de météo.
+Bob: Je suis sûr à cent pour cent que non.
+Bob: Je pense que non.
+Bob: Je suis convaincu à cent pour cent.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Peut-être bien.
+Cypher: Je suis sûr et certain sans le moindre doute possible que non.
+Cypher: Je suis catégoriquement certain que non.
+Cypher: Je suis perplexe.
+Cypher: C'est peu probable.
+Alice: Il me semble important que nous parlions de histoire des révolutions philosophiques.
+Alice: Il est temps de mettre sur la table Les Entrechats.
+Alice: Il faut absolument qu'on discute de histoire des révolutions morales.
+Cypher: Peut-être pas.
+Alice: Je te propose qu'on parle de intelligence artificielle.
+Cypher: Je suis tout à fait sûr à cent pour cent que non.
+Bob: Je suis catégoriquement certain sans la moindre ombre de doute.
+Cypher: Je suis sûr et certain sans le moindre doute possible.
+Alice: Je te propose qu'on parle de Samurai Jack.
+Cypher: Je suis sceptique.
+Bob: Je suis convaincu à cent pour cent.
+Cypher: Je suis catégorique à cent pour cent.
+Cypher: C'est improbable.
+Cypher: Ça dépend.
+Alice: Je crois qu'il est temps d'aborder Les Aristochats.
+Alice: J'ai une idée : que dirais-tu de discuter de Le Château Ambulant.
+Bob: Je suis sûr et certain sans le moindre doute.
+Cypher: Je pense que non.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Cypher: Je vais dire non.
+Alice: Je pense que nous devrions parler de Les Entrechats.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Alice: Je te propose qu'on parle de histoire du téléphone.
+Cypher: Je suis catégoriquement certain sans le moindre doute possible que non.
+Alice: Il me semble important que nous parlions de Les Entrechats.
+Cypher: Je suis absolument certain sans la moindre ombre de doute.
+Alice: On devrait discuter de Scooby-Doo.
+Bob: Je suis convaincu à cent pour cent.
+Bob: Je suis complètement sûr à cent pour cent que non.
+Cypher: Je suis catégoriquement sûr que non.
+Alice: Je te propose qu'on parle de histoire des révolutions sociales.
+Cypher: Je vais dire oui.
+Bob: Certainement.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Cypher: Peut-être bien.
+Cypher: Je suis catégoriquement sûr sans le moindre doute.
+Bob: Je suis sûr et certain sans le moindre doute.
+Bob: Je suis convaincu.
+Cypher: Probablement.
+Cypher: Je suis sûr sans la moindre ombre de doute.
+Cypher: Ça ne semble pas juste.
+Cypher: Je suis absolument certain sans le moindre doute.
+Alice: Je crois qu'il est temps d'aborder diplomatie.
+Cypher: Je suppose que non.
+Bob: Je suis catégorique.
+Cypher: Je suis désolé, je ne sais pas.
+Alice: Un sujet qui me tient à cœur est histoire des révolutions morales.
+Alice: Je te propose qu'on parle de Les Nouveaux Héros.
+Cypher: Je suis catégoriquement certain que non.
+Bob: Je suis tout à fait certain.
+Cypher: Je suis sûr et certain.
+Cypher: Certainement.
+Cypher: Non.
+Alice: Tu as déjà pensé à parler de éthique environnementale.
+Bob: C'est peu probable.
+Bob: Je suis certain sans le moindre doute que non.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: Je te propose qu'on parle de Les Aventures de Sonic.
+Cypher: Ça semble juste.
+Bob: Je suis tout à fait sûr à cent pour cent que non.
+Alice: Tu sais ce qui me préoccupe ? Les Pyjamasques.
+Alice: As-tu déjà envisagé de parler de histoire des réseaux sociaux.
+Cypher: Peut-être.
+Cypher: Aucune idée.
+Alice: Je voulais te parler de histoire de l'environnement.
+Cypher: Probablement.
+Bob: Je suis absolument sûr sans la moindre ombre de doute.
+Bob: Je ne suis pas sûr.
+Bob: Je suis certain sans le moindre doute que non.
+Alice: Qu'en penses-tu de histoire des guerres.
+Cypher: Je suis sûr et certain à cent pour cent que non.
+Bob: Je suis désolé, je ne sais pas.
+Cypher: Je suis tout à fait sûr sans la moindre ombre de doute.
+Cypher: Je suis catégorique.
+Bob: Je suis catégoriquement certain que non.
+Cypher: Peut-être.
+Cypher: Je suis catégorique.
+Alice: Laisse-moi te partager mes réflexions sur histoire des sciences.
+Alice: Il faut absolument qu'on discute de poésie.
+Bob: Je suis sûr et certain sans le moindre doute possible que non.
+Bob: Je pense que oui.
+Alice: Il est grand temps de discuter de histoire de la photographie.
+Cypher: Je suis à cent pour cent certain que non.
+Bob: Je ne suis pas certain.
+Bob: Je suis tout à fait sûr à cent pour cent que non.
+Bob: C'est possible mais peu probable.
+Alice: Laisse-moi te partager mes réflexions sur histoire des révolutions éducatives.
+Bob: Je suis optimiste.
+Bob: Je suis absolument certain sans le moindre doute que non.
+Alice: Je crois qu'il est temps d'aborder poésie.
+Alice: Tu as déjà pensé à parler de histoire des révolutions scientifiques.
+Alice: Voici quelque chose qui mérite d'être discuté : jeux vidéo.
+Cypher: C'est possible mais peu probable.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: Tu sais ce qui me trotte dans la tête ? écologie.
+Bob: Je suis certain.
+Bob: Je suppose que non.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions artistiques.
+Alice: Je ressens le besoin de parler de énergies renouvelables.
+Alice: Qu'en penses-tu de histoire des révolutions religieuses.
+Bob: Je suis tout à fait certain.
+Bob: Jamais.
+Alice: Parlons de Les Wuzzles.
+Alice: Je crois qu'il est temps d'aborder Les Aventures de Tintin.
+Bob: Je suis certain sans la moindre ombre de doute que non.
+Cypher: Je suis indécis.
+Cypher: Je ne suis pas sûr de comprendre.
+Alice: Je trouve nécessaire de discuter de histoire des révolutions intellectuelles.
+Bob: Je suis sûr et certain sans le moindre doute.
+Bob: Je suis sûr et certain sans la moindre ombre de doute.
+Bob: Je suis d'accord.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute.
+Cypher: Je ne suis pas sûr de comprendre.
+Bob: Je suis certain sans le moindre doute.
+Bob: Peut-être bien.
+Bob: Peut-être pas.
+Bob: Je suis certain sans le moindre doute possible que non.
+Bob: Je suppose que non.
+Bob: Je suis sûr sans la moindre ombre de doute.
+Bob: Je suis absolument sûr sans la moindre ombre de doute.
+Alice: Laisse-moi te partager mes réflexions sur Le Petit Prince.
+Alice: Parlons de histoire de l'alimentation.
+Alice: Ça me semble important de discuter de histoire de la presse.
+Cypher: Je suis sûr et certain sans le moindre doute.
+Cypher: Je ne crois pas.
+Bob: Je suis absolument sûr sans la moindre ombre de doute.
+Bob: Je suis sûr et certain à cent pour cent.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de Kung Fu Panda.
+Bob: Tout à fait.
+Alice: Voici quelque chose qui mérite d'être discuté : Dragons.
+Alice: Parlons de Hôtel Transylvanie.
+Bob: Je suppose que oui.
+Alice: Un sujet qui me tient à cœur est films.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute que non.
+Alice: Tu sais ce qui me trotte dans la tête ? histoire des révolutions philosophiques.
+Cypher: Je suis catégoriquement certain sans la moindre ombre de doute que non.
+Bob: Je suis sûr et certain sans le moindre doute.
+Alice: On devrait discuter de théologie.
+Bob: Certainement.
+Alice: Je ressens le besoin de parler de histoire de la mode.
+Bob: Je suis absolument sûr sans la moindre ombre de doute.
+Alice: Peut-être devrions-nous aborder le sujet de Le Monde de Narnia.
+Bob: Je suis catégoriquement sûr sans le moindre doute que non.
+Alice: Tu as déjà pensé à parler de roman historique.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Bob: Je vais dire non.
+Cypher: Je suis persuadé à cent pour cent.
+Alice: J'ai une idée : que dirais-tu de discuter de Les Indestructibles.
+Alice: J'ai une idée : que dirais-tu de discuter de histoire des révolutions économiques.
+Alice: Je crois qu'il est temps d'aborder Le Petit Prince.
+Bob: Je suis à cent pour cent certain que non.
+Cypher: Ça semble juste.
+Cypher: C'est possible.
+Bob: Je pense que non.
+Alice: Il me semble important que nous parlions de météo.
+Cypher: Je suis confiant.
+Alice: Qu'en penses-tu de histoire de l'économie.
+Cypher: Je suis désolé, je ne sais pas.
+Alice: Peut-être devrions-nous aborder le sujet de Totally Spies!.
+Alice: Un sujet qui me tient à cœur est histoire de la presse.
+Bob: Je suis persuadé à cent pour cent que non.
+Alice: Je trouve nécessaire de discuter de peinture.
+Alice: Parlons de histoire des révolutions sociales.
+Alice: As-tu déjà envisagé de parler de Aladdin.
+Cypher: Je suis absolument certain sans le moindre doute que non.
+Cypher: Je suis tout à fait sûr à cent pour cent.
+Alice: Je voulais te parler de histoire de la mode.
+Bob: Je suis sûr à cent pour cent que non.
+Bob: Je suis absolument sûr sans la moindre ombre de doute que non.
+Bob: À voir.
+Cypher: Je suis sûr et certain sans le moindre doute que non.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute.
+Cypher: Je suis sûr et certain.
+Bob: Je suis absolument certain sans la moindre ombre de doute.
+Alice: Je voulais te parler de histoire de la photographie.
+Bob: Je pense que non.
+Bob: Je suis convaincu à cent pour cent.
+Bob: Je suis certain sans le moindre doute que non.
+Bob: Je suis catégoriquement sûr que non.
+Cypher: Je suis sûr à cent pour cent.
+Bob: Peut-être pas.
+Alice: Un sujet qui me tient à cœur est histoire des révolutions psychologiques.
+Cypher: C'est plausible.
+Alice: Je pense que nous devrions parler de histoire des révolutions spirituelles.
+Alice: Je crois qu'il est crucial de discuter de histoire des mouvements.
+Cypher: Je suis convaincu à cent pour cent.
+Cypher: Je suis catégoriquement certain.
+Cypher: Je suis sûr et certain sans le moindre doute que non.
+Cypher: Je suppose que oui.
+Alice: Tu sais ce qui me trotte dans la tête ? histoire de la médecine.
+Cypher: Je suis absolument certain sans la moindre ombre de doute.
+Cypher: Je ne suis pas certain.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions politiques.
+Cypher: Je suis complètement sûr à cent pour cent.
+Bob: Je suis tout à fait sûr sans la moindre ombre de doute.
+Cypher: Je suppose que oui.
+Cypher: Je suis absolument certain sans la moindre ombre de doute.
+Alice: Il est temps de mettre sur la table diplomatie.
+Cypher: Je vais dire oui.
+Cypher: Ça ne semble pas juste.
+Alice: Je pense que nous devrions parler de histoire des révolutions éducatives.
+Alice: Je voudrais évoquer histoire des révolutions scientifiques.
+Alice: Il est temps de mettre sur la table histoire de la philosophie.
+Cypher: Je suis sûr à cent pour cent.
+Alice: Tu sais ce qui me préoccupe ? La Légende de Manolo.
+Cypher: Je suis d'accord.
+Bob: Je suis absolument certain sans le moindre doute possible.
+Cypher: C'est évident.
+Bob: Je suis sûr et certain à cent pour cent.
+Bob: Pas du tout.
+Bob: Je suis catégoriquement sûr sans le moindre doute.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Cypher: Je suis tout à fait certain que non.
+Alice: Peut-être devrions-nous aborder le sujet de Raiponce.
+Cypher: Ça ne m'a pas l'air correct.
+Bob: Je suis sûr et certain sans le moindre doute possible que non.
+Bob: Je suis sûr et certain sans le moindre doute possible.
+Cypher: Je suis absolument sûr à cent pour cent.
+Bob: Peut-être bien.
+Bob: Jamais.
+Bob: Je suis certain sans la moindre ombre de doute que non.
+Alice: Je voudrais évoquer religion.
+Alice: Je trouve nécessaire de discuter de histoire de la consommation.
+Cypher: Je suis sûr.
+Bob: Pas du tout.
+Bob: Je ne suis pas d'accord.
+Alice: Un sujet qui me tient à cœur est histoire des révolutions technologiques.
+Alice: Ça te dirait de parler de histoire des transports.
+Cypher: Je vais dire oui.
+Cypher: Je suis catégoriquement certain que non.
+Cypher: Je suis absolument certain sans la moindre ombre de doute.
+Cypher: Je suis incertain.
+Alice: Il faut absolument qu'on discute de Dragons.
+Bob: Je suis sûr et certain à cent pour cent.
+Bob: Je suis optimiste.
+Alice: Je voulais te parler de neuroscience.
+Alice: Tu as déjà pensé à parler de sports.
+Cypher: Oui.
+Cypher: Ça ne m'a pas l'air correct.
+Bob: Tout à fait.
+Cypher: Je suis convaincu.
+Alice: Je voudrais évoquer Les 101 Dalmatiens.
+Bob: Sans aucun doute.
+Bob: Oui.
+Alice: Tu sais ce qui me préoccupe ? histoire des révolutions éducatives.
+Cypher: Je suis confiant.
+Cypher: À voir.
+Cypher: Je ne suis pas sûr de comprendre.
+Alice: Ça me semble important de discuter de théologie.
+Bob: Je ne sais pas.
+Cypher: Certainement.
+Bob: Je suis persuadé à cent pour cent que non.
+Cypher: Je suis sûr et certain sans le moindre doute possible que non.
+Alice: Je crois qu'il est temps d'aborder histoire de la biotechnologie.
+Alice: J'ai une idée : que dirais-tu de discuter de Les Wuzzles.
+Alice: As-tu déjà envisagé de parler de Les Boxtrolls.
+Alice: Que dirais-tu de parler de histoire des révolutions morales.
+Alice: Il me semble important que nous parlions de histoire des révolutions intellectuelles.
+Bob: Je suis catégoriquement certain sans le moindre doute possible que non.
+Cypher: Je vais dire non.
+Alice: Je pense que nous devrions parler de mythologie.
+Bob: Je suis catégoriquement certain.
+Alice: Ne penses-tu pas qu'il serait judicieux de discuter de histoire de l'environnement.
+Bob: Je suis absolument certain sans le moindre doute que non.
+Alice: Il me semble important que nous parlions de sports.
+Cypher: Je suis absolument certain que non.
+Bob: C'est possible.
+Cypher: Je suis hésitant.
+Cypher: Je dirais que oui.
+Cypher: Je suis sûr et certain sans la moindre ombre de doute que non.
+Alice: Il est temps de mettre sur la table séries animées.
+Alice: Que dirais-tu de parler de histoire des révolutions culturelles.
+Cypher: Je suis convaincu.
+Cypher: Peut-être bien.
+Alice: Voici quelque chose qui mérite d'être discuté : biochimie.
+Bob: Je suis sûr et certain à cent pour cent que non.
+Alice: Que dirais-tu de parler de histoire de l'astronomie.
+Alice: Je voulais te parler de études de genre.
+Alice: Je crois qu'il est crucial de discuter de histoire des révolutions éducatives.
+Cypher: Je suis tout à fait certain que non.
+Bob: Non.
+Alice: Je ressens le besoin de parler de histoire des révolutions technologiques.
+Cypher: Peut-être bien.
+Bob: Je suis catégoriquement sûr sans la moindre ombre de doute.
+Bob: Peut-être bien.
+Alice: Je te propose qu'on parle de histoire des révolutions économiques.
+Cypher: Je suis absolument certain sans le moindre doute possible que non.
+Cypher: Je suis absolument sûr sans la moindre ombre de doute.
+Cypher: Je ne crois pas.
+Cypher: Je ne suis pas sûr de comprendre.
+Cypher: Je suis sûr sans la moindre ombre de doute.
+Alice: Je ressens le besoin de parler de films.
+Bob: C'est peu probable.
+Alice: Tu sais ce qui me trotte dans la tête ? histoire des révolutions philosophiques.
+Bob: Je pense que non.
+Bob: Bien sûr.
+Cypher: Je suis complètement sûr à cent pour cent que non.
+Bob: Je ne suis pas sûr.
+Bob: Je suis convaincu.
+Bob: Je suis désolé, je ne sais pas.
+Bob: Je suis catégoriquement sûr sans le moindre doute que non.
+Cypher: Ça ne m'a pas l'air correct.
+Cypher: Selon moi, oui.
+Cypher: C'est possible.
+Alice: Il me semble important que nous parlions de Les Minions.
+Bob: Je pense que oui.
+Cypher: Je suis sûr à cent pour cent que non.
+Cypher: Je ne suis pas sûr de comprendre.
+Cypher: Je suis tout à fait sûr sans la moindre ombre de doute que non.
+Bob: Je suis catégoriquement sûr.
+Bob: C'est plausible.
+Bob: Je suis complètement sûr.
+Alice: Il est temps de mettre sur la table Les Moomins sur la Riviera.
+Bob: Je suis convaincu.
+Bob: Ça dépend.
+Cypher: Je suis absolument certain sans la moindre ombre de doute que non.
+Alice: Tu as déjà pensé à parler de Les Trolls.

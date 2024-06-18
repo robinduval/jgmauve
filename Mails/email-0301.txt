@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 15 May 2005 00:00:00 +0000
+Message-ID: <8811998571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de la société on ne peut se passer de s'intéresser à toutes les voies possibles
+
+Cordialement,
+Emma Lee
+

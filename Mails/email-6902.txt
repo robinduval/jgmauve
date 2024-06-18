@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 28 Dec 2000 00:00:00 +0000
+Message-ID: <5702671279@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité conjoncturelle il serait bon de prendre en considération chacune des alternatives envisageables
+
+Cordialement,
+John Doe
+

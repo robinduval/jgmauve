@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 09 Mar 2003 00:00:00 +0000
+Message-ID: <7938842745@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité induite il est préférable de se remémorer chacune des issues de bon sens
+
+Cordialement,
+Emma Lee
+

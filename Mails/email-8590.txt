@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 02 Mar 2008 00:00:00 +0000
+Message-ID: <6560939743@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie actuelle il convient de se remémorer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Bob Smith
+

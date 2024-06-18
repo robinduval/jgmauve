@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Tue, 21 Nov 2000 00:00:00 +0000
+Message-ID: <4574366389@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie actuelle on se doit de se préoccuper de la somme des alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

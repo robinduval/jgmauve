@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 30 Jun 2006 00:00:00 +0000
+Message-ID: <7875530319@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation qui est la nôtre il serait intéressant de examiner certaines solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

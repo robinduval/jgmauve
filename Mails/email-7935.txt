@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Tue, 14 Jan 2003 00:00:00 +0000
+Message-ID: <8527465998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation conjoncturelle il faut de toute urgence anticiper toutes les issues possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 21 Nov 2000 00:00:00 +0000
+Message-ID: <7608110733@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de ces derniers temps il faut avoir à l'esprit la somme des voies déjà en notre possession
+
+Cordialement,
+William Jackson
+

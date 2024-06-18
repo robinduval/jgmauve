@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Mon, 21 Jul 2008 00:00:00 +0000
+Message-ID: <9112489314@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation contemporaine on se doit de ne pas négliger la globalité des issues possibles
+
+Cordialement,
+Bob Smith
+

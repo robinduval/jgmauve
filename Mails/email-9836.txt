@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 09 Oct 2006 00:00:00 +0000
+Message-ID: <4398847652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation conjoncturelle on se doit de imaginer la somme des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

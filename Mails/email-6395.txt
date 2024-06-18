@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Thu, 18 Dec 2008 00:00:00 +0000
+Message-ID: <1214141579@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance conjoncturelle il est nécessaire de se remémorer chacune des voies possibles
+
+Cordialement,
+Jean Neige
+

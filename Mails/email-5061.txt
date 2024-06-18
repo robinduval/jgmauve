@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 22 Mar 2007 00:00:00 +0000
+Message-ID: <7549807814@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie contemporaine il est préférable de se remémorer la globalité des voies possibles
+
+Cordialement,
+Emma Lee
+

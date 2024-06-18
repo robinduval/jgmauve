@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 27 Nov 2007 00:00:00 +0000
+Message-ID: <4944572073@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture conjoncturelle il convient de ne pas négliger chacune des voies possibles
+
+Cordialement,
+Daniel Clark
+

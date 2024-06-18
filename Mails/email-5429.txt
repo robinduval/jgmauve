@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 22 Jul 2009 00:00:00 +0000
+Message-ID: <2955562683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation de ces derniers temps on se doit de avoir à l'esprit la totalité des solutions envisageables
+
+Cordialement,
+William Jackson
+

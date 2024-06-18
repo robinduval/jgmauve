@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 13 Dec 2007 00:00:00 +0000
+Message-ID: <2850346917@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui nous occupe il convient de anticiper certaines voies possibles
+
+Cordialement,
+Emma Lee
+

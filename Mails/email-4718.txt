@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 02 Nov 2006 00:00:00 +0000
+Message-ID: <8439645686@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance induite il ne faut pas négliger de s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

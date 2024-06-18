@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Mon, 28 Sep 2009 00:00:00 +0000
+Message-ID: <1888676459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose conjoncturelle il ne faut pas négliger de imaginer toutes les issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

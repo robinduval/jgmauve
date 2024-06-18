@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sun, 25 Aug 2002 00:00:00 +0000
+Message-ID: <4470080993@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de ces derniers temps il faut de toute urgence prendre en considération l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

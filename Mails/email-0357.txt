@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 01 Mar 2007 00:00:00 +0000
+Message-ID: <5602105070@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs présente il serait intéressant de prendre en considération l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

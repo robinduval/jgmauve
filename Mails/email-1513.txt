@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 12 Mar 2006 00:00:00 +0000
+Message-ID: <8731554431@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose conjoncturelle il serait bon de étudier la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

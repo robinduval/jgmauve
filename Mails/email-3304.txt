@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 02 Jan 2002 00:00:00 +0000
+Message-ID: <5268537528@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance qui nous occupe on ne peut se passer de examiner chacune des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

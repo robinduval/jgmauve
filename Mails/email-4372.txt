@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 27 Jun 2009 00:00:00 +0000
+Message-ID: <2106209553@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse conjoncturelle il convient de se remémorer certaines alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 26 Mar 2000 00:00:00 +0000
+Message-ID: <9871821130@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture qui nous occupe il faut de toute urgence s'intéresser à la majorité des problématiques de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 30 May 2009 00:00:00 +0000
+Message-ID: <3868520635@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture qui nous occupe il convient de avoir à l'esprit l'ensemble des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

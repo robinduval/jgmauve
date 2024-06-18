@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 06 Jun 2003 00:00:00 +0000
+Message-ID: <4119307330@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation contemporaine on se doit de imaginer la somme des alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

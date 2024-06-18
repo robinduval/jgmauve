@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 04 Sep 2006 00:00:00 +0000
+Message-ID: <2461673908@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs conjoncturelle on ne peut se passer de prendre en considération la totalité des voies possibles
+
+Cordialement,
+Jean Neige
+

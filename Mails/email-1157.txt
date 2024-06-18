@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 16 Mar 2008 00:00:00 +0000
+Message-ID: <2640261203@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose actuelle il est nécessaire de ne pas négliger la majorité des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

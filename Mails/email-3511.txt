@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Thu, 12 May 2005 00:00:00 +0000
+Message-ID: <3239684411@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui est la nôtre il faut de toute urgence avoir à l'esprit la majorité des problématiques s'offrant à nous
+
+Cordialement,
+John Doe
+

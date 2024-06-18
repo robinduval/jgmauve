@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Sat, 20 Jul 2002 00:00:00 +0000
+Message-ID: <3165975467@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation contemporaine il ne faut pas négliger de examiner la globalité des voies possibles
+
+Cordialement,
+Michael Taylor
+

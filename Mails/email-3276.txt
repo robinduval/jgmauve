@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 22 Aug 2008 00:00:00 +0000
+Message-ID: <2928586685@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui est la nôtre il faut de toute urgence prendre en considération la globalité des solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Demande de collaboration
+Date: Tue, 26 Apr 2005 00:00:00 +0000
+Message-ID: <3381110720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de cette fin de siècle il faut ne pas négliger certaines solutions envisageables
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 10 Dec 2002 00:00:00 +0000
+Message-ID: <1078385608@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture induite il serait intéressant de se préoccuper de toutes les solutions possibles
+
+Cordialement,
+Emma Lee
+

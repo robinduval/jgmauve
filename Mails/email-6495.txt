@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 04 Jan 2000 00:00:00 +0000
+Message-ID: <4685506689@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation conjoncturelle il serait bon de ne pas négliger certaines solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

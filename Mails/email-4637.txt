@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 30 May 2000 00:00:00 +0000
+Message-ID: <8315772999@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation actuelle on se doit de avoir à l'esprit l'ensemble des problématiques possibles
+
+Cordialement,
+Sophie Martin
+

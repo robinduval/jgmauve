@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 07 Nov 2001 00:00:00 +0000
+Message-ID: <4517607744@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui est la nôtre on se doit de étudier certaines alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

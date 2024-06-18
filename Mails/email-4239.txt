@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 04 Nov 2007 00:00:00 +0000
+Message-ID: <6954675546@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il serait bon de prendre en considération l'ensemble des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

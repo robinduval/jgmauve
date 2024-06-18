@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 28 Sep 2007 00:00:00 +0000
+Message-ID: <9603308714@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose présente il convient de avoir à l'esprit la somme des issues envisageables
+
+Cordialement,
+Emma Lee
+

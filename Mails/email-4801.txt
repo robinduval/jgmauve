@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 01 Nov 2007 00:00:00 +0000
+Message-ID: <9817632657@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse de cette fin de siècle il ne faut pas négliger de se préoccuper de l'ensemble des alternatives envisageables
+
+Cordialement,
+Laura Wilson
+

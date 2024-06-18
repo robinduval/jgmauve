@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 15 Jun 2005 00:00:00 +0000
+Message-ID: <3801120370@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui est la nôtre il faut étudier la totalité des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

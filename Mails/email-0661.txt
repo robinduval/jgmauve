@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Mon, 27 Mar 2000 00:00:00 +0000
+Message-ID: <8784769090@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il est préférable de s'intéresser à la majorité des issues possibles
+
+Cordialement,
+Eva Thomas
+

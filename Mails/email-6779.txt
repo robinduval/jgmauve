@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 31 Jan 2007 00:00:00 +0000
+Message-ID: <6676630908@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de ces derniers temps il serait intéressant de se préoccuper de l'ensemble des solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

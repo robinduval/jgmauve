@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Thu, 15 Feb 2001 00:00:00 +0000
+Message-ID: <5857994588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle on se doit de imaginer la totalité des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

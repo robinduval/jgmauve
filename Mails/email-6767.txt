@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 05 Sep 2008 00:00:00 +0000
+Message-ID: <5115489253@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui nous occupe il convient de prendre en considération la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

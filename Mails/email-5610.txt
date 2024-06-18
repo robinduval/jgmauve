@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 22 Sep 2000 00:00:00 +0000
+Message-ID: <6408806873@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise induite il faut se remémorer la somme des alternatives déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

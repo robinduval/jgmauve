@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 10 Feb 2005 00:00:00 +0000
+Message-ID: <4492381688@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs actuelle il est préférable de prendre en considération certaines issues envisageables
+
+Cordialement,
+Eva Thomas
+

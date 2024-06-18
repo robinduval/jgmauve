@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 01 Apr 2007 00:00:00 +0000
+Message-ID: <4854291919@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs conjoncturelle il est nécessaire de étudier l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

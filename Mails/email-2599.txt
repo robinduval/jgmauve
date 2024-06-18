@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Thu, 26 Sep 2002 00:00:00 +0000
+Message-ID: <4719813830@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de cette fin de siècle il est nécessaire de anticiper la majorité des voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

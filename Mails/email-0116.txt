@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Fri, 30 Jun 2000 00:00:00 +0000
+Message-ID: <2723897793@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation de la société il convient de imaginer la globalité des solutions de bon sens
+
+Cordialement,
+Bob Smith
+

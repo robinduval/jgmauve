@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 26 Apr 2001 00:00:00 +0000
+Message-ID: <4116983375@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de la société il ne faut pas négliger de étudier la majorité des voies envisageables
+
+Cordialement,
+Olivia Harris
+

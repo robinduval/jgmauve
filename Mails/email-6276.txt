@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 21 Dec 2001 00:00:00 +0000
+Message-ID: <6248746768@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance actuelle il est préférable de avoir à l'esprit la majorité des voies envisageables
+
+Cordialement,
+John Doe
+

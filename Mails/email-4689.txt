@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 15 Dec 2008 00:00:00 +0000
+Message-ID: <4599064566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose présente il est préférable de anticiper chacune des solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

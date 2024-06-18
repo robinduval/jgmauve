@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 25 Oct 2008 00:00:00 +0000
+Message-ID: <4979903370@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise contemporaine il faut anticiper la somme des issues possibles
+
+Cordialement,
+Emma Lee
+

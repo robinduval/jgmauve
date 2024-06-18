@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 27 Jan 2004 00:00:00 +0000
+Message-ID: <8033572076@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose qui est la nôtre il est nécessaire de examiner toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

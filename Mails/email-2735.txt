@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 30 Sep 2007 00:00:00 +0000
+Message-ID: <8643603686@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui est la nôtre il serait bon de ne pas négliger l'ensemble des voies envisageables
+
+Cordialement,
+Laura Wilson
+

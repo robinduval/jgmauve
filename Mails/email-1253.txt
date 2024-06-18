@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Sun, 26 Nov 2000 00:00:00 +0000
+Message-ID: <6028557952@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il serait intéressant de avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+David Brown
+

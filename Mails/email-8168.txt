@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 03 Nov 2002 00:00:00 +0000
+Message-ID: <9611055621@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation contemporaine on se doit de s'intéresser à toutes les issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

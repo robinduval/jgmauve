@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 09 Jan 2006 00:00:00 +0000
+Message-ID: <9045810798@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe on se doit de se préoccuper de la majorité des voies possibles
+
+Cordialement,
+Emma Lee
+

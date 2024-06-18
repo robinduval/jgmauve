@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 05 Jul 2009 00:00:00 +0000
+Message-ID: <5104748521@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse conjoncturelle il est nécessaire de étudier toutes les alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Mon, 13 Oct 2003 00:00:00 +0000
+Message-ID: <5204221116@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité conjoncturelle on se doit de se préoccuper de toutes les alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 24 Sep 2000 00:00:00 +0000
+Message-ID: <7631930683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente il est préférable de s'intéresser à la globalité des issues envisageables
+
+Cordialement,
+Alice Dupont
+

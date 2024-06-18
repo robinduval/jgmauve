@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Wed, 13 Aug 2008 00:00:00 +0000
+Message-ID: <5054892748@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui nous occupe il faut de toute urgence se préoccuper de toutes les alternatives envisageables
+
+Cordialement,
+John Doe
+

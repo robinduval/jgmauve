@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 09 Dec 2000 00:00:00 +0000
+Message-ID: <7394295349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie induite on ne peut se passer de anticiper certaines issues de bon sens
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 18 Oct 2003 00:00:00 +0000
+Message-ID: <8506661025@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise contemporaine on ne peut se passer de avoir à l'esprit la somme des voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

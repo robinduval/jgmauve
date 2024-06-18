@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 02 Jul 2007 00:00:00 +0000
+Message-ID: <2064502124@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il serait bon de ne pas négliger la totalité des solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

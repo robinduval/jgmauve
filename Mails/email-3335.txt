@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 01 Mar 2002 00:00:00 +0000
+Message-ID: <7156306038@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de la société il convient de se préoccuper de la majorité des issues s'offrant à nous
+
+Cordialement,
+John Doe
+

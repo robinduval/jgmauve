@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 22 Apr 2006 00:00:00 +0000
+Message-ID: <5790093380@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie actuelle il serait intéressant de s'intéresser à toutes les alternatives de bon sens
+
+Cordialement,
+Sophie Martin
+

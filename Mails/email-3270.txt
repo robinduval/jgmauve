@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 03 Dec 2005 00:00:00 +0000
+Message-ID: <4649813509@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de la société il serait bon de s'intéresser à toutes les solutions déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 26 Jun 2000 00:00:00 +0000
+Message-ID: <5474729074@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance conjoncturelle il convient de anticiper toutes les issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

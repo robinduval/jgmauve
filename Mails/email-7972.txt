@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 19 Aug 2005 00:00:00 +0000
+Message-ID: <4376491026@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise induite il serait intéressant de prendre en considération toutes les problématiques possibles
+
+Cordialement,
+Michael Taylor
+

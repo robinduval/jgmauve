@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 20 Nov 2003 00:00:00 +0000
+Message-ID: <1765743663@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de la société il serait intéressant de se préoccuper de toutes les solutions envisageables
+
+Cordialement,
+Olivia Harris
+

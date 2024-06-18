@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 06 Dec 2000 00:00:00 +0000
+Message-ID: <8714879916@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs induite il faut de toute urgence imaginer la totalité des voies de bon sens
+
+Cordialement,
+Eva Thomas
+

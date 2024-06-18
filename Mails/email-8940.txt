@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 06 Mar 2007 00:00:00 +0000
+Message-ID: <3470939871@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture conjoncturelle on se doit de s'intéresser à la globalité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 10 Jan 2000 00:00:00 +0000
+Message-ID: <4799428549@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui est la nôtre on ne peut se passer de anticiper toutes les issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

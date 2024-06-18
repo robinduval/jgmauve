@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Tue, 05 Aug 2003 00:00:00 +0000
+Message-ID: <4118310710@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose de ces derniers temps il est nécessaire de examiner la totalité des problématiques envisageables
+
+Cordialement,
+Emma Lee
+

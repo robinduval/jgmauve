@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 04 Oct 2008 00:00:00 +0000
+Message-ID: <4942718395@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente on se doit de ne pas négliger l'ensemble des problématiques possibles
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 11 Aug 2004 00:00:00 +0000
+Message-ID: <1083560826@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture induite il convient de imaginer la totalité des problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

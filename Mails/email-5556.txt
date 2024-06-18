@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 11 Sep 2008 00:00:00 +0000
+Message-ID: <2522413682@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de cette fin de siècle il serait intéressant de imaginer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+David Brown
+

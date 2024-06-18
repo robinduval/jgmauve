@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 07 Aug 2003 00:00:00 +0000
+Message-ID: <2287887571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie contemporaine il faut de toute urgence examiner chacune des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

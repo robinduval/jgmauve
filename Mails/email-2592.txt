@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 04 Jul 2002 00:00:00 +0000
+Message-ID: <2041335221@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre il faut de toute urgence se préoccuper de toutes les alternatives envisageables
+
+Cordialement,
+Emma Lee
+

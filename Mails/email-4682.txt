@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sun, 28 Jan 2007 00:00:00 +0000
+Message-ID: <4557165420@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture actuelle il convient de s'intéresser à toutes les solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

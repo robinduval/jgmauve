@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 30 Mar 2006 00:00:00 +0000
+Message-ID: <6669389938@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il serait intéressant de examiner la totalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

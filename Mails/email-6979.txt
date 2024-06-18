@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 15 Dec 2009 00:00:00 +0000
+Message-ID: <6887028048@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de ces derniers temps il convient de imaginer la globalité des alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

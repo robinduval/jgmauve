@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 13 Dec 2002 00:00:00 +0000
+Message-ID: <5710391715@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle il est nécessaire de anticiper la somme des voies de bon sens
+
+Cordialement,
+Samuel White
+

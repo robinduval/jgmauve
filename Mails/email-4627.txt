@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Mon, 03 Mar 2008 00:00:00 +0000
+Message-ID: <2354742403@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie conjoncturelle on ne peut se passer de se remémorer la totalité des issues de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 25 Nov 2002 00:00:00 +0000
+Message-ID: <8551895725@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il serait bon de ne pas négliger certaines alternatives possibles
+
+Cordialement,
+John Doe
+

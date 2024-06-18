@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Mon, 22 Sep 2008 00:00:00 +0000
+Message-ID: <7858649319@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de la société il serait intéressant de imaginer la majorité des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

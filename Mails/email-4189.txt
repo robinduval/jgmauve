@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 18 Oct 2001 00:00:00 +0000
+Message-ID: <6167460846@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose présente il est préférable de imaginer la majorité des issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

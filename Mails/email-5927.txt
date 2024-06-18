@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 30 Apr 2004 00:00:00 +0000
+Message-ID: <1055485971@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs qui nous occupe on ne peut se passer de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+Bob Smith
+

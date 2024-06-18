@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 01 Feb 2004 00:00:00 +0000
+Message-ID: <2607815700@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse qui nous occupe on se doit de ne pas négliger toutes les voies possibles
+
+Cordialement,
+Michael Taylor
+

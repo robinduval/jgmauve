@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 05 Apr 2009 00:00:00 +0000
+Message-ID: <8781801685@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance qui est la nôtre il est nécessaire de avoir à l'esprit toutes les voies possibles
+
+Cordialement,
+Samuel White
+

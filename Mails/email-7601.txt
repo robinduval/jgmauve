@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 27 Feb 2000 00:00:00 +0000
+Message-ID: <6370464669@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse induite on ne peut se passer de étudier l'ensemble des alternatives possibles
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Meeting important
+Date: Thu, 07 Jun 2001 00:00:00 +0000
+Message-ID: <2947561499@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie qui nous occupe on se doit de anticiper la totalité des alternatives possibles
+
+Cordialement,
+William Jackson
+

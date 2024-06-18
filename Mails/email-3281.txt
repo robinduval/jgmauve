@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 01 May 2001 00:00:00 +0000
+Message-ID: <3109246882@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture induite il faut de toute urgence examiner la somme des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

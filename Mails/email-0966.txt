@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 30 Sep 2007 00:00:00 +0000
+Message-ID: <2251726555@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre il ne faut pas négliger de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

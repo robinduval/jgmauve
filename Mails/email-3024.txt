@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 03 Aug 2000 00:00:00 +0000
+Message-ID: <8294497437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie actuelle il serait bon de ne pas négliger la totalité des solutions possibles
+
+Cordialement,
+Alice Dupont
+

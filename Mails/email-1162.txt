@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 10 Apr 2002 00:00:00 +0000
+Message-ID: <7329935852@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose conjoncturelle on ne peut se passer de étudier toutes les problématiques envisageables
+
+Cordialement,
+David Brown
+

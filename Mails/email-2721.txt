@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 09 Jun 2003 00:00:00 +0000
+Message-ID: <8769272910@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de cette fin de siècle il serait bon de étudier l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

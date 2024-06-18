@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 27 Sep 2002 00:00:00 +0000
+Message-ID: <7643541163@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui est la nôtre on ne peut se passer de anticiper la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 19 Jun 2001 00:00:00 +0000
+Message-ID: <1370281275@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance actuelle il est nécessaire de examiner toutes les problématiques s'offrant à nous
+
+Cordialement,
+Jean Neige
+

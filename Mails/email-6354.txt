@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Thu, 20 Sep 2001 00:00:00 +0000
+Message-ID: <5312081267@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il faut imaginer la majorité des voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

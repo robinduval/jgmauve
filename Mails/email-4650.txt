@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 07 Nov 2002 00:00:00 +0000
+Message-ID: <7698883764@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse qui est la nôtre il est préférable de se remémorer la somme des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

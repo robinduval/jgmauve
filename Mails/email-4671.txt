@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 01 Apr 2004 00:00:00 +0000
+Message-ID: <9043892350@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de la société on se doit de imaginer chacune des voies de bon sens
+
+Cordialement,
+David Brown
+

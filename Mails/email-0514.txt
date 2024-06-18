@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 18 Apr 2008 00:00:00 +0000
+Message-ID: <8742486424@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise conjoncturelle on se doit de examiner toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

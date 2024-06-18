@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 04 Aug 2005 00:00:00 +0000
+Message-ID: <3479866928@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui nous occupe il est préférable de examiner la somme des issues envisageables
+
+Cordialement,
+Jean Neige
+

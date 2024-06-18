@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 10 Jan 2006 00:00:00 +0000
+Message-ID: <5889608891@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation induite il est préférable de imaginer toutes les solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

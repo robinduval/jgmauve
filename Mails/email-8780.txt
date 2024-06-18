@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Tue, 02 Aug 2005 00:00:00 +0000
+Message-ID: <8775097969@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs conjoncturelle on ne peut se passer de étudier la totalité des alternatives s'offrant à nous
+
+Cordialement,
+David Brown
+

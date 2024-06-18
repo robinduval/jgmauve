@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 11 Nov 2008 00:00:00 +0000
+Message-ID: <9581858852@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie induite il faut se remémorer certaines voies de bon sens
+
+Cordialement,
+Bob Smith
+

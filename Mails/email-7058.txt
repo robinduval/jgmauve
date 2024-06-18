@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 18 Oct 2004 00:00:00 +0000
+Message-ID: <1401478459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre il faut de toute urgence ne pas négliger chacune des alternatives s'offrant à nous
+
+Cordialement,
+Emma Lee
+

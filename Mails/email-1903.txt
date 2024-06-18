@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 10 Nov 2009 00:00:00 +0000
+Message-ID: <6828945328@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie présente il convient de anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

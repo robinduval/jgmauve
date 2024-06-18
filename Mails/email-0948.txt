@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Sat, 13 Sep 2008 00:00:00 +0000
+Message-ID: <4321992658@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation actuelle il serait intéressant de examiner chacune des voies envisageables
+
+Cordialement,
+Michael Taylor
+

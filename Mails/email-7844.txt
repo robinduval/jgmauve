@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 17 Feb 2003 00:00:00 +0000
+Message-ID: <9870007317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui nous occupe il est nécessaire de anticiper toutes les alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

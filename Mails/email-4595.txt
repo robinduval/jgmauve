@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 06 Mar 2005 00:00:00 +0000
+Message-ID: <3596891270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de la société il faut de toute urgence étudier toutes les problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

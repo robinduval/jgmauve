@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Thu, 09 Feb 2006 00:00:00 +0000
+Message-ID: <4633387725@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle on se doit de ne pas négliger toutes les voies envisageables
+
+Cordialement,
+Samuel White
+

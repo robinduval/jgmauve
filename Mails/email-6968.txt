@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 19 Mar 2004 00:00:00 +0000
+Message-ID: <1800952091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui est la nôtre on ne peut se passer de anticiper la majorité des alternatives possibles
+
+Cordialement,
+Michael Taylor
+

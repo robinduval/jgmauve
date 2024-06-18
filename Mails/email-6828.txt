@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Tue, 07 Jun 2005 00:00:00 +0000
+Message-ID: <3695273503@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation induite il est nécessaire de imaginer la majorité des voies possibles
+
+Cordialement,
+Jean Neige
+

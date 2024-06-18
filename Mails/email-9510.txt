@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 29 May 2007 00:00:00 +0000
+Message-ID: <1887199964@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de la société il serait intéressant de avoir à l'esprit toutes les issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

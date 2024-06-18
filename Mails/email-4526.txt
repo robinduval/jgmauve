@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 08 May 2009 00:00:00 +0000
+Message-ID: <2536688047@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de ces derniers temps il serait bon de examiner toutes les issues possibles
+
+Cordialement,
+Michael Taylor
+

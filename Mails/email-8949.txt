@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 31 Mar 2000 00:00:00 +0000
+Message-ID: <1489195476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose qui est la nôtre il serait intéressant de examiner certaines voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

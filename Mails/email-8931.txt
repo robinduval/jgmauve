@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 26 Mar 2001 00:00:00 +0000
+Message-ID: <1099631032@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps il faut de toute urgence anticiper la globalité des problématiques envisageables
+
+Cordialement,
+Emma Lee
+

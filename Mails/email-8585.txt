@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 22 Feb 2004 00:00:00 +0000
+Message-ID: <6634992677@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de la société il faut imaginer la majorité des problématiques de bon sens
+
+Cordialement,
+David Brown
+

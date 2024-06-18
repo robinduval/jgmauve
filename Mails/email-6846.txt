@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 09 Mar 2001 00:00:00 +0000
+Message-ID: <6107129625@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de ces derniers temps il faut de toute urgence ne pas négliger toutes les solutions possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 22 Jan 2005 00:00:00 +0000
+Message-ID: <1486510774@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation conjoncturelle il serait bon de étudier certaines issues possibles
+
+Cordialement,
+Samuel White
+

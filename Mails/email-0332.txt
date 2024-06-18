@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Tue, 09 Jul 2002 00:00:00 +0000
+Message-ID: <2094821634@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité présente on ne peut se passer de anticiper la totalité des alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

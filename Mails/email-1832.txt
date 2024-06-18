@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Mon, 28 Jan 2008 00:00:00 +0000
+Message-ID: <2549516197@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de cette fin de siècle on se doit de ne pas négliger l'ensemble des voies de bon sens
+
+Cordialement,
+David Brown
+

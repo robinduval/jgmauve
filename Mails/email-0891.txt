@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 07 Dec 2009 00:00:00 +0000
+Message-ID: <4900140720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre il serait intéressant de s'intéresser à l'ensemble des problématiques possibles
+
+Cordialement,
+David Brown
+

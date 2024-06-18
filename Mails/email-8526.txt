@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 07 Dec 2009 00:00:00 +0000
+Message-ID: <9086526381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture présente il faut de toute urgence se préoccuper de certaines issues s'offrant à nous
+
+Cordialement,
+William Jackson
+

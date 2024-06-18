@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Sat, 06 Jan 2007 00:00:00 +0000
+Message-ID: <7359777797@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de cette fin de siècle il faut de toute urgence anticiper la majorité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

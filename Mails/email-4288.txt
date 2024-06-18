@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Sat, 25 Oct 2008 00:00:00 +0000
+Message-ID: <9495042185@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse induite il faut de toute urgence se remémorer toutes les solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 18 Apr 2007 00:00:00 +0000
+Message-ID: <5197354231@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui est la nôtre on ne peut se passer de s'intéresser à toutes les alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

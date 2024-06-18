@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Fri, 24 Apr 2009 00:00:00 +0000
+Message-ID: <2023664806@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle on ne peut se passer de se remémorer certaines alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

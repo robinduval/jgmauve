@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 08 Jan 2000 00:00:00 +0000
+Message-ID: <3173772747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui nous occupe il est nécessaire de se remémorer toutes les problématiques envisageables
+
+Cordialement,
+Jean Neige
+

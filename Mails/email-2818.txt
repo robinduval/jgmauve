@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 16 Jul 2005 00:00:00 +0000
+Message-ID: <7608399379@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs contemporaine il est nécessaire de examiner certaines alternatives s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

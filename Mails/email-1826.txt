@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 24 Nov 2002 00:00:00 +0000
+Message-ID: <4045665038@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture présente il faut de toute urgence s'intéresser à la somme des voies possibles
+
+Cordialement,
+Daniel Clark
+

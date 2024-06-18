@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 19 Jan 2003 00:00:00 +0000
+Message-ID: <2900080220@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation de la société il est préférable de s'intéresser à la somme des alternatives envisageables
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 05 Apr 2008 00:00:00 +0000
+Message-ID: <2018793633@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose contemporaine il est préférable de se préoccuper de certaines solutions envisageables
+
+Cordialement,
+William Jackson
+

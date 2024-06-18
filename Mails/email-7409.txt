@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 23 Feb 2007 00:00:00 +0000
+Message-ID: <8786794589@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il faut imaginer la somme des alternatives déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

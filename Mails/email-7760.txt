@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 13 Nov 2000 00:00:00 +0000
+Message-ID: <6993510634@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture actuelle on ne peut se passer de ne pas négliger la totalité des alternatives possibles
+
+Cordialement,
+Olivia Harris
+

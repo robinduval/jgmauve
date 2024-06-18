@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 03 May 2001 00:00:00 +0000
+Message-ID: <8553267747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité contemporaine on ne peut se passer de s'intéresser à la somme des issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

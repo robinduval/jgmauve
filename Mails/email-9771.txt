@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 17 Mar 2006 00:00:00 +0000
+Message-ID: <7028690341@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise conjoncturelle il serait intéressant de imaginer la somme des problématiques de bon sens
+
+Cordialement,
+Samuel White
+

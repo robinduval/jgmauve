@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 06 Aug 2005 00:00:00 +0000
+Message-ID: <3188729869@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il faut anticiper la majorité des problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

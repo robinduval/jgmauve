@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 18 Apr 2000 00:00:00 +0000
+Message-ID: <9717850556@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture actuelle on ne peut se passer de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Emma Lee
+

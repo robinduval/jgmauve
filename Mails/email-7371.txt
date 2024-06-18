@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 26 Jan 2004 00:00:00 +0000
+Message-ID: <5502036864@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie actuelle on ne peut se passer de anticiper certaines voies envisageables
+
+Cordialement,
+Laura Wilson
+

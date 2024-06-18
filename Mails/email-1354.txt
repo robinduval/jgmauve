@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 09 Jan 2008 00:00:00 +0000
+Message-ID: <2934140862@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité induite il est nécessaire de se préoccuper de l'ensemble des solutions envisageables
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 09 Sep 2000 00:00:00 +0000
+Message-ID: <2756393419@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose qui nous occupe on ne peut se passer de examiner toutes les alternatives possibles
+
+Cordialement,
+Laura Wilson
+

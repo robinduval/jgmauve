@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 05 Oct 2002 00:00:00 +0000
+Message-ID: <3760123902@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation conjoncturelle il faut de toute urgence examiner certaines issues de bon sens
+
+Cordialement,
+Alice Dupont
+

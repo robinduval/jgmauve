@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 26 Nov 2001 00:00:00 +0000
+Message-ID: <8177524814@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance conjoncturelle il serait bon de anticiper toutes les voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 02 Feb 2005 00:00:00 +0000
+Message-ID: <7899954082@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise présente il est nécessaire de étudier toutes les voies envisageables
+
+Cordialement,
+Laura Wilson
+

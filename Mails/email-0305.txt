@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 09 Sep 2005 00:00:00 +0000
+Message-ID: <4888500877@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance conjoncturelle il serait intéressant de anticiper la totalité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

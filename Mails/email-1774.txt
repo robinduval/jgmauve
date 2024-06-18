@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Wed, 14 Feb 2007 00:00:00 +0000
+Message-ID: <3018014729@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe on se doit de étudier la totalité des alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

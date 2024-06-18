@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Mon, 06 Mar 2000 00:00:00 +0000
+Message-ID: <1913823230@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de la société il convient de s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+Emma Lee
+

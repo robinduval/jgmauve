@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 28 Jul 2008 00:00:00 +0000
+Message-ID: <9397250369@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il convient de s'intéresser à la totalité des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

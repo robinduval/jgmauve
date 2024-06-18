@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 27 Jan 2008 00:00:00 +0000
+Message-ID: <5182425840@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui est la nôtre il serait bon de s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

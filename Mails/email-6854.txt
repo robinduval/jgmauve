@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 19 Apr 2001 00:00:00 +0000
+Message-ID: <7643565639@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose qui est la nôtre il est préférable de anticiper la globalité des solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

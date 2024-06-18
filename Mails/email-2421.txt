@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 02 Oct 2000 00:00:00 +0000
+Message-ID: <7771862183@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle il serait intéressant de se remémorer l'ensemble des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

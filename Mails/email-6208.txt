@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 20 Jul 2004 00:00:00 +0000
+Message-ID: <8671230300@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose actuelle il convient de examiner toutes les solutions de bon sens
+
+Cordialement,
+David Brown
+

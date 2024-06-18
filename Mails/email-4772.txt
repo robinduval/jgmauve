@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 13 Jun 2005 00:00:00 +0000
+Message-ID: <4242598997@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance actuelle il serait bon de se préoccuper de l'ensemble des alternatives possibles
+
+Cordialement,
+William Jackson
+

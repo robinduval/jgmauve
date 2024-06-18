@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 20 Nov 2002 00:00:00 +0000
+Message-ID: <9501596207@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose qui est la nôtre on ne peut se passer de imaginer la majorité des solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

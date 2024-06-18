@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 11 Aug 2008 00:00:00 +0000
+Message-ID: <1857140180@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation actuelle il faut de toute urgence étudier certaines issues envisageables
+
+Cordialement,
+Laura Wilson
+

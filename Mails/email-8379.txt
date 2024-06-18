@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 09 Nov 2004 00:00:00 +0000
+Message-ID: <6253345264@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de cette fin de siècle il serait bon de imaginer la majorité des solutions envisageables
+
+Cordialement,
+John Doe
+

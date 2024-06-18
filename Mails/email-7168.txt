@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 17 Nov 2004 00:00:00 +0000
+Message-ID: <1496729737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation induite il est préférable de se préoccuper de la totalité des problématiques s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 25 Nov 2006 00:00:00 +0000
+Message-ID: <4614601574@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation présente il faut se remémorer la somme des voies possibles
+
+Cordialement,
+William Jackson
+

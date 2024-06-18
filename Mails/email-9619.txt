@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Annonce de vacances
+Date: Sat, 06 Dec 2003 00:00:00 +0000
+Message-ID: <2275514142@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il serait intéressant de se préoccuper de certaines solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

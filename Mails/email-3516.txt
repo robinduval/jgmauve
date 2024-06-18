@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Thu, 06 Jul 2000 00:00:00 +0000
+Message-ID: <3937435842@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie induite il serait intéressant de étudier toutes les issues possibles
+
+Cordialement,
+Daniel Clark
+

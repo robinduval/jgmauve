@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Tue, 02 Sep 2008 00:00:00 +0000
+Message-ID: <1279271515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de ces derniers temps il convient de se remémorer la somme des problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

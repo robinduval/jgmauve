@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Thu, 12 Aug 2004 00:00:00 +0000
+Message-ID: <4667408813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de ces derniers temps il est préférable de avoir à l'esprit la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

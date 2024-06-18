@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 11 Jan 2002 00:00:00 +0000
+Message-ID: <8241372482@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation contemporaine il est préférable de s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

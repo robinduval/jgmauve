@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 07 Dec 2000 00:00:00 +0000
+Message-ID: <1433253457@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose actuelle on ne peut se passer de avoir à l'esprit la globalité des problématiques possibles
+
+Cordialement,
+David Brown
+

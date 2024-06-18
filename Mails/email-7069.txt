@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 21 Sep 2003 00:00:00 +0000
+Message-ID: <7656842892@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il serait bon de étudier la totalité des solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

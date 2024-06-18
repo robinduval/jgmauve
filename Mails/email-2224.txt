@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 21 Oct 2006 00:00:00 +0000
+Message-ID: <1651498101@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui nous occupe on se doit de étudier la majorité des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

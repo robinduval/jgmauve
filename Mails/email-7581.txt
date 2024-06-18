@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 04 Jan 2002 00:00:00 +0000
+Message-ID: <9946594037@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de cette fin de siècle il serait intéressant de s'intéresser à la totalité des voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

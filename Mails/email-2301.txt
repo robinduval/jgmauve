@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 14 Dec 2006 00:00:00 +0000
+Message-ID: <3321198996@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation actuelle il serait bon de imaginer chacune des alternatives de bon sens
+
+Cordialement,
+John Doe
+

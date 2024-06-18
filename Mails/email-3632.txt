@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Thu, 29 Nov 2001 00:00:00 +0000
+Message-ID: <2469362038@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation contemporaine il convient de anticiper toutes les alternatives s'offrant à nous
+
+Cordialement,
+Emma Lee
+

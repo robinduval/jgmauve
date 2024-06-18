@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 23 Nov 2006 00:00:00 +0000
+Message-ID: <5048475391@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance induite il faut s'intéresser à la globalité des solutions possibles
+
+Cordialement,
+Eva Thomas
+

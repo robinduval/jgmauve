@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 23 Jun 2000 00:00:00 +0000
+Message-ID: <9520266586@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture qui nous occupe il ne faut pas négliger de ne pas négliger certaines voies s'offrant à nous
+
+Cordialement,
+David Brown
+

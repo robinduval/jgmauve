@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 25 Feb 2002 00:00:00 +0000
+Message-ID: <5716502924@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation de ces derniers temps on se doit de examiner la globalité des alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

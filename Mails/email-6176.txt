@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 27 Aug 2004 00:00:00 +0000
+Message-ID: <2136067353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse contemporaine il faut anticiper chacune des alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Wed, 22 Oct 2008 00:00:00 +0000
+Message-ID: <5565763303@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie de cette fin de siècle il faut avoir à l'esprit toutes les solutions possibles
+
+Cordialement,
+David Brown
+

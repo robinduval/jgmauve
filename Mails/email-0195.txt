@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Sun, 19 Mar 2000 00:00:00 +0000
+Message-ID: <8261079496@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de cette fin de siècle il est préférable de anticiper toutes les problématiques envisageables
+
+Cordialement,
+Jean Neige
+

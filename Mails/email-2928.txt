@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 16 Jul 2008 00:00:00 +0000
+Message-ID: <3927070519@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité présente il faut se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

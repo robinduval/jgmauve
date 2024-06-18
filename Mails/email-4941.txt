@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 19 Jan 2008 00:00:00 +0000
+Message-ID: <8169033583@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose contemporaine il serait bon de se remémorer chacune des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

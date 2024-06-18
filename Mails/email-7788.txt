@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 16 Nov 2008 00:00:00 +0000
+Message-ID: <7713775394@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de la société il convient de avoir à l'esprit toutes les alternatives de bon sens
+
+Cordialement,
+David Brown
+

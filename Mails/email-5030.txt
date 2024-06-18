@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 17 Jan 2005 00:00:00 +0000
+Message-ID: <2149667619@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle il faut imaginer la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

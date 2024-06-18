@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Sun, 03 Jul 2005 00:00:00 +0000
+Message-ID: <7717412488@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation contemporaine il serait bon de s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+Laura Wilson
+

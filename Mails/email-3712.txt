@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 04 Feb 2003 00:00:00 +0000
+Message-ID: <7951424246@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine on se doit de se remémorer la globalité des alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Fri, 08 Feb 2008 00:00:00 +0000
+Message-ID: <7445363714@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation actuelle il faut de toute urgence ne pas négliger la majorité des solutions possibles
+
+Cordialement,
+Samuel White
+

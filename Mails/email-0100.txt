@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 25 Aug 2007 00:00:00 +0000
+Message-ID: <4605596338@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture conjoncturelle il est préférable de imaginer toutes les problématiques envisageables
+
+Cordialement,
+William Jackson
+

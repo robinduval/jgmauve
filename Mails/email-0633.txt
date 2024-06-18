@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Wed, 05 Jan 2005 00:00:00 +0000
+Message-ID: <8928306180@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation contemporaine il est nécessaire de examiner toutes les voies envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 29 Jul 2002 00:00:00 +0000
+Message-ID: <2001787820@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation de la société il serait bon de prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 13 Jan 2004 00:00:00 +0000
+Message-ID: <6151717637@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation qui est la nôtre il ne faut pas négliger de prendre en considération toutes les alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

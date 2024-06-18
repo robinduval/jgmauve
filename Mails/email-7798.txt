@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 08 Apr 2008 00:00:00 +0000
+Message-ID: <4614227001@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de la société il est nécessaire de avoir à l'esprit la majorité des problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

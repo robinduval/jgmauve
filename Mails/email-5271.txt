@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 26 Apr 2001 00:00:00 +0000
+Message-ID: <3381809077@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance qui nous occupe on ne peut se passer de se remémorer la globalité des voies possibles
+
+Cordialement,
+Samuel White
+

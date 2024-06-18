@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 22 Oct 2003 00:00:00 +0000
+Message-ID: <3805909961@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre il serait intéressant de avoir à l'esprit certaines problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

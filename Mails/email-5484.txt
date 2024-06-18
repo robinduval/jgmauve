@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 17 Jan 2004 00:00:00 +0000
+Message-ID: <1906354322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il serait bon de examiner la globalité des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

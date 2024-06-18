@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 05 Aug 2004 00:00:00 +0000
+Message-ID: <3062739434@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose contemporaine on ne peut se passer de imaginer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Sat, 08 Sep 2001 00:00:00 +0000
+Message-ID: <5348444558@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie présente il serait bon de imaginer l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 21 Jun 2001 00:00:00 +0000
+Message-ID: <4271602815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de cette fin de siècle il convient de s'intéresser à toutes les problématiques possibles
+
+Cordialement,
+Emma Lee
+

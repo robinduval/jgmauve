@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 09 May 2005 00:00:00 +0000
+Message-ID: <5982574038@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de la société il serait bon de se préoccuper de la totalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

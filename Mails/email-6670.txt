@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 04 Aug 2002 00:00:00 +0000
+Message-ID: <3474010611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de cette fin de siècle on ne peut se passer de prendre en considération toutes les alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

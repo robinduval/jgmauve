@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 30 Jun 2005 00:00:00 +0000
+Message-ID: <8364784995@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps il convient de prendre en considération toutes les issues s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

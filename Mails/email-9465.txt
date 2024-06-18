@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 11 Jun 2006 00:00:00 +0000
+Message-ID: <2428188596@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il serait bon de prendre en considération la totalité des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Tue, 26 Dec 2006 00:00:00 +0000
+Message-ID: <1937790649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il convient de étudier l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Samuel White
+

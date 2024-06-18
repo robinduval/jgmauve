@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Sun, 26 Mar 2006 00:00:00 +0000
+Message-ID: <1706952657@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité contemporaine il faut anticiper la somme des alternatives de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 25 May 2000 00:00:00 +0000
+Message-ID: <7687678810@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité contemporaine il convient de ne pas négliger toutes les voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

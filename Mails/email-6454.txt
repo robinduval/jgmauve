@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 31 Dec 2006 00:00:00 +0000
+Message-ID: <4209351434@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture qui nous occupe on se doit de examiner certaines voies de bon sens
+
+Cordialement,
+Olivia Harris
+

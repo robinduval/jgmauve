@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 20 May 2007 00:00:00 +0000
+Message-ID: <9430706425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il serait intéressant de ne pas négliger toutes les problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

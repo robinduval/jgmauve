@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 20 Jun 2007 00:00:00 +0000
+Message-ID: <8190098466@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de la société il faut de toute urgence se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

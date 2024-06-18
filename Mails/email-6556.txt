@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 12 May 2001 00:00:00 +0000
+Message-ID: <6034627327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de la société on se doit de ne pas négliger certaines problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

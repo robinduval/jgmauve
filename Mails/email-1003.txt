@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 28 Sep 2009 00:00:00 +0000
+Message-ID: <8912198535@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs présente on se doit de avoir à l'esprit la globalité des voies envisageables
+
+Cordialement,
+Jean Neige
+

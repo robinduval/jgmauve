@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 19 Apr 2007 00:00:00 +0000
+Message-ID: <9893367506@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de cette fin de siècle il serait intéressant de examiner la somme des issues de bon sens
+
+Cordialement,
+Samuel White
+

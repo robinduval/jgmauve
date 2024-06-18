@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Tue, 09 May 2000 00:00:00 +0000
+Message-ID: <2174796242@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse contemporaine il convient de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

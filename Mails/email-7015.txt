@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Fri, 27 Jun 2008 00:00:00 +0000
+Message-ID: <7873180561@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de la société il faut de toute urgence se préoccuper de toutes les problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 20 Jul 2009 00:00:00 +0000
+Message-ID: <3513599647@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse de cette fin de siècle il ne faut pas négliger de avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+William Jackson
+

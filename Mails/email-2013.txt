@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 13 Nov 2009 00:00:00 +0000
+Message-ID: <5036678427@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs induite il faut de toute urgence s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

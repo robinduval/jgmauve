@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Sat, 26 Nov 2005 00:00:00 +0000
+Message-ID: <9051822654@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de la société il serait bon de examiner la totalité des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 21 Mar 2006 00:00:00 +0000
+Message-ID: <5162150872@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il convient de étudier chacune des alternatives possibles
+
+Cordialement,
+John Doe
+

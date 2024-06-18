@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 28 Sep 2000 00:00:00 +0000
+Message-ID: <1049517992@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation induite on se doit de s'intéresser à la majorité des alternatives envisageables
+
+Cordialement,
+William Jackson
+

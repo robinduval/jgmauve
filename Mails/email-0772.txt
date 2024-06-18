@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 29 Jun 2001 00:00:00 +0000
+Message-ID: <3022834474@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle on ne peut se passer de se préoccuper de la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Jean Neige
+

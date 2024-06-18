@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 27 Mar 2003 00:00:00 +0000
+Message-ID: <3732331986@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation actuelle il est nécessaire de ne pas négliger certaines problématiques envisageables
+
+Cordialement,
+David Brown
+

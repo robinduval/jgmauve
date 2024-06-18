@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 30 Aug 2004 00:00:00 +0000
+Message-ID: <5989292578@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation conjoncturelle il ne faut pas négliger de se remémorer chacune des voies de bon sens
+
+Cordialement,
+Sophie Martin
+

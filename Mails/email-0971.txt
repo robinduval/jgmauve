@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 06 Oct 2002 00:00:00 +0000
+Message-ID: <7984003499@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité conjoncturelle il serait intéressant de anticiper chacune des problématiques possibles
+
+Cordialement,
+Emma Lee
+

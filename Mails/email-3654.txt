@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Mon, 26 Nov 2001 00:00:00 +0000
+Message-ID: <6386873914@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation induite il faut de toute urgence ne pas négliger l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

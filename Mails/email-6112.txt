@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 14 Nov 2009 00:00:00 +0000
+Message-ID: <4619193324@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de la société il est préférable de se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

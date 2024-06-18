@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 14 Sep 2005 00:00:00 +0000
+Message-ID: <4995146111@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture conjoncturelle il faut examiner toutes les alternatives s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

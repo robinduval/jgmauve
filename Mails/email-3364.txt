@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 28 Aug 2002 00:00:00 +0000
+Message-ID: <1265768866@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose contemporaine on se doit de examiner l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

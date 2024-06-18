@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Mon, 30 Dec 2002 00:00:00 +0000
+Message-ID: <7734467643@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance contemporaine il serait bon de étudier la majorité des issues envisageables
+
+Cordialement,
+William Jackson
+

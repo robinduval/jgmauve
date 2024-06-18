@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 26 Oct 2002 00:00:00 +0000
+Message-ID: <9201941331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation présente on ne peut se passer de se préoccuper de certaines alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

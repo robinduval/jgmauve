@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 24 Mar 2002 00:00:00 +0000
+Message-ID: <7582299605@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de ces derniers temps il faut étudier l'ensemble des solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Mon, 28 Jul 2008 00:00:00 +0000
+Message-ID: <9858327920@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il convient de avoir à l'esprit chacune des voies possibles
+
+Cordialement,
+Michael Taylor
+

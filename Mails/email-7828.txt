@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 18 May 2001 00:00:00 +0000
+Message-ID: <2406734241@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il faut étudier chacune des voies possibles
+
+Cordialement,
+Eva Thomas
+

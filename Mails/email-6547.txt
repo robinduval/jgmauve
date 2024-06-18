@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 29 May 2007 00:00:00 +0000
+Message-ID: <8831887071@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité conjoncturelle on se doit de imaginer la globalité des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

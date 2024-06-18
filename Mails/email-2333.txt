@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Wed, 12 May 2004 00:00:00 +0000
+Message-ID: <1310427318@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine il est préférable de se remémorer la totalité des solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

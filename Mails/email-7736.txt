@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 24 Dec 2001 00:00:00 +0000
+Message-ID: <9434161601@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture conjoncturelle il est préférable de examiner toutes les problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

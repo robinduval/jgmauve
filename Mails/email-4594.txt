@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 03 Nov 2002 00:00:00 +0000
+Message-ID: <2616324845@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de la société il est nécessaire de imaginer chacune des problématiques déjà en notre possession
+
+Cordialement,
+Jean Neige
+

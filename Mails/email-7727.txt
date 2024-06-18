@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 08 Sep 2003 00:00:00 +0000
+Message-ID: <6910289515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il faut se remémorer certaines problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

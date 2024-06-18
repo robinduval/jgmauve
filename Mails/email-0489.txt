@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 26 Feb 2001 00:00:00 +0000
+Message-ID: <6116462359@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose induite il faut s'intéresser à chacune des issues envisageables
+
+Cordialement,
+Samuel White
+

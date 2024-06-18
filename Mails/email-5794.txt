@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Feb 2001 00:00:00 +0000
+Message-ID: <5811926798@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de la société il convient de se remémorer la totalité des solutions possibles
+
+Cordialement,
+Laura Wilson
+

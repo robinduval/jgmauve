@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Wed, 06 Feb 2008 00:00:00 +0000
+Message-ID: <2971988812@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente il est nécessaire de étudier toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

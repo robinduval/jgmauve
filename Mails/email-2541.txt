@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 09 Aug 2001 00:00:00 +0000
+Message-ID: <2447268875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de ces derniers temps il faut de toute urgence anticiper toutes les solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

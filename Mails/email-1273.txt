@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Feb 2007 00:00:00 +0000
+Message-ID: <5406440501@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose conjoncturelle il serait intéressant de avoir à l'esprit la totalité des issues possibles
+
+Cordialement,
+Daniel Clark
+

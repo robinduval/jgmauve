@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 26 Jul 2006 00:00:00 +0000
+Message-ID: <3756376114@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui est la nôtre il faut ne pas négliger l'ensemble des solutions envisageables
+
+Cordialement,
+David Brown
+

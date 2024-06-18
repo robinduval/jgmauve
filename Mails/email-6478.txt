@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 08 Jan 2009 00:00:00 +0000
+Message-ID: <8685533990@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose actuelle il convient de anticiper la somme des solutions déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

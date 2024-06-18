@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 06 Sep 2006 00:00:00 +0000
+Message-ID: <7731303374@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation conjoncturelle il serait intéressant de examiner la globalité des issues possibles
+
+Cordialement,
+Jean Neige
+

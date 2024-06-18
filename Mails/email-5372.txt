@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 11 Aug 2004 00:00:00 +0000
+Message-ID: <1860104994@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de la société il est préférable de anticiper chacune des issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

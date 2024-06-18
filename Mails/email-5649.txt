@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 01 Sep 2000 00:00:00 +0000
+Message-ID: <4067238974@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse présente il est préférable de examiner toutes les solutions possibles
+
+Cordialement,
+John Doe
+

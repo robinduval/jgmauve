@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Thu, 24 Apr 2008 00:00:00 +0000
+Message-ID: <2402729418@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation qui est la nôtre il serait bon de anticiper certaines issues de bon sens
+
+Cordialement,
+John Doe
+

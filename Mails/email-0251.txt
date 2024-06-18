@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 22 Mar 2001 00:00:00 +0000
+Message-ID: <9476050055@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie actuelle il est nécessaire de se préoccuper de toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

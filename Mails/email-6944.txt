@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Thu, 27 Mar 2003 00:00:00 +0000
+Message-ID: <8291662916@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de la société il serait intéressant de s'intéresser à chacune des alternatives s'offrant à nous
+
+Cordialement,
+William Jackson
+

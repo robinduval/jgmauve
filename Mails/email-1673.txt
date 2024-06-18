@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 09 Dec 2002 00:00:00 +0000
+Message-ID: <9535461019@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui est la nôtre il serait bon de se remémorer la majorité des alternatives possibles
+
+Cordialement,
+Alice Dupont
+

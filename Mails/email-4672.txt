@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 03 Oct 2000 00:00:00 +0000
+Message-ID: <4425424166@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse induite il serait intéressant de avoir à l'esprit chacune des problématiques envisageables
+
+Cordialement,
+John Doe
+

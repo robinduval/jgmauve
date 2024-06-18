@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 04 Jan 2003 00:00:00 +0000
+Message-ID: <8350362762@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie actuelle il est préférable de imaginer la globalité des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

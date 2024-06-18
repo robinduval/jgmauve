@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 14 Dec 2000 00:00:00 +0000
+Message-ID: <2716631726@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie induite on ne peut se passer de s'intéresser à la globalité des solutions possibles
+
+Cordialement,
+Laura Wilson
+

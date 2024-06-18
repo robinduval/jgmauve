@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Nov 2001 00:00:00 +0000
+Message-ID: <2480258609@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il est nécessaire de avoir à l'esprit toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

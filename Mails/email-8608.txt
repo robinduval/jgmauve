@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 07 Oct 2008 00:00:00 +0000
+Message-ID: <9608948830@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de cette fin de siècle il convient de se préoccuper de chacune des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

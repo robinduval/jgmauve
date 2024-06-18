@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 19 Sep 2001 00:00:00 +0000
+Message-ID: <4613625769@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise conjoncturelle on se doit de étudier la totalité des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

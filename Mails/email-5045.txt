@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Mon, 19 May 2008 00:00:00 +0000
+Message-ID: <6946989649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui est la nôtre il convient de s'intéresser à l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

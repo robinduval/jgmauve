@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 13 Apr 2000 00:00:00 +0000
+Message-ID: <6148035821@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui est la nôtre il est préférable de imaginer la majorité des problématiques de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 09 Sep 2001 00:00:00 +0000
+Message-ID: <5823401498@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation actuelle il faut de toute urgence imaginer certaines solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 22 Jan 2004 00:00:00 +0000
+Message-ID: <9428663655@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de ces derniers temps il serait bon de avoir à l'esprit certaines solutions s'offrant à nous
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 22 Mar 2002 00:00:00 +0000
+Message-ID: <6099841273@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il convient de anticiper chacune des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

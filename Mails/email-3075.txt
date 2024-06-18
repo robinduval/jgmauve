@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 15 Sep 2002 00:00:00 +0000
+Message-ID: <4951636356@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de la société on ne peut se passer de avoir à l'esprit toutes les solutions possibles
+
+Cordialement,
+Eva Thomas
+

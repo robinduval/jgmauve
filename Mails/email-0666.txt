@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 09 Apr 2008 00:00:00 +0000
+Message-ID: <7357881195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui est la nôtre on ne peut se passer de examiner l'ensemble des voies envisageables
+
+Cordialement,
+Emma Lee
+

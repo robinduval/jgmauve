@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 14 Apr 2000 00:00:00 +0000
+Message-ID: <6779398814@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation actuelle il est préférable de avoir à l'esprit toutes les problématiques possibles
+
+Cordialement,
+Samuel White
+

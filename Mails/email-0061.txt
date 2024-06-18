@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 26 Jan 2005 00:00:00 +0000
+Message-ID: <2994412254@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe on ne peut se passer de anticiper certaines voies possibles
+
+Cordialement,
+Michael Taylor
+

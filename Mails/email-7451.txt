@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 11 Mar 2001 00:00:00 +0000
+Message-ID: <8024687752@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de la société il ne faut pas négliger de avoir à l'esprit l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

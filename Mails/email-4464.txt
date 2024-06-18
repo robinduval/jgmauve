@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 23 Jan 2000 00:00:00 +0000
+Message-ID: <5642630470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation qui nous occupe il faut anticiper toutes les issues possibles
+
+Cordialement,
+William Jackson
+

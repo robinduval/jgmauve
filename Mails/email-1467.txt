@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 03 Jan 2004 00:00:00 +0000
+Message-ID: <8336309746@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture qui est la nôtre il convient de s'intéresser à la totalité des issues de bon sens
+
+Cordialement,
+Emma Lee
+

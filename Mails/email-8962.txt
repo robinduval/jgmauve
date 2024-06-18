@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 18 Dec 2005 00:00:00 +0000
+Message-ID: <7091710808@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de cette fin de siècle il faut de toute urgence imaginer certaines problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

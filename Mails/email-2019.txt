@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 15 Dec 2000 00:00:00 +0000
+Message-ID: <3797578787@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose qui nous occupe on se doit de prendre en considération la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

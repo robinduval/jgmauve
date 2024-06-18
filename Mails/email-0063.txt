@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Mon, 22 Jan 2007 00:00:00 +0000
+Message-ID: <2508961133@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité induite on ne peut se passer de ne pas négliger certaines problématiques déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

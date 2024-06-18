@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Mon, 31 Dec 2001 00:00:00 +0000
+Message-ID: <6509555659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse actuelle on se doit de anticiper toutes les solutions possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 21 Jun 2000 00:00:00 +0000
+Message-ID: <3875502969@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance qui nous occupe il faut se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

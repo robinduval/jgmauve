@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 28 Jul 2003 00:00:00 +0000
+Message-ID: <4248710410@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle il est préférable de examiner la majorité des voies envisageables
+
+Cordialement,
+Laura Wilson
+

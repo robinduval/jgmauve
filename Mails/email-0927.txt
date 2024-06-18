@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 13 Oct 2004 00:00:00 +0000
+Message-ID: <7597132652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance actuelle on ne peut se passer de s'intéresser à toutes les problématiques possibles
+
+Cordialement,
+Emma Lee
+

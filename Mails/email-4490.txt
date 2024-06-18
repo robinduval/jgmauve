@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Tue, 18 Dec 2007 00:00:00 +0000
+Message-ID: <4529118460@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de cette fin de siècle il serait bon de se préoccuper de l'ensemble des voies envisageables
+
+Cordialement,
+Daniel Clark
+

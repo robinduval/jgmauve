@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 14 Mar 2009 00:00:00 +0000
+Message-ID: <5625605016@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité présente il faut de toute urgence étudier chacune des solutions possibles
+
+Cordialement,
+John Doe
+

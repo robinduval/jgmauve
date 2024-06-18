@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 26 Jun 2004 00:00:00 +0000
+Message-ID: <8129892494@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs qui est la nôtre il serait bon de s'intéresser à la totalité des problématiques envisageables
+
+Cordialement,
+Jean Neige
+

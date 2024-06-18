@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Tue, 10 Jun 2008 00:00:00 +0000
+Message-ID: <7200050022@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation conjoncturelle il serait bon de prendre en considération toutes les voies possibles
+
+Cordialement,
+Samuel White
+

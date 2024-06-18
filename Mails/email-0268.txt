@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 19 Oct 2008 00:00:00 +0000
+Message-ID: <9987748571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité qui nous occupe il est préférable de se préoccuper de l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

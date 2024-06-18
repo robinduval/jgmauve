@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 12 Aug 2009 00:00:00 +0000
+Message-ID: <3260282287@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose présente il faut de toute urgence étudier la majorité des alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

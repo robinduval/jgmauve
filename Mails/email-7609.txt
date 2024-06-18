@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 25 Apr 2003 00:00:00 +0000
+Message-ID: <6914482805@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui est la nôtre il convient de anticiper l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

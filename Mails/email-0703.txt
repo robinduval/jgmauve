@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 15 Jan 2002 00:00:00 +0000
+Message-ID: <2310352907@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation contemporaine il convient de avoir à l'esprit chacune des issues envisageables
+
+Cordialement,
+Emma Lee
+

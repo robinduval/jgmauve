@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 10 Aug 2004 00:00:00 +0000
+Message-ID: <5162725548@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance contemporaine on ne peut se passer de imaginer chacune des solutions s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 14 Aug 2005 00:00:00 +0000
+Message-ID: <9383104606@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de ces derniers temps il faut de toute urgence anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

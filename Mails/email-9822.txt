@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 16 Oct 2005 00:00:00 +0000
+Message-ID: <2222057952@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité induite il faut se remémorer la majorité des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

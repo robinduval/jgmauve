@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 10 Jun 2007 00:00:00 +0000
+Message-ID: <6428002092@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie présente il serait bon de prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

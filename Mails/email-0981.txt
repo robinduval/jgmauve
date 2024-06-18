@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 31 Jul 2003 00:00:00 +0000
+Message-ID: <6730109515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de la société il serait bon de étudier la globalité des issues envisageables
+
+Cordialement,
+Samuel White
+

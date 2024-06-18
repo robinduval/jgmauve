@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 18 Sep 2008 00:00:00 +0000
+Message-ID: <7664133294@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui est la nôtre il faut de toute urgence s'intéresser à la majorité des voies s'offrant à nous
+
+Cordialement,
+Samuel White
+

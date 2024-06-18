@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 27 Dec 2004 00:00:00 +0000
+Message-ID: <6617136816@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il serait intéressant de se remémorer la majorité des issues envisageables
+
+Cordialement,
+Laura Wilson
+

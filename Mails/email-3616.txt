@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Mon, 05 Jan 2009 00:00:00 +0000
+Message-ID: <8217405162@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle il serait intéressant de avoir à l'esprit la totalité des issues possibles
+
+Cordialement,
+John Doe
+

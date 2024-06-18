@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 12 Jun 2009 00:00:00 +0000
+Message-ID: <5101065878@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité présente il est préférable de ne pas négliger certaines issues envisageables
+
+Cordialement,
+Sophie Martin
+

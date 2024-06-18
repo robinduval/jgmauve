@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 30 Nov 2006 00:00:00 +0000
+Message-ID: <7920615608@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de la société il faut anticiper toutes les alternatives de bon sens
+
+Cordialement,
+William Jackson
+

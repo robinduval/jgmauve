@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 12 Feb 2005 00:00:00 +0000
+Message-ID: <2319520571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture conjoncturelle il faut avoir à l'esprit chacune des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

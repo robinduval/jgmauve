@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 09 Sep 2003 00:00:00 +0000
+Message-ID: <4624138230@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse actuelle il faut de toute urgence se remémorer la totalité des alternatives possibles
+
+Cordialement,
+Daniel Clark
+

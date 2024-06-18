@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 25 Nov 2005 00:00:00 +0000
+Message-ID: <5351646989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui nous occupe on se doit de se préoccuper de toutes les problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

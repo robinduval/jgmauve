@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 08 May 2002 00:00:00 +0000
+Message-ID: <4915877843@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation qui nous occupe il faut de toute urgence avoir à l'esprit toutes les alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

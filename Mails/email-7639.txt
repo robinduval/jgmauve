@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Fri, 08 Oct 2004 00:00:00 +0000
+Message-ID: <8559507539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose présente il faut examiner la globalité des solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

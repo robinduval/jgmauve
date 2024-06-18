@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 08 May 2002 00:00:00 +0000
+Message-ID: <4735174770@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse de cette fin de siècle on se doit de ne pas négliger la somme des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

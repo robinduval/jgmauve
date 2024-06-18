@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 06 Mar 2007 00:00:00 +0000
+Message-ID: <5321256349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de la société il faut imaginer l'ensemble des problématiques de bon sens
+
+Cordialement,
+Samuel White
+

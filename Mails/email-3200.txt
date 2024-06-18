@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Sat, 20 May 2006 00:00:00 +0000
+Message-ID: <6356408804@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui est la nôtre il serait bon de se remémorer la majorité des problématiques de bon sens
+
+Cordialement,
+Alice Dupont
+

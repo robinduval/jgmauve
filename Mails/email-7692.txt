@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 13 Apr 2003 00:00:00 +0000
+Message-ID: <7662514558@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il ne faut pas négliger de ne pas négliger la globalité des issues envisageables
+
+Cordialement,
+Daniel Clark
+

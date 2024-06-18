@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Wed, 23 Sep 2009 00:00:00 +0000
+Message-ID: <2300665965@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise présente il faut prendre en considération toutes les voies envisageables
+
+Cordialement,
+Samuel White
+

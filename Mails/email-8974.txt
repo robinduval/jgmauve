@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 26 Mar 2007 00:00:00 +0000
+Message-ID: <1373692172@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise induite il convient de étudier toutes les issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

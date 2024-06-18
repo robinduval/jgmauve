@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 25 Jan 2005 00:00:00 +0000
+Message-ID: <5143103959@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de ces derniers temps on se doit de prendre en considération toutes les alternatives envisageables
+
+Cordialement,
+William Jackson
+

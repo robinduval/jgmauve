@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 07 Apr 2007 00:00:00 +0000
+Message-ID: <7715321558@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il ne faut pas négliger de se remémorer certaines problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

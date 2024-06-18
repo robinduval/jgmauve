@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 11 Dec 2001 00:00:00 +0000
+Message-ID: <3318781092@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de la société il est préférable de se remémorer la majorité des voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

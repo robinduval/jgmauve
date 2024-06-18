@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 25 Aug 2008 00:00:00 +0000
+Message-ID: <5987926381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de ces derniers temps il faut de toute urgence anticiper l'ensemble des alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

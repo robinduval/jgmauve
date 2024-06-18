@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Thu, 20 Jun 2002 00:00:00 +0000
+Message-ID: <8979259492@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps il faut avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+Jean Neige
+

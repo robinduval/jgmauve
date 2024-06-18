@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Fri, 23 Nov 2001 00:00:00 +0000
+Message-ID: <3394944561@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation conjoncturelle on ne peut se passer de s'intéresser à la somme des issues envisageables
+
+Cordialement,
+Daniel Clark
+

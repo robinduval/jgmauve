@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Wed, 04 Aug 2004 00:00:00 +0000
+Message-ID: <6784295969@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation présente il serait intéressant de se préoccuper de la somme des solutions s'offrant à nous
+
+Cordialement,
+William Jackson
+

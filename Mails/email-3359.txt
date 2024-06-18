@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 24 Mar 2005 00:00:00 +0000
+Message-ID: <2290684195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de la société on ne peut se passer de étudier toutes les problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

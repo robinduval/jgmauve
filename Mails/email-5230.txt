@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Thu, 23 Dec 2004 00:00:00 +0000
+Message-ID: <8395409042@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle il est préférable de ne pas négliger toutes les solutions de bon sens
+
+Cordialement,
+Samuel White
+

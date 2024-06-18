@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 18 Dec 2005 00:00:00 +0000
+Message-ID: <5698236537@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise conjoncturelle il est préférable de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

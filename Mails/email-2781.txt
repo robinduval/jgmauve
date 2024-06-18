@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 16 Mar 2008 00:00:00 +0000
+Message-ID: <6586903742@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie présente il serait bon de ne pas négliger la majorité des alternatives de bon sens
+
+Cordialement,
+John Doe
+

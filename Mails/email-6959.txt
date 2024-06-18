@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 22 Oct 2002 00:00:00 +0000
+Message-ID: <1606870609@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui est la nôtre il faut de toute urgence s'intéresser à certaines alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

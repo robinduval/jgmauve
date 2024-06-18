@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 03 May 2008 00:00:00 +0000
+Message-ID: <3637333368@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation qui nous occupe il serait bon de prendre en considération la majorité des solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

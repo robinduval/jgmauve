@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 11 May 2002 00:00:00 +0000
+Message-ID: <1212341188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente on ne peut se passer de anticiper chacune des issues s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Thu, 14 Feb 2002 00:00:00 +0000
+Message-ID: <5292168280@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité contemporaine il serait intéressant de imaginer la majorité des alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

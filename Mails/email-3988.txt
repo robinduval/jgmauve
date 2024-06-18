@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 08 May 2001 00:00:00 +0000
+Message-ID: <1504270122@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose actuelle on ne peut se passer de s'intéresser à la totalité des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

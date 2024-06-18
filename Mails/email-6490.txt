@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 26 Jul 2003 00:00:00 +0000
+Message-ID: <3467619595@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de cette fin de siècle il faut de toute urgence avoir à l'esprit toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

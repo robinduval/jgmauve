@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Tue, 26 Sep 2006 00:00:00 +0000
+Message-ID: <3785488459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps il faut de toute urgence examiner toutes les issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 04 Sep 2009 00:00:00 +0000
+Message-ID: <3181742465@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de ces derniers temps on se doit de anticiper la somme des solutions s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

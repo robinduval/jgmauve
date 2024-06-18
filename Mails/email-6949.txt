@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 22 Jun 2000 00:00:00 +0000
+Message-ID: <5402004574@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse contemporaine il faut de toute urgence s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+William Jackson
+

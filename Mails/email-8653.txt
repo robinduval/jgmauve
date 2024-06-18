@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 16 Sep 2001 00:00:00 +0000
+Message-ID: <3784047611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation conjoncturelle il serait bon de imaginer chacune des problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

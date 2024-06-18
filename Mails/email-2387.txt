@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Sun, 17 Sep 2000 00:00:00 +0000
+Message-ID: <2090761483@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs actuelle il serait bon de examiner l'ensemble des issues de bon sens
+
+Cordialement,
+John Doe
+

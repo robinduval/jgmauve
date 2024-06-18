@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 08 Mar 2008 00:00:00 +0000
+Message-ID: <4031864974@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance présente on ne peut se passer de se préoccuper de toutes les solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

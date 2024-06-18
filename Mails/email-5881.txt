@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 03 Jul 2004 00:00:00 +0000
+Message-ID: <2901504861@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs actuelle on ne peut se passer de examiner l'ensemble des voies possibles
+
+Cordialement,
+William Jackson
+

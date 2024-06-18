@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 12 Dec 2006 00:00:00 +0000
+Message-ID: <7815602091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité contemporaine il faut prendre en considération la majorité des issues possibles
+
+Cordialement,
+Laura Wilson
+

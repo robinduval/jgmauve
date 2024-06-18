@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Wed, 13 Feb 2002 00:00:00 +0000
+Message-ID: <5287509342@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie présente il faut de toute urgence anticiper chacune des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

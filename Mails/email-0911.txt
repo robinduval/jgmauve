@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 28 Nov 2006 00:00:00 +0000
+Message-ID: <1416298450@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente il serait intéressant de examiner toutes les solutions s'offrant à nous
+
+Cordialement,
+Samuel White
+

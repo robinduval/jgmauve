@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 09 May 2005 00:00:00 +0000
+Message-ID: <3612410570@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs présente il serait bon de ne pas négliger la majorité des voies envisageables
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 16 Sep 2005 00:00:00 +0000
+Message-ID: <5780820087@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise contemporaine on se doit de avoir à l'esprit la majorité des issues de bon sens
+
+Cordialement,
+Samuel White
+

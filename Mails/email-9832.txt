@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Sat, 22 Nov 2008 00:00:00 +0000
+Message-ID: <2598614485@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture présente il serait intéressant de s'intéresser à toutes les solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

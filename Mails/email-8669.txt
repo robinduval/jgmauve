@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 18 Oct 2003 00:00:00 +0000
+Message-ID: <4273457186@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle on ne peut se passer de avoir à l'esprit chacune des problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

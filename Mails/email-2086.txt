@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 02 Sep 2004 00:00:00 +0000
+Message-ID: <5540568200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation conjoncturelle il faut de toute urgence imaginer la totalité des solutions possibles
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 13 Feb 2003 00:00:00 +0000
+Message-ID: <6623302663@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs actuelle il est préférable de ne pas négliger chacune des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

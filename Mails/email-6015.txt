@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 20 Nov 2001 00:00:00 +0000
+Message-ID: <6142771055@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine on se doit de se préoccuper de la totalité des problématiques possibles
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 04 Feb 2003 00:00:00 +0000
+Message-ID: <7657816721@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il ne faut pas négliger de ne pas négliger la globalité des voies possibles
+
+Cordialement,
+Eva Thomas
+

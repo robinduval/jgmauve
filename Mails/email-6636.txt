@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 03 Sep 2003 00:00:00 +0000
+Message-ID: <1157833863@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société on se doit de étudier la somme des alternatives possibles
+
+Cordialement,
+John Doe
+

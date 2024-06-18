@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Tue, 07 Jun 2005 00:00:00 +0000
+Message-ID: <5827893362@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise présente il faut s'intéresser à la majorité des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 15 Oct 2000 00:00:00 +0000
+Message-ID: <4466887455@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente il est préférable de se préoccuper de toutes les voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

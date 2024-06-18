@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 03 Oct 2005 00:00:00 +0000
+Message-ID: <6830563740@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il est nécessaire de avoir à l'esprit chacune des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

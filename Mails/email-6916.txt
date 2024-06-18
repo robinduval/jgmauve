@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 18 Jan 2007 00:00:00 +0000
+Message-ID: <8006082112@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance présente il est préférable de se remémorer la globalité des voies envisageables
+
+Cordialement,
+Olivia Harris
+

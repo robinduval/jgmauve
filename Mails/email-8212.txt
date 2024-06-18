@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 25 Nov 2006 00:00:00 +0000
+Message-ID: <6734937210@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui nous occupe on se doit de se remémorer l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

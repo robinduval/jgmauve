@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 06 Feb 2008 00:00:00 +0000
+Message-ID: <2595656982@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de la société il est préférable de s'intéresser à la majorité des problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 31 Dec 2008 00:00:00 +0000
+Message-ID: <5882805855@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de ces derniers temps il serait bon de prendre en considération chacune des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 27 Feb 2008 00:00:00 +0000
+Message-ID: <9073564601@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose actuelle on ne peut se passer de se préoccuper de chacune des problématiques envisageables
+
+Cordialement,
+Charlotte Moore
+

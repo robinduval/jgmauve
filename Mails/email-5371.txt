@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 28 Jan 2002 00:00:00 +0000
+Message-ID: <3493378156@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture actuelle on ne peut se passer de étudier toutes les alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

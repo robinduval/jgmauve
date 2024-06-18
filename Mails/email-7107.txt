@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 20 Feb 2001 00:00:00 +0000
+Message-ID: <4511793425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs induite il est nécessaire de prendre en considération toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

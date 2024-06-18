@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 23 Jun 2005 00:00:00 +0000
+Message-ID: <2512777808@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise induite il faut de toute urgence prendre en considération certaines issues possibles
+
+Cordialement,
+John Doe
+

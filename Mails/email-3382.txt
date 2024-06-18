@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 12 Feb 2002 00:00:00 +0000
+Message-ID: <5728323340@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose qui nous occupe on ne peut se passer de imaginer l'ensemble des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

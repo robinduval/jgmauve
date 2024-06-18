@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 05 Jul 2008 00:00:00 +0000
+Message-ID: <1214083630@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation conjoncturelle il est préférable de anticiper l'ensemble des problématiques possibles
+
+Cordialement,
+Samuel White
+

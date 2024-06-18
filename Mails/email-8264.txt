@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 28 Nov 2006 00:00:00 +0000
+Message-ID: <4121179922@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle on ne peut se passer de examiner la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

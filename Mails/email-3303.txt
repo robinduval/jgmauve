@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 26 May 2008 00:00:00 +0000
+Message-ID: <6559762073@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture induite on ne peut se passer de se préoccuper de chacune des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

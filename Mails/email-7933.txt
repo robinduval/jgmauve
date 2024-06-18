@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 19 Jun 2006 00:00:00 +0000
+Message-ID: <9087165749@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture actuelle on ne peut se passer de prendre en considération certaines voies déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

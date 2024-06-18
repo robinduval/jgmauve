@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 29 Apr 2000 00:00:00 +0000
+Message-ID: <6842003674@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture de la société on se doit de prendre en considération toutes les problématiques déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

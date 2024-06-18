@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 07 Jan 2009 00:00:00 +0000
+Message-ID: <7371167032@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de ces derniers temps on se doit de s'intéresser à la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

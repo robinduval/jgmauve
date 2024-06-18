@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 08 Aug 2001 00:00:00 +0000
+Message-ID: <7628980658@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose qui est la nôtre il serait bon de prendre en considération l'ensemble des issues s'offrant à nous
+
+Cordialement,
+Jean Neige
+

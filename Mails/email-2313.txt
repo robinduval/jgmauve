@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 06 Feb 2002 00:00:00 +0000
+Message-ID: <4006483386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture conjoncturelle il serait bon de imaginer l'ensemble des solutions envisageables
+
+Cordialement,
+David Brown
+

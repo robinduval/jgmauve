@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Thu, 29 Dec 2005 00:00:00 +0000
+Message-ID: <3158626733@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance présente il faut avoir à l'esprit l'ensemble des problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

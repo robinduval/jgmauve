@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 14 Feb 2009 00:00:00 +0000
+Message-ID: <1516302541@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il faut s'intéresser à la somme des issues envisageables
+
+Cordialement,
+David Brown
+

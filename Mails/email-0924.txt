@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Fri, 01 Sep 2000 00:00:00 +0000
+Message-ID: <7444628467@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs contemporaine on se doit de examiner toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

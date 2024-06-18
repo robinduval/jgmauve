@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 26 Feb 2009 00:00:00 +0000
+Message-ID: <9649730815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation qui est la nôtre il est nécessaire de examiner chacune des alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Wed, 16 Sep 2009 00:00:00 +0000
+Message-ID: <4077767882@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse actuelle on ne peut se passer de anticiper la somme des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

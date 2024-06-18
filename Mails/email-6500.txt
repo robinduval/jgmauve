@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 15 Feb 2005 00:00:00 +0000
+Message-ID: <3215732498@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de ces derniers temps il faut étudier certaines alternatives envisageables
+
+Cordialement,
+Emma Lee
+

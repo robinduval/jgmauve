@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Sat, 03 Jun 2006 00:00:00 +0000
+Message-ID: <3381747827@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose qui nous occupe il serait intéressant de étudier la majorité des problématiques possibles
+
+Cordialement,
+Eva Thomas
+

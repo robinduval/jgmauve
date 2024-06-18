@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Sun, 18 Jun 2000 00:00:00 +0000
+Message-ID: <8415202946@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui nous occupe il est préférable de examiner l'ensemble des solutions possibles
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <5348246439@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il ne faut pas négliger de s'intéresser à la globalité des voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

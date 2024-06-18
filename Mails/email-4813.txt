@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 01 Oct 2002 00:00:00 +0000
+Message-ID: <6130358731@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de ces derniers temps il faut examiner toutes les voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

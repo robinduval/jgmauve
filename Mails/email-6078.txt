@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 17 Aug 2002 00:00:00 +0000
+Message-ID: <4986838430@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de ces derniers temps il est nécessaire de s'intéresser à la globalité des issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

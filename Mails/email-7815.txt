@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 26 Jun 2007 00:00:00 +0000
+Message-ID: <1570295109@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle il faut de toute urgence se remémorer certaines alternatives possibles
+
+Cordialement,
+Emma Lee
+

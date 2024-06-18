@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 14 Nov 2009 00:00:00 +0000
+Message-ID: <6190887975@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui est la nôtre il est nécessaire de prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+John Doe
+

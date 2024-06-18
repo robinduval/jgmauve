@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 31 Aug 2000 00:00:00 +0000
+Message-ID: <5841707886@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation actuelle on se doit de se préoccuper de la somme des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

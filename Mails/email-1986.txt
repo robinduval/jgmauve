@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 07 Mar 2008 00:00:00 +0000
+Message-ID: <5546019066@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui nous occupe il serait bon de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+Alice Dupont
+

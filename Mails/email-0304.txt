@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Tue, 01 Aug 2000 00:00:00 +0000
+Message-ID: <5743275949@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité contemporaine il est nécessaire de se préoccuper de la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

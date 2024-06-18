@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Thu, 06 Nov 2008 00:00:00 +0000
+Message-ID: <8985171772@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse qui nous occupe il convient de ne pas négliger la globalité des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

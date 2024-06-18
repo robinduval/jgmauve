@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 21 Jul 2001 00:00:00 +0000
+Message-ID: <6716520637@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance induite il faut ne pas négliger la somme des issues s'offrant à nous
+
+Cordialement,
+Bob Smith
+

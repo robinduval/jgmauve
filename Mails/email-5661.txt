@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 04 Mar 2006 00:00:00 +0000
+Message-ID: <3385719387@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie de cette fin de siècle il faut de toute urgence s'intéresser à la totalité des issues envisageables
+
+Cordialement,
+Jean Neige
+

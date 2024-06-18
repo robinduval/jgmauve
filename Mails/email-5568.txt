@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 31 Jul 2004 00:00:00 +0000
+Message-ID: <3815733582@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs actuelle on ne peut se passer de avoir à l'esprit la totalité des voies possibles
+
+Cordialement,
+William Jackson
+

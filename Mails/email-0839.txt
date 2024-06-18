@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Mon, 12 Jan 2004 00:00:00 +0000
+Message-ID: <6227419875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie présente il convient de se remémorer toutes les issues envisageables
+
+Cordialement,
+Bob Smith
+

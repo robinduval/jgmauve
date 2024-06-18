@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 15 Aug 2008 00:00:00 +0000
+Message-ID: <1011884633@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance actuelle il serait bon de anticiper chacune des voies possibles
+
+Cordialement,
+William Jackson
+

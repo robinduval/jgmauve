@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Fri, 29 Aug 2003 00:00:00 +0000
+Message-ID: <7796347166@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle on ne peut se passer de se préoccuper de toutes les issues de bon sens
+
+Cordialement,
+Eva Thomas
+

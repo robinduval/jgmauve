@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 04 Nov 2002 00:00:00 +0000
+Message-ID: <1957871618@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation conjoncturelle il est nécessaire de imaginer toutes les problématiques possibles
+
+Cordialement,
+Daniel Clark
+

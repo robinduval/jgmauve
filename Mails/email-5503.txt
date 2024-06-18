@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Sun, 25 Oct 2009 00:00:00 +0000
+Message-ID: <4274272865@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs qui est la nôtre il convient de anticiper la somme des voies de bon sens
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Tue, 12 Oct 2004 00:00:00 +0000
+Message-ID: <3705521996@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation induite on se doit de s'intéresser à la majorité des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Fri, 22 Jul 2005 00:00:00 +0000
+Message-ID: <1299318310@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il est nécessaire de anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

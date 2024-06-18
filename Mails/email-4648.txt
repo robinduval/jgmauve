@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 23 Jun 2002 00:00:00 +0000
+Message-ID: <2738392330@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui nous occupe il faut de toute urgence se préoccuper de la majorité des issues de bon sens
+
+Cordialement,
+John Doe
+

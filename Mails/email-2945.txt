@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Wed, 20 Aug 2003 00:00:00 +0000
+Message-ID: <6863772838@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture conjoncturelle il ne faut pas négliger de anticiper l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Jean Neige
+

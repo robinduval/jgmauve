@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 02 Dec 2006 00:00:00 +0000
+Message-ID: <5859650735@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation présente il est préférable de s'intéresser à chacune des problématiques envisageables
+
+Cordialement,
+William Jackson
+

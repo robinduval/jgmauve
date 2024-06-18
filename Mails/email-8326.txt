@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 07 Feb 2008 00:00:00 +0000
+Message-ID: <3299960200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de cette fin de siècle on ne peut se passer de anticiper certaines problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

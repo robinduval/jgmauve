@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Sun, 07 Apr 2002 00:00:00 +0000
+Message-ID: <8028194401@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de cette fin de siècle il serait intéressant de se préoccuper de la somme des problématiques envisageables
+
+Cordialement,
+Samuel White
+

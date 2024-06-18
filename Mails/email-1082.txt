@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 27 May 2006 00:00:00 +0000
+Message-ID: <7204802058@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie qui est la nôtre il convient de se remémorer la totalité des solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

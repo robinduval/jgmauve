@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 25 Jan 2005 00:00:00 +0000
+Message-ID: <7810043034@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de ces derniers temps il serait intéressant de ne pas négliger toutes les issues envisageables
+
+Cordialement,
+Laura Wilson
+

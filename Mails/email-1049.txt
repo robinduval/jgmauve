@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 19 Jan 2005 00:00:00 +0000
+Message-ID: <3998809809@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de ces derniers temps on se doit de anticiper certaines solutions possibles
+
+Cordialement,
+William Jackson
+

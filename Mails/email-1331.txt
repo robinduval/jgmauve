@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 09 Jan 2001 00:00:00 +0000
+Message-ID: <7671594042@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise actuelle il faut examiner certaines alternatives s'offrant à nous
+
+Cordialement,
+David Brown
+

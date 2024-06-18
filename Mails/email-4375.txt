@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 19 Jul 2009 00:00:00 +0000
+Message-ID: <3662871285@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture de la société il convient de se remémorer chacune des voies possibles
+
+Cordialement,
+Daniel Clark
+

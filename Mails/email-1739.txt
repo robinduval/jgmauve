@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Sun, 02 Apr 2000 00:00:00 +0000
+Message-ID: <2604611622@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance qui nous occupe il faut de toute urgence imaginer chacune des solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

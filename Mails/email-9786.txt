@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 21 Aug 2007 00:00:00 +0000
+Message-ID: <5989986553@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il convient de se remémorer toutes les problématiques envisageables
+
+Cordialement,
+Charlotte Moore
+

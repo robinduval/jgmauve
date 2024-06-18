@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 29 Nov 2007 00:00:00 +0000
+Message-ID: <7432130941@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance qui est la nôtre il serait bon de anticiper la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

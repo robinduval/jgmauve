@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 30 Sep 2002 00:00:00 +0000
+Message-ID: <5681696095@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture conjoncturelle il faut prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

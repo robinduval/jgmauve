@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Sat, 20 Jun 2009 00:00:00 +0000
+Message-ID: <2195258927@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance présente on se doit de étudier la somme des solutions envisageables
+
+Cordialement,
+Samuel White
+

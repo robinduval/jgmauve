@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Mon, 28 Jun 2004 00:00:00 +0000
+Message-ID: <1071750163@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui est la nôtre il faut de toute urgence avoir à l'esprit certaines issues envisageables
+
+Cordialement,
+Bob Smith
+

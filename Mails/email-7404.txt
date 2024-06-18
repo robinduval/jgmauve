@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 12 Jul 2007 00:00:00 +0000
+Message-ID: <5855675522@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de cette fin de siècle on ne peut se passer de se remémorer toutes les issues possibles
+
+Cordialement,
+Alice Dupont
+

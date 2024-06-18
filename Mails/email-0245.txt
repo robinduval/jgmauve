@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 20 Nov 2003 00:00:00 +0000
+Message-ID: <8427646137@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse qui nous occupe il serait intéressant de anticiper chacune des solutions de bon sens
+
+Cordialement,
+Emma Lee
+

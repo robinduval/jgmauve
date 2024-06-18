@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 06 Mar 2001 00:00:00 +0000
+Message-ID: <1263166775@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de la société on ne peut se passer de anticiper certaines voies de bon sens
+
+Cordialement,
+Eva Thomas
+

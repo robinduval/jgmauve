@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Wed, 29 Oct 2008 00:00:00 +0000
+Message-ID: <6384298720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de ces derniers temps il serait intéressant de imaginer la globalité des issues possibles
+
+Cordialement,
+Alice Dupont
+

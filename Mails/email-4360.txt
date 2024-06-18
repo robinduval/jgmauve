@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 11 Jan 2003 00:00:00 +0000
+Message-ID: <8058734523@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture de ces derniers temps on ne peut se passer de prendre en considération la globalité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

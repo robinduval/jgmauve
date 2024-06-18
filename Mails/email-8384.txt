@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 28 Oct 2002 00:00:00 +0000
+Message-ID: <7419568667@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de ces derniers temps il faut de toute urgence prendre en considération la somme des issues s'offrant à nous
+
+Cordialement,
+Jean Neige
+

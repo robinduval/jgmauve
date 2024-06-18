@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 18 Mar 2000 00:00:00 +0000
+Message-ID: <1786915651@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de ces derniers temps il faut de toute urgence étudier la majorité des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

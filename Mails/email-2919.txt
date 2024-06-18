@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 07 Jul 2006 00:00:00 +0000
+Message-ID: <2492342960@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs présente il est préférable de avoir à l'esprit la globalité des alternatives possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Sat, 01 Mar 2003 00:00:00 +0000
+Message-ID: <5709892897@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance induite on ne peut se passer de imaginer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

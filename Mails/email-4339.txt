@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 19 Feb 2004 00:00:00 +0000
+Message-ID: <8054041709@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité présente il serait bon de imaginer l'ensemble des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

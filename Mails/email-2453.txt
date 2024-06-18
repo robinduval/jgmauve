@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Mon, 15 Oct 2001 00:00:00 +0000
+Message-ID: <4272106704@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs actuelle il faut avoir à l'esprit certaines issues s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

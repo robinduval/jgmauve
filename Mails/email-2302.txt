@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 18 Jul 2003 00:00:00 +0000
+Message-ID: <7822148150@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation conjoncturelle il serait intéressant de s'intéresser à la globalité des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

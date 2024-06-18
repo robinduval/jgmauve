@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 07 Sep 2007 00:00:00 +0000
+Message-ID: <1642983065@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture qui est la nôtre il convient de ne pas négliger toutes les alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 10 Mar 2000 00:00:00 +0000
+Message-ID: <8978253153@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse de ces derniers temps il ne faut pas négliger de étudier chacune des solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

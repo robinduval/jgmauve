@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sat, 20 Jun 2009 00:00:00 +0000
+Message-ID: <3941949189@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de la société il faut se préoccuper de toutes les problématiques s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

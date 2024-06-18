@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Sun, 05 Nov 2000 00:00:00 +0000
+Message-ID: <1499665587@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle on ne peut se passer de étudier la globalité des voies envisageables
+
+Cordialement,
+Charlotte Moore
+

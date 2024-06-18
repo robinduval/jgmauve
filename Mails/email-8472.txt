@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 29 Jun 2009 00:00:00 +0000
+Message-ID: <1420614705@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture contemporaine il est nécessaire de imaginer la totalité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Wed, 25 Mar 2009 00:00:00 +0000
+Message-ID: <2032104890@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation qui est la nôtre il serait bon de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+Samuel White
+

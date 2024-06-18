@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 27 Jan 2004 00:00:00 +0000
+Message-ID: <5751900322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui est la nôtre il est préférable de avoir à l'esprit certaines problématiques déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

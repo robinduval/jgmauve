@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 29 Jun 2009 00:00:00 +0000
+Message-ID: <5345866492@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui nous occupe il serait bon de avoir à l'esprit toutes les solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

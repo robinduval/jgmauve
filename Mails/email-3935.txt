@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 25 Dec 2006 00:00:00 +0000
+Message-ID: <3302954000@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente il est nécessaire de imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

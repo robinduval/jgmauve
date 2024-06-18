@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 05 Dec 2000 00:00:00 +0000
+Message-ID: <2912227900@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture conjoncturelle il faut se préoccuper de la globalité des problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

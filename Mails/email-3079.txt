@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 30 May 2002 00:00:00 +0000
+Message-ID: <1325470108@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui est la nôtre il serait intéressant de étudier toutes les alternatives de bon sens
+
+Cordialement,
+Bob Smith
+

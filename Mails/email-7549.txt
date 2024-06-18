@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 11 Jan 2003 00:00:00 +0000
+Message-ID: <3432289715@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance induite il est préférable de examiner la globalité des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

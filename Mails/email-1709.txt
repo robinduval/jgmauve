@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Tue, 04 Jan 2000 00:00:00 +0000
+Message-ID: <7112809186@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui est la nôtre il est préférable de s'intéresser à toutes les alternatives possibles
+
+Cordialement,
+David Brown
+

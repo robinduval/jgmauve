@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 15 Jan 2003 00:00:00 +0000
+Message-ID: <4646384890@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il est nécessaire de examiner chacune des voies possibles
+
+Cordialement,
+William Jackson
+

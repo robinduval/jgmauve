@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 19 Jan 2004 00:00:00 +0000
+Message-ID: <6486780615@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse de cette fin de siècle on se doit de avoir à l'esprit l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Samuel White
+

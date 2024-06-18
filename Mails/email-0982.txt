@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 28 Mar 2007 00:00:00 +0000
+Message-ID: <4677375235@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise actuelle il serait bon de examiner la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

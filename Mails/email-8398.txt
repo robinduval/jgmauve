@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 20 Feb 2004 00:00:00 +0000
+Message-ID: <9073939906@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité conjoncturelle il faut s'intéresser à la somme des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

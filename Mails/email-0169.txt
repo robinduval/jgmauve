@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 22 Jan 2008 00:00:00 +0000
+Message-ID: <4044103765@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps on ne peut se passer de se préoccuper de la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

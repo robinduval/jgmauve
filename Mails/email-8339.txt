@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 07 Jun 2003 00:00:00 +0000
+Message-ID: <5921232891@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de ces derniers temps il est préférable de s'intéresser à chacune des problématiques possibles
+
+Cordialement,
+Samuel White
+

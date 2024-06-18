@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 28 Nov 2009 00:00:00 +0000
+Message-ID: <6272220600@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre il convient de examiner toutes les voies de bon sens
+
+Cordialement,
+Michael Taylor
+

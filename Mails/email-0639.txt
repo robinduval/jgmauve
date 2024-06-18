@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 31 Jul 2004 00:00:00 +0000
+Message-ID: <3429015397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui nous occupe il serait bon de se remémorer la totalité des issues possibles
+
+Cordialement,
+David Brown
+

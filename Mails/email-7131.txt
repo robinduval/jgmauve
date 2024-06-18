@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 02 Feb 2004 00:00:00 +0000
+Message-ID: <3313414666@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation conjoncturelle il serait bon de ne pas négliger chacune des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

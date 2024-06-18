@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 10 Nov 2008 00:00:00 +0000
+Message-ID: <1015346907@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui est la nôtre on ne peut se passer de avoir à l'esprit la majorité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

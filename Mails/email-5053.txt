@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Mon, 04 Sep 2000 00:00:00 +0000
+Message-ID: <6152159216@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise qui est la nôtre il ne faut pas négliger de ne pas négliger l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Jean Neige
+

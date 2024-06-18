@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 28 Feb 2008 00:00:00 +0000
+Message-ID: <5657678552@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle il convient de se préoccuper de la totalité des problématiques de bon sens
+
+Cordialement,
+Alice Dupont
+

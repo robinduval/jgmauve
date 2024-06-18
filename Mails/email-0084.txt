@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Mon, 02 Aug 2004 00:00:00 +0000
+Message-ID: <2058415842@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation actuelle il faut de toute urgence s'intéresser à toutes les voies envisageables
+
+Cordialement,
+Alice Dupont
+

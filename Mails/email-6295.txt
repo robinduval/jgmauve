@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 06 Mar 2002 00:00:00 +0000
+Message-ID: <4952518076@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation présente il convient de anticiper toutes les alternatives de bon sens
+
+Cordialement,
+John Doe
+

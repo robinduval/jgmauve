@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 14 Jul 2008 00:00:00 +0000
+Message-ID: <1078641552@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse conjoncturelle il est nécessaire de avoir à l'esprit toutes les problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

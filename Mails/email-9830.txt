@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 30 Sep 2000 00:00:00 +0000
+Message-ID: <7264577765@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie contemporaine il faut imaginer chacune des solutions envisageables
+
+Cordialement,
+Sophie Martin
+

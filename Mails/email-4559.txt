@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Fri, 04 Mar 2005 00:00:00 +0000
+Message-ID: <2767235998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle il est préférable de étudier la majorité des solutions de bon sens
+
+Cordialement,
+Emma Lee
+

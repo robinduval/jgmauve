@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 11 Nov 2000 00:00:00 +0000
+Message-ID: <1813179073@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs qui nous occupe on ne peut se passer de étudier la totalité des solutions possibles
+
+Cordialement,
+Charlotte Moore
+

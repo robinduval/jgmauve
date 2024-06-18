@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 23 Dec 2003 00:00:00 +0000
+Message-ID: <1782553474@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise présente il faut de toute urgence étudier la somme des issues envisageables
+
+Cordialement,
+Sophie Martin
+

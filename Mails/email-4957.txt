@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 06 Jul 2001 00:00:00 +0000
+Message-ID: <6593549615@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse conjoncturelle il serait bon de se préoccuper de l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

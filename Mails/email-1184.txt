@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Tue, 02 Mar 2004 00:00:00 +0000
+Message-ID: <2508670548@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture qui nous occupe il faut se préoccuper de toutes les issues déjà en notre possession
+
+Cordialement,
+John Doe
+

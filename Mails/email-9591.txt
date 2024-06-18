@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 29 Mar 2004 00:00:00 +0000
+Message-ID: <6878613732@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de cette fin de siècle il est nécessaire de étudier la globalité des problématiques envisageables
+
+Cordialement,
+David Brown
+

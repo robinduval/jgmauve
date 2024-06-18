@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 28 May 2004 00:00:00 +0000
+Message-ID: <1965392859@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs induite il faut avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+Daniel Clark
+

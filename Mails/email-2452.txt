@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 23 Apr 2006 00:00:00 +0000
+Message-ID: <7255884247@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse actuelle il serait intéressant de s'intéresser à certaines voies possibles
+
+Cordialement,
+Jean Neige
+

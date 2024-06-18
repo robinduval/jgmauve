@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Fri, 06 Oct 2006 00:00:00 +0000
+Message-ID: <6110133009@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose contemporaine on ne peut se passer de anticiper la totalité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

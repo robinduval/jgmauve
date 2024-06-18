@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 11 Apr 2004 00:00:00 +0000
+Message-ID: <3359660698@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation présente il est préférable de anticiper la somme des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

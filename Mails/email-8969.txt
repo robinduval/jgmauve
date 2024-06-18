@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Sun, 05 Nov 2006 00:00:00 +0000
+Message-ID: <5054972975@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui est la nôtre on se doit de avoir à l'esprit la totalité des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

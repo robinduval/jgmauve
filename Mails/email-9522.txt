@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 08 Jan 2009 00:00:00 +0000
+Message-ID: <4787832488@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui nous occupe il est nécessaire de se remémorer l'ensemble des solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

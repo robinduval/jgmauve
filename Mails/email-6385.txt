@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 04 Mar 2003 00:00:00 +0000
+Message-ID: <8217539140@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs contemporaine on ne peut se passer de s'intéresser à l'ensemble des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

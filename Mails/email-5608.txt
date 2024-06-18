@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Fri, 14 May 2004 00:00:00 +0000
+Message-ID: <8793741451@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de cette fin de siècle il serait intéressant de se préoccuper de toutes les issues possibles
+
+Cordialement,
+Samuel White
+

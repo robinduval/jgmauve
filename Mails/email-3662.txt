@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 10 Oct 2002 00:00:00 +0000
+Message-ID: <7327900558@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle il faut de toute urgence anticiper la totalité des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 19 Apr 2008 00:00:00 +0000
+Message-ID: <6510392684@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation conjoncturelle il est préférable de ne pas négliger l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

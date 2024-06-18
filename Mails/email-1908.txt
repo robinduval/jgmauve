@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Thu, 12 Oct 2000 00:00:00 +0000
+Message-ID: <7364784412@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise induite il est préférable de ne pas négliger chacune des voies déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 29 Nov 2005 00:00:00 +0000
+Message-ID: <4794691661@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation actuelle il ne faut pas négliger de étudier la globalité des voies envisageables
+
+Cordialement,
+Samuel White
+

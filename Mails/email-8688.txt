@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sat, 16 Jun 2001 00:00:00 +0000
+Message-ID: <8844027110@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie induite il serait bon de se remémorer chacune des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

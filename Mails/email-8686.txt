@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 16 Feb 2002 00:00:00 +0000
+Message-ID: <2847948410@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose actuelle il est préférable de se remémorer chacune des alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

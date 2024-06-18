@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 07 Sep 2008 00:00:00 +0000
+Message-ID: <2236121560@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation actuelle il faut prendre en considération la totalité des voies s'offrant à nous
+
+Cordialement,
+David Brown
+

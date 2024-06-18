@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 23 Apr 2005 00:00:00 +0000
+Message-ID: <6069503796@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation conjoncturelle il est préférable de étudier toutes les alternatives déjà en notre possession
+
+Cordialement,
+Samuel White
+

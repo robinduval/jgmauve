@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 27 Apr 2000 00:00:00 +0000
+Message-ID: <9884320458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de ces derniers temps il est préférable de examiner chacune des issues possibles
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 18 Jun 2006 00:00:00 +0000
+Message-ID: <1187788187@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation conjoncturelle il est préférable de se préoccuper de certaines alternatives possibles
+
+Cordialement,
+Samuel White
+

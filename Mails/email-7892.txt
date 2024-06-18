@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Mon, 14 Dec 2009 00:00:00 +0000
+Message-ID: <8943555861@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui est la nôtre il serait intéressant de avoir à l'esprit toutes les solutions s'offrant à nous
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 27 Jan 2000 00:00:00 +0000
+Message-ID: <5956020217@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de cette fin de siècle il serait bon de examiner certaines alternatives envisageables
+
+Cordialement,
+Bob Smith
+

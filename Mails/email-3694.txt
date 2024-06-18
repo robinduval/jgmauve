@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 18 Aug 2006 00:00:00 +0000
+Message-ID: <5859372875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise conjoncturelle il faut prendre en considération la majorité des issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

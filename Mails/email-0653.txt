@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 12 Oct 2008 00:00:00 +0000
+Message-ID: <7410212109@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse qui est la nôtre il faut de toute urgence se préoccuper de la somme des problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

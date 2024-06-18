@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 05 Aug 2009 00:00:00 +0000
+Message-ID: <2344355751@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il est nécessaire de ne pas négliger certaines issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

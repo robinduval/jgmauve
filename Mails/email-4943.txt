@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 17 Jul 2000 00:00:00 +0000
+Message-ID: <4653762844@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose présente on ne peut se passer de se préoccuper de la globalité des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

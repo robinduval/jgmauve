@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 26 Nov 2003 00:00:00 +0000
+Message-ID: <3669693797@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture qui nous occupe il convient de imaginer toutes les voies envisageables
+
+Cordialement,
+Jean Neige
+

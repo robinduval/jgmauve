@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 13 Aug 2001 00:00:00 +0000
+Message-ID: <3076655898@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse actuelle il serait bon de examiner chacune des issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Tue, 12 Sep 2006 00:00:00 +0000
+Message-ID: <5065065760@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de ces derniers temps il convient de avoir à l'esprit certaines voies possibles
+
+Cordialement,
+Daniel Clark
+

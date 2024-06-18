@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 01 Apr 2007 00:00:00 +0000
+Message-ID: <3277772200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose conjoncturelle il faut se préoccuper de la globalité des solutions envisageables
+
+Cordialement,
+David Brown
+

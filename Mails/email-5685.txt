@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Wed, 15 Nov 2006 00:00:00 +0000
+Message-ID: <2461965880@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse conjoncturelle il faut de toute urgence avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+Emma Lee
+

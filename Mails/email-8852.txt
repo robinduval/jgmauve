@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 17 Aug 2009 00:00:00 +0000
+Message-ID: <1665167674@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de cette fin de siècle il est nécessaire de imaginer la majorité des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

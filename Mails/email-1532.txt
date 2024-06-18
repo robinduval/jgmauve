@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 18 Jul 2000 00:00:00 +0000
+Message-ID: <1888070955@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle il convient de s'intéresser à toutes les alternatives de bon sens
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 22 May 2000 00:00:00 +0000
+Message-ID: <1277465798@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps on se doit de anticiper la somme des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

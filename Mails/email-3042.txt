@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 12 Jul 2001 00:00:00 +0000
+Message-ID: <4197638253@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société on se doit de s'intéresser à chacune des problématiques possibles
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 23 Nov 2005 00:00:00 +0000
+Message-ID: <6962693916@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle on se doit de s'intéresser à certaines problématiques envisageables
+
+Cordialement,
+John Doe
+

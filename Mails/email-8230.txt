@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 20 Jun 2005 00:00:00 +0000
+Message-ID: <7387314250@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui nous occupe il serait bon de examiner la globalité des voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

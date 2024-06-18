@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Fri, 15 Nov 2002 00:00:00 +0000
+Message-ID: <7578397567@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui nous occupe il faut examiner la totalité des issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

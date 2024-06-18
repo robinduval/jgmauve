@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Wed, 23 Jan 2008 00:00:00 +0000
+Message-ID: <3076763763@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation contemporaine il est nécessaire de ne pas négliger la somme des issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

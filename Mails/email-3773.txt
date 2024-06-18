@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 17 Dec 2006 00:00:00 +0000
+Message-ID: <1434033336@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture conjoncturelle il faut anticiper toutes les voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

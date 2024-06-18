@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Tue, 14 Nov 2000 00:00:00 +0000
+Message-ID: <2890681290@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité conjoncturelle il serait bon de se préoccuper de certaines voies envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 03 Nov 2002 00:00:00 +0000
+Message-ID: <8359453701@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance actuelle il convient de anticiper chacune des issues envisageables
+
+Cordialement,
+Daniel Clark
+

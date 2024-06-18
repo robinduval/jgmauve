@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 20 Jan 2001 00:00:00 +0000
+Message-ID: <7153120176@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine on se doit de se préoccuper de toutes les problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

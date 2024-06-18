@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 20 Jun 2009 00:00:00 +0000
+Message-ID: <4738559121@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse de cette fin de siècle il convient de s'intéresser à la majorité des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

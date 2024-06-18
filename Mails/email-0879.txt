@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 14 Sep 2009 00:00:00 +0000
+Message-ID: <3416033342@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe il est nécessaire de se préoccuper de l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

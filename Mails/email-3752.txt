@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 07 Jan 2003 00:00:00 +0000
+Message-ID: <2259977752@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de la société il faut anticiper chacune des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

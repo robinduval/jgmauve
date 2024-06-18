@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 03 Sep 2000 00:00:00 +0000
+Message-ID: <6209807281@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de la société il serait intéressant de examiner l'ensemble des issues déjà en notre possession
+
+Cordialement,
+Samuel White
+

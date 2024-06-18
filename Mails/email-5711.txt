@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 20 May 2006 00:00:00 +0000
+Message-ID: <3000723763@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose induite il faut s'intéresser à toutes les problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

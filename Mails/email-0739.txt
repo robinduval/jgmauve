@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Thu, 06 Sep 2001 00:00:00 +0000
+Message-ID: <1678145614@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation induite il est nécessaire de imaginer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

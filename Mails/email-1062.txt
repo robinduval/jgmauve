@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 18 Feb 2006 00:00:00 +0000
+Message-ID: <4349099223@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de ces derniers temps on se doit de étudier toutes les solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

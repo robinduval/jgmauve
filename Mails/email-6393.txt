@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 25 Dec 2000 00:00:00 +0000
+Message-ID: <6220453688@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de ces derniers temps on se doit de anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

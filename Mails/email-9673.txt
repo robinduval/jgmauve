@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Thu, 09 Oct 2003 00:00:00 +0000
+Message-ID: <7391908442@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de cette fin de siècle il serait intéressant de se remémorer certaines problématiques envisageables
+
+Cordialement,
+William Jackson
+

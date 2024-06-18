@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Thu, 22 Aug 2002 00:00:00 +0000
+Message-ID: <1144396431@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation actuelle on ne peut se passer de ne pas négliger la globalité des voies envisageables
+
+Cordialement,
+Michael Taylor
+

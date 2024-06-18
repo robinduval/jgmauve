@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 08 Jun 2008 00:00:00 +0000
+Message-ID: <2840090147@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe il est nécessaire de examiner l'ensemble des issues envisageables
+
+Cordialement,
+David Brown
+

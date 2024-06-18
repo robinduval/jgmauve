@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 03 Jul 2001 00:00:00 +0000
+Message-ID: <8975274033@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse de la société il est préférable de ne pas négliger certaines alternatives possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 07 Dec 2004 00:00:00 +0000
+Message-ID: <6734101881@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs contemporaine il faut se préoccuper de certaines problématiques déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

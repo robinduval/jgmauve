@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 23 Dec 2004 00:00:00 +0000
+Message-ID: <8966551012@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie induite il serait intéressant de se préoccuper de la totalité des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

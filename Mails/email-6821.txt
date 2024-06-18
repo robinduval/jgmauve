@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 18 May 2005 00:00:00 +0000
+Message-ID: <8487631354@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de ces derniers temps il ne faut pas négliger de s'intéresser à la majorité des alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

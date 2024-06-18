@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 16 Feb 2006 00:00:00 +0000
+Message-ID: <9391698562@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de la société on se doit de étudier toutes les solutions envisageables
+
+Cordialement,
+Laura Wilson
+

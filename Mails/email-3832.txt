@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Sat, 11 Dec 2004 00:00:00 +0000
+Message-ID: <9676470267@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de ces derniers temps il faut se préoccuper de la globalité des alternatives envisageables
+
+Cordialement,
+John Doe
+

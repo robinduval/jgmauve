@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 19 Jun 2003 00:00:00 +0000
+Message-ID: <4042244418@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre on ne peut se passer de imaginer la globalité des issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

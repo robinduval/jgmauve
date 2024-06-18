@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 17 Jun 2007 00:00:00 +0000
+Message-ID: <7058682947@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de ces derniers temps il faut avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+William Jackson
+

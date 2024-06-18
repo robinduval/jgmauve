@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 11 Jul 2005 00:00:00 +0000
+Message-ID: <5087676163@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose présente il serait intéressant de se préoccuper de la majorité des issues envisageables
+
+Cordialement,
+Laura Wilson
+

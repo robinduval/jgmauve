@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 24 Nov 2007 00:00:00 +0000
+Message-ID: <2489892050@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse contemporaine il faut imaginer la globalité des voies possibles
+
+Cordialement,
+Laura Wilson
+

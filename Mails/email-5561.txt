@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 13 Dec 2008 00:00:00 +0000
+Message-ID: <8011061582@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps il faut de toute urgence se remémorer certaines alternatives possibles
+
+Cordialement,
+Laura Wilson
+

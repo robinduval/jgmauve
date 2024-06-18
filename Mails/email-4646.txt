@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 14 Oct 2007 00:00:00 +0000
+Message-ID: <9973152839@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de la société il serait intéressant de ne pas négliger toutes les solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

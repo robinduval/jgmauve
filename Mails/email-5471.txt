@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Fri, 04 Feb 2000 00:00:00 +0000
+Message-ID: <1372130914@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui nous occupe il faut de toute urgence s'intéresser à la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 23 Mar 2009 00:00:00 +0000
+Message-ID: <3749066124@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise conjoncturelle il faut de toute urgence s'intéresser à toutes les issues possibles
+
+Cordialement,
+Eva Thomas
+

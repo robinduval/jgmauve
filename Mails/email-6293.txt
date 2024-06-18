@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 07 Dec 2005 00:00:00 +0000
+Message-ID: <4332697502@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui nous occupe il est préférable de se remémorer la somme des problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

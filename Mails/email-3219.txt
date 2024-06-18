@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Thu, 16 Aug 2001 00:00:00 +0000
+Message-ID: <7218605125@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de ces derniers temps on se doit de étudier certaines problématiques de bon sens
+
+Cordialement,
+Sophie Martin
+

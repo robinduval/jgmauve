@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 02 May 2008 00:00:00 +0000
+Message-ID: <7192737317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance conjoncturelle il est nécessaire de se préoccuper de la globalité des solutions possibles
+
+Cordialement,
+Charlotte Moore
+

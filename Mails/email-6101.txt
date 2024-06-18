@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 20 Sep 2002 00:00:00 +0000
+Message-ID: <5936712611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise conjoncturelle il est nécessaire de avoir à l'esprit la globalité des voies possibles
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 24 Nov 2002 00:00:00 +0000
+Message-ID: <1059159862@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe il ne faut pas négliger de se préoccuper de l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

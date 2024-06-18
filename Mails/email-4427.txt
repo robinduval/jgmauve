@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 11 Jun 2008 00:00:00 +0000
+Message-ID: <9653916301@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de cette fin de siècle on ne peut se passer de se remémorer certaines voies s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

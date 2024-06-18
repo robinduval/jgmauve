@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 13 Jun 2009 00:00:00 +0000
+Message-ID: <3952904668@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il ne faut pas négliger de se préoccuper de certaines problématiques déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

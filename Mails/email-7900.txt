@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Demande de collaboration
+Date: Tue, 25 Jul 2006 00:00:00 +0000
+Message-ID: <4267395289@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité contemporaine il est préférable de étudier toutes les issues possibles
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 26 Feb 2003 00:00:00 +0000
+Message-ID: <3360127889@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise induite il faut se remémorer la globalité des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

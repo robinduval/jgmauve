@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 02 Jun 2007 00:00:00 +0000
+Message-ID: <8754905215@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation qui est la nôtre on ne peut se passer de étudier toutes les alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

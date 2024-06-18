@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 23 Nov 2009 00:00:00 +0000
+Message-ID: <4305788822@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise de ces derniers temps il convient de avoir à l'esprit certaines issues possibles
+
+Cordialement,
+Laura Wilson
+

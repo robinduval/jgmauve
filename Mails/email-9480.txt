@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 12 Sep 2003 00:00:00 +0000
+Message-ID: <4015020659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité actuelle il serait bon de imaginer la totalité des solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

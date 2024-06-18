@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 29 May 2006 00:00:00 +0000
+Message-ID: <1229380806@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose contemporaine il est nécessaire de se remémorer chacune des issues envisageables
+
+Cordialement,
+Michael Taylor
+

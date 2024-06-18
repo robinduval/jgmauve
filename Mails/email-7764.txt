@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 20 Oct 2004 00:00:00 +0000
+Message-ID: <5675196490@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de la société il faut anticiper toutes les voies possibles
+
+Cordialement,
+Charlotte Moore
+

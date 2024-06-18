@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Thu, 06 Sep 2001 00:00:00 +0000
+Message-ID: <2561611803@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise contemporaine il serait intéressant de s'intéresser à chacune des voies de bon sens
+
+Cordialement,
+Jean Neige
+

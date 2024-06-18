@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Mon, 10 Jan 2005 00:00:00 +0000
+Message-ID: <7892431824@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui est la nôtre il est nécessaire de s'intéresser à la majorité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

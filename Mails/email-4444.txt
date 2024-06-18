@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 02 Mar 2004 00:00:00 +0000
+Message-ID: <6318384347@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de ces derniers temps il faut de toute urgence ne pas négliger chacune des problématiques envisageables
+
+Cordialement,
+Sophie Martin
+

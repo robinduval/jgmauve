@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Sat, 06 Sep 2008 00:00:00 +0000
+Message-ID: <7151118440@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de cette fin de siècle il faut de toute urgence se préoccuper de l'ensemble des voies possibles
+
+Cordialement,
+Eva Thomas
+

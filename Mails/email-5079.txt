@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 07 Nov 2001 00:00:00 +0000
+Message-ID: <4061092589@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation actuelle on se doit de anticiper la totalité des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

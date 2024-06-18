@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Sun, 01 Mar 2009 00:00:00 +0000
+Message-ID: <8833965505@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de cette fin de siècle il serait bon de avoir à l'esprit la somme des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

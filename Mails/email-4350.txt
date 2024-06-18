@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Mon, 28 May 2001 00:00:00 +0000
+Message-ID: <6664015989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui nous occupe il convient de avoir à l'esprit certaines problématiques s'offrant à nous
+
+Cordialement,
+Bob Smith
+

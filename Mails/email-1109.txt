@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 12 Jun 2001 00:00:00 +0000
+Message-ID: <5747834013@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie contemporaine il ne faut pas négliger de étudier la totalité des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

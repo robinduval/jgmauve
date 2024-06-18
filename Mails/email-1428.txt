@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 25 Jun 2000 00:00:00 +0000
+Message-ID: <8407032551@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de cette fin de siècle il est préférable de imaginer la somme des voies de bon sens
+
+Cordialement,
+Sophie Martin
+

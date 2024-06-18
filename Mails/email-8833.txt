@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 06 Oct 2000 00:00:00 +0000
+Message-ID: <1567989100@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il serait intéressant de examiner toutes les voies possibles
+
+Cordialement,
+Sophie Martin
+

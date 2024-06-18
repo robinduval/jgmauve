@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 07 Jul 2006 00:00:00 +0000
+Message-ID: <6965068651@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité conjoncturelle il serait intéressant de prendre en considération chacune des voies envisageables
+
+Cordialement,
+Sophie Martin
+

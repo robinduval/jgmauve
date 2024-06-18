@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 11 Jan 2009 00:00:00 +0000
+Message-ID: <1132032810@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse conjoncturelle on se doit de s'intéresser à la somme des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

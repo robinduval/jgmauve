@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 31 Oct 2000 00:00:00 +0000
+Message-ID: <2444253295@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui nous occupe on se doit de se remémorer l'ensemble des problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

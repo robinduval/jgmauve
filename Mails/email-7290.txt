@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 09 Apr 2009 00:00:00 +0000
+Message-ID: <8821420477@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose conjoncturelle il serait intéressant de ne pas négliger la globalité des alternatives envisageables
+
+Cordialement,
+Emma Lee
+

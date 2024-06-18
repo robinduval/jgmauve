@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 05 Jul 2000 00:00:00 +0000
+Message-ID: <5080660339@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse induite on se doit de s'intéresser à toutes les problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

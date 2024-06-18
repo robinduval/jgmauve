@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 17 May 2006 00:00:00 +0000
+Message-ID: <1521606664@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise présente on se doit de se préoccuper de chacune des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

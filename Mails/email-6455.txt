@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Mon, 03 Jan 2000 00:00:00 +0000
+Message-ID: <3841705666@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation conjoncturelle il serait bon de imaginer la globalité des solutions possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Mon, 22 Aug 2005 00:00:00 +0000
+Message-ID: <8692612067@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation actuelle il convient de s'intéresser à la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

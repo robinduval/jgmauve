@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 19 Oct 2000 00:00:00 +0000
+Message-ID: <8475118444@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture qui nous occupe on ne peut se passer de anticiper la majorité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

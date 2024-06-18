@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 14 Dec 2009 00:00:00 +0000
+Message-ID: <9303725002@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité contemporaine il est nécessaire de se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 13 Jun 2007 00:00:00 +0000
+Message-ID: <2627043289@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle il est nécessaire de prendre en considération chacune des alternatives possibles
+
+Cordialement,
+Laura Wilson
+

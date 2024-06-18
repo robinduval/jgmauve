@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 14 Oct 2009 00:00:00 +0000
+Message-ID: <7991224102@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance qui nous occupe il serait intéressant de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

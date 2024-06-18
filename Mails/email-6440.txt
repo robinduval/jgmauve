@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 08 Dec 2001 00:00:00 +0000
+Message-ID: <6548459883@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de la société il faut de toute urgence se remémorer la globalité des alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

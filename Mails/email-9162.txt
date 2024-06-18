@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 11 Apr 2005 00:00:00 +0000
+Message-ID: <8319883091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui est la nôtre il faut imaginer la globalité des alternatives possibles
+
+Cordialement,
+Michael Taylor
+

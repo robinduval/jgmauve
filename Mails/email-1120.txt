@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 18 Feb 2006 00:00:00 +0000
+Message-ID: <8655314956@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse actuelle on se doit de se préoccuper de la somme des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

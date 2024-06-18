@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Sun, 18 Jan 2009 00:00:00 +0000
+Message-ID: <5874986194@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui nous occupe il est préférable de se préoccuper de chacune des alternatives possibles
+
+Cordialement,
+William Jackson
+

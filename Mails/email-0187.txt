@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 23 Oct 2003 00:00:00 +0000
+Message-ID: <4235172934@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture conjoncturelle il ne faut pas négliger de ne pas négliger certaines solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

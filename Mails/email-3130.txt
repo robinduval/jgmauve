@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 25 Jun 2009 00:00:00 +0000
+Message-ID: <6566138187@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui nous occupe il convient de se préoccuper de la globalité des voies possibles
+
+Cordialement,
+Bob Smith
+

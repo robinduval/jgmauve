@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 16 Apr 2009 00:00:00 +0000
+Message-ID: <9108015029@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité présente il serait bon de anticiper la totalité des problématiques possibles
+
+Cordialement,
+John Doe
+

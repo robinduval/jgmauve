@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 06 Dec 2003 00:00:00 +0000
+Message-ID: <3172403386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise induite on ne peut se passer de se remémorer chacune des issues possibles
+
+Cordialement,
+Alice Dupont
+

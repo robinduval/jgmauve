@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 27 Feb 2009 00:00:00 +0000
+Message-ID: <9729338565@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de cette fin de siècle il faut de toute urgence se préoccuper de la globalité des solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

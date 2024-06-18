@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 23 Jun 2005 00:00:00 +0000
+Message-ID: <5458652397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il convient de s'intéresser à la somme des problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

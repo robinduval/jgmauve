@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 06 Feb 2003 00:00:00 +0000
+Message-ID: <4738547703@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de cette fin de siècle il est nécessaire de s'intéresser à la majorité des alternatives envisageables
+
+Cordialement,
+David Brown
+

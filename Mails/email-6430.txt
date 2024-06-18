@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 12 Jan 2002 00:00:00 +0000
+Message-ID: <3095620270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie conjoncturelle il convient de étudier la globalité des voies envisageables
+
+Cordialement,
+Samuel White
+

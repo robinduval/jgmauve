@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 28 Nov 2007 00:00:00 +0000
+Message-ID: <4082130676@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse actuelle il serait bon de se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

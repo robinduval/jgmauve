@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 31 Oct 2004 00:00:00 +0000
+Message-ID: <8245617379@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture induite il faut avoir à l'esprit la globalité des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

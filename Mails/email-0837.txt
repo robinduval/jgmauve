@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 01 Sep 2002 00:00:00 +0000
+Message-ID: <2554003045@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui nous occupe il est nécessaire de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

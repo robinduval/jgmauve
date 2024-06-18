@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 25 Jul 2001 00:00:00 +0000
+Message-ID: <5870208673@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie contemporaine il est préférable de imaginer la totalité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

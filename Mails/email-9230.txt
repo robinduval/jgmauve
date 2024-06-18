@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 31 May 2005 00:00:00 +0000
+Message-ID: <2182030535@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse contemporaine il est nécessaire de se remémorer la totalité des solutions possibles
+
+Cordialement,
+Sophie Martin
+

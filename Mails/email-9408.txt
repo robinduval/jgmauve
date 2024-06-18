@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 08 Feb 2007 00:00:00 +0000
+Message-ID: <8426333442@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose présente il serait bon de s'intéresser à chacune des issues envisageables
+
+Cordialement,
+Jean Neige
+

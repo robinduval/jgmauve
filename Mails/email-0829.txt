@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 07 Oct 2002 00:00:00 +0000
+Message-ID: <9396494972@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui est la nôtre il faut se remémorer la majorité des solutions déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

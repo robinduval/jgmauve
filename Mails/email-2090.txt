@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 12 Jul 2003 00:00:00 +0000
+Message-ID: <4503706349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance contemporaine il convient de étudier toutes les issues envisageables
+
+Cordialement,
+William Jackson
+

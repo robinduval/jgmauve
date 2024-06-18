@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Mon, 28 Jul 2003 00:00:00 +0000
+Message-ID: <7050241313@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture induite il est préférable de étudier l'ensemble des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

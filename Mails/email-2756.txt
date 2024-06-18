@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 07 Feb 2000 00:00:00 +0000
+Message-ID: <4705504377@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de cette fin de siècle il est préférable de anticiper la totalité des voies possibles
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Fri, 09 Nov 2001 00:00:00 +0000
+Message-ID: <9427123700@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation induite il est préférable de anticiper toutes les voies possibles
+
+Cordialement,
+Laura Wilson
+

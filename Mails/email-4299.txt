@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 27 Dec 2006 00:00:00 +0000
+Message-ID: <4277694326@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de ces derniers temps il faut de toute urgence imaginer la majorité des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

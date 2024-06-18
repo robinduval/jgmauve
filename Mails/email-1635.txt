@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 31 Jan 2008 00:00:00 +0000
+Message-ID: <3423122312@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance conjoncturelle il faut se remémorer la globalité des voies envisageables
+
+Cordialement,
+Bob Smith
+

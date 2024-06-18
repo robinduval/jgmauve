@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 01 Feb 2000 00:00:00 +0000
+Message-ID: <5857477915@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance contemporaine il convient de étudier certaines alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

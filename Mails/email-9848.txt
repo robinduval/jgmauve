@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 24 Dec 2000 00:00:00 +0000
+Message-ID: <1481689274@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de ces derniers temps il serait bon de se remémorer toutes les voies de bon sens
+
+Cordialement,
+William Jackson
+

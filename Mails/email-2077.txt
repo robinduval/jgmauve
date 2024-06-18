@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Wed, 03 Jun 2009 00:00:00 +0000
+Message-ID: <5243415174@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de la société il est préférable de imaginer certaines alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

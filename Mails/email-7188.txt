@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 25 Jul 2009 00:00:00 +0000
+Message-ID: <3687983473@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il convient de se remémorer toutes les issues de bon sens
+
+Cordialement,
+Emma Lee
+

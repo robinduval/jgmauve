@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 14 Nov 2006 00:00:00 +0000
+Message-ID: <6319555272@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs qui nous occupe il est préférable de ne pas négliger l'ensemble des problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Thu, 26 Jul 2001 00:00:00 +0000
+Message-ID: <5142229667@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose contemporaine il est préférable de anticiper la totalité des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

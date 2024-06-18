@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 30 Jan 2007 00:00:00 +0000
+Message-ID: <9793798410@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de la société il serait intéressant de ne pas négliger la totalité des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

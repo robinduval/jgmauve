@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sun, 27 Sep 2009 00:00:00 +0000
+Message-ID: <5922644612@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité actuelle on se doit de étudier chacune des voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

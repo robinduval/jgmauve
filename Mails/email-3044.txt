@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 09 May 2008 00:00:00 +0000
+Message-ID: <1184128965@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui est la nôtre on ne peut se passer de étudier la somme des issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

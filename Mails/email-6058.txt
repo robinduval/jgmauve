@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sat, 06 Sep 2003 00:00:00 +0000
+Message-ID: <4297718529@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il est nécessaire de se remémorer l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

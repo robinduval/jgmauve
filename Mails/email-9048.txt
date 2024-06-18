@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Thu, 17 Aug 2006 00:00:00 +0000
+Message-ID: <6964428745@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse induite il faut avoir à l'esprit chacune des voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

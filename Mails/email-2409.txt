@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 27 Aug 2000 00:00:00 +0000
+Message-ID: <7620556499@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse contemporaine il est préférable de ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+Alice Dupont
+

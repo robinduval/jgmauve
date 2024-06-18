@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 14 Feb 2008 00:00:00 +0000
+Message-ID: <4002980989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de ces derniers temps il est nécessaire de étudier la globalité des voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

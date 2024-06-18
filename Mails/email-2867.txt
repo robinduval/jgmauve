@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 04 Oct 2002 00:00:00 +0000
+Message-ID: <1635664328@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité induite on ne peut se passer de avoir à l'esprit l'ensemble des voies envisageables
+
+Cordialement,
+William Jackson
+

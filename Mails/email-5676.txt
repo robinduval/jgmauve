@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Tue, 19 Oct 2004 00:00:00 +0000
+Message-ID: <1796576775@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de la société on ne peut se passer de anticiper toutes les voies possibles
+
+Cordialement,
+Bob Smith
+

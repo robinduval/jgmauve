@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 14 Feb 2008 00:00:00 +0000
+Message-ID: <5873076543@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation qui est la nôtre il faut avoir à l'esprit l'ensemble des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

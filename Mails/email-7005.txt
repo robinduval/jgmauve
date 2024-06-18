@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 15 May 2007 00:00:00 +0000
+Message-ID: <2233204084@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation induite on se doit de imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

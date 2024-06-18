@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 30 Jan 2005 00:00:00 +0000
+Message-ID: <3169650820@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui nous occupe il est nécessaire de examiner chacune des voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

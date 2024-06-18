@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 15 Mar 2008 00:00:00 +0000
+Message-ID: <9319038218@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation qui nous occupe on se doit de avoir à l'esprit la somme des issues déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

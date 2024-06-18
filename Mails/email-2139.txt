@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 01 Apr 2007 00:00:00 +0000
+Message-ID: <9005355028@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose présente il faut examiner la somme des solutions envisageables
+
+Cordialement,
+Jean Neige
+

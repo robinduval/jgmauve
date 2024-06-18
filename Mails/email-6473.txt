@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 15 Nov 2009 00:00:00 +0000
+Message-ID: <1168544299@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise présente il faut imaginer certaines voies envisageables
+
+Cordialement,
+Daniel Clark
+

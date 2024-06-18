@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 30 Oct 2002 00:00:00 +0000
+Message-ID: <2187696107@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui nous occupe il est préférable de anticiper la totalité des voies envisageables
+
+Cordialement,
+Samuel White
+

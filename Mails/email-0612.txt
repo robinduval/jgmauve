@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 27 Jun 2008 00:00:00 +0000
+Message-ID: <4949359510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il serait bon de avoir à l'esprit chacune des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

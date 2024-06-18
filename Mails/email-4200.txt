@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Thu, 08 Dec 2005 00:00:00 +0000
+Message-ID: <6970662142@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs induite on se doit de étudier la majorité des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 11 May 2001 00:00:00 +0000
+Message-ID: <8053980174@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de cette fin de siècle on ne peut se passer de se remémorer l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

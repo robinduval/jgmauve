@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 02 Jan 2005 00:00:00 +0000
+Message-ID: <4969072281@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation contemporaine il serait intéressant de examiner toutes les solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

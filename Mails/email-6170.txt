@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 27 Dec 2005 00:00:00 +0000
+Message-ID: <2288900765@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose de cette fin de siècle on se doit de s'intéresser à certaines solutions envisageables
+
+Cordialement,
+Emma Lee
+

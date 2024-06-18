@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Fri, 27 Jul 2007 00:00:00 +0000
+Message-ID: <2221132528@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui nous occupe il est préférable de s'intéresser à la majorité des voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

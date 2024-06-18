@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 18 Jul 2006 00:00:00 +0000
+Message-ID: <5186396330@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose actuelle il convient de examiner toutes les issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

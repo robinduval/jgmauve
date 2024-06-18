@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 14 Aug 2001 00:00:00 +0000
+Message-ID: <7642593160@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine il est préférable de se remémorer certaines issues envisageables
+
+Cordialement,
+Laura Wilson
+

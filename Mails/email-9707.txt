@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Fri, 29 Jul 2005 00:00:00 +0000
+Message-ID: <2975825769@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de ces derniers temps on se doit de imaginer certaines issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

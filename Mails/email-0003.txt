@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 17 Aug 2007 00:00:00 +0000
+Message-ID: <4159726988@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il serait bon de ne pas négliger toutes les alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 16 Jan 2009 00:00:00 +0000
+Message-ID: <9299919597@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui nous occupe il faut de toute urgence ne pas négliger la majorité des alternatives possibles
+
+Cordialement,
+Emma Lee
+

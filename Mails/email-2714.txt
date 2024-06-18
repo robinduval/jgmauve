@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 12 Jul 2001 00:00:00 +0000
+Message-ID: <8719616082@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de ces derniers temps il convient de imaginer la majorité des solutions envisageables
+
+Cordialement,
+Daniel Clark
+

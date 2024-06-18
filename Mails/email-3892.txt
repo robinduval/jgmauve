@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 26 Aug 2009 00:00:00 +0000
+Message-ID: <8702811526@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité qui nous occupe il ne faut pas négliger de étudier toutes les voies envisageables
+
+Cordialement,
+William Jackson
+

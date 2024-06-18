@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 16 Aug 2001 00:00:00 +0000
+Message-ID: <2041461310@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui est la nôtre il serait bon de ne pas négliger chacune des alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

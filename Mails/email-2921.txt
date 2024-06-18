@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 28 Apr 2008 00:00:00 +0000
+Message-ID: <4174620529@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse présente il serait bon de ne pas négliger certaines issues envisageables
+
+Cordialement,
+Eva Thomas
+

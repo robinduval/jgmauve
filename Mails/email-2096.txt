@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 04 Nov 2005 00:00:00 +0000
+Message-ID: <9987644143@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il faut avoir à l'esprit chacune des problématiques possibles
+
+Cordialement,
+Olivia Harris
+

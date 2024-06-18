@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Tue, 06 Oct 2009 00:00:00 +0000
+Message-ID: <4927106288@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle il est nécessaire de s'intéresser à l'ensemble des issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

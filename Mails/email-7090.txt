@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 25 Apr 2006 00:00:00 +0000
+Message-ID: <5319178942@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation contemporaine il ne faut pas négliger de prendre en considération toutes les alternatives envisageables
+
+Cordialement,
+Bob Smith
+

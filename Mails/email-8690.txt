@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 15 Oct 2003 00:00:00 +0000
+Message-ID: <4688463511@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse conjoncturelle on se doit de anticiper toutes les problématiques possibles
+
+Cordialement,
+Michael Taylor
+

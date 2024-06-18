@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 22 Nov 2003 00:00:00 +0000
+Message-ID: <7475959868@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité contemporaine il serait bon de ne pas négliger certaines voies possibles
+
+Cordialement,
+Laura Wilson
+

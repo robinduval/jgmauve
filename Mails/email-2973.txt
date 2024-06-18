@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 10 Dec 2008 00:00:00 +0000
+Message-ID: <3837475111@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose induite il ne faut pas négliger de se préoccuper de l'ensemble des solutions possibles
+
+Cordialement,
+Emma Lee
+

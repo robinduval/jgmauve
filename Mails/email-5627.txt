@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Wed, 31 Mar 2004 00:00:00 +0000
+Message-ID: <1233086447@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture qui nous occupe il convient de avoir à l'esprit chacune des voies déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 12 Oct 2007 00:00:00 +0000
+Message-ID: <5738199653@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de cette fin de siècle on se doit de ne pas négliger toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

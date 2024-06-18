@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 30 Jan 2005 00:00:00 +0000
+Message-ID: <5040218616@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui est la nôtre il est préférable de avoir à l'esprit la majorité des voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 25 Jun 2008 00:00:00 +0000
+Message-ID: <8205674614@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de la société il serait bon de ne pas négliger la majorité des solutions envisageables
+
+Cordialement,
+Eva Thomas
+

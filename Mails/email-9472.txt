@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 20 Feb 2001 00:00:00 +0000
+Message-ID: <3296391789@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui est la nôtre il convient de examiner toutes les alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

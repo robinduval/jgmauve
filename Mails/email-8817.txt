@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 12 Feb 2000 00:00:00 +0000
+Message-ID: <9632831585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de la société il est préférable de avoir à l'esprit la totalité des solutions envisageables
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 22 Sep 2002 00:00:00 +0000
+Message-ID: <6944282898@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance conjoncturelle il convient de anticiper la totalité des voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 19 Nov 2001 00:00:00 +0000
+Message-ID: <9336284234@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation induite on se doit de examiner l'ensemble des solutions de bon sens
+
+Cordialement,
+Samuel White
+

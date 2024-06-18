@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Tue, 11 Aug 2009 00:00:00 +0000
+Message-ID: <1146462940@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de cette fin de siècle il est nécessaire de se préoccuper de l'ensemble des problématiques envisageables
+
+Cordialement,
+Sophie Martin
+

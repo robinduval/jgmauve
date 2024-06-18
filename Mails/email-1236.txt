@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 10 Mar 2009 00:00:00 +0000
+Message-ID: <2140795386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de la société on ne peut se passer de prendre en considération la somme des alternatives s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 13 Jul 2003 00:00:00 +0000
+Message-ID: <3803237245@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il serait bon de prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

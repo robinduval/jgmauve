@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Fri, 02 May 2003 00:00:00 +0000
+Message-ID: <9240080561@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de la société il est préférable de examiner toutes les issues possibles
+
+Cordialement,
+Alice Dupont
+

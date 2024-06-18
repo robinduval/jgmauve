@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Wed, 30 Apr 2003 00:00:00 +0000
+Message-ID: <1559701735@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité actuelle il convient de se remémorer certaines problématiques s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

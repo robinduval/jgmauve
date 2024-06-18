@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 13 Oct 2007 00:00:00 +0000
+Message-ID: <5099144951@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie conjoncturelle il convient de étudier certaines problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 29 Mar 2002 00:00:00 +0000
+Message-ID: <3448705184@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation présente il serait intéressant de examiner chacune des alternatives envisageables
+
+Cordialement,
+Jean Neige
+

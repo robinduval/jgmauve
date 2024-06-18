@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sun, 28 Sep 2003 00:00:00 +0000
+Message-ID: <1128092265@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite on se doit de étudier toutes les problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

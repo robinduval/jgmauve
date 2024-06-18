@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Thu, 03 Jun 2004 00:00:00 +0000
+Message-ID: <9512176131@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie présente il serait intéressant de prendre en considération toutes les voies déjà en notre possession
+
+Cordialement,
+John Doe
+

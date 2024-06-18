@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 08 Jun 2002 00:00:00 +0000
+Message-ID: <3239060940@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de ces derniers temps il est nécessaire de anticiper chacune des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

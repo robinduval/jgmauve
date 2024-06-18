@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Thu, 09 Feb 2006 00:00:00 +0000
+Message-ID: <8961978697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs actuelle on ne peut se passer de imaginer la somme des alternatives déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 14 Jan 2001 00:00:00 +0000
+Message-ID: <9996595792@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose présente il serait bon de ne pas négliger chacune des issues possibles
+
+Cordialement,
+Jean Neige
+

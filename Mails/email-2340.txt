@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 20 Apr 2002 00:00:00 +0000
+Message-ID: <8376517484@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation présente il faut anticiper toutes les solutions déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 15 Jul 2000 00:00:00 +0000
+Message-ID: <5388039648@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose qui nous occupe il est nécessaire de anticiper toutes les solutions de bon sens
+
+Cordialement,
+Jean Neige
+

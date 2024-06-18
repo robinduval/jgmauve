@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 30 Jan 2006 00:00:00 +0000
+Message-ID: <9064667726@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité actuelle il serait intéressant de se préoccuper de toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 20 Apr 2007 00:00:00 +0000
+Message-ID: <6518025494@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de cette fin de siècle il serait intéressant de imaginer chacune des solutions de bon sens
+
+Cordialement,
+John Doe
+

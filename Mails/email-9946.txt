@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Fri, 14 Sep 2001 00:00:00 +0000
+Message-ID: <1088721571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui est la nôtre on ne peut se passer de étudier toutes les problématiques possibles
+
+Cordialement,
+Alice Dupont
+

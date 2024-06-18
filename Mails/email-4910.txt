@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 04 Dec 2000 00:00:00 +0000
+Message-ID: <2574117061@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance conjoncturelle il serait intéressant de étudier chacune des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

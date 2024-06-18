@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 18 Sep 2001 00:00:00 +0000
+Message-ID: <3911922978@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité actuelle il serait bon de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

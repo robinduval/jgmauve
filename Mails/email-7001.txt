@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Wed, 30 Jan 2008 00:00:00 +0000
+Message-ID: <4743943772@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie induite il serait bon de se préoccuper de toutes les problématiques possibles
+
+Cordialement,
+Emma Lee
+

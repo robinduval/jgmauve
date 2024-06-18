@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 17 Feb 2005 00:00:00 +0000
+Message-ID: <2010913200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse qui nous occupe il est nécessaire de avoir à l'esprit chacune des solutions possibles
+
+Cordialement,
+Daniel Clark
+

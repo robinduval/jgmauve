@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Sat, 23 Aug 2003 00:00:00 +0000
+Message-ID: <8945126588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie induite on ne peut se passer de avoir à l'esprit toutes les voies possibles
+
+Cordialement,
+Olivia Harris
+

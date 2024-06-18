@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 12 Aug 2003 00:00:00 +0000
+Message-ID: <2279209512@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse conjoncturelle il est nécessaire de ne pas négliger toutes les alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

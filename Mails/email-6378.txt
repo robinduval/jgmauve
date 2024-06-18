@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 11 Sep 2005 00:00:00 +0000
+Message-ID: <1920018944@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de cette fin de siècle on ne peut se passer de se remémorer la somme des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

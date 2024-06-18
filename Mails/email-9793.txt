@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Mon, 19 Jul 2004 00:00:00 +0000
+Message-ID: <7984080131@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose présente il serait bon de étudier la somme des voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

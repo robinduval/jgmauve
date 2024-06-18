@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 31 May 2004 00:00:00 +0000
+Message-ID: <6596105909@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité conjoncturelle il serait bon de prendre en considération toutes les issues envisageables
+
+Cordialement,
+Eva Thomas
+

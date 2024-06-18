@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Mon, 11 Jun 2007 00:00:00 +0000
+Message-ID: <2903131807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie contemporaine il convient de étudier la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 15 Dec 2004 00:00:00 +0000
+Message-ID: <7867547597@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de la société on se doit de avoir à l'esprit certaines issues envisageables
+
+Cordialement,
+Olivia Harris
+

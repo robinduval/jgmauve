@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Wed, 10 Jan 2007 00:00:00 +0000
+Message-ID: <3877165700@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine il est nécessaire de s'intéresser à la somme des issues de bon sens
+
+Cordialement,
+Olivia Harris
+

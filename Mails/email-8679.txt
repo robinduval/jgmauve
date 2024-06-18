@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 28 Jul 2002 00:00:00 +0000
+Message-ID: <2399611248@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs contemporaine il est préférable de anticiper certaines problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

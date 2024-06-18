@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 29 Apr 2008 00:00:00 +0000
+Message-ID: <7173613867@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation conjoncturelle il faut se remémorer toutes les solutions s'offrant à nous
+
+Cordialement,
+William Jackson
+

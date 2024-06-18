@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Mon, 26 May 2003 00:00:00 +0000
+Message-ID: <1014217600@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse induite il serait bon de étudier toutes les alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

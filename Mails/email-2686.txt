@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 18 Feb 2004 00:00:00 +0000
+Message-ID: <6768542593@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose qui nous occupe il convient de s'intéresser à l'ensemble des alternatives possibles
+
+Cordialement,
+Samuel White
+

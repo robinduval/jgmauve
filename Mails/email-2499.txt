@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 02 May 2000 00:00:00 +0000
+Message-ID: <6222384208@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité contemporaine on se doit de avoir à l'esprit l'ensemble des alternatives de bon sens
+
+Cordialement,
+Olivia Harris
+

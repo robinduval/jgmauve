@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 06 Sep 2001 00:00:00 +0000
+Message-ID: <3065471327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose présente il serait bon de anticiper la globalité des problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

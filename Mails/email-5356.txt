@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Fri, 15 Oct 2004 00:00:00 +0000
+Message-ID: <7443627044@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs conjoncturelle on ne peut se passer de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 04 Jul 2000 00:00:00 +0000
+Message-ID: <6792047305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de cette fin de siècle il faut se remémorer toutes les alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

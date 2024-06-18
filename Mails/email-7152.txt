@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 05 Apr 2007 00:00:00 +0000
+Message-ID: <4978442401@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de la société il faut imaginer toutes les solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

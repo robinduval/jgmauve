@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <4133588125@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs de la société on ne peut se passer de prendre en considération l'ensemble des voies envisageables
+
+Cordialement,
+William Jackson
+

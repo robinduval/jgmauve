@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 14 Aug 2009 00:00:00 +0000
+Message-ID: <5197091185@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de la société il serait bon de examiner toutes les issues envisageables
+
+Cordialement,
+John Doe
+

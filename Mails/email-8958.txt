@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 24 Apr 2004 00:00:00 +0000
+Message-ID: <7761893905@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose actuelle on se doit de anticiper certaines solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

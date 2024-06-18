@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 21 Apr 2005 00:00:00 +0000
+Message-ID: <7883415470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose conjoncturelle il faut de toute urgence anticiper chacune des problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

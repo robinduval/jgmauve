@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 14 Jan 2007 00:00:00 +0000
+Message-ID: <2162329551@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui nous occupe on ne peut se passer de prendre en considération la totalité des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

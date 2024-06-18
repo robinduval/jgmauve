@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 08 May 2004 00:00:00 +0000
+Message-ID: <7300278612@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance actuelle on se doit de anticiper l'ensemble des issues de bon sens
+
+Cordialement,
+Jean Neige
+

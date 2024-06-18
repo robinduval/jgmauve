@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 29 Aug 2007 00:00:00 +0000
+Message-ID: <8758789571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il convient de imaginer toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

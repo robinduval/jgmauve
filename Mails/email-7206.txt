@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 01 Mar 2005 00:00:00 +0000
+Message-ID: <5560229372@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de cette fin de siècle il faut de toute urgence avoir à l'esprit la globalité des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

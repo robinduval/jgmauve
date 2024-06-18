@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 26 Dec 2001 00:00:00 +0000
+Message-ID: <4842464381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture induite on ne peut se passer de ne pas négliger toutes les voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

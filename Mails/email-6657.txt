@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Wed, 21 Sep 2005 00:00:00 +0000
+Message-ID: <1437842729@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation contemporaine on ne peut se passer de anticiper toutes les alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

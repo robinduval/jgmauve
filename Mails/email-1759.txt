@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 15 Jul 2005 00:00:00 +0000
+Message-ID: <1857568384@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle il est préférable de étudier la totalité des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

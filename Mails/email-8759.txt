@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 13 Mar 2009 00:00:00 +0000
+Message-ID: <4457562732@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation induite il faut ne pas négliger l'ensemble des voies de bon sens
+
+Cordialement,
+Jean Neige
+

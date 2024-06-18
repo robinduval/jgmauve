@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Fri, 13 May 2005 00:00:00 +0000
+Message-ID: <9113741195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre il serait bon de s'intéresser à l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

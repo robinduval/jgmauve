@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 17 Jun 2002 00:00:00 +0000
+Message-ID: <2165600807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation de cette fin de siècle il serait bon de avoir à l'esprit l'ensemble des alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

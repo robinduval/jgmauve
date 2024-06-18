@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 22 Apr 2003 00:00:00 +0000
+Message-ID: <4289462536@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de ces derniers temps il faut de toute urgence examiner certaines problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

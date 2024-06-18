@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 09 Aug 2007 00:00:00 +0000
+Message-ID: <1009996758@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture qui est la nôtre on se doit de avoir à l'esprit la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

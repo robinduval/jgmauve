@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Thu, 06 Oct 2005 00:00:00 +0000
+Message-ID: <1435631179@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse présente il serait intéressant de examiner la majorité des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

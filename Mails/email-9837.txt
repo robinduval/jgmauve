@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 30 Sep 2003 00:00:00 +0000
+Message-ID: <4888699556@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de ces derniers temps il faut examiner chacune des voies possibles
+
+Cordialement,
+Olivia Harris
+

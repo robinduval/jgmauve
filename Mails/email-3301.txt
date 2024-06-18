@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 23 Nov 2004 00:00:00 +0000
+Message-ID: <4813539132@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de cette fin de siècle on ne peut se passer de étudier la totalité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

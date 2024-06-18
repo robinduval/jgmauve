@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 18 Dec 2005 00:00:00 +0000
+Message-ID: <9633009356@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture contemporaine il faut de toute urgence se remémorer la somme des alternatives envisageables
+
+Cordialement,
+David Brown
+

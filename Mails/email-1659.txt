@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 04 May 2009 00:00:00 +0000
+Message-ID: <8536592762@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture présente on ne peut se passer de anticiper la majorité des voies de bon sens
+
+Cordialement,
+Jean Neige
+

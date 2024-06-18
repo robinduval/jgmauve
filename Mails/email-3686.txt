@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 02 Mar 2007 00:00:00 +0000
+Message-ID: <5715291874@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de ces derniers temps il faut de toute urgence imaginer l'ensemble des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Thu, 10 May 2007 00:00:00 +0000
+Message-ID: <2388037425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation présente il faut prendre en considération toutes les issues possibles
+
+Cordialement,
+David Brown
+

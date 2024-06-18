@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Mon, 15 May 2006 00:00:00 +0000
+Message-ID: <7335067019@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise présente il convient de s'intéresser à la globalité des issues possibles
+
+Cordialement,
+William Jackson
+

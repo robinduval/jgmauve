@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 02 Oct 2007 00:00:00 +0000
+Message-ID: <1768186859@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise actuelle on ne peut se passer de anticiper certaines voies de bon sens
+
+Cordialement,
+Laura Wilson
+

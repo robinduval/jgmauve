@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 19 Oct 2003 00:00:00 +0000
+Message-ID: <2738573409@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance contemporaine il ne faut pas négliger de ne pas négliger toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 30 Sep 2005 00:00:00 +0000
+Message-ID: <8015642909@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité qui est la nôtre il est préférable de s'intéresser à certaines issues de bon sens
+
+Cordialement,
+Jean Neige
+

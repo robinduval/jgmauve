@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 19 May 2007 00:00:00 +0000
+Message-ID: <5604298240@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs de la société il est nécessaire de examiner la totalité des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

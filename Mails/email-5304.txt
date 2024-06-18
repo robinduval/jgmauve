@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 29 Sep 2009 00:00:00 +0000
+Message-ID: <7049216344@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture présente il ne faut pas négliger de prendre en considération la somme des problématiques de bon sens
+
+Cordialement,
+John Doe
+

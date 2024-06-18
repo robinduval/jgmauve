@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 14 Apr 2005 00:00:00 +0000
+Message-ID: <8483796711@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre on se doit de se remémorer chacune des issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

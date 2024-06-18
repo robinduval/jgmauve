@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 09 Jan 2008 00:00:00 +0000
+Message-ID: <1058116642@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose conjoncturelle il ne faut pas négliger de ne pas négliger la somme des voies possibles
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 24 Aug 2007 00:00:00 +0000
+Message-ID: <6832551458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de la société il serait intéressant de se remémorer la globalité des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

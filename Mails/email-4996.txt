@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Tue, 23 May 2006 00:00:00 +0000
+Message-ID: <5918043323@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation induite il est préférable de se préoccuper de certaines alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

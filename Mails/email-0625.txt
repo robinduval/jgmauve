@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 09 Oct 2009 00:00:00 +0000
+Message-ID: <8148253628@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de cette fin de siècle il convient de se remémorer la globalité des issues possibles
+
+Cordialement,
+Alice Dupont
+

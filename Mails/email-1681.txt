@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 07 Sep 2004 00:00:00 +0000
+Message-ID: <9450563909@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de cette fin de siècle il est préférable de se remémorer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

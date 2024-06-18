@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sat, 08 Jul 2000 00:00:00 +0000
+Message-ID: <1892126236@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse induite il est préférable de s'intéresser à certaines voies s'offrant à nous
+
+Cordialement,
+Bob Smith
+

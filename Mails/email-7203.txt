@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 10 Feb 2005 00:00:00 +0000
+Message-ID: <6061457072@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité conjoncturelle il est préférable de se préoccuper de la somme des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

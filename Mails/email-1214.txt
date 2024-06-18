@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Wed, 06 Jun 2007 00:00:00 +0000
+Message-ID: <5972833239@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité présente il convient de examiner toutes les issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

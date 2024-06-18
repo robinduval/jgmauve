@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 12 May 2008 00:00:00 +0000
+Message-ID: <2314637126@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse actuelle il serait bon de examiner la somme des problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

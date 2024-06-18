@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 29 Nov 2007 00:00:00 +0000
+Message-ID: <9885154317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il est préférable de examiner la somme des problématiques envisageables
+
+Cordialement,
+Emma Lee
+

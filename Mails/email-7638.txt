@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 27 Jul 2007 00:00:00 +0000
+Message-ID: <6601642317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre il convient de prendre en considération l'ensemble des solutions possibles
+
+Cordialement,
+Samuel White
+

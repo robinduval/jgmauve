@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 14 Sep 2005 00:00:00 +0000
+Message-ID: <2283668188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture actuelle il ne faut pas négliger de s'intéresser à la somme des voies possibles
+
+Cordialement,
+David Brown
+

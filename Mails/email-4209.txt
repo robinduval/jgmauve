@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 11 Mar 2000 00:00:00 +0000
+Message-ID: <4696021118@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de cette fin de siècle on se doit de se préoccuper de la majorité des voies envisageables
+
+Cordialement,
+Michael Taylor
+

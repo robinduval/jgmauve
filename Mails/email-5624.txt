@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Tue, 03 Jul 2007 00:00:00 +0000
+Message-ID: <1980683060@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise conjoncturelle il est nécessaire de s'intéresser à la somme des voies de bon sens
+
+Cordialement,
+Jean Neige
+

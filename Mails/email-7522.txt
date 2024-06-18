@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Tue, 07 Nov 2000 00:00:00 +0000
+Message-ID: <8480611094@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation présente il serait intéressant de prendre en considération la majorité des voies s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

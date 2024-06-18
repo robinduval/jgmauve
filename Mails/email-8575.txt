@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Thu, 17 Nov 2005 00:00:00 +0000
+Message-ID: <6283147594@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité conjoncturelle il est préférable de étudier toutes les solutions possibles
+
+Cordialement,
+Eva Thomas
+

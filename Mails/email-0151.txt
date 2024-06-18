@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Sat, 03 Feb 2007 00:00:00 +0000
+Message-ID: <8248220936@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation induite il est préférable de avoir à l'esprit la majorité des solutions possibles
+
+Cordialement,
+Eva Thomas
+

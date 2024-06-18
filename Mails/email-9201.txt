@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 17 May 2000 00:00:00 +0000
+Message-ID: <9761688227@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il faut étudier chacune des problématiques de bon sens
+
+Cordialement,
+Bob Smith
+

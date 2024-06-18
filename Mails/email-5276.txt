@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Wed, 01 Oct 2003 00:00:00 +0000
+Message-ID: <6441126397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation présente il est préférable de avoir à l'esprit la majorité des voies déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 30 Dec 2000 00:00:00 +0000
+Message-ID: <7937486203@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de ces derniers temps on se doit de examiner la globalité des voies envisageables
+
+Cordialement,
+David Brown
+

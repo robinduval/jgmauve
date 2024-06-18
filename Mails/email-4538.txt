@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 28 Aug 2005 00:00:00 +0000
+Message-ID: <9563884002@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation contemporaine on ne peut se passer de imaginer la globalité des solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

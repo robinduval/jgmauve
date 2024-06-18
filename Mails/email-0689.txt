@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Thu, 13 Nov 2003 00:00:00 +0000
+Message-ID: <3253778017@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie contemporaine il faut ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+Olivia Harris
+

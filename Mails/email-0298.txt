@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sun, 08 Feb 2009 00:00:00 +0000
+Message-ID: <8357146577@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de la société il faut de toute urgence se préoccuper de toutes les solutions de bon sens
+
+Cordialement,
+John Doe
+

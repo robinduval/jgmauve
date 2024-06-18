@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 01 Mar 2006 00:00:00 +0000
+Message-ID: <1359409074@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de ces derniers temps on se doit de étudier chacune des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

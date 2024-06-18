@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 23 Mar 2000 00:00:00 +0000
+Message-ID: <8685399141@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité actuelle on se doit de avoir à l'esprit l'ensemble des problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

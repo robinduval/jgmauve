@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sun, 10 Nov 2002 00:00:00 +0000
+Message-ID: <7387008586@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de la société il faut avoir à l'esprit toutes les problématiques envisageables
+
+Cordialement,
+David Brown
+

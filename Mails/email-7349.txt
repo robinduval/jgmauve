@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 28 Jul 2004 00:00:00 +0000
+Message-ID: <3673601179@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de cette fin de siècle il ne faut pas négliger de examiner toutes les problématiques possibles
+
+Cordialement,
+Daniel Clark
+

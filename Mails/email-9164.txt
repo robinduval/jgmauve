@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 31 Mar 2007 00:00:00 +0000
+Message-ID: <6668114312@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de la société il est préférable de anticiper toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

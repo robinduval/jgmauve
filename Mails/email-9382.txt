@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 21 Jan 2002 00:00:00 +0000
+Message-ID: <4394816301@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs présente il est préférable de se remémorer toutes les voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

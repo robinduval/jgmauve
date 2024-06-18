@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Wed, 04 Jul 2001 00:00:00 +0000
+Message-ID: <4037550754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse de la société on se doit de avoir à l'esprit certaines problématiques possibles
+
+Cordialement,
+David Brown
+

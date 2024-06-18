@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 20 Dec 2006 00:00:00 +0000
+Message-ID: <6864444389@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie actuelle il serait bon de étudier certaines issues envisageables
+
+Cordialement,
+David Brown
+

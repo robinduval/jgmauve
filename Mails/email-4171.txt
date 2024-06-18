@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 24 Oct 2003 00:00:00 +0000
+Message-ID: <4811291956@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise conjoncturelle on se doit de examiner la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

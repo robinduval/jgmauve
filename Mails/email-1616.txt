@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 05 Dec 2000 00:00:00 +0000
+Message-ID: <5400675617@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation de ces derniers temps il est préférable de anticiper toutes les issues possibles
+
+Cordialement,
+Alice Dupont
+

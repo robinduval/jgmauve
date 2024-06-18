@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Tue, 17 Apr 2007 00:00:00 +0000
+Message-ID: <8777863617@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise conjoncturelle il faut de toute urgence s'intéresser à toutes les alternatives de bon sens
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Thu, 06 Nov 2003 00:00:00 +0000
+Message-ID: <4267167450@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il convient de s'intéresser à l'ensemble des voies possibles
+
+Cordialement,
+Eva Thomas
+

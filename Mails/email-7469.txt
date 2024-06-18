@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 06 Aug 2009 00:00:00 +0000
+Message-ID: <2522706762@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui est la nôtre il ne faut pas négliger de se remémorer l'ensemble des problématiques envisageables
+
+Cordialement,
+William Jackson
+

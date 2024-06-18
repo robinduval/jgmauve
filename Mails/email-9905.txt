@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Sun, 27 Dec 2009 00:00:00 +0000
+Message-ID: <6431548903@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise contemporaine on ne peut se passer de anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Jean Neige
+

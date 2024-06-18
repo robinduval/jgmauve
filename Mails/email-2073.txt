@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 04 Aug 2003 00:00:00 +0000
+Message-ID: <1658024530@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse de ces derniers temps on se doit de étudier toutes les solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

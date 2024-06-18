@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 27 Jul 2008 00:00:00 +0000
+Message-ID: <5893047148@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de la société il est nécessaire de avoir à l'esprit toutes les solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

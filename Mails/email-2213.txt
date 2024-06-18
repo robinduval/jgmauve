@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 24 Sep 2008 00:00:00 +0000
+Message-ID: <7938792884@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie induite on ne peut se passer de se remémorer la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

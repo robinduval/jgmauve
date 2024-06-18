@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 12 Apr 2001 00:00:00 +0000
+Message-ID: <3057791162@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de ces derniers temps il est nécessaire de se remémorer toutes les voies possibles
+
+Cordialement,
+Emma Lee
+

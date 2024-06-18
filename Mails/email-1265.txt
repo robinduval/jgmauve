@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Fri, 19 Nov 2004 00:00:00 +0000
+Message-ID: <8578326452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui est la nôtre il est préférable de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+Samuel White
+

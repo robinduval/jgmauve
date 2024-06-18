@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 06 Nov 2004 00:00:00 +0000
+Message-ID: <7758308208@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture présente il faut de toute urgence étudier la totalité des voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

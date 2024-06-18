@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sat, 29 Nov 2008 00:00:00 +0000
+Message-ID: <5284817923@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse qui est la nôtre il est préférable de avoir à l'esprit la globalité des solutions déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 24 Apr 2009 00:00:00 +0000
+Message-ID: <2564592705@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie présente il serait bon de anticiper toutes les problématiques déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

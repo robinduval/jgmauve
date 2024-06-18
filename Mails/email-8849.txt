@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 11 Mar 2002 00:00:00 +0000
+Message-ID: <4006374902@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité conjoncturelle il serait intéressant de examiner la totalité des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

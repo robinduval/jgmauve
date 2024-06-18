@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 26 Dec 2001 00:00:00 +0000
+Message-ID: <8001810914@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de ces derniers temps il faut de toute urgence étudier chacune des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

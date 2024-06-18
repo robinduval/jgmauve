@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Annonce de vacances
+Date: Fri, 16 Mar 2001 00:00:00 +0000
+Message-ID: <5868060466@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise conjoncturelle on ne peut se passer de anticiper l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

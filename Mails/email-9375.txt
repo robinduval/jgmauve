@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Fri, 09 Feb 2001 00:00:00 +0000
+Message-ID: <1024289219@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de la société il serait bon de ne pas négliger la totalité des alternatives de bon sens
+
+Cordialement,
+Michael Taylor
+

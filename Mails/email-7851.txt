@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Thu, 16 Nov 2006 00:00:00 +0000
+Message-ID: <9011126327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de ces derniers temps il faut de toute urgence s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Samuel White
+

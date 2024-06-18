@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Fri, 21 Sep 2007 00:00:00 +0000
+Message-ID: <2687494535@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation conjoncturelle il serait intéressant de se préoccuper de certaines alternatives possibles
+
+Cordialement,
+Laura Wilson
+

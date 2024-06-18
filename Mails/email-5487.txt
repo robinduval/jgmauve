@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 28 Mar 2009 00:00:00 +0000
+Message-ID: <2619148218@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de ces derniers temps il serait bon de se remémorer chacune des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 01 Nov 2002 00:00:00 +0000
+Message-ID: <1164808052@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il est nécessaire de s'intéresser à toutes les voies possibles
+
+Cordialement,
+Charlotte Moore
+

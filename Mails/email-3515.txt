@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 10 Sep 2001 00:00:00 +0000
+Message-ID: <9396875071@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation induite il est préférable de se remémorer la somme des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

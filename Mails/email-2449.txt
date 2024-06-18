@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Mon, 23 May 2005 00:00:00 +0000
+Message-ID: <6139694909@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui est la nôtre on ne peut se passer de ne pas négliger la globalité des alternatives possibles
+
+Cordialement,
+Bob Smith
+

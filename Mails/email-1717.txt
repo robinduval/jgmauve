@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 03 Jun 2007 00:00:00 +0000
+Message-ID: <1407714008@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance actuelle il faut de toute urgence ne pas négliger certaines alternatives envisageables
+
+Cordialement,
+John Doe
+

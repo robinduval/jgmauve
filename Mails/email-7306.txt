@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Sat, 18 May 2002 00:00:00 +0000
+Message-ID: <8481758283@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de cette fin de siècle il serait bon de se remémorer la totalité des issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

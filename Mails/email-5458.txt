@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 12 Jan 2006 00:00:00 +0000
+Message-ID: <7610507156@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui est la nôtre on se doit de se préoccuper de la totalité des alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

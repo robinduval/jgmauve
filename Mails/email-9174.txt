@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 18 Aug 2008 00:00:00 +0000
+Message-ID: <9216169342@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui est la nôtre il faut de toute urgence anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

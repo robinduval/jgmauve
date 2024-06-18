@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Tue, 19 Feb 2008 00:00:00 +0000
+Message-ID: <4565614053@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise conjoncturelle il ne faut pas négliger de anticiper chacune des solutions de bon sens
+
+Cordialement,
+Bob Smith
+

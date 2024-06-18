@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sun, 13 Aug 2006 00:00:00 +0000
+Message-ID: <7391787141@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance qui est la nôtre il serait intéressant de prendre en considération la majorité des problématiques envisageables
+
+Cordialement,
+Bob Smith
+

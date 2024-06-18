@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 10 Nov 2005 00:00:00 +0000
+Message-ID: <2355683985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse de cette fin de siècle il faut de toute urgence étudier la totalité des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Tue, 01 May 2001 00:00:00 +0000
+Message-ID: <1309404392@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de cette fin de siècle il ne faut pas négliger de prendre en considération chacune des problématiques possibles
+
+Cordialement,
+Samuel White
+

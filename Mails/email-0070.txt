@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 16 Feb 2004 00:00:00 +0000
+Message-ID: <4500938316@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente on se doit de anticiper la globalité des voies envisageables
+
+Cordialement,
+Alice Dupont
+

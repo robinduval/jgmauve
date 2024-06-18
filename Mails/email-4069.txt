@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Tue, 27 Jun 2000 00:00:00 +0000
+Message-ID: <4653988716@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de cette fin de siècle il convient de se remémorer la totalité des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 03 Apr 2004 00:00:00 +0000
+Message-ID: <8067043854@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui est la nôtre on ne peut se passer de examiner toutes les voies de bon sens
+
+Cordialement,
+William Jackson
+

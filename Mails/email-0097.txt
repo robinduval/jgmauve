@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 28 Jun 2003 00:00:00 +0000
+Message-ID: <2169519940@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il est nécessaire de étudier toutes les alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

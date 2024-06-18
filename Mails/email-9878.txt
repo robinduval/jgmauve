@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 02 Sep 2003 00:00:00 +0000
+Message-ID: <9779430669@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse présente il serait intéressant de imaginer chacune des alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

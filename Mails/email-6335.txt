@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 21 Sep 2007 00:00:00 +0000
+Message-ID: <9953303562@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation qui nous occupe on se doit de anticiper la globalité des voies s'offrant à nous
+
+Cordialement,
+Bob Smith
+

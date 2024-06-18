@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 09 May 2008 00:00:00 +0000
+Message-ID: <8618603270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de la société il faut s'intéresser à chacune des alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 12 Nov 2002 00:00:00 +0000
+Message-ID: <4416929241@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation conjoncturelle il faut examiner la somme des solutions envisageables
+
+Cordialement,
+John Doe
+

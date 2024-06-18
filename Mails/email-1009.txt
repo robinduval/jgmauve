@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 13 Nov 2001 00:00:00 +0000
+Message-ID: <8231526956@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de cette fin de siècle on ne peut se passer de anticiper la totalité des alternatives déjà en notre possession
+
+Cordialement,
+William Jackson
+

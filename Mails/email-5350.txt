@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 20 Dec 2000 00:00:00 +0000
+Message-ID: <4833534275@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité induite il serait bon de imaginer toutes les problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

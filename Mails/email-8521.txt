@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 22 Aug 2004 00:00:00 +0000
+Message-ID: <3917144713@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de ces derniers temps il faut étudier l'ensemble des problématiques possibles
+
+Cordialement,
+John Doe
+

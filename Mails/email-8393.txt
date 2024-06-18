@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Tue, 25 Sep 2001 00:00:00 +0000
+Message-ID: <1960671359@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance présente il faut étudier certaines issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

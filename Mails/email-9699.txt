@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 07 Aug 2006 00:00:00 +0000
+Message-ID: <6140649024@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation contemporaine on ne peut se passer de s'intéresser à certaines voies de bon sens
+
+Cordialement,
+John Doe
+

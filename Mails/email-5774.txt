@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 08 Jun 2001 00:00:00 +0000
+Message-ID: <3635143096@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de ces derniers temps il serait bon de ne pas négliger toutes les problématiques s'offrant à nous
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 16 Dec 2006 00:00:00 +0000
+Message-ID: <1591249326@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre il serait intéressant de prendre en considération l'ensemble des voies possibles
+
+Cordialement,
+William Jackson
+

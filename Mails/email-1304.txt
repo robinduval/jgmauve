@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 26 Aug 2003 00:00:00 +0000
+Message-ID: <6775611149@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de cette fin de siècle on se doit de prendre en considération toutes les solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

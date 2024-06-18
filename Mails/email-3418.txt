@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 26 Nov 2001 00:00:00 +0000
+Message-ID: <2940284086@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse de ces derniers temps il faut de toute urgence avoir à l'esprit la majorité des problématiques possibles
+
+Cordialement,
+William Jackson
+

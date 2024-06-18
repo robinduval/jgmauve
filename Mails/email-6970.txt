@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 20 Jul 2006 00:00:00 +0000
+Message-ID: <6154751155@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui nous occupe il ne faut pas négliger de s'intéresser à toutes les problématiques de bon sens
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Mon, 22 Sep 2003 00:00:00 +0000
+Message-ID: <4794382957@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation actuelle il faut imaginer toutes les voies possibles
+
+Cordialement,
+David Brown
+

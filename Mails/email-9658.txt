@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Mon, 13 Jan 2003 00:00:00 +0000
+Message-ID: <2625155112@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il est préférable de examiner l'ensemble des alternatives envisageables
+
+Cordialement,
+Samuel White
+

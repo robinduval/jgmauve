@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 10 Feb 2006 00:00:00 +0000
+Message-ID: <9629183737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose induite il serait bon de anticiper chacune des issues envisageables
+
+Cordialement,
+Charlotte Moore
+

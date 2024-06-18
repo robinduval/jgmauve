@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 23 Feb 2005 00:00:00 +0000
+Message-ID: <1505986136@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose de la société il serait bon de s'intéresser à la globalité des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

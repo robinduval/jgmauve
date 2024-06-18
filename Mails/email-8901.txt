@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Wed, 18 Nov 2009 00:00:00 +0000
+Message-ID: <7229660195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de la société on ne peut se passer de anticiper chacune des alternatives de bon sens
+
+Cordialement,
+John Doe
+

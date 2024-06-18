@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 01 Oct 2008 00:00:00 +0000
+Message-ID: <1807801986@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture induite on se doit de imaginer la somme des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

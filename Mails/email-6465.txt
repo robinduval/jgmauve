@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 25 Jul 2008 00:00:00 +0000
+Message-ID: <6893532401@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il convient de se préoccuper de toutes les problématiques possibles
+
+Cordialement,
+Jean Neige
+

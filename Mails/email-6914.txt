@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 04 Jun 2001 00:00:00 +0000
+Message-ID: <8378176419@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose qui est la nôtre on se doit de imaginer la globalité des issues envisageables
+
+Cordialement,
+David Brown
+

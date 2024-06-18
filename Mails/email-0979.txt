@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 24 Jul 2007 00:00:00 +0000
+Message-ID: <8742501670@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture qui nous occupe il est nécessaire de anticiper la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 19 Oct 2006 00:00:00 +0000
+Message-ID: <6259890229@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie de la société il faut anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Jean Neige
+

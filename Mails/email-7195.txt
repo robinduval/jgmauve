@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Sun, 05 Nov 2006 00:00:00 +0000
+Message-ID: <4744548556@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise contemporaine il est nécessaire de prendre en considération la somme des solutions possibles
+
+Cordialement,
+John Doe
+

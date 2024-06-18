@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Thu, 20 Mar 2008 00:00:00 +0000
+Message-ID: <6747404933@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de la société il faut se remémorer toutes les problématiques s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

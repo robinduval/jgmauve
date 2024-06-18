@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 08 Nov 2008 00:00:00 +0000
+Message-ID: <3245997849@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité conjoncturelle il faut de toute urgence avoir à l'esprit la globalité des issues envisageables
+
+Cordialement,
+Olivia Harris
+

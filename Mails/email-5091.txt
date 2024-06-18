@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 07 Dec 2008 00:00:00 +0000
+Message-ID: <2336992015@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance conjoncturelle on ne peut se passer de s'intéresser à toutes les voies s'offrant à nous
+
+Cordialement,
+John Doe
+

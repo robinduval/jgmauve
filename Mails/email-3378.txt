@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Sat, 31 Mar 2007 00:00:00 +0000
+Message-ID: <7240879074@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de ces derniers temps il convient de anticiper la majorité des issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

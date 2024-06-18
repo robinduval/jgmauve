@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 25 May 2001 00:00:00 +0000
+Message-ID: <4209473577@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente il serait intéressant de anticiper toutes les alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

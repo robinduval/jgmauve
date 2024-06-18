@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 02 Apr 2003 00:00:00 +0000
+Message-ID: <7055663407@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose conjoncturelle il ne faut pas négliger de s'intéresser à la totalité des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

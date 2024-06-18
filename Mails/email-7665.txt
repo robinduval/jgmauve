@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 01 Jul 2001 00:00:00 +0000
+Message-ID: <8369556627@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose induite il est nécessaire de ne pas négliger la somme des issues s'offrant à nous
+
+Cordialement,
+Jean Neige
+

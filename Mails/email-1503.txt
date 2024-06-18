@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 21 Sep 2005 00:00:00 +0000
+Message-ID: <4931831113@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité contemporaine il est nécessaire de se préoccuper de l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

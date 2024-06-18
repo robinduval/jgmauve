@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 02 Apr 2002 00:00:00 +0000
+Message-ID: <1126676557@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs actuelle on ne peut se passer de s'intéresser à toutes les voies possibles
+
+Cordialement,
+Olivia Harris
+

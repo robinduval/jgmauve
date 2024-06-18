@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 14 Jun 2000 00:00:00 +0000
+Message-ID: <8137687463@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de cette fin de siècle il est nécessaire de se remémorer toutes les problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

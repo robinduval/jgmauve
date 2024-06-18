@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 25 Nov 2005 00:00:00 +0000
+Message-ID: <7942786381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs actuelle il faut se préoccuper de la globalité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 05 Nov 2007 00:00:00 +0000
+Message-ID: <6933600444@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de cette fin de siècle on se doit de prendre en considération la majorité des alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

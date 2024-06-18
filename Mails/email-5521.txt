@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 08 Aug 2001 00:00:00 +0000
+Message-ID: <7475950725@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs présente il est nécessaire de anticiper toutes les alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

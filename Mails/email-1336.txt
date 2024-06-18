@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 09 Feb 2001 00:00:00 +0000
+Message-ID: <6478869959@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il faut imaginer certaines issues de bon sens
+
+Cordialement,
+Daniel Clark
+

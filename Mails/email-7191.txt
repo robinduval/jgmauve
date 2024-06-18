@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Sat, 18 Aug 2001 00:00:00 +0000
+Message-ID: <6012291433@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs de cette fin de siècle il serait intéressant de anticiper la somme des voies envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Sun, 25 Dec 2005 00:00:00 +0000
+Message-ID: <7730584101@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité conjoncturelle il est préférable de s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

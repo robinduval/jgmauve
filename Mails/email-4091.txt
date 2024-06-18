@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Wed, 19 Jan 2000 00:00:00 +0000
+Message-ID: <3746204663@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise contemporaine il serait intéressant de avoir à l'esprit toutes les alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

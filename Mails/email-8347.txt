@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 08 Feb 2000 00:00:00 +0000
+Message-ID: <3416604841@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs actuelle il serait bon de anticiper toutes les problématiques envisageables
+
+Cordialement,
+John Doe
+

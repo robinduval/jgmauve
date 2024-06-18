@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 01 Dec 2005 00:00:00 +0000
+Message-ID: <6278249665@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse actuelle on ne peut se passer de imaginer la totalité des problématiques possibles
+
+Cordialement,
+Bob Smith
+

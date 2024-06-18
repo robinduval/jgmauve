@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 17 Sep 2007 00:00:00 +0000
+Message-ID: <5950618931@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de la société il convient de s'intéresser à l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Jean Neige
+

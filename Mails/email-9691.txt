@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 10 Mar 2003 00:00:00 +0000
+Message-ID: <6397951479@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de ces derniers temps on se doit de examiner toutes les issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

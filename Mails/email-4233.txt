@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 29 Aug 2008 00:00:00 +0000
+Message-ID: <9010419980@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs induite on ne peut se passer de imaginer toutes les alternatives possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 10 Mar 2006 00:00:00 +0000
+Message-ID: <8633074137@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui est la nôtre il faut avoir à l'esprit toutes les voies s'offrant à nous
+
+Cordialement,
+David Brown
+

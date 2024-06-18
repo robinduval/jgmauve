@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 18 May 2007 00:00:00 +0000
+Message-ID: <7295703737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise induite il est préférable de imaginer toutes les issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

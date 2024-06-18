@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 17 Aug 2007 00:00:00 +0000
+Message-ID: <5573730944@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui est la nôtre il faut de toute urgence imaginer toutes les alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

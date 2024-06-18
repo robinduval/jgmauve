@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 16 Oct 2003 00:00:00 +0000
+Message-ID: <6655936353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation induite on se doit de prendre en considération toutes les voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

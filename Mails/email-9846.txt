@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Demande de collaboration
+Date: Thu, 25 Dec 2008 00:00:00 +0000
+Message-ID: <8104803786@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs induite il convient de étudier la globalité des alternatives envisageables
+
+Cordialement,
+Bob Smith
+

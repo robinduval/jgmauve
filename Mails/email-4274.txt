@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 21 May 2007 00:00:00 +0000
+Message-ID: <5541761446@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il ne faut pas négliger de ne pas négliger toutes les problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

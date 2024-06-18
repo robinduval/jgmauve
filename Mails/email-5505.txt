@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 08 Aug 2005 00:00:00 +0000
+Message-ID: <8983563434@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture actuelle il faut imaginer la totalité des issues possibles
+
+Cordialement,
+David Brown
+

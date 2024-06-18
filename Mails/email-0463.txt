@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 19 Oct 2001 00:00:00 +0000
+Message-ID: <6678560456@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose présente il faut de toute urgence anticiper l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

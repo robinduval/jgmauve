@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 09 Nov 2004 00:00:00 +0000
+Message-ID: <9659102545@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie induite on ne peut se passer de examiner toutes les problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

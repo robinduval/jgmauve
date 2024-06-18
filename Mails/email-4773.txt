@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 02 Oct 2007 00:00:00 +0000
+Message-ID: <3478697649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise induite il est nécessaire de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 06 Jul 2005 00:00:00 +0000
+Message-ID: <7903981230@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance induite il serait bon de se remémorer la globalité des voies envisageables
+
+Cordialement,
+Michael Taylor
+

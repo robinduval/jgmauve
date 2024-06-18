@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Tue, 19 Jun 2007 00:00:00 +0000
+Message-ID: <6781764994@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de ces derniers temps il faut de toute urgence prendre en considération l'ensemble des voies possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 06 May 2000 00:00:00 +0000
+Message-ID: <8443294647@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs actuelle il faut de toute urgence examiner l'ensemble des alternatives possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 24 Dec 2003 00:00:00 +0000
+Message-ID: <2742263251@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité contemporaine il faut se préoccuper de la somme des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

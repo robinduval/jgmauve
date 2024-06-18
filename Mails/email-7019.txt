@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Tue, 05 Aug 2008 00:00:00 +0000
+Message-ID: <8724054154@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui est la nôtre on se doit de anticiper chacune des voies possibles
+
+Cordialement,
+Daniel Clark
+

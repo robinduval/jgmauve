@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 11 Aug 2002 00:00:00 +0000
+Message-ID: <3398154527@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse actuelle il est nécessaire de avoir à l'esprit la somme des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

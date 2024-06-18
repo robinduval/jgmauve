@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 01 Jun 2000 00:00:00 +0000
+Message-ID: <3032577176@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de ces derniers temps il serait bon de se remémorer la majorité des problématiques envisageables
+
+Cordialement,
+Samuel White
+

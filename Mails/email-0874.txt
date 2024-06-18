@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 12 Apr 2000 00:00:00 +0000
+Message-ID: <9758844585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle on ne peut se passer de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

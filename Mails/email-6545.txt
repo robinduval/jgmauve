@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 05 Sep 2002 00:00:00 +0000
+Message-ID: <3009871117@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse conjoncturelle il est préférable de se préoccuper de l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

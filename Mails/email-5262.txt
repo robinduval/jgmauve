@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Sun, 01 Oct 2006 00:00:00 +0000
+Message-ID: <6210169335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il faut de toute urgence ne pas négliger la somme des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

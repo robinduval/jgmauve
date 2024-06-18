@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 05 Jul 2006 00:00:00 +0000
+Message-ID: <9118220912@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre il serait bon de ne pas négliger la majorité des voies de bon sens
+
+Cordialement,
+Emma Lee
+

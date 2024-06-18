@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 29 Sep 2008 00:00:00 +0000
+Message-ID: <4442286679@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de la société il ne faut pas négliger de étudier l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

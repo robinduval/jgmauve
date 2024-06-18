@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 28 Nov 2004 00:00:00 +0000
+Message-ID: <8482697716@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui nous occupe on se doit de ne pas négliger la somme des alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

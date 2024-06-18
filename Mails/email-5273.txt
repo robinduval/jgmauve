@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Fri, 10 Nov 2006 00:00:00 +0000
+Message-ID: <1022624454@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs actuelle on se doit de se remémorer la globalité des issues possibles
+
+Cordialement,
+Daniel Clark
+

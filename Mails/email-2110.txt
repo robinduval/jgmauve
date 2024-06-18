@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Thu, 22 Jan 2004 00:00:00 +0000
+Message-ID: <7327477016@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il faut de toute urgence se préoccuper de chacune des alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

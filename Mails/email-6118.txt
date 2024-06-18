@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Fri, 21 Jun 2002 00:00:00 +0000
+Message-ID: <7001479603@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose actuelle il convient de se remémorer la totalité des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

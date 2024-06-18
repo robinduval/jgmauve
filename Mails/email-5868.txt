@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 05 Aug 2006 00:00:00 +0000
+Message-ID: <9045922433@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose contemporaine il faut de toute urgence se remémorer l'ensemble des solutions possibles
+
+Cordialement,
+Sophie Martin
+

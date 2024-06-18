@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 17 Mar 2001 00:00:00 +0000
+Message-ID: <4420408048@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de ces derniers temps on se doit de anticiper toutes les solutions envisageables
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 05 Jan 2009 00:00:00 +0000
+Message-ID: <1132098532@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité conjoncturelle il faut de toute urgence étudier toutes les issues déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

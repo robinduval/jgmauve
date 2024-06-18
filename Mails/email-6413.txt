@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Mon, 23 Mar 2009 00:00:00 +0000
+Message-ID: <8500798574@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose qui nous occupe il est préférable de se remémorer la globalité des solutions envisageables
+
+Cordialement,
+Jean Neige
+

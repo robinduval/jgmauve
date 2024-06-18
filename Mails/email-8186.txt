@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Sun, 06 Jun 2004 00:00:00 +0000
+Message-ID: <3028789598@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie qui est la nôtre il serait bon de se remémorer toutes les issues déjà en notre possession
+
+Cordialement,
+John Doe
+

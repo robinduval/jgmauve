@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 23 Apr 2009 00:00:00 +0000
+Message-ID: <2564631414@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation induite il est nécessaire de étudier toutes les problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

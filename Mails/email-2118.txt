@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 22 Jul 2008 00:00:00 +0000
+Message-ID: <5276191477@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il convient de étudier l'ensemble des problématiques de bon sens
+
+Cordialement,
+Jean Neige
+

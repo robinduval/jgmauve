@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 11 Feb 2009 00:00:00 +0000
+Message-ID: <7969965879@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation conjoncturelle on se doit de s'intéresser à chacune des alternatives déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

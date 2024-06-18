@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 30 Jul 2008 00:00:00 +0000
+Message-ID: <8739283336@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui nous occupe il est préférable de anticiper la totalité des voies s'offrant à nous
+
+Cordialement,
+David Brown
+

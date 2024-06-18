@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Mon, 10 Jul 2006 00:00:00 +0000
+Message-ID: <1554560134@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse de la société il serait intéressant de imaginer la somme des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

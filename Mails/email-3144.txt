@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Tue, 13 Nov 2001 00:00:00 +0000
+Message-ID: <8536567669@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs présente on se doit de examiner la globalité des voies possibles
+
+Cordialement,
+Alice Dupont
+

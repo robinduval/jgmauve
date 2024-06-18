@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 05 Jan 2008 00:00:00 +0000
+Message-ID: <5021697063@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de cette fin de siècle il est préférable de anticiper la somme des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

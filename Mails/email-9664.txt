@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Wed, 19 Mar 2003 00:00:00 +0000
+Message-ID: <9161272506@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps on se doit de s'intéresser à chacune des voies envisageables
+
+Cordialement,
+Daniel Clark
+

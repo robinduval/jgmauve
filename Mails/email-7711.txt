@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 31 Dec 2000 00:00:00 +0000
+Message-ID: <8198980011@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose conjoncturelle il est préférable de anticiper certaines solutions possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 01 Jul 2008 00:00:00 +0000
+Message-ID: <3949835889@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de ces derniers temps il faut prendre en considération toutes les voies de bon sens
+
+Cordialement,
+Emma Lee
+

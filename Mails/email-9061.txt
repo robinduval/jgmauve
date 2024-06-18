@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Tue, 02 Jun 2009 00:00:00 +0000
+Message-ID: <5320114031@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de ces derniers temps il serait intéressant de examiner toutes les solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

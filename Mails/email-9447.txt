@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Mon, 11 Dec 2006 00:00:00 +0000
+Message-ID: <9602291141@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui nous occupe on se doit de examiner toutes les alternatives envisageables
+
+Cordialement,
+William Jackson
+

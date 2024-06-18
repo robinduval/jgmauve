@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 26 Apr 2004 00:00:00 +0000
+Message-ID: <1249579001@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise qui nous occupe il serait bon de étudier la majorité des issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

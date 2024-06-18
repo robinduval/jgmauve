@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 07 Oct 2004 00:00:00 +0000
+Message-ID: <8021167092@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture induite il serait bon de étudier toutes les solutions envisageables
+
+Cordialement,
+John Doe
+

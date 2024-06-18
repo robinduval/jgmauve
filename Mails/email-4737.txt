@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Fri, 23 Nov 2001 00:00:00 +0000
+Message-ID: <8880989437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose induite il serait intéressant de imaginer chacune des solutions déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

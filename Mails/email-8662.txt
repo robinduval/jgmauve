@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 03 Jul 2003 00:00:00 +0000
+Message-ID: <7553415308@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie qui est la nôtre il serait intéressant de se remémorer la totalité des voies de bon sens
+
+Cordialement,
+Daniel Clark
+

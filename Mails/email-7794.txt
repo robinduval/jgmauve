@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 23 Sep 2009 00:00:00 +0000
+Message-ID: <3972241188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance présente il est préférable de ne pas négliger toutes les alternatives possibles
+
+Cordialement,
+Eva Thomas
+

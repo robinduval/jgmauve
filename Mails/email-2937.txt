@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 26 Sep 2003 00:00:00 +0000
+Message-ID: <1418863510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de cette fin de siècle il faut se remémorer toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

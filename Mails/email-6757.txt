@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 31 Jan 2003 00:00:00 +0000
+Message-ID: <9847901851@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie induite il serait intéressant de anticiper la somme des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

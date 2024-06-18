@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 23 Dec 2006 00:00:00 +0000
+Message-ID: <4078509868@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance induite il serait bon de examiner toutes les problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

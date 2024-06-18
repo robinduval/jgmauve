@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 06 Apr 2009 00:00:00 +0000
+Message-ID: <5199110781@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de la société il est nécessaire de s'intéresser à toutes les voies envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Sat, 16 Dec 2006 00:00:00 +0000
+Message-ID: <7455455815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse présente il faut de toute urgence se remémorer chacune des voies de bon sens
+
+Cordialement,
+Emma Lee
+

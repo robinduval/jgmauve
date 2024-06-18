@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 07 Jan 2000 00:00:00 +0000
+Message-ID: <9385950434@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de ces derniers temps il faut de toute urgence imaginer toutes les issues s'offrant à nous
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 11 Oct 2006 00:00:00 +0000
+Message-ID: <6252763757@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il est nécessaire de anticiper certaines alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

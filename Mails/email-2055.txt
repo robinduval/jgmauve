@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 19 Aug 2002 00:00:00 +0000
+Message-ID: <5171313888@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il faut de toute urgence examiner certaines issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

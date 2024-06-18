@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 20 Feb 2007 00:00:00 +0000
+Message-ID: <7505273575@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe il faut de toute urgence ne pas négliger la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

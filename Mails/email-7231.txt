@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 09 Dec 2000 00:00:00 +0000
+Message-ID: <6308964350@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise actuelle il est préférable de se préoccuper de chacune des issues s'offrant à nous
+
+Cordialement,
+Bob Smith
+

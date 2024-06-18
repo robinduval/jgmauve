@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Fri, 16 Nov 2007 00:00:00 +0000
+Message-ID: <8231089816@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de la société il faut ne pas négliger la somme des voies envisageables
+
+Cordialement,
+Laura Wilson
+

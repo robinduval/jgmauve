@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 13 May 2007 00:00:00 +0000
+Message-ID: <2805499913@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse conjoncturelle il serait intéressant de examiner toutes les voies de bon sens
+
+Cordialement,
+Jean Neige
+

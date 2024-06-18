@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Fri, 02 Dec 2005 00:00:00 +0000
+Message-ID: <6060445105@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui nous occupe il faut de toute urgence ne pas négliger la somme des issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

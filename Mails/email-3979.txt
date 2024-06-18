@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 01 Jan 2006 00:00:00 +0000
+Message-ID: <2998494496@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse de ces derniers temps on ne peut se passer de avoir à l'esprit la majorité des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

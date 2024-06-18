@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 10 Aug 2008 00:00:00 +0000
+Message-ID: <4795886399@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation présente il serait bon de avoir à l'esprit l'ensemble des issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

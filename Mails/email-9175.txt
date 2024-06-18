@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 12 May 2000 00:00:00 +0000
+Message-ID: <8676578626@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de cette fin de siècle il faut de toute urgence ne pas négliger la somme des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

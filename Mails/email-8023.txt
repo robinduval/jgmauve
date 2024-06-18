@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Mon, 09 Jul 2007 00:00:00 +0000
+Message-ID: <5700901925@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il est nécessaire de prendre en considération toutes les alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

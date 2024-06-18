@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 10 Nov 2004 00:00:00 +0000
+Message-ID: <5243274644@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation qui nous occupe il faut de toute urgence se remémorer certaines solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

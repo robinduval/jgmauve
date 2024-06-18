@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 05 Apr 2000 00:00:00 +0000
+Message-ID: <4241849079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation induite il faut de toute urgence prendre en considération toutes les problématiques s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

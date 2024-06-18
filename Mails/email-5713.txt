@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Sat, 16 Feb 2002 00:00:00 +0000
+Message-ID: <7857684231@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il faut de toute urgence se remémorer toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

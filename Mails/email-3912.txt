@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 02 Apr 2006 00:00:00 +0000
+Message-ID: <2646755851@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise contemporaine il est nécessaire de avoir à l'esprit la globalité des issues envisageables
+
+Cordialement,
+Olivia Harris
+

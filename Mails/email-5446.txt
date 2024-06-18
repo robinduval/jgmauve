@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 09 May 2004 00:00:00 +0000
+Message-ID: <2183813300@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de la société il serait intéressant de imaginer l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

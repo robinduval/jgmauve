@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 02 Mar 2003 00:00:00 +0000
+Message-ID: <2475893196@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture contemporaine il est nécessaire de se remémorer chacune des issues envisageables
+
+Cordialement,
+Sophie Martin
+

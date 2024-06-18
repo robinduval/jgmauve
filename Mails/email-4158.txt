@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 02 Feb 2000 00:00:00 +0000
+Message-ID: <3993471409@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de cette fin de siècle il est nécessaire de se remémorer certaines alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

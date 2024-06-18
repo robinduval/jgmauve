@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 18 Sep 2009 00:00:00 +0000
+Message-ID: <3190542458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation contemporaine on ne peut se passer de examiner la globalité des solutions possibles
+
+Cordialement,
+Emma Lee
+

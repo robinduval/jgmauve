@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 10 Oct 2004 00:00:00 +0000
+Message-ID: <5841454946@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation contemporaine il serait bon de étudier certaines solutions de bon sens
+
+Cordialement,
+William Jackson
+

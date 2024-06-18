@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 15 Dec 2004 00:00:00 +0000
+Message-ID: <2484410306@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il faut de toute urgence étudier la somme des issues possibles
+
+Cordialement,
+David Brown
+

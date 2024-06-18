@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 14 Dec 2004 00:00:00 +0000
+Message-ID: <8132668527@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie actuelle il faut se remémorer chacune des voies de bon sens
+
+Cordialement,
+Jean Neige
+

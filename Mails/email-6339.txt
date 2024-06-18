@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 12 Mar 2005 00:00:00 +0000
+Message-ID: <7606702487@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation contemporaine il est préférable de prendre en considération toutes les solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

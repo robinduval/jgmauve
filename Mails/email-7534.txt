@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 27 Oct 2002 00:00:00 +0000
+Message-ID: <1549285292@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose actuelle il faut de toute urgence anticiper chacune des alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

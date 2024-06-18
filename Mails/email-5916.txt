@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 15 Jul 2006 00:00:00 +0000
+Message-ID: <5148010906@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui nous occupe il est préférable de examiner l'ensemble des problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

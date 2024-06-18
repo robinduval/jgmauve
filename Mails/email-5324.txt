@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Tue, 11 Jan 2000 00:00:00 +0000
+Message-ID: <9137268299@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse conjoncturelle il est nécessaire de imaginer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

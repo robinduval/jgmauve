@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Tue, 31 Aug 2004 00:00:00 +0000
+Message-ID: <6391922593@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de cette fin de siècle il serait intéressant de imaginer la somme des voies envisageables
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 19 Nov 2007 00:00:00 +0000
+Message-ID: <6788013363@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose conjoncturelle il serait intéressant de avoir à l'esprit la globalité des solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 03 Aug 2006 00:00:00 +0000
+Message-ID: <2739605606@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui nous occupe il convient de anticiper la globalité des issues s'offrant à nous
+
+Cordialement,
+Jean Neige
+

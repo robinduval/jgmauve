@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Sun, 16 Jul 2000 00:00:00 +0000
+Message-ID: <1032841421@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie contemporaine il serait bon de prendre en considération chacune des issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 08 Jun 2009 00:00:00 +0000
+Message-ID: <7329241574@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de cette fin de siècle il faut de toute urgence s'intéresser à certaines issues s'offrant à nous
+
+Cordialement,
+John Doe
+

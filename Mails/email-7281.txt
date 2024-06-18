@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sun, 19 Mar 2000 00:00:00 +0000
+Message-ID: <5755764834@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose contemporaine il faut de toute urgence ne pas négliger chacune des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

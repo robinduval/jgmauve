@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 05 Dec 2009 00:00:00 +0000
+Message-ID: <9692066749@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture de la société il faut de toute urgence anticiper toutes les solutions de bon sens
+
+Cordialement,
+Alice Dupont
+

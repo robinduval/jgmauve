@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 11 Dec 2009 00:00:00 +0000
+Message-ID: <2672006334@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité contemporaine il serait bon de avoir à l'esprit toutes les issues s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 24 Nov 2003 00:00:00 +0000
+Message-ID: <6209790009@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse induite on se doit de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

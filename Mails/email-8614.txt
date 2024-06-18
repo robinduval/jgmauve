@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 25 Jan 2006 00:00:00 +0000
+Message-ID: <6059469319@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance contemporaine il serait bon de s'intéresser à certaines issues de bon sens
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Mon, 06 Oct 2008 00:00:00 +0000
+Message-ID: <9193175312@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture induite il serait intéressant de étudier l'ensemble des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

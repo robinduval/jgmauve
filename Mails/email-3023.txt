@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 27 Jun 2001 00:00:00 +0000
+Message-ID: <8685271707@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation actuelle on se doit de se préoccuper de la totalité des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

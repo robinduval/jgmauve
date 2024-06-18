@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Fri, 24 Oct 2003 00:00:00 +0000
+Message-ID: <1330317942@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance induite on ne peut se passer de prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

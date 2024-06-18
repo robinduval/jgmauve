@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 05 Dec 2003 00:00:00 +0000
+Message-ID: <4830776770@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de cette fin de siècle on se doit de imaginer la totalité des solutions envisageables
+
+Cordialement,
+Jean Neige
+

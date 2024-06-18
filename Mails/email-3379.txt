@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Mon, 26 Aug 2002 00:00:00 +0000
+Message-ID: <5333240384@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance contemporaine il est préférable de se remémorer toutes les problématiques possibles
+
+Cordialement,
+Laura Wilson
+

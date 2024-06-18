@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 06 Sep 2001 00:00:00 +0000
+Message-ID: <6889755374@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie conjoncturelle on se doit de imaginer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

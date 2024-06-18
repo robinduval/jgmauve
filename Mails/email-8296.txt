@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 08 May 2007 00:00:00 +0000
+Message-ID: <3527086875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps il serait bon de anticiper toutes les issues envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 19 Dec 2008 00:00:00 +0000
+Message-ID: <5536999972@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation qui nous occupe il est préférable de se remémorer toutes les issues possibles
+
+Cordialement,
+Daniel Clark
+

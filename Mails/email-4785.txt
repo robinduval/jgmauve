@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 04 Apr 2006 00:00:00 +0000
+Message-ID: <6921159711@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture contemporaine on se doit de ne pas négliger chacune des solutions de bon sens
+
+Cordialement,
+Alice Dupont
+

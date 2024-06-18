@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 28 Mar 2003 00:00:00 +0000
+Message-ID: <4942661518@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de la société il est préférable de ne pas négliger la globalité des solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

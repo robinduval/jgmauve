@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 11 Sep 2009 00:00:00 +0000
+Message-ID: <1816524943@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de la société il serait bon de ne pas négliger la globalité des issues envisageables
+
+Cordialement,
+Charlotte Moore
+

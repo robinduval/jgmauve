@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 29 Feb 2004 00:00:00 +0000
+Message-ID: <1025027811@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle il est nécessaire de prendre en considération l'ensemble des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

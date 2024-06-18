@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 05 Dec 2008 00:00:00 +0000
+Message-ID: <3675683293@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse qui nous occupe il convient de prendre en considération certaines problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

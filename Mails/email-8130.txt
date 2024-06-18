@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 19 Feb 2006 00:00:00 +0000
+Message-ID: <9096707957@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui nous occupe il ne faut pas négliger de anticiper la totalité des solutions envisageables
+
+Cordialement,
+Alice Dupont
+

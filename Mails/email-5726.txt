@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Tue, 21 Dec 2004 00:00:00 +0000
+Message-ID: <2786151039@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de la société il faut avoir à l'esprit l'ensemble des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 04 Jul 2006 00:00:00 +0000
+Message-ID: <7525168701@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de cette fin de siècle il serait intéressant de imaginer l'ensemble des alternatives envisageables
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 15 May 2007 00:00:00 +0000
+Message-ID: <7186944700@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui est la nôtre on se doit de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Emma Lee
+

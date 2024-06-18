@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Tue, 25 Apr 2006 00:00:00 +0000
+Message-ID: <4962617837@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il est préférable de se préoccuper de certaines problématiques possibles
+
+Cordialement,
+Sophie Martin
+

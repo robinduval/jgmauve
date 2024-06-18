@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Sat, 03 Mar 2007 00:00:00 +0000
+Message-ID: <1421657715@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture présente il convient de examiner toutes les alternatives de bon sens
+
+Cordialement,
+John Doe
+

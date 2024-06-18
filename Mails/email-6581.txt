@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Wed, 17 Oct 2001 00:00:00 +0000
+Message-ID: <5204504535@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il serait bon de étudier toutes les solutions envisageables
+
+Cordialement,
+Bob Smith
+

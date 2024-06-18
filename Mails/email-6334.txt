@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 20 Nov 2001 00:00:00 +0000
+Message-ID: <2528296727@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il serait intéressant de imaginer la globalité des alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

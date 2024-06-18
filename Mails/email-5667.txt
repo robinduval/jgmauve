@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Thu, 23 Feb 2006 00:00:00 +0000
+Message-ID: <2578284028@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture qui nous occupe il serait intéressant de s'intéresser à l'ensemble des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

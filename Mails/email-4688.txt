@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 26 Apr 2002 00:00:00 +0000
+Message-ID: <3270914697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il serait bon de anticiper toutes les solutions possibles
+
+Cordialement,
+Eva Thomas
+

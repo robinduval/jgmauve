@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 29 Jul 2005 00:00:00 +0000
+Message-ID: <9325286812@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui est la nôtre il est préférable de anticiper chacune des voies envisageables
+
+Cordialement,
+Michael Taylor
+

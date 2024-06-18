@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 13 Feb 2003 00:00:00 +0000
+Message-ID: <5128444602@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle il faut de toute urgence étudier la globalité des issues de bon sens
+
+Cordialement,
+Sophie Martin
+

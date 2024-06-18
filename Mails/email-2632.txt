@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 28 Aug 2000 00:00:00 +0000
+Message-ID: <5563173175@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance induite il est nécessaire de s'intéresser à toutes les voies s'offrant à nous
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 26 Oct 2002 00:00:00 +0000
+Message-ID: <2792434010@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation qui nous occupe il serait bon de anticiper l'ensemble des issues envisageables
+
+Cordialement,
+Eva Thomas
+

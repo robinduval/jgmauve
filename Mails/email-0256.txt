@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 10 Sep 2009 00:00:00 +0000
+Message-ID: <2083857305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il serait bon de prendre en considération la totalité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

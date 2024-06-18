@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 07 Dec 2001 00:00:00 +0000
+Message-ID: <4811192637@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de la société il serait bon de se préoccuper de toutes les solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

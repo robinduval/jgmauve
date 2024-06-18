@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 27 May 2003 00:00:00 +0000
+Message-ID: <7836887681@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance conjoncturelle il faut s'intéresser à toutes les issues de bon sens
+
+Cordialement,
+John Doe
+

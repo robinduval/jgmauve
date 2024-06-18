@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 01 Apr 2000 00:00:00 +0000
+Message-ID: <7247993039@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie qui nous occupe il faut avoir à l'esprit la majorité des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

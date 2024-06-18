@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 20 Apr 2004 00:00:00 +0000
+Message-ID: <5027019012@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui nous occupe il faut anticiper la totalité des alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

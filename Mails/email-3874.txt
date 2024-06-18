@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 21 Jun 2008 00:00:00 +0000
+Message-ID: <6590570321@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de cette fin de siècle on se doit de imaginer la totalité des alternatives envisageables
+
+Cordialement,
+David Brown
+

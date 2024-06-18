@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 15 Mar 2007 00:00:00 +0000
+Message-ID: <3043172985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de la société on se doit de se remémorer l'ensemble des solutions de bon sens
+
+Cordialement,
+Bob Smith
+

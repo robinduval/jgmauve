@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 02 Jun 2008 00:00:00 +0000
+Message-ID: <1789769143@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle on ne peut se passer de étudier chacune des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

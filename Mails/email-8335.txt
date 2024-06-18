@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 06 Jun 2005 00:00:00 +0000
+Message-ID: <9122577261@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation actuelle on ne peut se passer de se préoccuper de toutes les solutions possibles
+
+Cordialement,
+Laura Wilson
+

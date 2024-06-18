@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Sat, 28 Mar 2009 00:00:00 +0000
+Message-ID: <5019201567@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture conjoncturelle on ne peut se passer de se remémorer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

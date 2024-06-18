@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 03 Nov 2008 00:00:00 +0000
+Message-ID: <1464788472@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui nous occupe on ne peut se passer de imaginer toutes les issues possibles
+
+Cordialement,
+John Doe
+

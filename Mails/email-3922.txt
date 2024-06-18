@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 21 May 2006 00:00:00 +0000
+Message-ID: <6518559404@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs conjoncturelle il est préférable de se préoccuper de toutes les voies envisageables
+
+Cordialement,
+Daniel Clark
+

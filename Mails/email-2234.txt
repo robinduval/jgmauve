@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Mon, 18 Sep 2006 00:00:00 +0000
+Message-ID: <4073909641@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de la société on se doit de se préoccuper de toutes les alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

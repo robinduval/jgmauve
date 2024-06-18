@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 12 Mar 2002 00:00:00 +0000
+Message-ID: <5353342683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose contemporaine il est nécessaire de étudier certaines alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

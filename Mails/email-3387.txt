@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 05 Dec 2002 00:00:00 +0000
+Message-ID: <3786286564@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité qui nous occupe il serait bon de examiner chacune des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 22 Oct 2003 00:00:00 +0000
+Message-ID: <3154373962@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation actuelle il faut examiner certaines alternatives s'offrant à nous
+
+Cordialement,
+Emma Lee
+

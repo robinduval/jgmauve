@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 23 Dec 2009 00:00:00 +0000
+Message-ID: <4190446742@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de ces derniers temps on ne peut se passer de imaginer l'ensemble des voies possibles
+
+Cordialement,
+Daniel Clark
+

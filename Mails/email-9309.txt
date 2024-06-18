@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Thu, 28 Sep 2000 00:00:00 +0000
+Message-ID: <4022952610@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie actuelle on se doit de prendre en considération chacune des voies déjà en notre possession
+
+Cordialement,
+David Brown
+

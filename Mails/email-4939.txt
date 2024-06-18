@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 20 Nov 2003 00:00:00 +0000
+Message-ID: <8208876894@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de la société on se doit de examiner la totalité des voies déjà en notre possession
+
+Cordialement,
+Bob Smith
+

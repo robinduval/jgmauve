@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Fri, 31 Oct 2003 00:00:00 +0000
+Message-ID: <5612693013@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie actuelle on se doit de étudier toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

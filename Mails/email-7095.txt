@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Annonce de vacances
+Date: Sat, 16 Aug 2008 00:00:00 +0000
+Message-ID: <3036624815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture actuelle il est nécessaire de se préoccuper de toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

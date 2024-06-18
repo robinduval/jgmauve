@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 11 Aug 2006 00:00:00 +0000
+Message-ID: <5987688649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de la société il est nécessaire de imaginer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

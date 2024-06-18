@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 07 Jul 2007 00:00:00 +0000
+Message-ID: <9325780514@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité actuelle on se doit de avoir à l'esprit chacune des problématiques déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 14 Nov 2006 00:00:00 +0000
+Message-ID: <3254034523@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de ces derniers temps il serait intéressant de se préoccuper de certaines voies envisageables
+
+Cordialement,
+Jean Neige
+

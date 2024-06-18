@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 13 Jan 2008 00:00:00 +0000
+Message-ID: <5672195569@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie contemporaine il serait intéressant de examiner toutes les problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

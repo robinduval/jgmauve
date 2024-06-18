@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Fri, 22 Sep 2006 00:00:00 +0000
+Message-ID: <8912085304@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse de cette fin de siècle il convient de se remémorer toutes les voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

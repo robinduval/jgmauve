@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 27 Apr 2007 00:00:00 +0000
+Message-ID: <7305485998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il ne faut pas négliger de examiner la totalité des problématiques de bon sens
+
+Cordialement,
+Bob Smith
+

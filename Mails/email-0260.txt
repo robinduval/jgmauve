@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 22 Apr 2000 00:00:00 +0000
+Message-ID: <4125941719@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance qui nous occupe il serait bon de se remémorer l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Samuel White
+

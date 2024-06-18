@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Demande de collaboration
+Date: Mon, 08 May 2006 00:00:00 +0000
+Message-ID: <7816299475@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation contemporaine on se doit de examiner l'ensemble des voies possibles
+
+Cordialement,
+Alice Dupont
+

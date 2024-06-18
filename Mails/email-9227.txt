@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 18 Dec 2001 00:00:00 +0000
+Message-ID: <8213076737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation actuelle il faut examiner la majorité des voies possibles
+
+Cordialement,
+David Brown
+

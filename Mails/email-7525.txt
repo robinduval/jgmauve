@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 31 Mar 2009 00:00:00 +0000
+Message-ID: <3142704677@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance présente il serait bon de se préoccuper de chacune des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

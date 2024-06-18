@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 06 Sep 2001 00:00:00 +0000
+Message-ID: <2956463189@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il serait intéressant de examiner l'ensemble des solutions de bon sens
+
+Cordialement,
+David Brown
+

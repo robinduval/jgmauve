@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 16 Nov 2003 00:00:00 +0000
+Message-ID: <4444487547@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il est préférable de se remémorer toutes les solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

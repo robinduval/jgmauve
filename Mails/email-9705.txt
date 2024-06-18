@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Fri, 21 Jul 2000 00:00:00 +0000
+Message-ID: <4512289309@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de ces derniers temps il serait bon de ne pas négliger certaines problématiques possibles
+
+Cordialement,
+Eva Thomas
+

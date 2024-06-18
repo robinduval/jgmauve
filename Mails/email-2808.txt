@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Thu, 12 Jun 2003 00:00:00 +0000
+Message-ID: <4884321192@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de la société il faut de toute urgence se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

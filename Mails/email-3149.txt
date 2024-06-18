@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 03 May 2008 00:00:00 +0000
+Message-ID: <8124398480@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance qui est la nôtre il convient de imaginer toutes les problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

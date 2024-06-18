@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 04 Dec 2005 00:00:00 +0000
+Message-ID: <9083204822@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse induite il est nécessaire de imaginer certaines voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

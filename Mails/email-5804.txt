@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 18 May 2009 00:00:00 +0000
+Message-ID: <2295924486@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise de la société on se doit de s'intéresser à toutes les alternatives possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Fri, 12 Sep 2003 00:00:00 +0000
+Message-ID: <1683232540@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs induite il est préférable de ne pas négliger la totalité des voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

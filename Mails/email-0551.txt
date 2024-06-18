@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 13 Feb 2002 00:00:00 +0000
+Message-ID: <5577481663@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation conjoncturelle il convient de examiner toutes les solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

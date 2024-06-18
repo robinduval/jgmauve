@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 19 Nov 2006 00:00:00 +0000
+Message-ID: <1451144552@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse qui nous occupe il faut s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

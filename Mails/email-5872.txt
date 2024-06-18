@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sun, 20 Jul 2008 00:00:00 +0000
+Message-ID: <7070798914@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de cette fin de siècle il faut ne pas négliger toutes les alternatives possibles
+
+Cordialement,
+Eva Thomas
+

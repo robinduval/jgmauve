@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Sat, 22 Sep 2007 00:00:00 +0000
+Message-ID: <5032565246@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise actuelle il serait bon de se remémorer toutes les issues possibles
+
+Cordialement,
+Eva Thomas
+

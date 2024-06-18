@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 18 Jun 2006 00:00:00 +0000
+Message-ID: <2415908789@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de la société on se doit de étudier certaines problématiques possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Sun, 11 May 2008 00:00:00 +0000
+Message-ID: <6492274379@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance actuelle on ne peut se passer de s'intéresser à la globalité des issues de bon sens
+
+Cordialement,
+Olivia Harris
+

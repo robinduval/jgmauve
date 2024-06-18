@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 09 Feb 2009 00:00:00 +0000
+Message-ID: <9941485821@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité de la société il faut de toute urgence étudier la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

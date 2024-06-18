@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 12 Sep 2004 00:00:00 +0000
+Message-ID: <9677605901@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation qui est la nôtre il est préférable de avoir à l'esprit toutes les solutions possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 26 Apr 2002 00:00:00 +0000
+Message-ID: <4539282510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie induite on se doit de étudier l'ensemble des voies de bon sens
+
+Cordialement,
+David Brown
+

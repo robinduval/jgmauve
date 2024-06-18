@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 24 May 2006 00:00:00 +0000
+Message-ID: <6074901754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation induite il serait bon de prendre en considération la globalité des solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 09 Oct 2006 00:00:00 +0000
+Message-ID: <1181271659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de la société il est préférable de anticiper la totalité des solutions possibles
+
+Cordialement,
+Daniel Clark
+

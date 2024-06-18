@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 12 Oct 2003 00:00:00 +0000
+Message-ID: <3065246139@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs de ces derniers temps il faut de toute urgence étudier la majorité des problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

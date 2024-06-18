@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 04 Sep 2006 00:00:00 +0000
+Message-ID: <7625506756@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse actuelle il faut de toute urgence examiner chacune des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

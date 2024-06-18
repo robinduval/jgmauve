@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Tue, 23 Dec 2008 00:00:00 +0000
+Message-ID: <1671206791@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui nous occupe on ne peut se passer de avoir à l'esprit chacune des alternatives de bon sens
+
+Cordialement,
+Sophie Martin
+

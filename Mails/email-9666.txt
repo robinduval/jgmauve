@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 22 Jun 2000 00:00:00 +0000
+Message-ID: <6389446372@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de la société il serait bon de imaginer toutes les issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

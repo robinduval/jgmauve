@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Tue, 18 Mar 2003 00:00:00 +0000
+Message-ID: <1999434577@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de ces derniers temps on ne peut se passer de imaginer la totalité des problématiques de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 24 Dec 2009 00:00:00 +0000
+Message-ID: <1554638815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance conjoncturelle il est nécessaire de avoir à l'esprit toutes les solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

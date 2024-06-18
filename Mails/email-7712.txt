@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 25 Nov 2008 00:00:00 +0000
+Message-ID: <5791648781@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe il serait bon de avoir à l'esprit certaines alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

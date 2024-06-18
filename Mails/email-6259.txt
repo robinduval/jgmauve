@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 11 Jan 2009 00:00:00 +0000
+Message-ID: <6343213650@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui nous occupe il ne faut pas négliger de se préoccuper de toutes les problématiques déjà en notre possession
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Sat, 03 Apr 2004 00:00:00 +0000
+Message-ID: <6214163247@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose de la société on se doit de imaginer chacune des alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

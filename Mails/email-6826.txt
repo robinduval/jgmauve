@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 05 Oct 2008 00:00:00 +0000
+Message-ID: <9443760844@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse induite il est préférable de se préoccuper de toutes les issues possibles
+
+Cordialement,
+Eva Thomas
+

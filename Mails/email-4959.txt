@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Tue, 11 Nov 2008 00:00:00 +0000
+Message-ID: <7436859270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie présente il convient de examiner chacune des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

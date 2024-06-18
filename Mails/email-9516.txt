@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <1974113420@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation conjoncturelle on ne peut se passer de avoir à l'esprit certaines alternatives envisageables
+
+Cordialement,
+Samuel White
+

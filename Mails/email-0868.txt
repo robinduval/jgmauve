@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 28 Jun 2009 00:00:00 +0000
+Message-ID: <8412280914@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui est la nôtre il serait bon de se remémorer la totalité des solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

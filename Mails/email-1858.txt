@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 14 Nov 2004 00:00:00 +0000
+Message-ID: <9234736049@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse de cette fin de siècle on ne peut se passer de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+William Jackson
+

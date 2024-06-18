@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Wed, 11 Jul 2001 00:00:00 +0000
+Message-ID: <5251343652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance présente il convient de ne pas négliger chacune des issues possibles
+
+Cordialement,
+Emma Lee
+

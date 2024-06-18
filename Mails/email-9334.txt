@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 08 Aug 2007 00:00:00 +0000
+Message-ID: <7944570050@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise qui est la nôtre on ne peut se passer de imaginer certaines issues de bon sens
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Mon, 18 Aug 2003 00:00:00 +0000
+Message-ID: <4380869133@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation induite on se doit de examiner la majorité des issues de bon sens
+
+Cordialement,
+Samuel White
+

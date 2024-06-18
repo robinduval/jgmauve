@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 24 Jul 2007 00:00:00 +0000
+Message-ID: <7697258640@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de ces derniers temps il est nécessaire de se préoccuper de chacune des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

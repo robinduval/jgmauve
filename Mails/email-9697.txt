@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 17 Feb 2008 00:00:00 +0000
+Message-ID: <1342284634@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité conjoncturelle on ne peut se passer de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 26 Mar 2002 00:00:00 +0000
+Message-ID: <6385527524@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation induite il faut de toute urgence s'intéresser à toutes les voies envisageables
+
+Cordialement,
+William Jackson
+

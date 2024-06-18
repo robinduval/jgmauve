@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 21 Sep 2005 00:00:00 +0000
+Message-ID: <9104599146@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose conjoncturelle il faut étudier toutes les voies de bon sens
+
+Cordialement,
+Daniel Clark
+

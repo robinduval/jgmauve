@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Sat, 09 Nov 2002 00:00:00 +0000
+Message-ID: <1218655706@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise contemporaine on se doit de s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

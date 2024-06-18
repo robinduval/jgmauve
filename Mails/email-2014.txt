@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Mon, 03 Jan 2005 00:00:00 +0000
+Message-ID: <4656328895@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs présente il serait bon de anticiper chacune des problématiques possibles
+
+Cordialement,
+Eva Thomas
+

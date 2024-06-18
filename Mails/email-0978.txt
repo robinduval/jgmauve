@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 12 Dec 2001 00:00:00 +0000
+Message-ID: <4857805647@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de cette fin de siècle on se doit de imaginer la totalité des voies de bon sens
+
+Cordialement,
+Samuel White
+

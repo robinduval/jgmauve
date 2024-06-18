@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 01 Aug 2008 00:00:00 +0000
+Message-ID: <7081559360@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie conjoncturelle il est préférable de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+Samuel White
+

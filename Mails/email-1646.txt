@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 27 Mar 2001 00:00:00 +0000
+Message-ID: <7360680897@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance qui nous occupe on ne peut se passer de ne pas négliger la somme des alternatives envisageables
+
+Cordialement,
+Jean Neige
+

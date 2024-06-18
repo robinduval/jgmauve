@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Sat, 05 Aug 2000 00:00:00 +0000
+Message-ID: <8936931921@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il serait intéressant de ne pas négliger l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

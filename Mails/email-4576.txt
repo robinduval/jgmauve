@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 21 Jun 2009 00:00:00 +0000
+Message-ID: <5029278165@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il faut de toute urgence anticiper chacune des problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

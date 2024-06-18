@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 28 Sep 2007 00:00:00 +0000
+Message-ID: <6839649821@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs conjoncturelle il faut anticiper la globalité des alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

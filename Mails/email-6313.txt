@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 16 Aug 2004 00:00:00 +0000
+Message-ID: <9582090399@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: Tmille cinq cent quatre-vingt-dix-huit.002 
+
+Dans le cas particulier de la baisse de confiance contemporaine il est préférable de examiner la totalité des solutions de bon sens
+
+Cordialement,
+Samuel White
+

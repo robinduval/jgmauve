@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 23 Mar 2005 00:00:00 +0000
+Message-ID: <1116642451@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs conjoncturelle on ne peut se passer de anticiper certaines problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

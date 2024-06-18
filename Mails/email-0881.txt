@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 14 Aug 2000 00:00:00 +0000
+Message-ID: <2154029386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse conjoncturelle il faut se remémorer toutes les solutions possibles
+
+Cordialement,
+Sophie Martin
+

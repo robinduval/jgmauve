@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Wed, 13 Jun 2007 00:00:00 +0000
+Message-ID: <9355182478@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose contemporaine il convient de se préoccuper de toutes les problématiques envisageables
+
+Cordialement,
+David Brown
+

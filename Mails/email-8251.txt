@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 20 Aug 2005 00:00:00 +0000
+Message-ID: <5075363059@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation induite il est nécessaire de ne pas négliger la majorité des solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

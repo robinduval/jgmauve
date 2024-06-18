@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 10 Mar 2008 00:00:00 +0000
+Message-ID: <8241051697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs contemporaine on se doit de anticiper l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

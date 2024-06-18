@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 13 Apr 2008 00:00:00 +0000
+Message-ID: <7419866396@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose de la société il faut de toute urgence anticiper toutes les issues de bon sens
+
+Cordialement,
+Daniel Clark
+

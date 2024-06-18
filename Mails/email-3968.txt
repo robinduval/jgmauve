@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 05 Jan 2002 00:00:00 +0000
+Message-ID: <5794949127@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il faut anticiper la globalité des voies possibles
+
+Cordialement,
+John Doe
+

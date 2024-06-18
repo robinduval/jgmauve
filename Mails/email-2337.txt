@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 23 Jul 2005 00:00:00 +0000
+Message-ID: <8069973422@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité qui nous occupe il serait bon de anticiper la somme des problématiques envisageables
+
+Cordialement,
+David Brown
+

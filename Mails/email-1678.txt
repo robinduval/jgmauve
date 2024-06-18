@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Sun, 24 Aug 2003 00:00:00 +0000
+Message-ID: <1735749127@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de la société il faut avoir à l'esprit la globalité des solutions s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

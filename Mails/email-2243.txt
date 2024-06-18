@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 09 Jan 2006 00:00:00 +0000
+Message-ID: <1469803827@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie présente il convient de imaginer toutes les solutions possibles
+
+Cordialement,
+Jean Neige
+

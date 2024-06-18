@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 31 Dec 2009 00:00:00 +0000
+Message-ID: <2374682524@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité présente il convient de s'intéresser à chacune des voies possibles
+
+Cordialement,
+David Brown
+

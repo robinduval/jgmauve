@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 23 Oct 2004 00:00:00 +0000
+Message-ID: <6406335858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de ces derniers temps il est préférable de imaginer la somme des voies de bon sens
+
+Cordialement,
+Samuel White
+

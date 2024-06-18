@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Mon, 26 Jul 2004 00:00:00 +0000
+Message-ID: <1519012329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation présente il convient de se remémorer l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

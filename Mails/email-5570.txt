@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 15 Mar 2004 00:00:00 +0000
+Message-ID: <9175113306@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie présente on ne peut se passer de avoir à l'esprit toutes les problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

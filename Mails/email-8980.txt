@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 15 Apr 2001 00:00:00 +0000
+Message-ID: <9086512747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de la société il est nécessaire de anticiper la globalité des problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 20 Nov 2006 00:00:00 +0000
+Message-ID: <8343220220@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture présente il convient de étudier la totalité des alternatives envisageables
+
+Cordialement,
+William Jackson
+

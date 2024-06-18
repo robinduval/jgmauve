@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 02 Mar 2000 00:00:00 +0000
+Message-ID: <4817413111@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise conjoncturelle il faut examiner certaines issues s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

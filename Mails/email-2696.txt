@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 03 May 2003 00:00:00 +0000
+Message-ID: <4003919766@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre il faut de toute urgence s'intéresser à certaines issues de bon sens
+
+Cordialement,
+Eva Thomas
+

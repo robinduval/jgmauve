@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 12 Sep 2001 00:00:00 +0000
+Message-ID: <1428055557@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui nous occupe il serait bon de se remémorer la majorité des alternatives envisageables
+
+Cordialement,
+Samuel White
+

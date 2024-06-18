@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 23 Oct 2009 00:00:00 +0000
+Message-ID: <5542104348@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente on se doit de anticiper toutes les issues envisageables
+
+Cordialement,
+David Brown
+

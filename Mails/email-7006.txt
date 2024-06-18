@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Thu, 24 Mar 2005 00:00:00 +0000
+Message-ID: <4291539732@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il faut de toute urgence s'intéresser à certaines voies possibles
+
+Cordialement,
+William Jackson
+

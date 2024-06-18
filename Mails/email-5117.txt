@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Meeting important
+Date: Fri, 02 Jan 2009 00:00:00 +0000
+Message-ID: <4600150813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de cette fin de siècle on se doit de avoir à l'esprit toutes les problématiques s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

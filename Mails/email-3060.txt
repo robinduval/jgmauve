@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Wed, 10 Nov 2004 00:00:00 +0000
+Message-ID: <4432695895@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose contemporaine on ne peut se passer de imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

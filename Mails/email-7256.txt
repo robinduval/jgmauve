@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Sun, 29 Jul 2001 00:00:00 +0000
+Message-ID: <2950763828@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie actuelle on se doit de se remémorer la totalité des issues de bon sens
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Thu, 18 Jan 2007 00:00:00 +0000
+Message-ID: <5517836282@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs actuelle il serait intéressant de s'intéresser à la globalité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

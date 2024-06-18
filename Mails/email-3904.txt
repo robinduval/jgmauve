@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 13 Jun 2006 00:00:00 +0000
+Message-ID: <1727452476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de ces derniers temps on ne peut se passer de avoir à l'esprit la totalité des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

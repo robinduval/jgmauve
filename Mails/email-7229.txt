@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 15 Mar 2008 00:00:00 +0000
+Message-ID: <6425979473@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui nous occupe il est nécessaire de examiner la totalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

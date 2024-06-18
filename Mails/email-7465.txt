@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 17 Feb 2001 00:00:00 +0000
+Message-ID: <6732605420@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui nous occupe il serait bon de se remémorer la totalité des issues s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 13 Sep 2001 00:00:00 +0000
+Message-ID: <3012886801@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs présente il faut se remémorer la somme des alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

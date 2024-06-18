@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 20 May 2000 00:00:00 +0000
+Message-ID: <3250432881@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose conjoncturelle on ne peut se passer de étudier la totalité des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

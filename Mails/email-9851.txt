@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 15 Feb 2008 00:00:00 +0000
+Message-ID: <8845059585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise induite on ne peut se passer de examiner toutes les solutions possibles
+
+Cordialement,
+Charlotte Moore
+

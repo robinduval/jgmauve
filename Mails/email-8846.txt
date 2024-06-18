@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Wed, 25 Jan 2006 00:00:00 +0000
+Message-ID: <7924064072@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de cette fin de siècle on ne peut se passer de ne pas négliger certaines voies envisageables
+
+Cordialement,
+Samuel White
+

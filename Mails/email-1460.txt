@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sun, 07 May 2000 00:00:00 +0000
+Message-ID: <9575860388@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui nous occupe il convient de examiner la majorité des voies envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 07 Mar 2005 00:00:00 +0000
+Message-ID: <2656403858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose contemporaine il faut de toute urgence se préoccuper de toutes les solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

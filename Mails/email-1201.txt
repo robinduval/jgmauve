@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 26 Sep 2009 00:00:00 +0000
+Message-ID: <1101290447@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse de la société il faut avoir à l'esprit l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+William Jackson
+

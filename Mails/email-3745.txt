@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 18 Aug 2008 00:00:00 +0000
+Message-ID: <2275432486@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de cette fin de siècle il faut prendre en considération certaines issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

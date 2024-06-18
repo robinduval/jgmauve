@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Thu, 02 Jul 2009 00:00:00 +0000
+Message-ID: <6122036079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie contemporaine il faut de toute urgence prendre en considération chacune des problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

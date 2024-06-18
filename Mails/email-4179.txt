@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 22 Aug 2001 00:00:00 +0000
+Message-ID: <9130982211@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il convient de étudier la globalité des alternatives possibles
+
+Cordialement,
+Daniel Clark
+

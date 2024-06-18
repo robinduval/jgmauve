@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 10 Mar 2006 00:00:00 +0000
+Message-ID: <6645848563@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de la société il serait intéressant de se préoccuper de la majorité des issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

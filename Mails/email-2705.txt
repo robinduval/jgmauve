@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 13 Jan 2004 00:00:00 +0000
+Message-ID: <7204612646@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation qui est la nôtre on ne peut se passer de étudier la majorité des voies envisageables
+
+Cordialement,
+Samuel White
+

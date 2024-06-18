@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 24 Jun 2002 00:00:00 +0000
+Message-ID: <6010347904@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation contemporaine il convient de s'intéresser à toutes les alternatives possibles
+
+Cordialement,
+David Brown
+

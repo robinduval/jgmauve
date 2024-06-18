@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 22 Mar 2000 00:00:00 +0000
+Message-ID: <7220818549@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de cette fin de siècle il est nécessaire de se préoccuper de toutes les issues envisageables
+
+Cordialement,
+Sophie Martin
+

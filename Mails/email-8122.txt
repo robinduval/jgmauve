@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Mon, 24 Nov 2003 00:00:00 +0000
+Message-ID: <1848082005@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de cette fin de siècle il ne faut pas négliger de examiner la majorité des voies envisageables
+
+Cordialement,
+John Doe
+

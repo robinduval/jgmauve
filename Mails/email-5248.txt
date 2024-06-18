@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Mon, 29 Aug 2005 00:00:00 +0000
+Message-ID: <7249709446@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il serait intéressant de examiner la majorité des problématiques de bon sens
+
+Cordialement,
+Sophie Martin
+

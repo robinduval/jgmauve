@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Thu, 13 Jul 2006 00:00:00 +0000
+Message-ID: <6327261510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité qui nous occupe il ne faut pas négliger de prendre en considération toutes les issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 23 Mar 2001 00:00:00 +0000
+Message-ID: <9717116620@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de la société il serait bon de anticiper toutes les voies envisageables
+
+Cordialement,
+Daniel Clark
+

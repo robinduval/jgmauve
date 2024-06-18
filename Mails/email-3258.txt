@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 02 Jun 2000 00:00:00 +0000
+Message-ID: <4415730262@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de ces derniers temps on ne peut se passer de imaginer la somme des solutions de bon sens
+
+Cordialement,
+Alice Dupont
+

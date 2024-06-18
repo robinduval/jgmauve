@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 08 Nov 2006 00:00:00 +0000
+Message-ID: <8110082662@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation de cette fin de siècle on se doit de prendre en considération certaines solutions envisageables
+
+Cordialement,
+John Doe
+

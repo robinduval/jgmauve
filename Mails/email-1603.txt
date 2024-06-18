@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 24 Dec 2007 00:00:00 +0000
+Message-ID: <4375216205@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs contemporaine il faut de toute urgence prendre en considération la somme des alternatives déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 19 Apr 2009 00:00:00 +0000
+Message-ID: <9652695476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de la société on se doit de ne pas négliger la somme des problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

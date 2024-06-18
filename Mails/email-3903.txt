@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Mon, 24 Nov 2003 00:00:00 +0000
+Message-ID: <9617915564@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise induite on ne peut se passer de imaginer toutes les voies possibles
+
+Cordialement,
+Michael Taylor
+

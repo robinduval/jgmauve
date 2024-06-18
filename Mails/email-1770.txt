@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 30 May 2009 00:00:00 +0000
+Message-ID: <6905634568@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse de ces derniers temps il convient de se remémorer toutes les problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

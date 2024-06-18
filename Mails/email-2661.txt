@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 14 Nov 2007 00:00:00 +0000
+Message-ID: <5777159016@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de cette fin de siècle il est nécessaire de se préoccuper de la somme des issues de bon sens
+
+Cordialement,
+Bob Smith
+

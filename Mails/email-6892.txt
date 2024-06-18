@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Tue, 22 Jan 2002 00:00:00 +0000
+Message-ID: <3169348476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de cette fin de siècle on ne peut se passer de imaginer la somme des issues de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 04 Oct 2009 00:00:00 +0000
+Message-ID: <7450200837@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle on ne peut se passer de ne pas négliger toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 23 Jul 2003 00:00:00 +0000
+Message-ID: <9975151102@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de cette fin de siècle il serait bon de prendre en considération toutes les problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

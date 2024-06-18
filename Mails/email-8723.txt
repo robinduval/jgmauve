@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 31 May 2002 00:00:00 +0000
+Message-ID: <8915970828@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité conjoncturelle il est préférable de étudier la majorité des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

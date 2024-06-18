@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 06 May 2003 00:00:00 +0000
+Message-ID: <7087251962@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance induite il est préférable de examiner chacune des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

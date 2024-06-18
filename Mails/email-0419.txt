@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 07 Apr 2004 00:00:00 +0000
+Message-ID: <5476103872@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture induite il ne faut pas négliger de prendre en considération l'ensemble des voies de bon sens
+
+Cordialement,
+David Brown
+

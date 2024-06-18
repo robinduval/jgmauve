@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 28 Jan 2003 00:00:00 +0000
+Message-ID: <8077405552@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps il est nécessaire de prendre en considération la somme des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

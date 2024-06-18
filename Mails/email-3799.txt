@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Mon, 18 Jun 2001 00:00:00 +0000
+Message-ID: <9613942163@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation contemporaine il ne faut pas négliger de se remémorer l'ensemble des alternatives possibles
+
+Cordialement,
+Sophie Martin
+

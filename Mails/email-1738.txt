@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 09 Jan 2009 00:00:00 +0000
+Message-ID: <6587269426@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation présente il serait bon de étudier la totalité des alternatives possibles
+
+Cordialement,
+Olivia Harris
+

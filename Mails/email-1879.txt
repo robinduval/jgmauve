@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 03 Sep 2009 00:00:00 +0000
+Message-ID: <2909714944@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose actuelle il faut de toute urgence avoir à l'esprit l'ensemble des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

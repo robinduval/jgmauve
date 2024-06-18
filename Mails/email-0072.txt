@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 25 May 2002 00:00:00 +0000
+Message-ID: <5951942660@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps il est préférable de se remémorer toutes les issues envisageables
+
+Cordialement,
+Laura Wilson
+

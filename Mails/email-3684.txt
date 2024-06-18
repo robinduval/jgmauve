@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 23 Aug 2005 00:00:00 +0000
+Message-ID: <6602516303@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre il serait bon de se remémorer toutes les voies possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 01 May 2008 00:00:00 +0000
+Message-ID: <9317272687@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité induite il convient de anticiper la majorité des alternatives déjà en notre possession
+
+Cordialement,
+William Jackson
+

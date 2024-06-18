@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 16 May 2001 00:00:00 +0000
+Message-ID: <7744733862@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs conjoncturelle il convient de étudier certaines voies possibles
+
+Cordialement,
+David Brown
+

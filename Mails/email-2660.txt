@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 17 Oct 2006 00:00:00 +0000
+Message-ID: <5118180436@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui nous occupe il convient de se remémorer la globalité des alternatives de bon sens
+
+Cordialement,
+Michael Taylor
+

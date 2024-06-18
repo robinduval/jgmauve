@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Sun, 26 Oct 2003 00:00:00 +0000
+Message-ID: <5397442314@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation qui nous occupe on ne peut se passer de étudier l'ensemble des problématiques envisageables
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 11 Jan 2001 00:00:00 +0000
+Message-ID: <7347681040@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance présente il est nécessaire de s'intéresser à la totalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

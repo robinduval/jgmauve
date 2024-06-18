@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 06 Jan 2006 00:00:00 +0000
+Message-ID: <9582911601@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de cette fin de siècle il est préférable de ne pas négliger toutes les alternatives de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sat, 20 Oct 2007 00:00:00 +0000
+Message-ID: <3831960083@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe il serait bon de étudier certaines issues de bon sens
+
+Cordialement,
+Eva Thomas
+

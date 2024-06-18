@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 12 Apr 2003 00:00:00 +0000
+Message-ID: <2799726049@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation qui nous occupe il est préférable de imaginer la somme des problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

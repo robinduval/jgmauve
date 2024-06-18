@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 22 Oct 2006 00:00:00 +0000
+Message-ID: <3509164363@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de ces derniers temps il convient de étudier toutes les solutions de bon sens
+
+Cordialement,
+William Jackson
+

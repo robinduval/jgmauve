@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 04 Sep 2005 00:00:00 +0000
+Message-ID: <4121150961@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse qui nous occupe on ne peut se passer de se préoccuper de toutes les solutions de bon sens
+
+Cordialement,
+Samuel White
+

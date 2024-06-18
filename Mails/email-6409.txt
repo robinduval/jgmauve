@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 09 Dec 2001 00:00:00 +0000
+Message-ID: <1414466190@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation conjoncturelle on se doit de imaginer la globalité des issues envisageables
+
+Cordialement,
+Jean Neige
+

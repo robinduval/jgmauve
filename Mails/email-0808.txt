@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Wed, 13 Dec 2000 00:00:00 +0000
+Message-ID: <6425285270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui nous occupe il faut de toute urgence ne pas négliger la majorité des voies s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

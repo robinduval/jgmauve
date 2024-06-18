@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Fri, 03 Mar 2000 00:00:00 +0000
+Message-ID: <3525860622@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de cette fin de siècle il serait bon de prendre en considération toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

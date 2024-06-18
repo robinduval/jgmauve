@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 10 Nov 2009 00:00:00 +0000
+Message-ID: <6569643781@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation présente il faut avoir à l'esprit chacune des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

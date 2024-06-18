@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 29 Nov 2006 00:00:00 +0000
+Message-ID: <1614478238@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de la société il faut de toute urgence s'intéresser à toutes les issues possibles
+
+Cordialement,
+Sophie Martin
+

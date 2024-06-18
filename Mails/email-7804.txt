@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Tue, 09 Aug 2005 00:00:00 +0000
+Message-ID: <7512473190@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture actuelle il faut se préoccuper de l'ensemble des alternatives possibles
+
+Cordialement,
+Michael Taylor
+

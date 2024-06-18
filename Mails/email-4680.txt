@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 19 Jul 2004 00:00:00 +0000
+Message-ID: <8856086793@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de la société il faut imaginer l'ensemble des problématiques possibles
+
+Cordialement,
+Bob Smith
+

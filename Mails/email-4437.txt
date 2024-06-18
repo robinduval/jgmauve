@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Mon, 24 Jul 2006 00:00:00 +0000
+Message-ID: <2507032129@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise contemporaine il est nécessaire de prendre en considération l'ensemble des problématiques possibles
+
+Cordialement,
+Bob Smith
+

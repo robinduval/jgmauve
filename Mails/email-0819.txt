@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 11 Nov 2003 00:00:00 +0000
+Message-ID: <8476390082@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il serait intéressant de avoir à l'esprit la somme des alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 09 Apr 2007 00:00:00 +0000
+Message-ID: <8059303502@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de ces derniers temps on se doit de se préoccuper de toutes les problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

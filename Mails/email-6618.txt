@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Thu, 27 Mar 2003 00:00:00 +0000
+Message-ID: <2090696697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui est la nôtre il faut se remémorer toutes les problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

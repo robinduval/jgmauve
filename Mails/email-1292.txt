@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 23 Jul 2007 00:00:00 +0000
+Message-ID: <7356371079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de cette fin de siècle il convient de imaginer la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Jean Neige
+

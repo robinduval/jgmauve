@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 18 Aug 2005 00:00:00 +0000
+Message-ID: <2672847054@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation conjoncturelle on se doit de imaginer toutes les issues envisageables
+
+Cordialement,
+Eva Thomas
+

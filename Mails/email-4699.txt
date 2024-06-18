@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Wed, 18 Oct 2006 00:00:00 +0000
+Message-ID: <7939214628@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs qui est la nôtre il faut de toute urgence prendre en considération certaines alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 20 Feb 2009 00:00:00 +0000
+Message-ID: <6252384339@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine il serait bon de s'intéresser à chacune des issues envisageables
+
+Cordialement,
+William Jackson
+

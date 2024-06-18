@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Sun, 13 Feb 2000 00:00:00 +0000
+Message-ID: <8189154301@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise induite il faut de toute urgence examiner l'ensemble des issues envisageables
+
+Cordialement,
+Emma Lee
+

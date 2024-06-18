@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 13 Nov 2002 00:00:00 +0000
+Message-ID: <5899550388@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de la société on se doit de imaginer toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Tue, 17 Feb 2009 00:00:00 +0000
+Message-ID: <8910097785@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation induite il convient de se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

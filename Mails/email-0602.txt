@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 24 Aug 2009 00:00:00 +0000
+Message-ID: <1128202139@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs contemporaine il convient de se préoccuper de la globalité des voies envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 25 Jun 2004 00:00:00 +0000
+Message-ID: <2508477483@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance qui est la nôtre on ne peut se passer de ne pas négliger certaines issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

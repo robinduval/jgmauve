@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 05 Mar 2004 00:00:00 +0000
+Message-ID: <8297066400@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance contemporaine on se doit de avoir à l'esprit toutes les issues s'offrant à nous
+
+Cordialement,
+Samuel White
+

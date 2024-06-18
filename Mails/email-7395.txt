@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sun, 15 Aug 2004 00:00:00 +0000
+Message-ID: <4406040571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de cette fin de siècle on ne peut se passer de anticiper la globalité des issues de bon sens
+
+Cordialement,
+Laura Wilson
+

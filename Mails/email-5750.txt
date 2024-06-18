@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 13 Jan 2008 00:00:00 +0000
+Message-ID: <9034663380@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de cette fin de siècle on se doit de anticiper toutes les alternatives envisageables
+
+Cordialement,
+Bob Smith
+

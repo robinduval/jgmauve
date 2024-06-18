@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 08 Dec 2005 00:00:00 +0000
+Message-ID: <8335935437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation induite il faut de toute urgence ne pas négliger chacune des alternatives de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 11 Dec 2003 00:00:00 +0000
+Message-ID: <1612516327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de ces derniers temps il serait intéressant de avoir à l'esprit la majorité des solutions possibles
+
+Cordialement,
+Alice Dupont
+

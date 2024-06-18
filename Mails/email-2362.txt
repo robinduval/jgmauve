@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Sat, 04 Oct 2003 00:00:00 +0000
+Message-ID: <9211688875@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation de la société il est nécessaire de imaginer toutes les solutions de bon sens
+
+Cordialement,
+Emma Lee
+

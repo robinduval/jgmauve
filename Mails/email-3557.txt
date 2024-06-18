@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Wed, 07 Aug 2002 00:00:00 +0000
+Message-ID: <3312760353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance présente il serait bon de ne pas négliger toutes les solutions possibles
+
+Cordialement,
+Daniel Clark
+

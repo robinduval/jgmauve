@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 16 Jun 2003 00:00:00 +0000
+Message-ID: <6089726538@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de la société il serait bon de se remémorer la totalité des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Mon, 01 Jan 2007 00:00:00 +0000
+Message-ID: <5864140995@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs contemporaine il est nécessaire de ne pas négliger la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

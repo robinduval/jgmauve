@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 23 Jan 2008 00:00:00 +0000
+Message-ID: <3355320238@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de ces derniers temps il faut ne pas négliger toutes les issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

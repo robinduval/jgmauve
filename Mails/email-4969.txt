@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 18 Nov 2004 00:00:00 +0000
+Message-ID: <4708334569@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il faut se préoccuper de chacune des issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

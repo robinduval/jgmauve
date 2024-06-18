@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 15 Mar 2000 00:00:00 +0000
+Message-ID: <6776655265@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de la société il serait bon de imaginer chacune des alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 03 Sep 2008 00:00:00 +0000
+Message-ID: <7629915079@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société on se doit de prendre en considération toutes les problématiques possibles
+
+Cordialement,
+Daniel Clark
+

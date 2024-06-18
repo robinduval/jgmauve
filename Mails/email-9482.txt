@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 02 Feb 2006 00:00:00 +0000
+Message-ID: <5184383685@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société on se doit de imaginer chacune des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

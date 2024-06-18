@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Mon, 20 May 2002 00:00:00 +0000
+Message-ID: <2773111701@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture conjoncturelle il serait intéressant de prendre en considération la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

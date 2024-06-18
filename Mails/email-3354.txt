@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 19 Jan 2004 00:00:00 +0000
+Message-ID: <3686211458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de cette fin de siècle il serait bon de examiner la majorité des voies envisageables
+
+Cordialement,
+John Doe
+

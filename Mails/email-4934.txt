@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 06 Jun 2008 00:00:00 +0000
+Message-ID: <7792519566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il faut de toute urgence étudier certaines alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

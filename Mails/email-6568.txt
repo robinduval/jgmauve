@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 28 Jun 2000 00:00:00 +0000
+Message-ID: <5256997853@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre il convient de étudier toutes les issues de bon sens
+
+Cordialement,
+William Jackson
+

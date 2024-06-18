@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 06 Sep 2008 00:00:00 +0000
+Message-ID: <6023035211@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps il faut de toute urgence se préoccuper de la globalité des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 13 Dec 2006 00:00:00 +0000
+Message-ID: <6959231305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose conjoncturelle il serait bon de examiner l'ensemble des solutions envisageables
+
+Cordialement,
+William Jackson
+

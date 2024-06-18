@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 30 Jun 2006 00:00:00 +0000
+Message-ID: <8204733442@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de cette fin de siècle il convient de prendre en considération l'ensemble des voies déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 08 Dec 2005 00:00:00 +0000
+Message-ID: <8320218985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de cette fin de siècle il faut imaginer la somme des voies envisageables
+
+Cordialement,
+Emma Lee
+

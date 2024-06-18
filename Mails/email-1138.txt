@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 25 Jan 2001 00:00:00 +0000
+Message-ID: <9647865856@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il est préférable de anticiper la somme des alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

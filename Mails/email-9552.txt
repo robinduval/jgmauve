@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 15 Feb 2000 00:00:00 +0000
+Message-ID: <6796531888@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui est la nôtre il est préférable de s'intéresser à certaines voies envisageables
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 09 Jun 2007 00:00:00 +0000
+Message-ID: <2559582436@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation induite il est nécessaire de s'intéresser à toutes les problématiques envisageables
+
+Cordialement,
+Jean Neige
+

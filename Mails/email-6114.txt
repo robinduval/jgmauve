@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Wed, 23 Jun 2004 00:00:00 +0000
+Message-ID: <4230195624@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation actuelle il convient de ne pas négliger toutes les issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

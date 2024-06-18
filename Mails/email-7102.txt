@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 31 Oct 2001 00:00:00 +0000
+Message-ID: <3643150640@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle on ne peut se passer de imaginer la somme des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

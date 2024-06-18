@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 12 Jan 2006 00:00:00 +0000
+Message-ID: <4773240746@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle il ne faut pas négliger de s'intéresser à la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

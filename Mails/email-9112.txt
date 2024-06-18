@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Mon, 15 Dec 2008 00:00:00 +0000
+Message-ID: <9258545039@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il faut anticiper l'ensemble des alternatives de bon sens
+
+Cordialement,
+Laura Wilson
+

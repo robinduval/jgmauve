@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 06 Feb 2009 00:00:00 +0000
+Message-ID: <3315464949@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture contemporaine il faut de toute urgence anticiper la globalité des voies de bon sens
+
+Cordialement,
+Sophie Martin
+

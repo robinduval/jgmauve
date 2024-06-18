@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 17 Jan 2001 00:00:00 +0000
+Message-ID: <7380263633@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de ces derniers temps il est nécessaire de se remémorer l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

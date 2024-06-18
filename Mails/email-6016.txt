@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 19 Jul 2008 00:00:00 +0000
+Message-ID: <4901716813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse qui nous occupe il est nécessaire de anticiper la totalité des issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

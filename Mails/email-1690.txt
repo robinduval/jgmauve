@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Mon, 20 Jul 2009 00:00:00 +0000
+Message-ID: <7510559636@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle il faut anticiper la totalité des alternatives possibles
+
+Cordialement,
+William Jackson
+

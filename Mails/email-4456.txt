@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 18 May 2004 00:00:00 +0000
+Message-ID: <8798587424@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie actuelle il est nécessaire de examiner la majorité des voies envisageables
+
+Cordialement,
+Jean Neige
+

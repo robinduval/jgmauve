@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 11 Jul 2003 00:00:00 +0000
+Message-ID: <8153255889@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps on se doit de prendre en considération la globalité des voies possibles
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Fri, 13 Oct 2006 00:00:00 +0000
+Message-ID: <5975112624@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle on ne peut se passer de examiner la totalité des problématiques possibles
+
+Cordialement,
+David Brown
+

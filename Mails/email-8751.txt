@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 23 Jun 2001 00:00:00 +0000
+Message-ID: <9124096176@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose contemporaine on se doit de examiner la totalité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

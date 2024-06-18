@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 21 Dec 2009 00:00:00 +0000
+Message-ID: <6206047491@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle on ne peut se passer de se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+David Brown
+

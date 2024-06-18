@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Fri, 11 Aug 2000 00:00:00 +0000
+Message-ID: <8144450175@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui est la nôtre il faut de toute urgence s'intéresser à toutes les solutions envisageables
+
+Cordialement,
+Emma Lee
+

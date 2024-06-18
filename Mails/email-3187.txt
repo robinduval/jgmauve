@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 30 Mar 2004 00:00:00 +0000
+Message-ID: <6970869355@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de la société il est préférable de se préoccuper de toutes les problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

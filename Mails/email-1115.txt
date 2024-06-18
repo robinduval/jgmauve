@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Sun, 29 Feb 2004 00:00:00 +0000
+Message-ID: <7568733074@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture induite il est nécessaire de s'intéresser à la totalité des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 28 Jul 2004 00:00:00 +0000
+Message-ID: <2124825335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise conjoncturelle il faut étudier l'ensemble des problématiques envisageables
+
+Cordialement,
+Alice Dupont
+

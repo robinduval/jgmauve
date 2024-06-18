@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 03 Sep 2001 00:00:00 +0000
+Message-ID: <2234760939@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise actuelle on ne peut se passer de se préoccuper de la totalité des solutions envisageables
+
+Cordialement,
+Laura Wilson
+

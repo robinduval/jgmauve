@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 10 Dec 2000 00:00:00 +0000
+Message-ID: <4859396984@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de la société il serait bon de examiner certaines alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

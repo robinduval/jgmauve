@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 08 Oct 2000 00:00:00 +0000
+Message-ID: <7608339372@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite on ne peut se passer de prendre en considération toutes les solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

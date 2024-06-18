@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Thu, 31 Oct 2002 00:00:00 +0000
+Message-ID: <1276297390@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de ces derniers temps il convient de se remémorer toutes les issues de bon sens
+
+Cordialement,
+Samuel White
+

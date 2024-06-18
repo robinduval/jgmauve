@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 21 Oct 2000 00:00:00 +0000
+Message-ID: <6251769530@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture contemporaine il serait intéressant de examiner toutes les alternatives s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

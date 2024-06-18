@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 02 Jul 2005 00:00:00 +0000
+Message-ID: <2835881484@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité actuelle il serait bon de se remémorer chacune des solutions envisageables
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 27 Sep 2002 00:00:00 +0000
+Message-ID: <5545137744@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance contemporaine il est nécessaire de avoir à l'esprit toutes les problématiques possibles
+
+Cordialement,
+David Brown
+

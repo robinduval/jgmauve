@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 06 Sep 2004 00:00:00 +0000
+Message-ID: <3363399689@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture actuelle il serait bon de imaginer la globalité des voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 06 May 2004 00:00:00 +0000
+Message-ID: <4992211515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de la société il serait bon de étudier toutes les solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

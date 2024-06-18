@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 13 Apr 2009 00:00:00 +0000
+Message-ID: <8812687434@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de la société il serait bon de imaginer chacune des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

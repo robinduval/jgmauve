@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 03 Oct 2007 00:00:00 +0000
+Message-ID: <8271730080@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de cette fin de siècle on ne peut se passer de imaginer toutes les issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

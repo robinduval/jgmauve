@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 16 Jun 2000 00:00:00 +0000
+Message-ID: <2372252191@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de ces derniers temps il faut anticiper chacune des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

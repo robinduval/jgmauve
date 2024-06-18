@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 26 Apr 2003 00:00:00 +0000
+Message-ID: <5158634428@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité présente on se doit de étudier la somme des solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 26 Mar 2008 00:00:00 +0000
+Message-ID: <8934998541@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose qui nous occupe il faut imaginer l'ensemble des voies possibles
+
+Cordialement,
+Alice Dupont
+

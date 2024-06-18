@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 16 Nov 2002 00:00:00 +0000
+Message-ID: <8681487430@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui nous occupe il serait intéressant de ne pas négliger toutes les alternatives de bon sens
+
+Cordialement,
+Olivia Harris
+

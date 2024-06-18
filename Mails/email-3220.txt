@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Wed, 07 Jun 2000 00:00:00 +0000
+Message-ID: <3747323199@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise qui est la nôtre il serait intéressant de se remémorer chacune des issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

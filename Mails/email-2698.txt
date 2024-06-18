@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 17 Jun 2006 00:00:00 +0000
+Message-ID: <4524735539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation qui est la nôtre il ne faut pas négliger de s'intéresser à l'ensemble des problématiques de bon sens
+
+Cordialement,
+David Brown
+

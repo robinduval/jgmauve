@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 26 Dec 2000 00:00:00 +0000
+Message-ID: <5021787326@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société il serait intéressant de imaginer chacune des solutions envisageables
+
+Cordialement,
+Emma Lee
+

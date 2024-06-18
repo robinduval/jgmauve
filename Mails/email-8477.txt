@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 25 Dec 2000 00:00:00 +0000
+Message-ID: <6610615537@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie actuelle il serait bon de étudier toutes les voies possibles
+
+Cordialement,
+Emma Lee
+

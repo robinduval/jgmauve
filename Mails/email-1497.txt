@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Fri, 05 Sep 2008 00:00:00 +0000
+Message-ID: <2489945068@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie qui est la nôtre il est nécessaire de imaginer la globalité des problématiques de bon sens
+
+Cordialement,
+Samuel White
+

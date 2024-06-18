@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 15 Aug 2008 00:00:00 +0000
+Message-ID: <1097598526@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation présente il est nécessaire de ne pas négliger la majorité des problématiques s'offrant à nous
+
+Cordialement,
+John Doe
+

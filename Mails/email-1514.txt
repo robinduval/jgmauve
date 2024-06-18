@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Sun, 26 Mar 2006 00:00:00 +0000
+Message-ID: <7199654318@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de ces derniers temps il faut étudier l'ensemble des problématiques possibles
+
+Cordialement,
+John Doe
+

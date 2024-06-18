@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 11 Oct 2007 00:00:00 +0000
+Message-ID: <1418591279@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il est nécessaire de ne pas négliger la majorité des solutions envisageables
+
+Cordialement,
+Emma Lee
+

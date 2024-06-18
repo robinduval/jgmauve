@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 28 Nov 2005 00:00:00 +0000
+Message-ID: <2864885851@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation présente on se doit de prendre en considération certaines problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

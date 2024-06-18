@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 05 Nov 2001 00:00:00 +0000
+Message-ID: <3304484986@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie qui est la nôtre il convient de avoir à l'esprit toutes les problématiques possibles
+
+Cordialement,
+Sophie Martin
+

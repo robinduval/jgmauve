@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 02 Mar 2005 00:00:00 +0000
+Message-ID: <7776899510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle on ne peut se passer de étudier la majorité des solutions envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 02 Sep 2005 00:00:00 +0000
+Message-ID: <5144726940@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation présente il faut de toute urgence examiner la majorité des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

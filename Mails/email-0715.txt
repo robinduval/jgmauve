@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 19 Dec 2007 00:00:00 +0000
+Message-ID: <8614589718@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose qui nous occupe il serait intéressant de étudier la totalité des issues de bon sens
+
+Cordialement,
+Jean Neige
+

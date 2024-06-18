@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 26 Jul 2006 00:00:00 +0000
+Message-ID: <5455256460@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité actuelle il faut imaginer chacune des alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

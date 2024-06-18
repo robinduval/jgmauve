@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 26 Apr 2003 00:00:00 +0000
+Message-ID: <7416369643@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps il est préférable de anticiper la somme des issues possibles
+
+Cordialement,
+Olivia Harris
+

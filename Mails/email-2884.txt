@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 29 Nov 2003 00:00:00 +0000
+Message-ID: <5100134349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société on ne peut se passer de avoir à l'esprit la majorité des voies déjà en notre possession
+
+Cordialement,
+David Brown
+

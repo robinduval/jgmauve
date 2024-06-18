@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 04 Feb 2009 00:00:00 +0000
+Message-ID: <5043282215@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture contemporaine il ne faut pas négliger de s'intéresser à la somme des problématiques envisageables
+
+Cordialement,
+Bob Smith
+

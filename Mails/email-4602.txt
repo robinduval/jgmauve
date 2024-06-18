@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Sun, 11 May 2008 00:00:00 +0000
+Message-ID: <1584939824@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle il serait bon de ne pas négliger l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

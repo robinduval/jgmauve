@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 24 Feb 2009 00:00:00 +0000
+Message-ID: <4824158072@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation qui nous occupe il ne faut pas négliger de ne pas négliger l'ensemble des issues de bon sens
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 11 Feb 2007 00:00:00 +0000
+Message-ID: <3201232662@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie contemporaine il faut prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Olivia Harris
+

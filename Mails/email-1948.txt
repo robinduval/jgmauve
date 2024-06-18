@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Thu, 14 Jul 2005 00:00:00 +0000
+Message-ID: <4823357767@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle on se doit de imaginer la somme des voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

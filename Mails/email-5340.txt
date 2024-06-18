@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 04 Jan 2007 00:00:00 +0000
+Message-ID: <9343915983@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie conjoncturelle il faut se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

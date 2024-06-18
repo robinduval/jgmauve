@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 05 Nov 2005 00:00:00 +0000
+Message-ID: <5552210370@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation contemporaine il faut s'intéresser à certaines voies déjà en notre possession
+
+Cordialement,
+David Brown
+

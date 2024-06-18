@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 25 Aug 2009 00:00:00 +0000
+Message-ID: <5404406394@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs actuelle on ne peut se passer de étudier la totalité des issues de bon sens
+
+Cordialement,
+Jean Neige
+

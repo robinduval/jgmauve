@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 11 Sep 2001 00:00:00 +0000
+Message-ID: <5317203878@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture conjoncturelle on ne peut se passer de anticiper chacune des solutions envisageables
+
+Cordialement,
+David Brown
+

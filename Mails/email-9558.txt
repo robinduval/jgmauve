@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 24 Jan 2006 00:00:00 +0000
+Message-ID: <2407342171@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise présente il convient de examiner chacune des solutions déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

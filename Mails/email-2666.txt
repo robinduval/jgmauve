@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 04 Dec 2000 00:00:00 +0000
+Message-ID: <7987540667@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance qui nous occupe il faut imaginer la totalité des issues envisageables
+
+Cordialement,
+Charlotte Moore
+

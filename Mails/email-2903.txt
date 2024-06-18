@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 31 Aug 2002 00:00:00 +0000
+Message-ID: <8873664489@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation actuelle il convient de examiner la totalité des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

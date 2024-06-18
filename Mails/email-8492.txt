@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 30 Nov 2005 00:00:00 +0000
+Message-ID: <5053448652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de ces derniers temps il faut de toute urgence étudier la majorité des issues possibles
+
+Cordialement,
+Laura Wilson
+

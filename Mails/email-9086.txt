@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 23 Jan 2004 00:00:00 +0000
+Message-ID: <2204252500@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie actuelle il ne faut pas négliger de s'intéresser à la globalité des problématiques de bon sens
+
+Cordialement,
+Jean Neige
+

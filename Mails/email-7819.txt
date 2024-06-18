@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 14 Feb 2005 00:00:00 +0000
+Message-ID: <9051066922@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité actuelle il ne faut pas négliger de examiner certaines problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 04 Dec 2009 00:00:00 +0000
+Message-ID: <2737878189@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de ces derniers temps il faut de toute urgence ne pas négliger certaines solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 17 Apr 2002 00:00:00 +0000
+Message-ID: <6333806861@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité contemporaine il convient de se remémorer la somme des voies s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

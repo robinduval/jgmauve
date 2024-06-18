@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 04 Feb 2009 00:00:00 +0000
+Message-ID: <1047765853@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture présente il convient de prendre en considération la somme des voies s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

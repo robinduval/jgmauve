@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 01 Aug 2004 00:00:00 +0000
+Message-ID: <2537803652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle il est préférable de prendre en considération la majorité des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

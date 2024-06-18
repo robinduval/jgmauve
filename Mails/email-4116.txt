@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 09 Feb 2006 00:00:00 +0000
+Message-ID: <5592611060@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle il serait bon de se remémorer la globalité des solutions s'offrant à nous
+
+Cordialement,
+Jean Neige
+

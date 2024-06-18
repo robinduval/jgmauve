@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 19 Jun 2007 00:00:00 +0000
+Message-ID: <3056409051@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs actuelle il faut ne pas négliger la somme des problématiques déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

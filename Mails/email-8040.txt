@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 30 Jun 2009 00:00:00 +0000
+Message-ID: <8783115754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre on ne peut se passer de imaginer toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

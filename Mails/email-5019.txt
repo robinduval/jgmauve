@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 22 Aug 2005 00:00:00 +0000
+Message-ID: <9136417777@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie induite on se doit de se préoccuper de la somme des alternatives envisageables
+
+Cordialement,
+Emma Lee
+

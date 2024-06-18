@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Tue, 30 Apr 2002 00:00:00 +0000
+Message-ID: <2532876821@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie conjoncturelle il serait intéressant de imaginer l'ensemble des alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Fri, 11 Jul 2008 00:00:00 +0000
+Message-ID: <1144782084@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation conjoncturelle il serait intéressant de prendre en considération toutes les voies possibles
+
+Cordialement,
+Charlotte Moore
+

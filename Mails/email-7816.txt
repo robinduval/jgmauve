@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 18 Jan 2005 00:00:00 +0000
+Message-ID: <1732416615@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture induite il est nécessaire de ne pas négliger toutes les alternatives possibles
+
+Cordialement,
+Daniel Clark
+

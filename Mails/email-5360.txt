@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 19 Jul 2009 00:00:00 +0000
+Message-ID: <3155604226@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de cette fin de siècle il faut de toute urgence s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 20 Apr 2008 00:00:00 +0000
+Message-ID: <3184146332@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de la société il faut étudier chacune des problématiques de bon sens
+
+Cordialement,
+John Doe
+

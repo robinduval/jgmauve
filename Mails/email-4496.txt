@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Mon, 28 Sep 2009 00:00:00 +0000
+Message-ID: <5469160403@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise induite il serait intéressant de prendre en considération chacune des issues envisageables
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 23 Dec 2008 00:00:00 +0000
+Message-ID: <8458806319@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise conjoncturelle on ne peut se passer de ne pas négliger certaines solutions envisageables
+
+Cordialement,
+Jean Neige
+

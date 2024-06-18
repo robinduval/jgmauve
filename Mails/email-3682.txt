@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Sun, 12 May 2002 00:00:00 +0000
+Message-ID: <3302384046@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse présente on ne peut se passer de examiner chacune des solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

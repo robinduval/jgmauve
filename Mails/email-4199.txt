@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Sat, 11 Feb 2006 00:00:00 +0000
+Message-ID: <5727616819@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle il serait intéressant de examiner la totalité des voies de bon sens
+
+Cordialement,
+Samuel White
+

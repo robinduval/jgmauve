@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 19 Oct 2000 00:00:00 +0000
+Message-ID: <4457939452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture présente il faut avoir à l'esprit la totalité des solutions s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

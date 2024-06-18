@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 23 Apr 2000 00:00:00 +0000
+Message-ID: <9224797764@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture contemporaine on ne peut se passer de se remémorer toutes les solutions possibles
+
+Cordialement,
+Olivia Harris
+

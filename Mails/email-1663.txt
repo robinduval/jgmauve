@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 20 May 2008 00:00:00 +0000
+Message-ID: <1069964858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de cette fin de siècle il faut de toute urgence ne pas négliger certaines solutions s'offrant à nous
+
+Cordialement,
+Bob Smith
+

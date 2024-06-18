@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Fri, 28 Oct 2005 00:00:00 +0000
+Message-ID: <1674329924@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société on se doit de étudier toutes les solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

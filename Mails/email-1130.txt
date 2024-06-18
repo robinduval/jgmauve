@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 21 Jun 2009 00:00:00 +0000
+Message-ID: <9684800090@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de cette fin de siècle on ne peut se passer de prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

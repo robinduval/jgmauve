@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 24 Sep 2007 00:00:00 +0000
+Message-ID: <5200910766@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui est la nôtre on se doit de étudier la majorité des issues possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 19 Sep 2009 00:00:00 +0000
+Message-ID: <2641903242@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie actuelle on ne peut se passer de avoir à l'esprit toutes les voies de bon sens
+
+Cordialement,
+Sophie Martin
+

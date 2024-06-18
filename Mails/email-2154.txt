@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 04 Jun 2008 00:00:00 +0000
+Message-ID: <4932815539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture conjoncturelle il convient de avoir à l'esprit la globalité des alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

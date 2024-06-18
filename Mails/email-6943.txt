@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 21 Aug 2000 00:00:00 +0000
+Message-ID: <6492106619@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs actuelle on ne peut se passer de anticiper toutes les issues possibles
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sun, 10 Jun 2007 00:00:00 +0000
+Message-ID: <6952648287@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui nous occupe on ne peut se passer de anticiper la globalité des solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

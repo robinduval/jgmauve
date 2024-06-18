@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 25 Jan 2005 00:00:00 +0000
+Message-ID: <1139751459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie présente on ne peut se passer de s'intéresser à l'ensemble des problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

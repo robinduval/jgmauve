@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 22 Feb 2007 00:00:00 +0000
+Message-ID: <7211137263@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de ces derniers temps il ne faut pas négliger de anticiper la majorité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

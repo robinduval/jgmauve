@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 06 Oct 2005 00:00:00 +0000
+Message-ID: <7295592099@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps il serait intéressant de imaginer l'ensemble des problématiques possibles
+
+Cordialement,
+William Jackson
+

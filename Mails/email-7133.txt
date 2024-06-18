@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 09 Jun 2007 00:00:00 +0000
+Message-ID: <9941982588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de ces derniers temps il serait bon de prendre en considération toutes les issues envisageables
+
+Cordialement,
+William Jackson
+

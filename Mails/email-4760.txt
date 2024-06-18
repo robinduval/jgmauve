@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 30 Sep 2002 00:00:00 +0000
+Message-ID: <4086877055@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs qui nous occupe il serait intéressant de anticiper certaines alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

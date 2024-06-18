@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 08 Jan 2009 00:00:00 +0000
+Message-ID: <4174012222@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui nous occupe il faut se préoccuper de certaines alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

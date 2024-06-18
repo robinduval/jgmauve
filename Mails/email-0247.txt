@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 07 Jun 2008 00:00:00 +0000
+Message-ID: <5145272572@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de ces derniers temps il serait bon de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

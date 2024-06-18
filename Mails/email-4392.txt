@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 28 Apr 2002 00:00:00 +0000
+Message-ID: <6784017900@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance qui est la nôtre il serait bon de se préoccuper de la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

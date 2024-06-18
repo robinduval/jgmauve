@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 15 Aug 2001 00:00:00 +0000
+Message-ID: <9961566064@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture actuelle on ne peut se passer de imaginer toutes les solutions possibles
+
+Cordialement,
+Alice Dupont
+

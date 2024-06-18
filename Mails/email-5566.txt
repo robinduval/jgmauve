@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 02 Feb 2006 00:00:00 +0000
+Message-ID: <9550023419@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité présente on se doit de avoir à l'esprit l'ensemble des solutions possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 25 Nov 2004 00:00:00 +0000
+Message-ID: <3065135746@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il convient de se préoccuper de la somme des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 23 Jan 2008 00:00:00 +0000
+Message-ID: <9263231705@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de la société il convient de examiner toutes les voies possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 21 Jan 2009 00:00:00 +0000
+Message-ID: <1566574388@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle il est nécessaire de étudier certaines solutions envisageables
+
+Cordialement,
+Samuel White
+

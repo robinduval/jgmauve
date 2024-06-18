@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 08 Aug 2008 00:00:00 +0000
+Message-ID: <9305406587@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation actuelle il convient de ne pas négliger toutes les issues envisageables
+
+Cordialement,
+Michael Taylor
+

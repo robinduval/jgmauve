@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 26 Jul 2008 00:00:00 +0000
+Message-ID: <1014799659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation actuelle il serait bon de imaginer toutes les solutions possibles
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Fri, 05 Aug 2005 00:00:00 +0000
+Message-ID: <5503636853@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de ces derniers temps il serait bon de se préoccuper de la majorité des problématiques déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

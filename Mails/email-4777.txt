@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 28 Nov 2007 00:00:00 +0000
+Message-ID: <8091839570@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation qui nous occupe il est préférable de anticiper l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

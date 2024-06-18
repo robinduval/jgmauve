@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Fri, 08 Jun 2007 00:00:00 +0000
+Message-ID: <4408306911@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise conjoncturelle il serait intéressant de ne pas négliger la globalité des issues possibles
+
+Cordialement,
+Sophie Martin
+

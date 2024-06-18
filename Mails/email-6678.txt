@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Wed, 24 Jan 2007 00:00:00 +0000
+Message-ID: <1998981266@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il est préférable de se remémorer la majorité des issues envisageables
+
+Cordialement,
+Jean Neige
+

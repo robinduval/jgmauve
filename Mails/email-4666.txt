@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Wed, 27 Aug 2008 00:00:00 +0000
+Message-ID: <6924722264@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation de cette fin de siècle on ne peut se passer de avoir à l'esprit toutes les problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

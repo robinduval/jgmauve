@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 14 Jun 2007 00:00:00 +0000
+Message-ID: <7232396743@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs présente il est préférable de anticiper toutes les issues envisageables
+
+Cordialement,
+Alice Dupont
+

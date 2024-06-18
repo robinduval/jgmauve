@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Thu, 24 Apr 2003 00:00:00 +0000
+Message-ID: <5761519446@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs présente il est nécessaire de examiner toutes les problématiques envisageables
+
+Cordialement,
+Charlotte Moore
+

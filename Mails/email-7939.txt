@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 16 Nov 2007 00:00:00 +0000
+Message-ID: <4040623954@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose de cette fin de siècle on ne peut se passer de anticiper la globalité des voies envisageables
+
+Cordialement,
+Bob Smith
+

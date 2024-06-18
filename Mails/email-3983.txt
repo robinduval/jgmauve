@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 15 Oct 2004 00:00:00 +0000
+Message-ID: <6743992714@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité présente il convient de ne pas négliger toutes les problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

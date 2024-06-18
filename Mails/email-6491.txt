@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 05 Jul 2007 00:00:00 +0000
+Message-ID: <6880725715@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance conjoncturelle il est nécessaire de étudier toutes les issues envisageables
+
+Cordialement,
+Laura Wilson
+

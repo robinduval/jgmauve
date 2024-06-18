@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Thu, 10 Sep 2009 00:00:00 +0000
+Message-ID: <4628583565@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose de la société il faut se préoccuper de la globalité des solutions possibles
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 22 Sep 2003 00:00:00 +0000
+Message-ID: <7967875245@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs actuelle il faut de toute urgence examiner la globalité des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Mon, 11 Dec 2000 00:00:00 +0000
+Message-ID: <8894193834@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de la société il convient de ne pas négliger toutes les problématiques envisageables
+
+Cordialement,
+William Jackson
+

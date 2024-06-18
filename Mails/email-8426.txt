@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 02 Sep 2000 00:00:00 +0000
+Message-ID: <2352427625@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie contemporaine on se doit de ne pas négliger chacune des issues envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 23 Aug 2007 00:00:00 +0000
+Message-ID: <1188197437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de la société il faut anticiper l'ensemble des voies possibles
+
+Cordialement,
+Eva Thomas
+

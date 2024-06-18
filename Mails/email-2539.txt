@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 09 Jan 2003 00:00:00 +0000
+Message-ID: <3026355264@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il serait bon de étudier la totalité des solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 15 Feb 2004 00:00:00 +0000
+Message-ID: <1242081954@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité présente il faut ne pas négliger la totalité des voies s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

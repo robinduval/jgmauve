@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 08 Oct 2001 00:00:00 +0000
+Message-ID: <2433349836@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de cette fin de siècle il serait intéressant de étudier toutes les alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

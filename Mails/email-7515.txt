@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 19 Feb 2003 00:00:00 +0000
+Message-ID: <9613818354@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie qui nous occupe il est nécessaire de se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

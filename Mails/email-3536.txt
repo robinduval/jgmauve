@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 28 Jun 2008 00:00:00 +0000
+Message-ID: <7053582524@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société il est préférable de imaginer toutes les issues déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

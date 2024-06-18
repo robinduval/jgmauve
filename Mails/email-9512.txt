@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 28 Jul 2002 00:00:00 +0000
+Message-ID: <4045389423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui nous occupe il faut de toute urgence se remémorer certaines issues s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

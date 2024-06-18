@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 20 Oct 2005 00:00:00 +0000
+Message-ID: <1652560279@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité présente il est nécessaire de anticiper toutes les voies envisageables
+
+Cordialement,
+Daniel Clark
+

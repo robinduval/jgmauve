@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Sat, 16 Apr 2005 00:00:00 +0000
+Message-ID: <7033632502@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose qui est la nôtre il convient de prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Olivia Harris
+

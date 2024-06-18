@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Sat, 20 Dec 2003 00:00:00 +0000
+Message-ID: <3968436308@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose contemporaine il ne faut pas négliger de se remémorer toutes les alternatives possibles
+
+Cordialement,
+Emma Lee
+

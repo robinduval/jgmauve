@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 01 Nov 2006 00:00:00 +0000
+Message-ID: <2067256911@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de ces derniers temps il est préférable de se préoccuper de toutes les solutions envisageables
+
+Cordialement,
+John Doe
+

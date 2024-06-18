@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Sun, 03 Feb 2002 00:00:00 +0000
+Message-ID: <2392615835@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose conjoncturelle on ne peut se passer de ne pas négliger chacune des solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

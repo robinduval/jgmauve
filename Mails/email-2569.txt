@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Sun, 19 Nov 2006 00:00:00 +0000
+Message-ID: <7618484596@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs contemporaine il serait bon de ne pas négliger chacune des solutions déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

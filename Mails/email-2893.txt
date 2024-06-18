@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sat, 18 Mar 2000 00:00:00 +0000
+Message-ID: <1694076107@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui nous occupe on se doit de se remémorer la totalité des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

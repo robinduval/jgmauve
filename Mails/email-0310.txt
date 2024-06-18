@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Sun, 17 Nov 2002 00:00:00 +0000
+Message-ID: <2058718233@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance présente on se doit de anticiper l'ensemble des voies de bon sens
+
+Cordialement,
+Olivia Harris
+

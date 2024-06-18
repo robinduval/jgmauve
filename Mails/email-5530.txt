@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 02 May 2005 00:00:00 +0000
+Message-ID: <6945990975@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie induite il est préférable de se préoccuper de chacune des alternatives possibles
+
+Cordialement,
+Emma Lee
+

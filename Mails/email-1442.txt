@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 06 Aug 2005 00:00:00 +0000
+Message-ID: <3276679733@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs induite il convient de étudier toutes les solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

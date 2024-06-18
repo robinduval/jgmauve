@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 24 Mar 2009 00:00:00 +0000
+Message-ID: <1059677476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs actuelle il serait bon de avoir à l'esprit chacune des issues envisageables
+
+Cordialement,
+Sophie Martin
+

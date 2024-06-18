@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Thu, 22 Oct 2009 00:00:00 +0000
+Message-ID: <6059967998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de la société il serait intéressant de avoir à l'esprit toutes les alternatives possibles
+
+Cordialement,
+Eva Thomas
+

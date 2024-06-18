@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 08 Apr 2002 00:00:00 +0000
+Message-ID: <1628536760@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de la société il ne faut pas négliger de imaginer certaines problématiques possibles
+
+Cordialement,
+Jean Neige
+

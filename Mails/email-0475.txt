@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 16 Nov 2005 00:00:00 +0000
+Message-ID: <8401788274@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de cette fin de siècle il serait intéressant de imaginer toutes les issues envisageables
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 07 Jul 2002 00:00:00 +0000
+Message-ID: <4691777779@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture qui est la nôtre il convient de se préoccuper de chacune des issues envisageables
+
+Cordialement,
+William Jackson
+

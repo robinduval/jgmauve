@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 02 Dec 2004 00:00:00 +0000
+Message-ID: <4468263200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise de ces derniers temps il faut de toute urgence s'intéresser à l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+William Jackson
+

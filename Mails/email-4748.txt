@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 20 Aug 2007 00:00:00 +0000
+Message-ID: <8189176094@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de la société il ne faut pas négliger de examiner la somme des voies possibles
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Sun, 10 Aug 2008 00:00:00 +0000
+Message-ID: <5985669664@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui nous occupe il faut de toute urgence s'intéresser à toutes les problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

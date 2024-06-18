@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 11 Oct 2006 00:00:00 +0000
+Message-ID: <6282316064@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui nous occupe il est nécessaire de examiner toutes les problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

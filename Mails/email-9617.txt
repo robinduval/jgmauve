@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 19 Jul 2006 00:00:00 +0000
+Message-ID: <7378682636@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse qui est la nôtre il faut s'intéresser à la totalité des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

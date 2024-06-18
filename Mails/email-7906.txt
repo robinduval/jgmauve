@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 20 Jul 2001 00:00:00 +0000
+Message-ID: <2479084402@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise contemporaine il serait bon de anticiper certaines alternatives envisageables
+
+Cordialement,
+Emma Lee
+

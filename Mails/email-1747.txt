@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sat, 23 Feb 2008 00:00:00 +0000
+Message-ID: <4151944331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société il serait bon de se remémorer certaines voies de bon sens
+
+Cordialement,
+Olivia Harris
+

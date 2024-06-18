@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 21 Aug 2004 00:00:00 +0000
+Message-ID: <8288737739@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance présente il serait intéressant de examiner toutes les alternatives possibles
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 18 Apr 2001 00:00:00 +0000
+Message-ID: <1594964816@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité induite il est nécessaire de examiner l'ensemble des solutions possibles
+
+Cordialement,
+John Doe
+

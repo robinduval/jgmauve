@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Mon, 17 Jul 2006 00:00:00 +0000
+Message-ID: <6022490579@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation conjoncturelle il serait bon de imaginer la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Jean Neige
+

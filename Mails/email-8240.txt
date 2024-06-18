@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 30 Jul 2001 00:00:00 +0000
+Message-ID: <2998710870@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité qui nous occupe on ne peut se passer de anticiper toutes les problématiques s'offrant à nous
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 20 Jun 2001 00:00:00 +0000
+Message-ID: <9295697863@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture conjoncturelle il faut avoir à l'esprit toutes les problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

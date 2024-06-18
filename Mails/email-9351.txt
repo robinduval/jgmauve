@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Tue, 24 Jul 2007 00:00:00 +0000
+Message-ID: <2872068741@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle on se doit de anticiper toutes les solutions déjà en notre possession
+
+Cordialement,
+David Brown
+

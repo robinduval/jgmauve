@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Tue, 21 Sep 2004 00:00:00 +0000
+Message-ID: <3165089184@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs conjoncturelle il faut se préoccuper de la globalité des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

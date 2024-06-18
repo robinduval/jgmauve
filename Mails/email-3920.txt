@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 15 Apr 2005 00:00:00 +0000
+Message-ID: <6804938308@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise conjoncturelle il serait intéressant de étudier toutes les issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

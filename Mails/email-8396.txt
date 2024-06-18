@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Wed, 28 Aug 2002 00:00:00 +0000
+Message-ID: <6764474418@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité actuelle il faut étudier chacune des alternatives envisageables
+
+Cordialement,
+William Jackson
+

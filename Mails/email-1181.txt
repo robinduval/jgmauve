@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 11 Sep 2001 00:00:00 +0000
+Message-ID: <2139537351@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation présente il faut examiner toutes les problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

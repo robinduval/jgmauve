@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 28 Oct 2007 00:00:00 +0000
+Message-ID: <7300729980@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité conjoncturelle on ne peut se passer de s'intéresser à chacune des voies de bon sens
+
+Cordialement,
+John Doe
+

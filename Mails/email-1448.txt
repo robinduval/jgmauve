@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 15 Oct 2001 00:00:00 +0000
+Message-ID: <2820425977@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de ces derniers temps il serait bon de examiner la somme des issues possibles
+
+Cordialement,
+Alice Dupont
+

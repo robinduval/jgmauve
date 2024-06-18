@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 13 Jul 2007 00:00:00 +0000
+Message-ID: <4222842603@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle il serait bon de examiner toutes les voies déjà en notre possession
+
+Cordialement,
+Samuel White
+

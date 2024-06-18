@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 04 Sep 2002 00:00:00 +0000
+Message-ID: <8155319804@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de ces derniers temps on se doit de s'intéresser à certaines voies déjà en notre possession
+
+Cordialement,
+Jean Neige
+

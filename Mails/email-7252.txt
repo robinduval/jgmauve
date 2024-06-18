@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Tue, 01 Aug 2006 00:00:00 +0000
+Message-ID: <5605501844@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation conjoncturelle il faut de toute urgence anticiper chacune des solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

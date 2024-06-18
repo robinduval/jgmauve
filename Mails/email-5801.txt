@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 09 Feb 2005 00:00:00 +0000
+Message-ID: <9923269898@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation contemporaine il est préférable de se remémorer toutes les issues envisageables
+
+Cordialement,
+David Brown
+

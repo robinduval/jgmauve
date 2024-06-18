@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Annonce de vacances
+Date: Thu, 03 Aug 2000 00:00:00 +0000
+Message-ID: <8793531371@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de la société on ne peut se passer de se remémorer la totalité des alternatives possibles
+
+Cordialement,
+William Jackson
+

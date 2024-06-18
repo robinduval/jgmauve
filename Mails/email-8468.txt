@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 08 Nov 2005 00:00:00 +0000
+Message-ID: <5196747825@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse induite il convient de ne pas négliger la majorité des alternatives possibles
+
+Cordialement,
+Sophie Martin
+

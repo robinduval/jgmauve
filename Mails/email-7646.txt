@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 04 Apr 2001 00:00:00 +0000
+Message-ID: <9609555146@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui est la nôtre il est nécessaire de examiner la majorité des solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

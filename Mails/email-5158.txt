@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 28 Nov 2009 00:00:00 +0000
+Message-ID: <7563413358@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société il est préférable de s'intéresser à certaines solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

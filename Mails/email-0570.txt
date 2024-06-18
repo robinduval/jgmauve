@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 16 Sep 2001 00:00:00 +0000
+Message-ID: <2412198293@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité qui est la nôtre il faut étudier toutes les alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

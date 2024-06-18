@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 11 Sep 2000 00:00:00 +0000
+Message-ID: <3427808705@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation contemporaine il est nécessaire de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

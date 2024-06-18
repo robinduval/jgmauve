@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 25 Apr 2000 00:00:00 +0000
+Message-ID: <8719211077@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité présente il faut s'intéresser à toutes les voies envisageables
+
+Cordialement,
+John Doe
+

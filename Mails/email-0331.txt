@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Sat, 06 May 2000 00:00:00 +0000
+Message-ID: <9540282933@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de la société il serait bon de imaginer l'ensemble des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

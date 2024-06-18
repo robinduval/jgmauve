@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 29 Aug 2000 00:00:00 +0000
+Message-ID: <9085593773@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité présente on se doit de avoir à l'esprit la somme des voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

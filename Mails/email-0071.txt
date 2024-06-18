@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Thu, 06 Aug 2009 00:00:00 +0000
+Message-ID: <3853505516@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture actuelle il serait intéressant de s'intéresser à la totalité des voies de bon sens
+
+Cordialement,
+David Brown
+

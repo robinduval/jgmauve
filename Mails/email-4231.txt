@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 09 Oct 2005 00:00:00 +0000
+Message-ID: <6028501811@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse de cette fin de siècle il serait intéressant de se préoccuper de chacune des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

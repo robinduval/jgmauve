@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 12 Oct 2008 00:00:00 +0000
+Message-ID: <6507374033@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture qui est la nôtre il est préférable de se remémorer la majorité des problématiques de bon sens
+
+Cordialement,
+John Doe
+

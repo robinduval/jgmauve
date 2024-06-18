@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 13 Aug 2006 00:00:00 +0000
+Message-ID: <3646526252@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il faut de toute urgence ne pas négliger chacune des issues de bon sens
+
+Cordialement,
+Michael Taylor
+

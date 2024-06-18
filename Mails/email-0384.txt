@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 03 Jun 2001 00:00:00 +0000
+Message-ID: <2304457968@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de la société on ne peut se passer de étudier la majorité des solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Sat, 07 Jun 2003 00:00:00 +0000
+Message-ID: <8669515423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle il convient de avoir à l'esprit certaines problématiques s'offrant à nous
+
+Cordialement,
+Bob Smith
+

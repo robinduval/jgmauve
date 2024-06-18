@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 30 Mar 2006 00:00:00 +0000
+Message-ID: <7294592519@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité actuelle il serait intéressant de ne pas négliger toutes les issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

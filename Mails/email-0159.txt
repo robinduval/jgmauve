@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 15 Nov 2007 00:00:00 +0000
+Message-ID: <4096107882@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui est la nôtre on se doit de prendre en considération la globalité des solutions s'offrant à nous
+
+Cordialement,
+Samuel White
+

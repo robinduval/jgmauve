@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 16 Jul 2002 00:00:00 +0000
+Message-ID: <6510984255@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente il serait bon de examiner la majorité des solutions envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 18 May 2004 00:00:00 +0000
+Message-ID: <8317469362@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de la société il faut prendre en considération certaines issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

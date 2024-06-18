@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 07 Jun 2009 00:00:00 +0000
+Message-ID: <9699666886@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture conjoncturelle il est nécessaire de s'intéresser à toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

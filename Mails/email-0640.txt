@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 31 Jan 2000 00:00:00 +0000
+Message-ID: <6762156504@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de cette fin de siècle il serait intéressant de se préoccuper de la totalité des solutions possibles
+
+Cordialement,
+Jean Neige
+

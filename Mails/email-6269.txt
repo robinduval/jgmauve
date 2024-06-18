@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Tue, 09 Jan 2007 00:00:00 +0000
+Message-ID: <5392954402@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de ces derniers temps il convient de avoir à l'esprit toutes les solutions déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Mon, 08 May 2000 00:00:00 +0000
+Message-ID: <8224972398@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie présente il est préférable de s'intéresser à toutes les issues de bon sens
+
+Cordialement,
+Sophie Martin
+

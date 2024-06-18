@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 17 Nov 2004 00:00:00 +0000
+Message-ID: <3937651720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de cette fin de siècle il faut de toute urgence se remémorer l'ensemble des issues possibles
+
+Cordialement,
+Olivia Harris
+

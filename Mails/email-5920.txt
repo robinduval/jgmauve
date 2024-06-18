@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Sat, 13 Oct 2007 00:00:00 +0000
+Message-ID: <6645258752@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de cette fin de siècle il convient de se préoccuper de la totalité des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

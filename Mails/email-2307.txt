@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 08 Jun 2000 00:00:00 +0000
+Message-ID: <4234892746@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie actuelle on ne peut se passer de étudier la globalité des issues envisageables
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 17 Jun 2000 00:00:00 +0000
+Message-ID: <8574429102@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation contemporaine on se doit de se remémorer toutes les solutions déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 05 Dec 2006 00:00:00 +0000
+Message-ID: <5391936955@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse contemporaine il convient de avoir à l'esprit la majorité des solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

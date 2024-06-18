@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 07 Nov 2007 00:00:00 +0000
+Message-ID: <3641222322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse induite il est nécessaire de se remémorer la majorité des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

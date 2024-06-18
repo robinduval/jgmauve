@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Sat, 07 Jan 2006 00:00:00 +0000
+Message-ID: <3158741433@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité qui nous occupe il est préférable de anticiper toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

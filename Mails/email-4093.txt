@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 15 Sep 2003 00:00:00 +0000
+Message-ID: <2649754541@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance induite on se doit de anticiper toutes les issues s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 19 Aug 2006 00:00:00 +0000
+Message-ID: <3202536326@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise contemporaine il convient de imaginer toutes les voies de bon sens
+
+Cordialement,
+John Doe
+

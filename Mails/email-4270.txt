@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 31 May 2003 00:00:00 +0000
+Message-ID: <3572452669@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de ces derniers temps il faut de toute urgence prendre en considération la totalité des solutions de bon sens
+
+Cordialement,
+Emma Lee
+

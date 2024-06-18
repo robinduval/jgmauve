@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 01 Oct 2003 00:00:00 +0000
+Message-ID: <4330420066@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance contemporaine il serait bon de examiner toutes les issues s'offrant à nous
+
+Cordialement,
+John Doe
+

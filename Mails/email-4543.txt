@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 11 Nov 2001 00:00:00 +0000
+Message-ID: <6127360123@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation de cette fin de siècle il faut ne pas négliger toutes les voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

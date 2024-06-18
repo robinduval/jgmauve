@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 24 Mar 2006 00:00:00 +0000
+Message-ID: <7927299440@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui nous occupe il est préférable de ne pas négliger la globalité des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

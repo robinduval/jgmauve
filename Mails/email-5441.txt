@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 25 Oct 2002 00:00:00 +0000
+Message-ID: <6686459039@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation de cette fin de siècle il serait bon de étudier la majorité des voies envisageables
+
+Cordialement,
+Sophie Martin
+

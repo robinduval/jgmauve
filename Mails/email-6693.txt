@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 14 Jun 2008 00:00:00 +0000
+Message-ID: <7030663780@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de ces derniers temps il serait intéressant de avoir à l'esprit la globalité des solutions possibles
+
+Cordialement,
+Eva Thomas
+

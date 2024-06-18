@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 02 Jun 2006 00:00:00 +0000
+Message-ID: <1287858121@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de la société on ne peut se passer de ne pas négliger la globalité des issues possibles
+
+Cordialement,
+Olivia Harris
+

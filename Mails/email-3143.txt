@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 27 Apr 2003 00:00:00 +0000
+Message-ID: <6456701345@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de la société on se doit de ne pas négliger la somme des voies envisageables
+
+Cordialement,
+Alice Dupont
+

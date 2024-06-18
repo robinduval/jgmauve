@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 06 Oct 2000 00:00:00 +0000
+Message-ID: <3587022471@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle il faut de toute urgence se remémorer l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

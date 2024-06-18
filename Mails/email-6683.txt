@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 30 Nov 2005 00:00:00 +0000
+Message-ID: <3179367670@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie qui est la nôtre il serait bon de étudier certaines alternatives de bon sens
+
+Cordialement,
+Eva Thomas
+

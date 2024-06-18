@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Thu, 19 Feb 2009 00:00:00 +0000
+Message-ID: <7237845046@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de la société il convient de avoir à l'esprit l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

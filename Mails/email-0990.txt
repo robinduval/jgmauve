@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 28 Jun 2004 00:00:00 +0000
+Message-ID: <5748715335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société il faut imaginer la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

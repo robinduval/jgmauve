@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sat, 01 Jul 2000 00:00:00 +0000
+Message-ID: <4489745343@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose conjoncturelle il faut de toute urgence imaginer toutes les alternatives envisageables
+
+Cordialement,
+Michael Taylor
+

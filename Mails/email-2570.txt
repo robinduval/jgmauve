@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 17 Mar 2004 00:00:00 +0000
+Message-ID: <5208592521@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre on ne peut se passer de se remémorer toutes les solutions envisageables
+
+Cordialement,
+Sophie Martin
+

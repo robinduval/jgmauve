@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 06 Oct 2004 00:00:00 +0000
+Message-ID: <4644039585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance actuelle on se doit de s'intéresser à l'ensemble des problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

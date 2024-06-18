@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 12 Sep 2003 00:00:00 +0000
+Message-ID: <4276140224@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il convient de s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+John Doe
+

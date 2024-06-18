@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Thu, 03 Feb 2005 00:00:00 +0000
+Message-ID: <9576180540@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose conjoncturelle il est nécessaire de anticiper la globalité des solutions envisageables
+
+Cordialement,
+Alice Dupont
+

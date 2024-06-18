@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 02 Nov 2009 00:00:00 +0000
+Message-ID: <6757979903@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture de la société il serait bon de ne pas négliger la totalité des alternatives de bon sens
+
+Cordialement,
+John Doe
+

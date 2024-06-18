@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Tue, 24 Jun 2008 00:00:00 +0000
+Message-ID: <1719350532@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation qui est la nôtre on ne peut se passer de étudier la globalité des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

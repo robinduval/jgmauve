@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 15 Feb 2006 00:00:00 +0000
+Message-ID: <1518301524@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose actuelle on se doit de se remémorer toutes les issues possibles
+
+Cordialement,
+Emma Lee
+

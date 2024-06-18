@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 23 Apr 2002 00:00:00 +0000
+Message-ID: <9913908182@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui nous occupe on se doit de prendre en considération l'ensemble des alternatives possibles
+
+Cordialement,
+Olivia Harris
+

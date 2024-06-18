@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 04 May 2002 00:00:00 +0000
+Message-ID: <2374672160@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle il ne faut pas négliger de s'intéresser à chacune des issues envisageables
+
+Cordialement,
+Bob Smith
+

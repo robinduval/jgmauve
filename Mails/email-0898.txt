@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 03 Mar 2006 00:00:00 +0000
+Message-ID: <8018493432@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance actuelle il est préférable de se remémorer toutes les solutions possibles
+
+Cordialement,
+David Brown
+

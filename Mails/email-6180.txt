@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Fri, 21 Oct 2005 00:00:00 +0000
+Message-ID: <1791937293@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de ces derniers temps on se doit de anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Sat, 05 Jul 2008 00:00:00 +0000
+Message-ID: <9062029739@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse qui nous occupe il serait bon de étudier l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+John Doe
+

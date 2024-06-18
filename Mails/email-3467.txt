@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 02 Nov 2009 00:00:00 +0000
+Message-ID: <2396358265@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle il est préférable de imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

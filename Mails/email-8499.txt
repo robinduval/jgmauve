@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Sat, 14 May 2005 00:00:00 +0000
+Message-ID: <5196565425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation de la société il est nécessaire de se remémorer chacune des voies possibles
+
+Cordialement,
+John Doe
+

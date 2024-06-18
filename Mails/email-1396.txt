@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 19 May 2002 00:00:00 +0000
+Message-ID: <5646928673@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui est la nôtre on se doit de s'intéresser à la somme des problématiques possibles
+
+Cordialement,
+Bob Smith
+

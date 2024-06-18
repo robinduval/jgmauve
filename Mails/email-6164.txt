@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Fri, 23 Jul 2004 00:00:00 +0000
+Message-ID: <3680511047@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse de cette fin de siècle il faut s'intéresser à la globalité des issues possibles
+
+Cordialement,
+Eva Thomas
+

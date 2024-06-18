@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 08 Jul 2006 00:00:00 +0000
+Message-ID: <3633360612@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs qui nous occupe il serait bon de anticiper la majorité des voies envisageables
+
+Cordialement,
+Michael Taylor
+

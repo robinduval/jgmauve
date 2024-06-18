@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 02 Sep 2008 00:00:00 +0000
+Message-ID: <4914121143@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de ces derniers temps il ne faut pas négliger de s'intéresser à toutes les solutions possibles
+
+Cordialement,
+Daniel Clark
+

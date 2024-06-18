@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 08 Feb 2005 00:00:00 +0000
+Message-ID: <7250839505@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il est nécessaire de imaginer la majorité des voies possibles
+
+Cordialement,
+Alice Dupont
+

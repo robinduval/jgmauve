@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Fri, 13 Dec 2002 00:00:00 +0000
+Message-ID: <5025218932@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation présente il est préférable de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Wed, 07 Jun 2000 00:00:00 +0000
+Message-ID: <3284433032@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie contemporaine il est préférable de avoir à l'esprit certaines problématiques envisageables
+
+Cordialement,
+John Doe
+

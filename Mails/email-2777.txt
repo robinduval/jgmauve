@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 28 Apr 2002 00:00:00 +0000
+Message-ID: <4503005404@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre on se doit de imaginer toutes les problématiques possibles
+
+Cordialement,
+Daniel Clark
+

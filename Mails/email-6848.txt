@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 01 Feb 2000 00:00:00 +0000
+Message-ID: <4401484740@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de ces derniers temps il ne faut pas négliger de étudier l'ensemble des alternatives possibles
+
+Cordialement,
+William Jackson
+

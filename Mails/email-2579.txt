@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 22 Nov 2006 00:00:00 +0000
+Message-ID: <7819817312@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation contemporaine il est nécessaire de s'intéresser à la totalité des alternatives envisageables
+
+Cordialement,
+Laura Wilson
+

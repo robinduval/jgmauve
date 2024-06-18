@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 30 Jul 2009 00:00:00 +0000
+Message-ID: <7716711613@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps il convient de étudier la totalité des problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

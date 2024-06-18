@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 03 Aug 2007 00:00:00 +0000
+Message-ID: <8310664442@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de ces derniers temps on se doit de prendre en considération certaines problématiques possibles
+
+Cordialement,
+Olivia Harris
+

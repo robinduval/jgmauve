@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 18 Jul 2006 00:00:00 +0000
+Message-ID: <8222036579@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise de cette fin de siècle il faut prendre en considération la globalité des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

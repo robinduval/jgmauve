@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 12 Jan 2009 00:00:00 +0000
+Message-ID: <5712027331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui nous occupe il serait intéressant de imaginer toutes les problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

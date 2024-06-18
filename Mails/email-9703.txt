@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 23 Jan 2001 00:00:00 +0000
+Message-ID: <6186058231@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation de la société il convient de examiner certaines solutions déjà en notre possession
+
+Cordialement,
+Samuel White
+

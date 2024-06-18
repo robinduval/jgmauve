@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 13 Oct 2000 00:00:00 +0000
+Message-ID: <7826333195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance présente il convient de se remémorer l'ensemble des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

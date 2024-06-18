@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 24 Feb 2008 00:00:00 +0000
+Message-ID: <2786216232@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui nous occupe il serait intéressant de prendre en considération la totalité des problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

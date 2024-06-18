@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Sun, 13 Jan 2008 00:00:00 +0000
+Message-ID: <7719654364@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente on se doit de avoir à l'esprit chacune des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 17 Nov 2003 00:00:00 +0000
+Message-ID: <7676521218@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse actuelle il serait intéressant de avoir à l'esprit chacune des problématiques de bon sens
+
+Cordialement,
+William Jackson
+

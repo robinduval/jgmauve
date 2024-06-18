@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 21 Jun 2003 00:00:00 +0000
+Message-ID: <8293905870@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie induite il faut anticiper la globalité des problématiques possibles
+
+Cordialement,
+Olivia Harris
+

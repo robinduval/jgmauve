@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 25 Jul 2001 00:00:00 +0000
+Message-ID: <2142505859@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse induite il serait intéressant de anticiper chacune des voies possibles
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 26 Feb 2005 00:00:00 +0000
+Message-ID: <9464996737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de ces derniers temps on ne peut se passer de examiner la globalité des issues possibles
+
+Cordialement,
+Alice Dupont
+

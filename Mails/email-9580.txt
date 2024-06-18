@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Tue, 09 May 2000 00:00:00 +0000
+Message-ID: <6300112793@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité conjoncturelle on ne peut se passer de prendre en considération certaines problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

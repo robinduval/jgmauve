@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Sun, 21 Oct 2001 00:00:00 +0000
+Message-ID: <9080178387@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance actuelle il est nécessaire de ne pas négliger la globalité des issues s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

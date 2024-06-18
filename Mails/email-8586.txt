@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Thu, 15 May 2003 00:00:00 +0000
+Message-ID: <4363987172@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance induite il faut de toute urgence s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

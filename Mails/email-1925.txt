@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 30 Mar 2001 00:00:00 +0000
+Message-ID: <8678689803@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation qui est la nôtre on se doit de anticiper la somme des alternatives déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

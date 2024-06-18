@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Wed, 04 Jun 2003 00:00:00 +0000
+Message-ID: <9976354147@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de ces derniers temps il faut avoir à l'esprit toutes les alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

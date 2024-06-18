@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 16 Nov 2006 00:00:00 +0000
+Message-ID: <7231331925@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de cette fin de siècle il faut de toute urgence étudier l'ensemble des voies possibles
+
+Cordialement,
+Samuel White
+

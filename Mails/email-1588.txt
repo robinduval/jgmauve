@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Fri, 21 Mar 2003 00:00:00 +0000
+Message-ID: <6255072348@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse induite il faut s'intéresser à la totalité des issues de bon sens
+
+Cordialement,
+David Brown
+

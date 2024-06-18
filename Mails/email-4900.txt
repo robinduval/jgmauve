@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 01 Sep 2002 00:00:00 +0000
+Message-ID: <2932690716@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui nous occupe il faut de toute urgence imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

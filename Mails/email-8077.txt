@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 14 Jun 2002 00:00:00 +0000
+Message-ID: <5314260424@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe il est nécessaire de imaginer certaines problématiques envisageables
+
+Cordialement,
+John Doe
+

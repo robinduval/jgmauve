@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 01 Feb 2000 00:00:00 +0000
+Message-ID: <1767089229@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture actuelle il faut examiner l'ensemble des problématiques envisageables
+
+Cordialement,
+William Jackson
+

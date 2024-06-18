@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 28 Nov 2005 00:00:00 +0000
+Message-ID: <1674152971@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation présente il serait bon de s'intéresser à toutes les alternatives déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

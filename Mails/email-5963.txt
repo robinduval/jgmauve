@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 05 Jun 2007 00:00:00 +0000
+Message-ID: <3157867425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de la société il serait bon de avoir à l'esprit certaines voies de bon sens
+
+Cordialement,
+Olivia Harris
+

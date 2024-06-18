@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 07 Oct 2002 00:00:00 +0000
+Message-ID: <1493249117@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose contemporaine il est nécessaire de anticiper la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

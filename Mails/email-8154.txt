@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 14 Jun 2001 00:00:00 +0000
+Message-ID: <8714270958@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation conjoncturelle il ne faut pas négliger de anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

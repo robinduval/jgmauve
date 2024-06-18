@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 20 Sep 2001 00:00:00 +0000
+Message-ID: <1190775692@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation contemporaine il est préférable de ne pas négliger la totalité des problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

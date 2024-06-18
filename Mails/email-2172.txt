@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sun, 04 May 2008 00:00:00 +0000
+Message-ID: <3169205311@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui est la nôtre il faut se préoccuper de la somme des issues envisageables
+
+Cordialement,
+Samuel White
+

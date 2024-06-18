@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Thu, 24 Nov 2005 00:00:00 +0000
+Message-ID: <9768755653@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose actuelle il serait intéressant de avoir à l'esprit certaines alternatives s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 16 Mar 2000 00:00:00 +0000
+Message-ID: <9820929190@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il ne faut pas négliger de imaginer la globalité des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

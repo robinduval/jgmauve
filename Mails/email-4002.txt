@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 27 Dec 2000 00:00:00 +0000
+Message-ID: <5307938407@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation induite il est nécessaire de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

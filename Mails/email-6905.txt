@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 04 Oct 2003 00:00:00 +0000
+Message-ID: <7701597761@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs conjoncturelle il faut de toute urgence ne pas négliger chacune des issues possibles
+
+Cordialement,
+Emma Lee
+

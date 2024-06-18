@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 09 Mar 2009 00:00:00 +0000
+Message-ID: <9273699460@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe il serait intéressant de avoir à l'esprit certaines voies s'offrant à nous
+
+Cordialement,
+Samuel White
+

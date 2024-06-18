@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 29 May 2006 00:00:00 +0000
+Message-ID: <8328127703@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de cette fin de siècle il est nécessaire de étudier la globalité des voies déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

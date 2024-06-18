@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 24 Jul 2002 00:00:00 +0000
+Message-ID: <3941676010@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il est préférable de ne pas négliger la totalité des alternatives envisageables
+
+Cordialement,
+Bob Smith
+

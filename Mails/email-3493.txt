@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 12 Aug 2000 00:00:00 +0000
+Message-ID: <8313513662@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité présente il serait bon de ne pas négliger la majorité des solutions possibles
+
+Cordialement,
+Sophie Martin
+

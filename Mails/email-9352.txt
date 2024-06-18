@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Demande de collaboration
+Date: Thu, 30 Jun 2005 00:00:00 +0000
+Message-ID: <3384005899@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle on ne peut se passer de prendre en considération l'ensemble des alternatives envisageables
+
+Cordialement,
+John Doe
+

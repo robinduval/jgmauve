@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Tue, 20 Sep 2005 00:00:00 +0000
+Message-ID: <2227526839@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs actuelle il ne faut pas négliger de anticiper toutes les solutions possibles
+
+Cordialement,
+Jean Neige
+

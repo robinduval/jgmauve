@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 27 Jan 2007 00:00:00 +0000
+Message-ID: <6507948087@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité conjoncturelle il faut prendre en considération certaines problématiques s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Thu, 28 Feb 2008 00:00:00 +0000
+Message-ID: <1667469898@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance actuelle il est préférable de anticiper toutes les alternatives envisageables
+
+Cordialement,
+Olivia Harris
+

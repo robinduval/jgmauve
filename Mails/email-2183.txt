@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Sun, 30 Oct 2005 00:00:00 +0000
+Message-ID: <1488227020@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie actuelle il serait intéressant de prendre en considération toutes les voies de bon sens
+
+Cordialement,
+Sophie Martin
+

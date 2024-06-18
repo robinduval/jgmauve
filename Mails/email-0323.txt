@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 16 Jun 2009 00:00:00 +0000
+Message-ID: <9584435649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle on ne peut se passer de prendre en considération certaines voies de bon sens
+
+Cordialement,
+Samuel White
+

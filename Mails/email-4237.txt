@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Tue, 02 Jan 2007 00:00:00 +0000
+Message-ID: <3156511588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui est la nôtre il convient de imaginer chacune des solutions envisageables
+
+Cordialement,
+Eva Thomas
+

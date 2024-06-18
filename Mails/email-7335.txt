@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 12 Sep 2003 00:00:00 +0000
+Message-ID: <5815064357@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de la société il serait intéressant de se remémorer toutes les alternatives possibles
+
+Cordialement,
+Sophie Martin
+

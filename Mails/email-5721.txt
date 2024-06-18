@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 19 May 2008 00:00:00 +0000
+Message-ID: <3690362290@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs conjoncturelle il faut prendre en considération l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

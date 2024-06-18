@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 24 May 2007 00:00:00 +0000
+Message-ID: <2225085230@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise conjoncturelle il serait intéressant de prendre en considération la majorité des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

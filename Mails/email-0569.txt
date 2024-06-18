@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 30 Dec 2006 00:00:00 +0000
+Message-ID: <6425121128@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise présente il serait bon de imaginer certaines voies de bon sens
+
+Cordialement,
+Eva Thomas
+

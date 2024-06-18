@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 11 Jun 2001 00:00:00 +0000
+Message-ID: <4311383452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de la société on se doit de prendre en considération toutes les voies envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 22 Nov 2006 00:00:00 +0000
+Message-ID: <7345149231@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse induite on ne peut se passer de avoir à l'esprit la totalité des issues envisageables
+
+Cordialement,
+Alice Dupont
+

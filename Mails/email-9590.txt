@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 27 Apr 2004 00:00:00 +0000
+Message-ID: <6501337652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie présente il est préférable de se préoccuper de toutes les solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

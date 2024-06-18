@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 09 Dec 2003 00:00:00 +0000
+Message-ID: <4317001327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il est nécessaire de anticiper certaines issues possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 02 Feb 2000 00:00:00 +0000
+Message-ID: <8397603919@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation qui est la nôtre il serait intéressant de avoir à l'esprit la majorité des solutions envisageables
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 30 Apr 2003 00:00:00 +0000
+Message-ID: <5200271337@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité contemporaine on se doit de avoir à l'esprit l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

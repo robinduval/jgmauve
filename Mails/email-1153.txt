@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Sat, 18 May 2002 00:00:00 +0000
+Message-ID: <4528423417@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de ces derniers temps on ne peut se passer de ne pas négliger la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 03 Jul 2002 00:00:00 +0000
+Message-ID: <9748885414@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture conjoncturelle il est nécessaire de s'intéresser à la totalité des problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

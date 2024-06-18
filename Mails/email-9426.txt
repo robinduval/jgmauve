@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Tue, 22 Oct 2002 00:00:00 +0000
+Message-ID: <8825133865@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture induite il serait bon de se remémorer la globalité des solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

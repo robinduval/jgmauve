@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Thu, 03 Jul 2008 00:00:00 +0000
+Message-ID: <4687449730@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose contemporaine on se doit de prendre en considération chacune des solutions possibles
+
+Cordialement,
+Samuel White
+

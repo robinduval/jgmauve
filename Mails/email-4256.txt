@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 17 Jul 2005 00:00:00 +0000
+Message-ID: <1908351522@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité actuelle il faut de toute urgence étudier la somme des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

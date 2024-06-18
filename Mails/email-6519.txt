@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 28 Mar 2006 00:00:00 +0000
+Message-ID: <7554515880@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose qui nous occupe il est nécessaire de anticiper certaines alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

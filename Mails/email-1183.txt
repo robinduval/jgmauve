@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 04 May 2006 00:00:00 +0000
+Message-ID: <6515888251@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse qui est la nôtre il serait intéressant de s'intéresser à la majorité des issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 17 Oct 2006 00:00:00 +0000
+Message-ID: <4071124157@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui nous occupe on ne peut se passer de prendre en considération la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Samuel White
+

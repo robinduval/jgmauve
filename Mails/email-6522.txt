@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 05 Jul 2005 00:00:00 +0000
+Message-ID: <3084579468@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise contemporaine il ne faut pas négliger de se remémorer l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

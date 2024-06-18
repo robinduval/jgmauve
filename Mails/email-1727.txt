@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 13 Dec 2003 00:00:00 +0000
+Message-ID: <9200498437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs actuelle il faut se remémorer certaines alternatives possibles
+
+Cordialement,
+Emma Lee
+

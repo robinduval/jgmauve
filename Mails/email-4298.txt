@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 22 May 2007 00:00:00 +0000
+Message-ID: <1220553265@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie induite il serait bon de anticiper la totalité des alternatives envisageables
+
+Cordialement,
+David Brown
+

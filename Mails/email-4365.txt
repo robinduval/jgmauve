@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Wed, 20 Sep 2000 00:00:00 +0000
+Message-ID: <9902813461@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps on se doit de se préoccuper de la globalité des solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

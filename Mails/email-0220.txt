@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Thu, 16 Mar 2006 00:00:00 +0000
+Message-ID: <2302470339@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie présente il faut examiner la somme des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

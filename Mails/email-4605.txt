@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 16 Jun 2007 00:00:00 +0000
+Message-ID: <7158749120@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie de ces derniers temps il faut examiner chacune des problématiques envisageables
+
+Cordialement,
+Jean Neige
+

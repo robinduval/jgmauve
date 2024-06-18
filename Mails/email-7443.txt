@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 31 Mar 2001 00:00:00 +0000
+Message-ID: <1532490529@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie présente il faut se préoccuper de certaines voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

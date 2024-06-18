@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 07 Nov 2005 00:00:00 +0000
+Message-ID: <1818768811@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie de ces derniers temps il est préférable de anticiper toutes les problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

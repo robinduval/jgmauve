@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 16 Dec 2004 00:00:00 +0000
+Message-ID: <7452187432@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre il faut prendre en considération certaines voies de bon sens
+
+Cordialement,
+Alice Dupont
+

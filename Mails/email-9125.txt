@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 27 Nov 2006 00:00:00 +0000
+Message-ID: <4801205709@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture contemporaine il est préférable de se remémorer chacune des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

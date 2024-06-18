@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 10 Mar 2003 00:00:00 +0000
+Message-ID: <8456753308@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse de cette fin de siècle il serait intéressant de se remémorer l'ensemble des solutions envisageables
+
+Cordialement,
+Bob Smith
+

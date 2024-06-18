@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Thu, 27 Jan 2000 00:00:00 +0000
+Message-ID: <4453797541@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse contemporaine il ne faut pas négliger de ne pas négliger la globalité des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 20 Jul 2005 00:00:00 +0000
+Message-ID: <4595672312@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs induite on se doit de se préoccuper de la totalité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

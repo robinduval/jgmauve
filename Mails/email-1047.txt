@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 10 Sep 2006 00:00:00 +0000
+Message-ID: <6793666129@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente il est préférable de imaginer chacune des problématiques s'offrant à nous
+
+Cordialement,
+John Doe
+

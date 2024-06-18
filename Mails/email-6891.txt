@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Annonce de vacances
+Date: Tue, 06 Oct 2009 00:00:00 +0000
+Message-ID: <1781720222@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de cette fin de siècle il est préférable de se préoccuper de la majorité des voies possibles
+
+Cordialement,
+Samuel White
+

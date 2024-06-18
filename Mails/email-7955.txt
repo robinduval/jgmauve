@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Mon, 05 Jan 2004 00:00:00 +0000
+Message-ID: <5365794063@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de la société il ne faut pas négliger de se préoccuper de l'ensemble des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

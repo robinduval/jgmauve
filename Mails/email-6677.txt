@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 24 Mar 2003 00:00:00 +0000
+Message-ID: <8212646339@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie actuelle on se doit de imaginer certaines solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

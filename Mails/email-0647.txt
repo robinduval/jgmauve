@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 09 Aug 2008 00:00:00 +0000
+Message-ID: <9225327690@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps il est nécessaire de s'intéresser à la somme des issues envisageables
+
+Cordialement,
+Jean Neige
+

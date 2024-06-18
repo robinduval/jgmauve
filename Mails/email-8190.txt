@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 23 Sep 2001 00:00:00 +0000
+Message-ID: <9548134035@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance qui est la nôtre il faut de toute urgence se remémorer toutes les solutions déjà en notre possession
+
+Cordialement,
+Samuel White
+

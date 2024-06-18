@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 16 Jan 2005 00:00:00 +0000
+Message-ID: <7929268169@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il est préférable de imaginer toutes les issues s'offrant à nous
+
+Cordialement,
+William Jackson
+

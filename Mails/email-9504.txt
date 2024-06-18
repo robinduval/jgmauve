@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 13 Jan 2007 00:00:00 +0000
+Message-ID: <3253766464@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance qui nous occupe il serait bon de anticiper la globalité des voies déjà en notre possession
+
+Cordialement,
+John Doe
+

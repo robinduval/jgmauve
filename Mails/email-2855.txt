@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Thu, 17 Nov 2005 00:00:00 +0000
+Message-ID: <4944202768@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de cette fin de siècle il serait bon de prendre en considération chacune des voies de bon sens
+
+Cordialement,
+Samuel White
+

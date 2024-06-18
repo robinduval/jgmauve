@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 30 Jun 2006 00:00:00 +0000
+Message-ID: <2622361473@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité conjoncturelle il serait bon de se remémorer toutes les issues déjà en notre possession
+
+Cordialement,
+Samuel White
+

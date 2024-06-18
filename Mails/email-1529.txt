@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 25 Jun 2000 00:00:00 +0000
+Message-ID: <9616539815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose présente il convient de s'intéresser à l'ensemble des issues envisageables
+
+Cordialement,
+William Jackson
+

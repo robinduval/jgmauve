@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 03 Feb 2002 00:00:00 +0000
+Message-ID: <5885945652@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse conjoncturelle il est préférable de ne pas négliger l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

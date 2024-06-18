@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Sun, 13 Feb 2005 00:00:00 +0000
+Message-ID: <4085048207@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de cette fin de siècle il serait intéressant de anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

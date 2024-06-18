@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 31 Mar 2004 00:00:00 +0000
+Message-ID: <1153886760@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse de la société il est préférable de prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

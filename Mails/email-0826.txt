@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 05 Feb 2009 00:00:00 +0000
+Message-ID: <9811552925@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps on ne peut se passer de prendre en considération certaines voies envisageables
+
+Cordialement,
+Olivia Harris
+

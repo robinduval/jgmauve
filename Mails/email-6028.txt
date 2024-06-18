@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 28 Sep 2003 00:00:00 +0000
+Message-ID: <7108160616@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de cette fin de siècle il ne faut pas négliger de se préoccuper de toutes les alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

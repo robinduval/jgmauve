@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 16 Feb 2003 00:00:00 +0000
+Message-ID: <2324359836@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de la société il faut de toute urgence avoir à l'esprit la majorité des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

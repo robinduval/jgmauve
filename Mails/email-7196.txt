@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 04 Jun 2004 00:00:00 +0000
+Message-ID: <6710564522@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs contemporaine on ne peut se passer de se préoccuper de la somme des solutions possibles
+
+Cordialement,
+Olivia Harris
+

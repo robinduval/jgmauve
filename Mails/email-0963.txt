@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 12 Nov 2003 00:00:00 +0000
+Message-ID: <4827216754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité actuelle il est préférable de se remémorer toutes les issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

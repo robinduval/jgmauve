@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 06 Apr 2002 00:00:00 +0000
+Message-ID: <4491325270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture de ces derniers temps il faut de toute urgence examiner toutes les problématiques s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

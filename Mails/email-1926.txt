@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 03 Apr 2005 00:00:00 +0000
+Message-ID: <6257540741@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs présente il ne faut pas négliger de examiner la globalité des issues déjà en notre possession
+
+Cordialement,
+David Brown
+

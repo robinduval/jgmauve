@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Wed, 16 Jun 2004 00:00:00 +0000
+Message-ID: <5603036983@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui nous occupe il serait bon de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+David Brown
+

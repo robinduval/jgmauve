@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 15 Jun 2008 00:00:00 +0000
+Message-ID: <3678393646@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie actuelle on se doit de se remémorer l'ensemble des alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

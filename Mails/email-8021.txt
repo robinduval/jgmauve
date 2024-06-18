@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 02 Dec 2005 00:00:00 +0000
+Message-ID: <2878680285@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il convient de examiner toutes les issues envisageables
+
+Cordialement,
+Sophie Martin
+

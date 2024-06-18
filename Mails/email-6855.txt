@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 22 May 2002 00:00:00 +0000
+Message-ID: <4945409770@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de ces derniers temps on se doit de se remémorer chacune des issues envisageables
+
+Cordialement,
+Olivia Harris
+

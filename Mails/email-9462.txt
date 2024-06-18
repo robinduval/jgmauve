@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Sun, 03 Nov 2002 00:00:00 +0000
+Message-ID: <5621284921@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il ne faut pas négliger de ne pas négliger la totalité des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

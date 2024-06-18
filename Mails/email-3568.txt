@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 29 Jan 2001 00:00:00 +0000
+Message-ID: <8641880989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de la société il faut de toute urgence étudier certaines solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

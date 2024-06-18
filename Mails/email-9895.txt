@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 14 Mar 2001 00:00:00 +0000
+Message-ID: <9194092777@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité induite on se doit de avoir à l'esprit l'ensemble des voies de bon sens
+
+Cordialement,
+Samuel White
+

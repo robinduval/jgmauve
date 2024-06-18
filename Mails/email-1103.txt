@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 28 Mar 2000 00:00:00 +0000
+Message-ID: <2500390989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de cette fin de siècle on ne peut se passer de imaginer chacune des solutions de bon sens
+
+Cordialement,
+David Brown
+

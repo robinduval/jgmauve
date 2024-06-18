@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 13 Jul 2003 00:00:00 +0000
+Message-ID: <5934575057@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose actuelle on ne peut se passer de s'intéresser à chacune des alternatives s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

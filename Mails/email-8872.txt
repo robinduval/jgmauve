@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Tue, 27 Nov 2001 00:00:00 +0000
+Message-ID: <5101270276@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie de ces derniers temps il est préférable de étudier la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

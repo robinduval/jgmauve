@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Tue, 18 Nov 2003 00:00:00 +0000
+Message-ID: <8171005151@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de cette fin de siècle il faut de toute urgence avoir à l'esprit la somme des issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

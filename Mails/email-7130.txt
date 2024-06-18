@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Sun, 21 Oct 2007 00:00:00 +0000
+Message-ID: <8260762241@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise présente il ne faut pas négliger de s'intéresser à certaines alternatives déjà en notre possession
+
+Cordialement,
+William Jackson
+

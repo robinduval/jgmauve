@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 17 May 2002 00:00:00 +0000
+Message-ID: <3586970713@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation contemporaine il serait intéressant de s'intéresser à la majorité des issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

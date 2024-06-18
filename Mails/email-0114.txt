@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 01 Oct 2005 00:00:00 +0000
+Message-ID: <9002383306@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise présente il serait bon de se remémorer la majorité des issues possibles
+
+Cordialement,
+Charlotte Moore
+

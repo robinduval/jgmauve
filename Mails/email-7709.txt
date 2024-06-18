@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Meeting important
+Date: Thu, 10 Jan 2002 00:00:00 +0000
+Message-ID: <7746696614@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui nous occupe il faut de toute urgence se préoccuper de la majorité des alternatives de bon sens
+
+Cordialement,
+David Brown
+

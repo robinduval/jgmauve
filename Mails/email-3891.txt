@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 09 Jan 2005 00:00:00 +0000
+Message-ID: <1524849737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de ces derniers temps il serait bon de anticiper la somme des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

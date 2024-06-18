@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 18 Jan 2007 00:00:00 +0000
+Message-ID: <1117271132@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie présente il faut de toute urgence étudier toutes les alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

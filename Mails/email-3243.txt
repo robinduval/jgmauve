@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 17 Nov 2002 00:00:00 +0000
+Message-ID: <6270012567@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture induite il convient de étudier l'ensemble des solutions envisageables
+
+Cordialement,
+Sophie Martin
+

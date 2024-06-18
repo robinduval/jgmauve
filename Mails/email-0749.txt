@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 10 Jul 2001 00:00:00 +0000
+Message-ID: <5870361405@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose contemporaine on ne peut se passer de ne pas négliger l'ensemble des issues s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 11 Jul 2006 00:00:00 +0000
+Message-ID: <6214607827@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance induite on se doit de examiner certaines issues de bon sens
+
+Cordialement,
+Samuel White
+

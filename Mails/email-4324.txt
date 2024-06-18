@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 09 Oct 2005 00:00:00 +0000
+Message-ID: <3603074851@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il ne faut pas négliger de avoir à l'esprit toutes les solutions envisageables
+
+Cordialement,
+Jean Neige
+

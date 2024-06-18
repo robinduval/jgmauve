@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 24 Aug 2000 00:00:00 +0000
+Message-ID: <7920111694@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose qui nous occupe il serait bon de étudier certaines solutions possibles
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 16 Nov 2006 00:00:00 +0000
+Message-ID: <1644681478@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il convient de prendre en considération toutes les alternatives possibles
+
+Cordialement,
+Samuel White
+

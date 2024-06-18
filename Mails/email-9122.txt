@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 02 Jan 2001 00:00:00 +0000
+Message-ID: <1227215634@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse actuelle il est nécessaire de examiner l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

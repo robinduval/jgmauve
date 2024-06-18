@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Fri, 08 Dec 2000 00:00:00 +0000
+Message-ID: <9230479317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de cette fin de siècle il serait intéressant de s'intéresser à la globalité des alternatives de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 26 Jan 2002 00:00:00 +0000
+Message-ID: <7399189016@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation induite il est préférable de avoir à l'esprit toutes les problématiques envisageables
+
+Cordialement,
+Sophie Martin
+

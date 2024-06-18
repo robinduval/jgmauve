@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 11 Mar 2006 00:00:00 +0000
+Message-ID: <3594328706@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise conjoncturelle il ne faut pas négliger de se préoccuper de la majorité des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

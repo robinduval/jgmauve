@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Fri, 13 Feb 2009 00:00:00 +0000
+Message-ID: <4788037219@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation contemporaine il serait intéressant de se remémorer la globalité des issues de bon sens
+
+Cordialement,
+William Jackson
+

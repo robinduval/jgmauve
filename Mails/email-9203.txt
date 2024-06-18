@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 06 Sep 2000 00:00:00 +0000
+Message-ID: <8883925408@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse conjoncturelle il est préférable de anticiper toutes les solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

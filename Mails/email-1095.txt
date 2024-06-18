@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Nov 2001 00:00:00 +0000
+Message-ID: <4398523271@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui nous occupe il est préférable de prendre en considération certaines voies possibles
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Sun, 28 May 2000 00:00:00 +0000
+Message-ID: <2616468195@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de la société il serait intéressant de prendre en considération toutes les voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

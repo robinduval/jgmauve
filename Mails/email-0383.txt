@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sun, 18 Nov 2007 00:00:00 +0000
+Message-ID: <1859412906@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de ces derniers temps il faut s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Jean Neige
+

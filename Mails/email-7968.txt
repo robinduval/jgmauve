@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Fri, 25 Apr 2003 00:00:00 +0000
+Message-ID: <2778233624@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps on ne peut se passer de s'intéresser à la totalité des voies de bon sens
+
+Cordialement,
+Bob Smith
+

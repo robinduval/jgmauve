@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Sun, 09 Jun 2002 00:00:00 +0000
+Message-ID: <1570187598@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance présente il serait bon de s'intéresser à toutes les issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

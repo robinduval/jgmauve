@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 06 Sep 2003 00:00:00 +0000
+Message-ID: <4750138796@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse actuelle on ne peut se passer de se préoccuper de la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

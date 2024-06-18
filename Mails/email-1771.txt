@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Tue, 03 Sep 2002 00:00:00 +0000
+Message-ID: <8683278660@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de ces derniers temps il faut de toute urgence ne pas négliger toutes les alternatives déjà en notre possession
+
+Cordialement,
+Bob Smith
+

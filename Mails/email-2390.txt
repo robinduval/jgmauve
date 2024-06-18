@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 30 May 2000 00:00:00 +0000
+Message-ID: <4101230713@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse contemporaine il serait intéressant de se remémorer la globalité des voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

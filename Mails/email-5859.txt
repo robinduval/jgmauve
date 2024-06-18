@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 05 Aug 2004 00:00:00 +0000
+Message-ID: <2868120029@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse induite il faut avoir à l'esprit toutes les solutions déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 07 Jan 2001 00:00:00 +0000
+Message-ID: <7583618639@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise qui est la nôtre il est nécessaire de anticiper certaines issues possibles
+
+Cordialement,
+Sophie Martin
+

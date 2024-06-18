@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Wed, 27 Feb 2002 00:00:00 +0000
+Message-ID: <3417735470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de la société il est nécessaire de examiner toutes les voies envisageables
+
+Cordialement,
+Bob Smith
+

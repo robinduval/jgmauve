@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 28 Jan 2000 00:00:00 +0000
+Message-ID: <5593888405@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs de ces derniers temps il est préférable de s'intéresser à l'ensemble des voies de bon sens
+
+Cordialement,
+John Doe
+

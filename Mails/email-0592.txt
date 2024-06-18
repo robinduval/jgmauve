@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 18 May 2002 00:00:00 +0000
+Message-ID: <2409371143@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité qui est la nôtre il serait bon de ne pas négliger certaines problématiques de bon sens
+
+Cordialement,
+Sophie Martin
+

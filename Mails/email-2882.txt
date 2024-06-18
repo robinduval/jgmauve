@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Mon, 16 Feb 2009 00:00:00 +0000
+Message-ID: <5457965518@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation de la société il serait bon de ne pas négliger chacune des solutions possibles
+
+Cordialement,
+Bob Smith
+

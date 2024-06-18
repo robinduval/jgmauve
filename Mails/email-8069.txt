@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Tue, 01 Jan 2008 00:00:00 +0000
+Message-ID: <8545303591@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance induite il ne faut pas négliger de imaginer chacune des solutions possibles
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 01 Dec 2000 00:00:00 +0000
+Message-ID: <8943313097@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui est la nôtre il faut s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+David Brown
+

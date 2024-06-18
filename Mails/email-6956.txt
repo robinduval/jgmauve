@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 24 Jan 2002 00:00:00 +0000
+Message-ID: <1252197464@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse actuelle il faut avoir à l'esprit l'ensemble des issues envisageables
+
+Cordialement,
+Alice Dupont
+

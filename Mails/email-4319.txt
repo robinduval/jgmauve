@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 02 Jan 2008 00:00:00 +0000
+Message-ID: <4540103513@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation qui nous occupe il faut de toute urgence étudier la somme des alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

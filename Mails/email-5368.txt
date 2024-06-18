@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 05 Feb 2009 00:00:00 +0000
+Message-ID: <6016091754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation qui est la nôtre il convient de se préoccuper de la totalité des solutions de bon sens
+
+Cordialement,
+David Brown
+

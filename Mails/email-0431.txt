@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Sun, 14 Aug 2005 00:00:00 +0000
+Message-ID: <5654519845@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de cette fin de siècle il faut de toute urgence imaginer toutes les voies de bon sens
+
+Cordialement,
+John Doe
+

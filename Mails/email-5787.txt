@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 28 Jan 2006 00:00:00 +0000
+Message-ID: <2168646676@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie qui nous occupe on ne peut se passer de examiner la somme des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

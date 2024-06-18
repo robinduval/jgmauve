@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 07 Jun 2007 00:00:00 +0000
+Message-ID: <6324843597@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il est nécessaire de prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Eva Thomas
+

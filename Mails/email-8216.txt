@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 06 Mar 2008 00:00:00 +0000
+Message-ID: <4215283234@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de cette fin de siècle il serait bon de prendre en considération l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

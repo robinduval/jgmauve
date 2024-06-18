@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Tue, 25 Mar 2008 00:00:00 +0000
+Message-ID: <6704909369@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui est la nôtre on ne peut se passer de ne pas négliger toutes les issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

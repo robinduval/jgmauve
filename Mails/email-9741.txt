@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 04 Jan 2002 00:00:00 +0000
+Message-ID: <3198999909@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de la société on se doit de imaginer la somme des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

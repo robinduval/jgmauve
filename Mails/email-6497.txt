@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 30 Mar 2000 00:00:00 +0000
+Message-ID: <4323917985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité actuelle il faut se préoccuper de toutes les voies envisageables
+
+Cordialement,
+David Brown
+

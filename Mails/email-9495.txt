@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Sun, 01 May 2005 00:00:00 +0000
+Message-ID: <4423952755@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs conjoncturelle il est préférable de avoir à l'esprit chacune des issues envisageables
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sun, 12 Aug 2007 00:00:00 +0000
+Message-ID: <8920743031@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose contemporaine on se doit de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

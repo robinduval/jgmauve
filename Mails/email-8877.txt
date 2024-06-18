@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Sun, 11 Sep 2005 00:00:00 +0000
+Message-ID: <7497339956@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il ne faut pas négliger de prendre en considération la majorité des voies envisageables
+
+Cordialement,
+Jean Neige
+

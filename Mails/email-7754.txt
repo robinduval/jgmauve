@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 28 Feb 2007 00:00:00 +0000
+Message-ID: <2274038832@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de cette fin de siècle on ne peut se passer de anticiper la totalité des alternatives envisageables
+
+Cordialement,
+Samuel White
+

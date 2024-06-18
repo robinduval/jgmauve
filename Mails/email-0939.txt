@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 04 Jul 2002 00:00:00 +0000
+Message-ID: <7164835116@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise qui nous occupe il est préférable de examiner la majorité des solutions envisageables
+
+Cordialement,
+Emma Lee
+

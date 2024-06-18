@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Tue, 20 Dec 2005 00:00:00 +0000
+Message-ID: <7132630483@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture présente on se doit de examiner certaines voies de bon sens
+
+Cordialement,
+Laura Wilson
+

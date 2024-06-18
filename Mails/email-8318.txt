@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 20 Nov 2006 00:00:00 +0000
+Message-ID: <6482294024@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de cette fin de siècle il faut de toute urgence imaginer toutes les voies possibles
+
+Cordialement,
+David Brown
+

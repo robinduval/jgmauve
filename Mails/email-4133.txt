@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 12 Mar 2001 00:00:00 +0000
+Message-ID: <6242666358@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation contemporaine il serait intéressant de examiner toutes les issues envisageables
+
+Cordialement,
+David Brown
+

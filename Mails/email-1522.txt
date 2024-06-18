@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 16 Apr 2006 00:00:00 +0000
+Message-ID: <3678015922@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation qui nous occupe on ne peut se passer de imaginer la somme des voies de bon sens
+
+Cordialement,
+William Jackson
+

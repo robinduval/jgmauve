@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 28 May 2003 00:00:00 +0000
+Message-ID: <6363677136@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui nous occupe il faut prendre en considération toutes les issues de bon sens
+
+Cordialement,
+William Jackson
+

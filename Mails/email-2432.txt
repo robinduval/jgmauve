@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Sat, 29 Dec 2001 00:00:00 +0000
+Message-ID: <4915955778@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de la société on se doit de prendre en considération toutes les issues possibles
+
+Cordialement,
+Sophie Martin
+

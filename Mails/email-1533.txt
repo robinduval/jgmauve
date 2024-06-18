@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 24 Nov 2005 00:00:00 +0000
+Message-ID: <8698263002@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture contemporaine il est préférable de avoir à l'esprit toutes les problématiques possibles
+
+Cordialement,
+Alice Dupont
+

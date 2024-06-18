@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Fri, 21 Oct 2005 00:00:00 +0000
+Message-ID: <5852314934@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie actuelle il faut de toute urgence se remémorer chacune des voies s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

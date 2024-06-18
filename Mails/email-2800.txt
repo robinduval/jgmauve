@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 19 Dec 2001 00:00:00 +0000
+Message-ID: <7839484850@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise contemporaine il convient de ne pas négliger la totalité des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

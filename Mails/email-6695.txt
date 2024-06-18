@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 06 Jan 2004 00:00:00 +0000
+Message-ID: <9464492557@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation présente il est préférable de avoir à l'esprit la somme des issues envisageables
+
+Cordialement,
+Eva Thomas
+

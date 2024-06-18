@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 12 Apr 2008 00:00:00 +0000
+Message-ID: <3924205571@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de ces derniers temps il faut se remémorer certaines problématiques possibles
+
+Cordialement,
+David Brown
+

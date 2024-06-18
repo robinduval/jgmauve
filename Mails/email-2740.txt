@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 08 Nov 2008 00:00:00 +0000
+Message-ID: <1649305049@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation présente il faut ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+John Doe
+

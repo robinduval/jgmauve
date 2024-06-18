@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 21 May 2001 00:00:00 +0000
+Message-ID: <5285165256@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance contemporaine il est nécessaire de s'intéresser à la somme des alternatives déjà en notre possession
+
+Cordialement,
+Samuel White
+

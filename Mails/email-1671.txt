@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 12 Jul 2003 00:00:00 +0000
+Message-ID: <3139745476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation actuelle il est préférable de se préoccuper de chacune des issues possibles
+
+Cordialement,
+Eva Thomas
+

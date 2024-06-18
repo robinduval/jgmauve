@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Fri, 17 Nov 2006 00:00:00 +0000
+Message-ID: <4676623285@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui nous occupe il serait bon de se remémorer toutes les issues déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

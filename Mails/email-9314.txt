@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Tue, 04 Jan 2000 00:00:00 +0000
+Message-ID: <4867190833@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance conjoncturelle il serait intéressant de anticiper toutes les alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

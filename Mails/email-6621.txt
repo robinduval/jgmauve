@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Mon, 20 Aug 2001 00:00:00 +0000
+Message-ID: <8480055374@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture actuelle il faut de toute urgence s'intéresser à la totalité des alternatives s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

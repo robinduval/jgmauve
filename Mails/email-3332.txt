@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Sat, 16 Mar 2002 00:00:00 +0000
+Message-ID: <6495861704@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose conjoncturelle il est nécessaire de étudier la majorité des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

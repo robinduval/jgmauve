@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 02 Aug 2002 00:00:00 +0000
+Message-ID: <4568796887@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation présente il serait intéressant de ne pas négliger toutes les alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

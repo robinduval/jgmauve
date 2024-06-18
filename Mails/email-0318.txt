@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 12 May 2001 00:00:00 +0000
+Message-ID: <3494480805@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse de ces derniers temps on se doit de se préoccuper de certaines solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

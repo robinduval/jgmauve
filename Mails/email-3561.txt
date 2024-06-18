@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 09 Feb 2009 00:00:00 +0000
+Message-ID: <3490774903@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs de ces derniers temps on ne peut se passer de se remémorer l'ensemble des voies possibles
+
+Cordialement,
+John Doe
+

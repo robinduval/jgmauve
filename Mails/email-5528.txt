@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 25 Sep 2008 00:00:00 +0000
+Message-ID: <9512708950@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse contemporaine il faut de toute urgence avoir à l'esprit la somme des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

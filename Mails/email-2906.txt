@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Mon, 17 Apr 2006 00:00:00 +0000
+Message-ID: <4640556202@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise actuelle on se doit de examiner la totalité des solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 08 May 2009 00:00:00 +0000
+Message-ID: <1168388585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs présente on ne peut se passer de étudier toutes les voies s'offrant à nous
+
+Cordialement,
+Samuel White
+

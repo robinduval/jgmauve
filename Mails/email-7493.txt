@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 12 Feb 2008 00:00:00 +0000
+Message-ID: <3469038481@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs de cette fin de siècle il serait intéressant de ne pas négliger la majorité des voies possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Sat, 01 Jan 2000 00:00:00 +0000
+Message-ID: <6741005365@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de ces derniers temps il est nécessaire de anticiper la majorité des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

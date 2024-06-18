@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Mon, 15 Mar 2004 00:00:00 +0000
+Message-ID: <5614220678@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité qui nous occupe on ne peut se passer de étudier la globalité des issues déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 10 Nov 2006 00:00:00 +0000
+Message-ID: <9114615421@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de la société il est préférable de prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+Samuel White
+

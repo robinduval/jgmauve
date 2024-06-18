@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 23 Aug 2002 00:00:00 +0000
+Message-ID: <5314254812@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de cette fin de siècle il ne faut pas négliger de anticiper certaines problématiques possibles
+
+Cordialement,
+Bob Smith
+

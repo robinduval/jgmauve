@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Fri, 29 Jun 2007 00:00:00 +0000
+Message-ID: <6747410990@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise contemporaine on se doit de s'intéresser à la globalité des problématiques envisageables
+
+Cordialement,
+David Brown
+

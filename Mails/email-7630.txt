@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Sat, 04 Mar 2006 00:00:00 +0000
+Message-ID: <1170543401@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture induite il faut prendre en considération certaines voies de bon sens
+
+Cordialement,
+Sophie Martin
+

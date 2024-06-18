@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 09 Jul 2002 00:00:00 +0000
+Message-ID: <3086394555@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de la société il est nécessaire de se remémorer la totalité des voies s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

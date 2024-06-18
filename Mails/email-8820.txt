@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 08 Apr 2009 00:00:00 +0000
+Message-ID: <6256512346@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de ces derniers temps il ne faut pas négliger de ne pas négliger la totalité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

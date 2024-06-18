@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 15 May 2005 00:00:00 +0000
+Message-ID: <9844163543@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de cette fin de siècle il est nécessaire de se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+Samuel White
+

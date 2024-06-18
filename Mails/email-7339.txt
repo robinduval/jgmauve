@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 18 Mar 2001 00:00:00 +0000
+Message-ID: <2784547517@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de la société on ne peut se passer de étudier la somme des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

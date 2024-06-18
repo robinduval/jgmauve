@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Fri, 14 Apr 2000 00:00:00 +0000
+Message-ID: <5765198447@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise présente il serait intéressant de prendre en considération chacune des solutions possibles
+
+Cordialement,
+Michael Taylor
+

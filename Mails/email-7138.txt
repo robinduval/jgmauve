@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Sun, 05 Mar 2006 00:00:00 +0000
+Message-ID: <3605732398@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie qui nous occupe il serait intéressant de examiner la majorité des issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

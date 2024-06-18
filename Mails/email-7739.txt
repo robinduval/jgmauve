@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Wed, 02 Jun 2004 00:00:00 +0000
+Message-ID: <8383233623@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle il est nécessaire de prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Michael Taylor
+

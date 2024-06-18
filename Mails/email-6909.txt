@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Sun, 05 Feb 2006 00:00:00 +0000
+Message-ID: <8710563184@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose contemporaine il est préférable de se remémorer la somme des voies envisageables
+
+Cordialement,
+David Brown
+

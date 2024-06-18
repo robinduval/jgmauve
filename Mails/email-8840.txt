@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 21 May 2003 00:00:00 +0000
+Message-ID: <8337884350@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre il faut de toute urgence ne pas négliger certaines problématiques s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

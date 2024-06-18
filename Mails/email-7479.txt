@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 20 Jul 2009 00:00:00 +0000
+Message-ID: <1287310212@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité contemporaine il convient de imaginer la globalité des voies déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

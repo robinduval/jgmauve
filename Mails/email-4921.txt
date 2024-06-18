@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 22 Oct 2000 00:00:00 +0000
+Message-ID: <1543070032@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui est la nôtre il serait intéressant de anticiper la majorité des issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

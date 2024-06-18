@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 10 Jan 2005 00:00:00 +0000
+Message-ID: <1295800083@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation qui nous occupe il est préférable de ne pas négliger la majorité des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

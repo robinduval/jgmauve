@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 13 May 2007 00:00:00 +0000
+Message-ID: <3511614951@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle il convient de avoir à l'esprit toutes les problématiques de bon sens
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 05 Apr 2000 00:00:00 +0000
+Message-ID: <3781966643@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie conjoncturelle il ne faut pas négliger de étudier chacune des issues envisageables
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 09 Jun 2009 00:00:00 +0000
+Message-ID: <7337586774@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie conjoncturelle il est nécessaire de se préoccuper de chacune des solutions possibles
+
+Cordialement,
+Daniel Clark
+

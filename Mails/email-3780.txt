@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 11 Sep 2008 00:00:00 +0000
+Message-ID: <4072621149@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation de ces derniers temps il faut de toute urgence imaginer la totalité des issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 28 Feb 2002 00:00:00 +0000
+Message-ID: <5103203980@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise contemporaine on se doit de se préoccuper de toutes les problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

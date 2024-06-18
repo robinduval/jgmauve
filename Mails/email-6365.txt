@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 03 Jul 2009 00:00:00 +0000
+Message-ID: <5264654643@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie conjoncturelle on se doit de étudier la majorité des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

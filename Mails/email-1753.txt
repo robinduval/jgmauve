@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Wed, 14 Nov 2007 00:00:00 +0000
+Message-ID: <6833027757@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité actuelle il convient de prendre en considération certaines alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

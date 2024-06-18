@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 18 May 2001 00:00:00 +0000
+Message-ID: <4831081043@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose qui est la nôtre il faut anticiper certaines issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

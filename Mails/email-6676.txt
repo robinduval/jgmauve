@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Sun, 03 Oct 2004 00:00:00 +0000
+Message-ID: <4804819671@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse de la société on ne peut se passer de avoir à l'esprit toutes les issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

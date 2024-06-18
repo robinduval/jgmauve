@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Wed, 23 Feb 2000 00:00:00 +0000
+Message-ID: <8801339577@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité qui nous occupe il serait intéressant de prendre en considération toutes les solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

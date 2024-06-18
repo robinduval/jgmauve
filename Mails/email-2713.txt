@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 26 Apr 2007 00:00:00 +0000
+Message-ID: <7682595423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation conjoncturelle il est nécessaire de examiner toutes les alternatives possibles
+
+Cordialement,
+Eva Thomas
+

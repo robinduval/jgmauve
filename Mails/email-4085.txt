@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 04 Sep 2002 00:00:00 +0000
+Message-ID: <6939230900@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de ces derniers temps il serait bon de ne pas négliger la somme des issues envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 30 Dec 2000 00:00:00 +0000
+Message-ID: <3907764636@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie qui nous occupe il faut de toute urgence anticiper la totalité des solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

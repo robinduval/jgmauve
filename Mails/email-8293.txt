@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 22 Apr 2000 00:00:00 +0000
+Message-ID: <6784528958@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il est nécessaire de anticiper la majorité des problématiques de bon sens
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 04 Feb 2006 00:00:00 +0000
+Message-ID: <4507476762@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il serait bon de prendre en considération toutes les issues de bon sens
+
+Cordialement,
+Daniel Clark
+

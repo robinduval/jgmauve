@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rapport de projet
+Date: Mon, 01 Jan 2007 00:00:00 +0000
+Message-ID: <8128691313@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise qui est la nôtre il est nécessaire de étudier la totalité des voies possibles
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rapport de projet
+Date: Thu, 18 Dec 2003 00:00:00 +0000
+Message-ID: <8195231054@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise actuelle on ne peut se passer de imaginer l'ensemble des issues possibles
+
+Cordialement,
+Charlotte Moore
+

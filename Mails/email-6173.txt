@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 02 Feb 2007 00:00:00 +0000
+Message-ID: <2343356968@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation de ces derniers temps il convient de étudier l'ensemble des solutions possibles
+
+Cordialement,
+Michael Taylor
+

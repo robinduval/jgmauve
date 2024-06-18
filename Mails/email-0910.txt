@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 14 Jan 2003 00:00:00 +0000
+Message-ID: <7366641944@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie conjoncturelle il convient de imaginer l'ensemble des problématiques possibles
+
+Cordialement,
+Alice Dupont
+

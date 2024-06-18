@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Wed, 21 Apr 2004 00:00:00 +0000
+Message-ID: <4604834547@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture de la société il est préférable de avoir à l'esprit chacune des alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

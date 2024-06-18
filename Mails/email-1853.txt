@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 30 Jun 2000 00:00:00 +0000
+Message-ID: <5172104863@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il ne faut pas négliger de examiner chacune des voies envisageables
+
+Cordialement,
+Daniel Clark
+

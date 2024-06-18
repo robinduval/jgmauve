@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Sat, 22 Mar 2008 00:00:00 +0000
+Message-ID: <3478160086@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie de cette fin de siècle il est nécessaire de examiner toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 14 Jun 2003 00:00:00 +0000
+Message-ID: <2739945308@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation actuelle il faut anticiper certaines alternatives de bon sens
+
+Cordialement,
+Olivia Harris
+

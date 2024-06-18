@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 12 Jul 2002 00:00:00 +0000
+Message-ID: <3883675281@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité de la société il serait intéressant de se remémorer toutes les alternatives possibles
+
+Cordialement,
+Laura Wilson
+

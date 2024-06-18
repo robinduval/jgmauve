@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 28 Aug 2001 00:00:00 +0000
+Message-ID: <3035667167@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de ces derniers temps il serait bon de imaginer toutes les solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

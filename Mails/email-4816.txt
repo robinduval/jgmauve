@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 03 Apr 2001 00:00:00 +0000
+Message-ID: <9689556587@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de cette fin de siècle il ne faut pas négliger de étudier toutes les problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

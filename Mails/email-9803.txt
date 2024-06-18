@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 16 Oct 2002 00:00:00 +0000
+Message-ID: <2456675949@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de la société il faut anticiper chacune des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

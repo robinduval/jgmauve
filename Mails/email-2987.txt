@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 13 Oct 2009 00:00:00 +0000
+Message-ID: <5465549478@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance actuelle il faut de toute urgence avoir à l'esprit la somme des issues s'offrant à nous
+
+Cordialement,
+Samuel White
+

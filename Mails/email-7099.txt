@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 05 Sep 2007 00:00:00 +0000
+Message-ID: <4258172539@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de cette fin de siècle il serait intéressant de prendre en considération toutes les issues envisageables
+
+Cordialement,
+Olivia Harris
+

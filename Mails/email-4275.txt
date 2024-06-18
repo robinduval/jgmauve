@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 21 May 2001 00:00:00 +0000
+Message-ID: <7309513282@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui nous occupe il ne faut pas négliger de se remémorer toutes les solutions s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

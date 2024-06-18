@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 13 Dec 2005 00:00:00 +0000
+Message-ID: <4671502036@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie présente il est préférable de s'intéresser à la totalité des solutions possibles
+
+Cordialement,
+Jean Neige
+

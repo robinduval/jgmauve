@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 30 Oct 2009 00:00:00 +0000
+Message-ID: <7936198927@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation présente il faut se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

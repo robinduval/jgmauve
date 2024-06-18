@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Sun, 20 Feb 2005 00:00:00 +0000
+Message-ID: <1739413811@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il est nécessaire de anticiper la majorité des solutions possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Sun, 26 Oct 2003 00:00:00 +0000
+Message-ID: <5015829091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie actuelle il serait bon de étudier la majorité des issues s'offrant à nous
+
+Cordialement,
+Jean Neige
+

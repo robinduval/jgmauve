@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 14 Feb 2002 00:00:00 +0000
+Message-ID: <5306545472@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise conjoncturelle il est nécessaire de se remémorer la majorité des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

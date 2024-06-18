@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 03 Jul 2008 00:00:00 +0000
+Message-ID: <6099806384@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie actuelle il faut s'intéresser à la somme des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

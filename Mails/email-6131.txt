@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Thu, 15 May 2008 00:00:00 +0000
+Message-ID: <2090724481@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité actuelle il convient de avoir à l'esprit la majorité des alternatives possibles
+
+Cordialement,
+Sophie Martin
+

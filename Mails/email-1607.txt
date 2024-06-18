@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 26 Mar 2008 00:00:00 +0000
+Message-ID: <8659390570@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie qui nous occupe on ne peut se passer de ne pas négliger la majorité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

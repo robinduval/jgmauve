@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 02 Apr 2006 00:00:00 +0000
+Message-ID: <4914016687@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs présente on se doit de imaginer toutes les problématiques possibles
+
+Cordialement,
+Michael Taylor
+

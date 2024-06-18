@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Thu, 04 Sep 2008 00:00:00 +0000
+Message-ID: <1359682083@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse de ces derniers temps il faut de toute urgence avoir à l'esprit la majorité des problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

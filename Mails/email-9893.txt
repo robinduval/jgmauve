@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 23 Feb 2004 00:00:00 +0000
+Message-ID: <9233390306@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture induite il est préférable de s'intéresser à la somme des problématiques s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

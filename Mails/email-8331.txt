@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Sun, 26 Oct 2003 00:00:00 +0000
+Message-ID: <1354490252@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société il faut de toute urgence s'intéresser à la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

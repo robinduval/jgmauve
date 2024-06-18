@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 06 Mar 2006 00:00:00 +0000
+Message-ID: <1863453265@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise de la société il convient de s'intéresser à toutes les voies possibles
+
+Cordialement,
+Laura Wilson
+

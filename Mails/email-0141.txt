@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Annonce de vacances
+Date: Sat, 19 Mar 2005 00:00:00 +0000
+Message-ID: <7315632430@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation conjoncturelle il serait intéressant de prendre en considération la somme des solutions envisageables
+
+Cordialement,
+William Jackson
+

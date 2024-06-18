@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 30 Jan 2009 00:00:00 +0000
+Message-ID: <2296511977@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité actuelle il convient de avoir à l'esprit la somme des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Tue, 20 Sep 2005 00:00:00 +0000
+Message-ID: <4741986741@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie induite on ne peut se passer de anticiper toutes les alternatives possibles
+
+Cordialement,
+Sophie Martin
+

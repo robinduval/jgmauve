@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 22 Apr 2001 00:00:00 +0000
+Message-ID: <5087213561@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il est préférable de s'intéresser à la totalité des voies possibles
+
+Cordialement,
+John Doe
+

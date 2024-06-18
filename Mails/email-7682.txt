@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 22 Sep 2002 00:00:00 +0000
+Message-ID: <5000132222@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse actuelle on se doit de se remémorer toutes les solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 07 Sep 2001 00:00:00 +0000
+Message-ID: <7249734470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie induite il faut prendre en considération l'ensemble des voies déjà en notre possession
+
+Cordialement,
+David Brown
+

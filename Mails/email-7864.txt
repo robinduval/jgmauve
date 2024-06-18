@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 24 Dec 2005 00:00:00 +0000
+Message-ID: <6649574507@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie actuelle il serait bon de étudier toutes les alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

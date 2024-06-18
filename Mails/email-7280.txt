@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Thu, 03 Sep 2009 00:00:00 +0000
+Message-ID: <4580173317@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture de ces derniers temps il faut de toute urgence imaginer toutes les solutions possibles
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 19 Apr 2006 00:00:00 +0000
+Message-ID: <3107706683@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise de la société il faut examiner toutes les issues de bon sens
+
+Cordialement,
+Sophie Martin
+

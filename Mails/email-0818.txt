@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Sat, 17 Jan 2009 00:00:00 +0000
+Message-ID: <7959433874@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse de ces derniers temps il faut avoir à l'esprit toutes les voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

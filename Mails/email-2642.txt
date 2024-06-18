@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 02 Sep 2004 00:00:00 +0000
+Message-ID: <4074941591@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse de la société il faut ne pas négliger certaines voies s'offrant à nous
+
+Cordialement,
+Jean Neige
+

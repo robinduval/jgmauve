@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Sun, 24 Nov 2002 00:00:00 +0000
+Message-ID: <5341664893@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture qui nous occupe il est préférable de anticiper chacune des solutions déjà en notre possession
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 02 Aug 2009 00:00:00 +0000
+Message-ID: <7161245979@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance qui nous occupe il faut de toute urgence se préoccuper de toutes les voies possibles
+
+Cordialement,
+William Jackson
+

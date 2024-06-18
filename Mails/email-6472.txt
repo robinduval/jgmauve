@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Fri, 11 Sep 2009 00:00:00 +0000
+Message-ID: <3300564573@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de ces derniers temps il est nécessaire de étudier la majorité des issues possibles
+
+Cordialement,
+Daniel Clark
+

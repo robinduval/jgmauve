@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 04 May 2000 00:00:00 +0000
+Message-ID: <8836353008@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs actuelle il faut prendre en considération toutes les voies s'offrant à nous
+
+Cordialement,
+Samuel White
+

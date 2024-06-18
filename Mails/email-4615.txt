@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Fri, 21 Jul 2006 00:00:00 +0000
+Message-ID: <8454424271@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise actuelle il serait bon de s'intéresser à la totalité des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

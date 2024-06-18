@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 23 Jan 2009 00:00:00 +0000
+Message-ID: <8702252145@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle il serait intéressant de se remémorer la totalité des alternatives de bon sens
+
+Cordialement,
+Laura Wilson
+

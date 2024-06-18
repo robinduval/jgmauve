@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Fri, 05 Apr 2002 00:00:00 +0000
+Message-ID: <7138832892@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie qui nous occupe il faut de toute urgence avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+William Jackson
+

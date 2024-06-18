@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 01 Jan 2008 00:00:00 +0000
+Message-ID: <2873394865@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de ces derniers temps il serait bon de imaginer l'ensemble des voies possibles
+
+Cordialement,
+John Doe
+

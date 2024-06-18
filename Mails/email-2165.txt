@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 25 May 2007 00:00:00 +0000
+Message-ID: <9793421741@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui nous occupe on se doit de étudier la totalité des voies déjà en notre possession
+
+Cordialement,
+David Brown
+

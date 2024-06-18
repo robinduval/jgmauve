@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 17 Feb 2002 00:00:00 +0000
+Message-ID: <9071534151@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il est nécessaire de prendre en considération la globalité des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

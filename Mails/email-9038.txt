@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 13 Feb 2008 00:00:00 +0000
+Message-ID: <9831574089@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance contemporaine il serait intéressant de ne pas négliger certaines solutions envisageables
+
+Cordialement,
+Alice Dupont
+

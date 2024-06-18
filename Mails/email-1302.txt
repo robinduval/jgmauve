@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 06 Nov 2003 00:00:00 +0000
+Message-ID: <5861425426@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose présente il faut de toute urgence avoir à l'esprit toutes les solutions possibles
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 19 Apr 2002 00:00:00 +0000
+Message-ID: <1969212715@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui nous occupe il faut de toute urgence avoir à l'esprit la globalité des problématiques possibles
+
+Cordialement,
+Emma Lee
+

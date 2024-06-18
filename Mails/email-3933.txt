@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 11 May 2005 00:00:00 +0000
+Message-ID: <2549127682@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance de la société il faut de toute urgence prendre en considération l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 30 Dec 2003 00:00:00 +0000
+Message-ID: <1042372046@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il faut de toute urgence se préoccuper de l'ensemble des problématiques possibles
+
+Cordialement,
+Emma Lee
+

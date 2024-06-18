@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 02 Dec 2001 00:00:00 +0000
+Message-ID: <3169804180@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture qui nous occupe il convient de prendre en considération toutes les issues de bon sens
+
+Cordialement,
+Emma Lee
+

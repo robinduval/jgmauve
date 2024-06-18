@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 04 Aug 2001 00:00:00 +0000
+Message-ID: <8100542240@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose actuelle il est nécessaire de prendre en considération certaines issues envisageables
+
+Cordialement,
+Alice Dupont
+

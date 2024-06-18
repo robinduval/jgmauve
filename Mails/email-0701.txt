@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 21 Aug 2002 00:00:00 +0000
+Message-ID: <5179710407@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie conjoncturelle il faut de toute urgence se préoccuper de toutes les problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

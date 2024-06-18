@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 09 Jun 2000 00:00:00 +0000
+Message-ID: <3715601878@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation qui est la nôtre il faut de toute urgence examiner toutes les solutions possibles
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 13 Jun 2006 00:00:00 +0000
+Message-ID: <1605826968@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose contemporaine il est préférable de prendre en considération la majorité des problématiques de bon sens
+
+Cordialement,
+William Jackson
+

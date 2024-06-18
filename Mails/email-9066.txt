@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 10 Aug 2008 00:00:00 +0000
+Message-ID: <9173609702@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs qui nous occupe il faut examiner certaines problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

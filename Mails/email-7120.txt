@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 20 Oct 2004 00:00:00 +0000
+Message-ID: <4007297262@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation contemporaine on se doit de prendre en considération la somme des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

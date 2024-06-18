@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 11 Sep 2007 00:00:00 +0000
+Message-ID: <9067416647@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie actuelle on se doit de imaginer la somme des solutions de bon sens
+
+Cordialement,
+John Doe
+

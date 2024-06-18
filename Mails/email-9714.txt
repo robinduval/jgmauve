@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Wed, 18 May 2005 00:00:00 +0000
+Message-ID: <7732391141@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui nous occupe on se doit de ne pas négliger chacune des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 30 Nov 2005 00:00:00 +0000
+Message-ID: <6235686305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps il ne faut pas négliger de imaginer toutes les voies envisageables
+
+Cordialement,
+John Doe
+

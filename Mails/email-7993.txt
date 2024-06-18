@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 04 Mar 2005 00:00:00 +0000
+Message-ID: <7173375879@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de la société il serait intéressant de se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

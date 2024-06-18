@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 26 Jul 2001 00:00:00 +0000
+Message-ID: <5397716121@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose qui est la nôtre il faut étudier la majorité des problématiques déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

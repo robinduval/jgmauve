@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 23 Sep 2002 00:00:00 +0000
+Message-ID: <5108134151@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie de la société on se doit de prendre en considération toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

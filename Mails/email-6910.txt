@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 21 Sep 2006 00:00:00 +0000
+Message-ID: <3011843415@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui nous occupe il faut ne pas négliger toutes les problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

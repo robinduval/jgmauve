@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 04 Jan 2004 00:00:00 +0000
+Message-ID: <8487306565@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle il est nécessaire de anticiper la majorité des issues envisageables
+
+Cordialement,
+John Doe
+

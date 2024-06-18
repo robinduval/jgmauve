@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 20 Dec 2000 00:00:00 +0000
+Message-ID: <5175425698@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de la société il faut ne pas négliger la somme des alternatives possibles
+
+Cordialement,
+William Jackson
+

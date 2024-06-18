@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 25 Mar 2005 00:00:00 +0000
+Message-ID: <1557488437@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui est la nôtre on ne peut se passer de ne pas négliger la somme des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

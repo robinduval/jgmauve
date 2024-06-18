@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 03 Aug 2001 00:00:00 +0000
+Message-ID: <5482518758@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation qui est la nôtre on ne peut se passer de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

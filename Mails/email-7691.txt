@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 06 Aug 2006 00:00:00 +0000
+Message-ID: <5041177108@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité présente on se doit de se préoccuper de toutes les voies de bon sens
+
+Cordialement,
+John Doe
+

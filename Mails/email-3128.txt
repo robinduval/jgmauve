@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Thu, 05 Sep 2002 00:00:00 +0000
+Message-ID: <1016209985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie conjoncturelle il convient de prendre en considération la totalité des issues envisageables
+
+Cordialement,
+Daniel Clark
+

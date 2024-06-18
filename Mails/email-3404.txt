@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 21 Dec 2004 00:00:00 +0000
+Message-ID: <4724366478@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance présente il ne faut pas négliger de anticiper l'ensemble des issues de bon sens
+
+Cordialement,
+Jean Neige
+

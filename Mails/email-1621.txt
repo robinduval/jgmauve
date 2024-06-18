@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 23 Jun 2000 00:00:00 +0000
+Message-ID: <2899250865@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation de ces derniers temps il faut de toute urgence s'intéresser à la somme des alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Thu, 26 Nov 2009 00:00:00 +0000
+Message-ID: <9499359630@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité conjoncturelle il est nécessaire de anticiper la somme des voies de bon sens
+
+Cordialement,
+Laura Wilson
+

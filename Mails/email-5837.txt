@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 29 Sep 2004 00:00:00 +0000
+Message-ID: <1836394511@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie qui est la nôtre on ne peut se passer de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

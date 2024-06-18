@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Sun, 07 Jun 2009 00:00:00 +0000
+Message-ID: <8504195961@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de la société on se doit de avoir à l'esprit toutes les issues possibles
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Wed, 02 Aug 2006 00:00:00 +0000
+Message-ID: <9710391698@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie contemporaine il convient de ne pas négliger la globalité des issues possibles
+
+Cordialement,
+Bob Smith
+

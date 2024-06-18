@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 19 Jan 2006 00:00:00 +0000
+Message-ID: <5036497569@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de ces derniers temps il serait intéressant de étudier la globalité des solutions de bon sens
+
+Cordialement,
+John Doe
+

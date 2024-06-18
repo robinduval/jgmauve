@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 10 Mar 2005 00:00:00 +0000
+Message-ID: <6074326540@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs qui nous occupe il faut avoir à l'esprit la totalité des solutions de bon sens
+
+Cordialement,
+David Brown
+

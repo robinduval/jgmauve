@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 19 Sep 2000 00:00:00 +0000
+Message-ID: <9325597048@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de la société il serait bon de se remémorer la totalité des voies de bon sens
+
+Cordialement,
+Samuel White
+

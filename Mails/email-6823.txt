@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 16 Feb 2006 00:00:00 +0000
+Message-ID: <9000401617@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture de la société on ne peut se passer de avoir à l'esprit certaines issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 05 Jul 2008 00:00:00 +0000
+Message-ID: <6211349946@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation actuelle il convient de se remémorer chacune des issues de bon sens
+
+Cordialement,
+Sophie Martin
+

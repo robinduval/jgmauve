@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 31 Dec 2007 00:00:00 +0000
+Message-ID: <5198956305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de ces derniers temps il convient de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+David Brown
+

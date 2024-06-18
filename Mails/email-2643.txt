@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 16 Dec 2005 00:00:00 +0000
+Message-ID: <9851175438@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance contemporaine on se doit de s'intéresser à toutes les problématiques possibles
+
+Cordialement,
+David Brown
+

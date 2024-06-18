@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 11 Jul 2009 00:00:00 +0000
+Message-ID: <6395395144@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui est la nôtre on ne peut se passer de ne pas négliger la totalité des problématiques déjà en notre possession
+
+Cordialement,
+David Brown
+

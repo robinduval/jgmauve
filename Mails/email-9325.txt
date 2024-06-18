@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 08 Dec 2001 00:00:00 +0000
+Message-ID: <3950074565@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance présente il faut étudier la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

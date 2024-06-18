@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 11 Mar 2001 00:00:00 +0000
+Message-ID: <5806011387@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui nous occupe il serait intéressant de avoir à l'esprit toutes les issues déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

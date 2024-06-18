@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 09 Oct 2008 00:00:00 +0000
+Message-ID: <3969242932@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de ces derniers temps il faut se préoccuper de chacune des issues envisageables
+
+Cordialement,
+Eva Thomas
+

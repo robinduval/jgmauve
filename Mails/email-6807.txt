@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 09 Sep 2009 00:00:00 +0000
+Message-ID: <7377186782@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de cette fin de siècle il faut ne pas négliger l'ensemble des voies envisageables
+
+Cordialement,
+Samuel White
+

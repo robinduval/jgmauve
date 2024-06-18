@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 28 May 2003 00:00:00 +0000
+Message-ID: <1807352017@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de cette fin de siècle on ne peut se passer de anticiper la globalité des issues envisageables
+
+Cordialement,
+Michael Taylor
+

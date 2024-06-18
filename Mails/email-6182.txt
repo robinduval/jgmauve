@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 11 Jan 2000 00:00:00 +0000
+Message-ID: <4063128591@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui est la nôtre il faut de toute urgence imaginer la somme des solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

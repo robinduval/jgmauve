@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 20 Oct 2009 00:00:00 +0000
+Message-ID: <3090630742@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation qui nous occupe il serait bon de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Olivia Harris
+

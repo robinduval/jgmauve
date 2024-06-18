@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 06 Jun 2006 00:00:00 +0000
+Message-ID: <7274618285@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise de ces derniers temps on se doit de ne pas négliger l'ensemble des alternatives de bon sens
+
+Cordialement,
+Sophie Martin
+

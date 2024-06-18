@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Thu, 10 Aug 2006 00:00:00 +0000
+Message-ID: <4507470037@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation qui nous occupe il convient de s'intéresser à certaines issues s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

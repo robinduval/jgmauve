@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 16 Mar 2006 00:00:00 +0000
+Message-ID: <9992800199@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse conjoncturelle il est nécessaire de ne pas négliger la somme des solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 26 Nov 2000 00:00:00 +0000
+Message-ID: <7935957112@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui nous occupe il ne faut pas négliger de se préoccuper de la majorité des solutions de bon sens
+
+Cordialement,
+Emma Lee
+

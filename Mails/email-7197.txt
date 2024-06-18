@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 09 Feb 2007 00:00:00 +0000
+Message-ID: <2969946331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance présente il faut anticiper la somme des issues de bon sens
+
+Cordialement,
+Laura Wilson
+

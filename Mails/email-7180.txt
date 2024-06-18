@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 05 Sep 2003 00:00:00 +0000
+Message-ID: <8477836464@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle on ne peut se passer de anticiper toutes les voies envisageables
+
+Cordialement,
+Daniel Clark
+

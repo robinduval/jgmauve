@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Wed, 10 Oct 2001 00:00:00 +0000
+Message-ID: <4792769347@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie induite il serait intéressant de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

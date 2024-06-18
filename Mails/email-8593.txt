@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 15 Feb 2004 00:00:00 +0000
+Message-ID: <9068626283@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui nous occupe il serait bon de s'intéresser à toutes les issues de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Mon, 06 Jan 2003 00:00:00 +0000
+Message-ID: <5914395858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance contemporaine on se doit de avoir à l'esprit certaines voies possibles
+
+Cordialement,
+Charlotte Moore
+

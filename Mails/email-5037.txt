@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 06 Jun 2009 00:00:00 +0000
+Message-ID: <4518140666@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de ces derniers temps il serait bon de anticiper la globalité des issues envisageables
+
+Cordialement,
+Emma Lee
+

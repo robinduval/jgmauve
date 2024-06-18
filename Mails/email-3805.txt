@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Fri, 09 Mar 2007 00:00:00 +0000
+Message-ID: <3441121212@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de la société il faut de toute urgence s'intéresser à la somme des solutions de bon sens
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 10 Jan 2007 00:00:00 +0000
+Message-ID: <9944972249@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance induite il serait bon de se préoccuper de toutes les problématiques de bon sens
+
+Cordialement,
+Samuel White
+

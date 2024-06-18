@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 27 Aug 2005 00:00:00 +0000
+Message-ID: <2158314360@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la conjoncture conjoncturelle il faut se remémorer la globalité des voies déjà en notre possession
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 20 Mar 2008 00:00:00 +0000
+Message-ID: <6360397762@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture actuelle il est nécessaire de se préoccuper de l'ensemble des alternatives possibles
+
+Cordialement,
+William Jackson
+

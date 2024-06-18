@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 22 Nov 2008 00:00:00 +0000
+Message-ID: <1633474876@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie contemporaine il faut de toute urgence ne pas négliger l'ensemble des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

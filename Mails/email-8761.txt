@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 05 Apr 2004 00:00:00 +0000
+Message-ID: <2687141700@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise induite on se doit de étudier certaines problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

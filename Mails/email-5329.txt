@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 12 Oct 2008 00:00:00 +0000
+Message-ID: <3683302403@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de ces derniers temps il ne faut pas négliger de anticiper certaines problématiques de bon sens
+
+Cordialement,
+David Brown
+

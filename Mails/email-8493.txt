@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 14 Feb 2002 00:00:00 +0000
+Message-ID: <9699111228@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie qui nous occupe il faut de toute urgence imaginer la majorité des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

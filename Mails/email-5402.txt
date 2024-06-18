@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Thu, 03 Jul 2003 00:00:00 +0000
+Message-ID: <7503234845@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance conjoncturelle il faut se préoccuper de toutes les issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

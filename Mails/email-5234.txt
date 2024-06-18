@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 28 Feb 2009 00:00:00 +0000
+Message-ID: <9958189123@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de cette fin de siècle il est nécessaire de anticiper certaines issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

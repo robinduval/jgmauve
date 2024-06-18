@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Mon, 11 Jun 2007 00:00:00 +0000
+Message-ID: <4279639698@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture contemporaine il est nécessaire de examiner la globalité des issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

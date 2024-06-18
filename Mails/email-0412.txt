@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 15 Sep 2008 00:00:00 +0000
+Message-ID: <8364062245@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle il serait intéressant de ne pas négliger certaines issues s'offrant à nous
+
+Cordialement,
+John Doe
+

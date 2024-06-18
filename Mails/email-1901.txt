@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 28 Sep 2004 00:00:00 +0000
+Message-ID: <8864784998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui est la nôtre il faut s'intéresser à certaines alternatives déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

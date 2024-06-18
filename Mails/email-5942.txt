@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 03 Oct 2003 00:00:00 +0000
+Message-ID: <7688072757@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps il faut de toute urgence examiner certaines issues déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

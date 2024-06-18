@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Fri, 04 Oct 2002 00:00:00 +0000
+Message-ID: <2650496113@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle il convient de s'intéresser à la globalité des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

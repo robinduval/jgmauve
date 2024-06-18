@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 20 May 2001 00:00:00 +0000
+Message-ID: <1726714091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose actuelle il faut ne pas négliger la totalité des alternatives envisageables
+
+Cordialement,
+William Jackson
+

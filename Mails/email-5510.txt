@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 02 Mar 2003 00:00:00 +0000
+Message-ID: <6731282976@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il serait intéressant de prendre en considération la totalité des problématiques possibles
+
+Cordialement,
+Olivia Harris
+

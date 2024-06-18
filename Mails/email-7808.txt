@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Wed, 27 Aug 2008 00:00:00 +0000
+Message-ID: <4357124075@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité conjoncturelle on ne peut se passer de ne pas négliger toutes les voies déjà en notre possession
+
+Cordialement,
+John Doe
+

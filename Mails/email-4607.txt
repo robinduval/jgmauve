@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 08 Apr 2000 00:00:00 +0000
+Message-ID: <3369262627@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation de la société il faut imaginer l'ensemble des voies déjà en notre possession
+
+Cordialement,
+John Doe
+

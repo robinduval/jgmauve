@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 20 Mar 2009 00:00:00 +0000
+Message-ID: <7190327978@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui est la nôtre il serait bon de imaginer la somme des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

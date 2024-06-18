@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 17 Nov 2002 00:00:00 +0000
+Message-ID: <5323325380@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de cette fin de siècle il faut de toute urgence prendre en considération la majorité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

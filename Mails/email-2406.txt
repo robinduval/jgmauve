@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Fri, 01 Jan 2010 00:00:00 +0000
+Message-ID: <7564120998@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de la société il faut de toute urgence se remémorer chacune des issues envisageables
+
+Cordialement,
+Michael Taylor
+

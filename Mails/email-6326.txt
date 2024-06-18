@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Fri, 07 Nov 2008 00:00:00 +0000
+Message-ID: <4389925628@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de ces derniers temps il faut examiner l'ensemble des voies de bon sens
+
+Cordialement,
+Michael Taylor
+

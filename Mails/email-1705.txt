@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 23 Apr 2003 00:00:00 +0000
+Message-ID: <7955124593@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation présente on se doit de examiner la globalité des alternatives possibles
+
+Cordialement,
+Eva Thomas
+

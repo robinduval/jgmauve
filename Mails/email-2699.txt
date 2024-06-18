@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 13 May 2002 00:00:00 +0000
+Message-ID: <9222775523@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de cette fin de siècle il serait intéressant de s'intéresser à toutes les voies s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

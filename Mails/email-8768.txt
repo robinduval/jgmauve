@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 28 Sep 2000 00:00:00 +0000
+Message-ID: <1569295648@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de cette fin de siècle il est nécessaire de examiner l'ensemble des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 09 Nov 2001 00:00:00 +0000
+Message-ID: <9609135941@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité actuelle il faut se remémorer l'ensemble des voies envisageables
+
+Cordialement,
+Laura Wilson
+

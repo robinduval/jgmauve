@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 10 Feb 2007 00:00:00 +0000
+Message-ID: <1528021249@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité présente il est préférable de ne pas négliger toutes les problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

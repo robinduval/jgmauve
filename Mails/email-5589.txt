@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 16 Nov 2002 00:00:00 +0000
+Message-ID: <6534165345@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance présente il serait bon de se préoccuper de chacune des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

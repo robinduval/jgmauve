@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Fri, 11 Jul 2008 00:00:00 +0000
+Message-ID: <1148479219@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie conjoncturelle il faut se remémorer l'ensemble des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

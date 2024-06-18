@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Annonce de vacances
+Date: Thu, 16 Apr 2009 00:00:00 +0000
+Message-ID: <6381830734@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise de ces derniers temps on ne peut se passer de étudier la somme des solutions possibles
+
+Cordialement,
+Jean Neige
+

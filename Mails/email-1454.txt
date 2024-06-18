@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 05 Dec 2001 00:00:00 +0000
+Message-ID: <5030798869@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui nous occupe il serait intéressant de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

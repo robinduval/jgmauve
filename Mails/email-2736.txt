@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Tue, 29 Feb 2000 00:00:00 +0000
+Message-ID: <5818070592@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation qui nous occupe on ne peut se passer de se préoccuper de la majorité des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

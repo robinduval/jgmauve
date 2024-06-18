@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 11 Feb 2005 00:00:00 +0000
+Message-ID: <5058187720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente il est nécessaire de imaginer chacune des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

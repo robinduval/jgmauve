@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Wed, 10 Sep 2008 00:00:00 +0000
+Message-ID: <4661895686@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente il est préférable de anticiper toutes les voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

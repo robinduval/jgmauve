@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 17 Dec 2008 00:00:00 +0000
+Message-ID: <1806155313@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de la société on se doit de s'intéresser à l'ensemble des solutions envisageables
+
+Cordialement,
+John Doe
+

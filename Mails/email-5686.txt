@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 12 May 2004 00:00:00 +0000
+Message-ID: <1393358753@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il serait bon de ne pas négliger la somme des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

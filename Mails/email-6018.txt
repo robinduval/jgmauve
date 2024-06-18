@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Sat, 10 Feb 2001 00:00:00 +0000
+Message-ID: <6525307784@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de la société il serait bon de ne pas négliger l'ensemble des problématiques envisageables
+
+Cordialement,
+Samuel White
+

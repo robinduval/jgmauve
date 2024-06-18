@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 23 Apr 2006 00:00:00 +0000
+Message-ID: <6743064470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance de ces derniers temps il convient de se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Jean Neige
+

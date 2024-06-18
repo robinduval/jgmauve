@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 05 Aug 2001 00:00:00 +0000
+Message-ID: <1967588802@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation actuelle il convient de avoir à l'esprit la majorité des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

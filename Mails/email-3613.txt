@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Sun, 06 Jul 2003 00:00:00 +0000
+Message-ID: <7083526835@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs contemporaine il est préférable de se remémorer la somme des issues envisageables
+
+Cordialement,
+Jean Neige
+

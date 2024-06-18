@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Fri, 25 Feb 2000 00:00:00 +0000
+Message-ID: <3087050485@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société il convient de se préoccuper de la globalité des alternatives envisageables
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 05 Sep 2000 00:00:00 +0000
+Message-ID: <6105718068@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il convient de étudier certaines voies possibles
+
+Cordialement,
+Michael Taylor
+

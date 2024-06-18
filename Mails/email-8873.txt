@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 05 Jul 2001 00:00:00 +0000
+Message-ID: <6995251334@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de la société il faut se remémorer certaines voies envisageables
+
+Cordialement,
+Charlotte Moore
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 12 Aug 2007 00:00:00 +0000
+Message-ID: <2218655261@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose induite il faut anticiper toutes les voies s'offrant à nous
+
+Cordialement,
+John Doe
+

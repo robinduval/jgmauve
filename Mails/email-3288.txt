@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 10 Sep 2005 00:00:00 +0000
+Message-ID: <3939894738@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite il est nécessaire de s'intéresser à la globalité des problématiques envisageables
+
+Cordialement,
+Bob Smith
+

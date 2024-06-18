@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 19 Oct 2006 00:00:00 +0000
+Message-ID: <8613657373@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation induite il convient de se préoccuper de la globalité des issues s'offrant à nous
+
+Cordialement,
+Emma Lee
+

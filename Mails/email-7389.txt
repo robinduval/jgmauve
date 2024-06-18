@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Fri, 13 Jan 2006 00:00:00 +0000
+Message-ID: <6623597225@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui nous occupe on se doit de se préoccuper de certaines alternatives s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

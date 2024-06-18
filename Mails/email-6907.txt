@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 16 Oct 2001 00:00:00 +0000
+Message-ID: <9874469820@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance qui nous occupe il serait intéressant de se préoccuper de certaines voies envisageables
+
+Cordialement,
+Charlotte Moore
+

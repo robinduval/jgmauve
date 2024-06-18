@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 23 Sep 2003 00:00:00 +0000
+Message-ID: <4765315397@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de ces derniers temps on se doit de prendre en considération toutes les problématiques déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Thu, 23 Aug 2007 00:00:00 +0000
+Message-ID: <4596889920@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse actuelle il faut de toute urgence ne pas négliger la globalité des issues envisageables
+
+Cordialement,
+David Brown
+

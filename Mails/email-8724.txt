@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Fri, 19 Jul 2002 00:00:00 +0000
+Message-ID: <3033356723@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse conjoncturelle il convient de examiner la majorité des issues envisageables
+
+Cordialement,
+John Doe
+

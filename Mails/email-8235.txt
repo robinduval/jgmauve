@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 31 Aug 2006 00:00:00 +0000
+Message-ID: <8108733997@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui est la nôtre il serait bon de ne pas négliger la globalité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

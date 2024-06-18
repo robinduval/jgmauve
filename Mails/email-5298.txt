@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 16 Jul 2006 00:00:00 +0000
+Message-ID: <4439608758@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse actuelle on se doit de examiner certaines alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

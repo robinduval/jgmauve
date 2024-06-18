@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 16 Dec 2005 00:00:00 +0000
+Message-ID: <7484741461@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse actuelle il convient de s'intéresser à chacune des voies envisageables
+
+Cordialement,
+David Brown
+

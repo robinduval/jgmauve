@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Sat, 02 Sep 2000 00:00:00 +0000
+Message-ID: <4618149188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de la société il faut étudier la somme des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

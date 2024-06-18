@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Annonce de vacances
+Date: Sun, 21 Sep 2008 00:00:00 +0000
+Message-ID: <3862311673@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose actuelle il serait intéressant de se préoccuper de la majorité des voies déjà en notre possession
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 20 Mar 2001 00:00:00 +0000
+Message-ID: <5448462682@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente il convient de imaginer chacune des solutions possibles
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 08 Nov 2008 00:00:00 +0000
+Message-ID: <7529534458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs actuelle il ne faut pas négliger de avoir à l'esprit certaines issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

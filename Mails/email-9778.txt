@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 27 Feb 2005 00:00:00 +0000
+Message-ID: <9781945327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise conjoncturelle il serait bon de imaginer certaines problématiques possibles
+
+Cordialement,
+Charlotte Moore
+

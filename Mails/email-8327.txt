@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 03 Oct 2009 00:00:00 +0000
+Message-ID: <3204966609@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs qui nous occupe il faut de toute urgence examiner la globalité des voies envisageables
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Mon, 29 Dec 2003 00:00:00 +0000
+Message-ID: <8511125128@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe il faut de toute urgence s'intéresser à toutes les solutions possibles
+
+Cordialement,
+Samuel White
+

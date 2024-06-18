@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 22 Sep 2007 00:00:00 +0000
+Message-ID: <8407363512@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation actuelle il faut imaginer toutes les problématiques s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 16 Jun 2003 00:00:00 +0000
+Message-ID: <5845680022@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture conjoncturelle il faut avoir à l'esprit la globalité des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

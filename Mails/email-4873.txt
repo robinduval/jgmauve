@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Thu, 17 Feb 2000 00:00:00 +0000
+Message-ID: <4495013609@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie induite il est préférable de se remémorer toutes les issues de bon sens
+
+Cordialement,
+Jean Neige
+

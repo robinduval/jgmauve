@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 14 Apr 2009 00:00:00 +0000
+Message-ID: <9455571329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation actuelle il serait intéressant de prendre en considération la totalité des problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

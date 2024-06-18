@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 08 Jan 2001 00:00:00 +0000
+Message-ID: <3078657654@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de ces derniers temps il faut de toute urgence avoir à l'esprit l'ensemble des voies envisageables
+
+Cordialement,
+Bob Smith
+

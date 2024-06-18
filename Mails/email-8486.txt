@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 24 Jun 2008 00:00:00 +0000
+Message-ID: <2315179827@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance qui nous occupe il serait bon de avoir à l'esprit la somme des voies envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Sun, 01 Dec 2002 00:00:00 +0000
+Message-ID: <4041824899@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie conjoncturelle on ne peut se passer de prendre en considération la totalité des voies envisageables
+
+Cordialement,
+William Jackson
+

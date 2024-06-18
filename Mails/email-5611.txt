@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 08 Apr 2006 00:00:00 +0000
+Message-ID: <8173639181@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de cette fin de siècle il convient de se préoccuper de la majorité des problématiques de bon sens
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 03 Dec 2008 00:00:00 +0000
+Message-ID: <3642811478@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de cette fin de siècle on ne peut se passer de s'intéresser à l'ensemble des alternatives envisageables
+
+Cordialement,
+Charlotte Moore
+

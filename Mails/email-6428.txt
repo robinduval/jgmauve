@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 30 Nov 2003 00:00:00 +0000
+Message-ID: <4668585473@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle il faut se préoccuper de l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

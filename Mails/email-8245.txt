@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 19 Nov 2004 00:00:00 +0000
+Message-ID: <4601449007@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture actuelle il serait bon de ne pas négliger toutes les problématiques de bon sens
+
+Cordialement,
+John Doe
+

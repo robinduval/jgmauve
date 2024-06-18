@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Demande de collaboration
+Date: Wed, 05 Sep 2001 00:00:00 +0000
+Message-ID: <3286156574@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance de ces derniers temps il serait bon de se préoccuper de la globalité des solutions possibles
+
+Cordialement,
+Emma Lee
+

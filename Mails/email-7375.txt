@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 09 Sep 2007 00:00:00 +0000
+Message-ID: <7946408992@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose présente il serait intéressant de étudier toutes les voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

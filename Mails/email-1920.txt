@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 22 Jan 2007 00:00:00 +0000
+Message-ID: <5489708835@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité contemporaine il serait intéressant de examiner la globalité des issues envisageables
+
+Cordialement,
+Michael Taylor
+

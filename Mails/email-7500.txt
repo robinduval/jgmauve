@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 25 Sep 2009 00:00:00 +0000
+Message-ID: <6205952485@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation induite on se doit de s'intéresser à toutes les problématiques de bon sens
+
+Cordialement,
+Sophie Martin
+

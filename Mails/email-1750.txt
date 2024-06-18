@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 08 Jan 2009 00:00:00 +0000
+Message-ID: <3840937112@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs induite il convient de se préoccuper de toutes les voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

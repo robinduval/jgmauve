@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Tue, 10 Nov 2009 00:00:00 +0000
+Message-ID: <8923183223@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il faut de toute urgence avoir à l'esprit toutes les voies possibles
+
+Cordialement,
+Daniel Clark
+

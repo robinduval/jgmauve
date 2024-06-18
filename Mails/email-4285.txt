@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 04 Mar 2003 00:00:00 +0000
+Message-ID: <1996156314@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui est la nôtre il serait intéressant de se préoccuper de la totalité des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

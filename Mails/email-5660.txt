@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 25 Jan 2005 00:00:00 +0000
+Message-ID: <4946048570@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la baisse de confiance actuelle il faut de toute urgence se préoccuper de certaines issues envisageables
+
+Cordialement,
+Sophie Martin
+

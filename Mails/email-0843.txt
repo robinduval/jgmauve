@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 12 Feb 2003 00:00:00 +0000
+Message-ID: <4758896821@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse conjoncturelle il faut de toute urgence étudier l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

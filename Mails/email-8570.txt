@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Tue, 01 Jul 2008 00:00:00 +0000
+Message-ID: <1367141009@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs qui nous occupe on se doit de anticiper chacune des issues s'offrant à nous
+
+Cordialement,
+David Brown
+

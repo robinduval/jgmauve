@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 16 Jan 2001 00:00:00 +0000
+Message-ID: <4199437398@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture présente il serait bon de se remémorer l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

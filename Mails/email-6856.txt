@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 24 Apr 2005 00:00:00 +0000
+Message-ID: <2656542655@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité contemporaine il est préférable de s'intéresser à l'ensemble des voies possibles
+
+Cordialement,
+Michael Taylor
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 07 Aug 2008 00:00:00 +0000
+Message-ID: <2652691379@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui nous occupe on se doit de se préoccuper de toutes les solutions s'offrant à nous
+
+Cordialement,
+David Brown
+

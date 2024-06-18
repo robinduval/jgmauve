@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 16 Nov 2000 00:00:00 +0000
+Message-ID: <6708654338@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de cette fin de siècle il est nécessaire de prendre en considération l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Wed, 25 Dec 2002 00:00:00 +0000
+Message-ID: <9687619385@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs induite il serait intéressant de anticiper la globalité des issues possibles
+
+Cordialement,
+Daniel Clark
+

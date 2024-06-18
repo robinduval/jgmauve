@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 27 Feb 2009 00:00:00 +0000
+Message-ID: <7480218188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise contemporaine il serait bon de étudier la somme des solutions possibles
+
+Cordialement,
+Samuel White
+

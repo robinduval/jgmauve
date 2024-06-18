@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 14 Oct 2009 00:00:00 +0000
+Message-ID: <5517241052@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation actuelle il serait intéressant de se remémorer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+John Doe
+

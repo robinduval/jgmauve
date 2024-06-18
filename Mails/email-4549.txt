@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 11 Nov 2006 00:00:00 +0000
+Message-ID: <9254554549@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il faut de toute urgence se remémorer la totalité des issues s'offrant à nous
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 22 Oct 2009 00:00:00 +0000
+Message-ID: <7537216882@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de ces derniers temps il convient de étudier l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

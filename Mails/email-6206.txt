@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 12 Jan 2005 00:00:00 +0000
+Message-ID: <5255885811@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs actuelle on ne peut se passer de examiner l'ensemble des issues possibles
+
+Cordialement,
+Samuel White
+

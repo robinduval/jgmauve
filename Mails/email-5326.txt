@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 13 Feb 2000 00:00:00 +0000
+Message-ID: <8290822065@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de ces derniers temps il convient de étudier toutes les solutions déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

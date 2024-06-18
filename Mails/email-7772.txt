@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Thu, 24 Apr 2008 00:00:00 +0000
+Message-ID: <1139783566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture de la société il serait intéressant de étudier l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

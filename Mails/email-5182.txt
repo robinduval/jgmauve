@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 17 Feb 2006 00:00:00 +0000
+Message-ID: <8548290114@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de ces derniers temps il ne faut pas négliger de anticiper certaines problématiques possibles
+
+Cordialement,
+Eva Thomas
+

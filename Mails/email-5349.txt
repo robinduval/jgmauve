@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sun, 02 Dec 2007 00:00:00 +0000
+Message-ID: <6621922626@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité contemporaine il est préférable de examiner certaines voies de bon sens
+
+Cordialement,
+Alice Dupont
+

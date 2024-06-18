@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 22 Nov 2007 00:00:00 +0000
+Message-ID: <1714036623@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation actuelle il faut de toute urgence examiner la somme des voies envisageables
+
+Cordialement,
+Olivia Harris
+

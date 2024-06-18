@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 12 Jun 2001 00:00:00 +0000
+Message-ID: <5278076827@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de la société il faut de toute urgence prendre en considération toutes les solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

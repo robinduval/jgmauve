@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 19 Mar 2007 00:00:00 +0000
+Message-ID: <5586060067@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de ces derniers temps on ne peut se passer de s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 06 May 2000 00:00:00 +0000
+Message-ID: <4502259211@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui est la nôtre il faut examiner la totalité des alternatives déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

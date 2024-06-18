@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 04 Mar 2003 00:00:00 +0000
+Message-ID: <2678244091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation contemporaine il convient de se remémorer la globalité des problématiques envisageables
+
+Cordialement,
+Laura Wilson
+

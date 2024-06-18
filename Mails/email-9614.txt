@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Sun, 08 Jun 2008 00:00:00 +0000
+Message-ID: <1792969146@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de cette fin de siècle il faut de toute urgence prendre en considération l'ensemble des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

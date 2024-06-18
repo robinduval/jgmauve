@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 18 Jul 2002 00:00:00 +0000
+Message-ID: <9073876887@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité de la société il faut examiner la somme des solutions s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

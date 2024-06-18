@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 03 Jul 2002 00:00:00 +0000
+Message-ID: <9883719350@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise présente il ne faut pas négliger de se préoccuper de la globalité des solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

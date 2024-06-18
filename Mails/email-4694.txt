@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 21 Nov 2004 00:00:00 +0000
+Message-ID: <8282213222@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de cette fin de siècle il convient de s'intéresser à la globalité des problématiques possibles
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Sun, 20 Sep 2009 00:00:00 +0000
+Message-ID: <1433318613@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie qui nous occupe il ne faut pas négliger de s'intéresser à l'ensemble des solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

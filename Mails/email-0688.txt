@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Thu, 14 Feb 2008 00:00:00 +0000
+Message-ID: <4652743331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de la société on se doit de se remémorer la somme des issues possibles
+
+Cordialement,
+Daniel Clark
+

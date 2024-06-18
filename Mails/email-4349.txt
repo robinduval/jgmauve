@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 27 Jun 2006 00:00:00 +0000
+Message-ID: <9067163796@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture induite il serait intéressant de anticiper la somme des solutions de bon sens
+
+Cordialement,
+Jean Neige
+

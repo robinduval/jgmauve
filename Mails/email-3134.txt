@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 13 Aug 2006 00:00:00 +0000
+Message-ID: <7258095612@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il serait bon de étudier la somme des issues de bon sens
+
+Cordialement,
+Emma Lee
+

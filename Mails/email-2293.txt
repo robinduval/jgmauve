@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 25 Jul 2001 00:00:00 +0000
+Message-ID: <4604755373@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation conjoncturelle on ne peut se passer de s'intéresser à la somme des issues déjà en notre possession
+
+Cordialement,
+Emma Lee
+

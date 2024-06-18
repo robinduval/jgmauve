@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 15 Mar 2005 00:00:00 +0000
+Message-ID: <1086038074@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs induite il convient de examiner la majorité des solutions possibles
+
+Cordialement,
+Samuel White
+

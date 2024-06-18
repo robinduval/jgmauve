@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 03 Nov 2000 00:00:00 +0000
+Message-ID: <1742820605@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de la société on ne peut se passer de se remémorer la majorité des solutions s'offrant à nous
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 07 Aug 2007 00:00:00 +0000
+Message-ID: <6237832020@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de cette fin de siècle il est nécessaire de s'intéresser à certaines issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

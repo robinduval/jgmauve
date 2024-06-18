@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Tue, 13 Mar 2007 00:00:00 +0000
+Message-ID: <1303757417@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation de ces derniers temps on se doit de s'intéresser à l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

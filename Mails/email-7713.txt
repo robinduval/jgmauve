@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 28 Jan 2007 00:00:00 +0000
+Message-ID: <9561977957@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de cette fin de siècle il faut imaginer toutes les voies s'offrant à nous
+
+Cordialement,
+John Doe
+

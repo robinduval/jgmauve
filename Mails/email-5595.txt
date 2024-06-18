@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 12 Jul 2008 00:00:00 +0000
+Message-ID: <4016557728@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation de ces derniers temps il faut de toute urgence imaginer la somme des solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 07 Dec 2007 00:00:00 +0000
+Message-ID: <4559257349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse actuelle il faut s'intéresser à certaines alternatives envisageables
+
+Cordialement,
+Emma Lee
+

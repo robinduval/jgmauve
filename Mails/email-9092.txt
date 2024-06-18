@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Thu, 02 Jan 2003 00:00:00 +0000
+Message-ID: <9614337729@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de ces derniers temps il serait intéressant de se remémorer la somme des alternatives de bon sens
+
+Cordialement,
+Charlotte Moore
+

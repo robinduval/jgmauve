@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 15 Dec 2007 00:00:00 +0000
+Message-ID: <1614600611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité induite il faut anticiper la totalité des problématiques de bon sens
+
+Cordialement,
+Alice Dupont
+

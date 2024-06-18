@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 17 Sep 2002 00:00:00 +0000
+Message-ID: <4772558566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle il serait bon de s'intéresser à la totalité des problématiques possibles
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Tue, 09 Jan 2007 00:00:00 +0000
+Message-ID: <6880800353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle on ne peut se passer de anticiper toutes les solutions s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

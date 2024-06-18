@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 25 Nov 2003 00:00:00 +0000
+Message-ID: <5102981813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie présente il faut s'intéresser à certaines solutions envisageables
+
+Cordialement,
+Bob Smith
+

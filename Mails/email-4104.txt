@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 13 Oct 2002 00:00:00 +0000
+Message-ID: <6960098222@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie qui est la nôtre il faut imaginer toutes les solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

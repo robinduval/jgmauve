@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 27 Apr 2007 00:00:00 +0000
+Message-ID: <1139942136@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs conjoncturelle il faut de toute urgence imaginer certaines alternatives possibles
+
+Cordialement,
+Charlotte Moore
+

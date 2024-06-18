@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 22 Aug 2008 00:00:00 +0000
+Message-ID: <2156839158@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs contemporaine il faut avoir à l'esprit la totalité des voies s'offrant à nous
+
+Cordialement,
+John Doe
+

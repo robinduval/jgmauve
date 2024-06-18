@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Meeting important
+Date: Sun, 05 Aug 2001 00:00:00 +0000
+Message-ID: <9623534219@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui nous occupe il est préférable de imaginer certaines issues s'offrant à nous
+
+Cordialement,
+Samuel White
+

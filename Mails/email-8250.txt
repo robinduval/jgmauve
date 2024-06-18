@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 08 Jan 2008 00:00:00 +0000
+Message-ID: <2185073885@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs actuelle il convient de imaginer certaines solutions envisageables
+
+Cordialement,
+Olivia Harris
+

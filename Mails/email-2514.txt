@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Fri, 14 Feb 2003 00:00:00 +0000
+Message-ID: <8902284606@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de la société il est nécessaire de s'intéresser à toutes les alternatives déjà en notre possession
+
+Cordialement,
+William Jackson
+

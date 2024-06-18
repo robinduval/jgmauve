@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 29 May 2007 00:00:00 +0000
+Message-ID: <9474661270@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il serait bon de avoir à l'esprit chacune des alternatives envisageables
+
+Cordialement,
+David Brown
+

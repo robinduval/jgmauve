@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Fri, 12 Sep 2003 00:00:00 +0000
+Message-ID: <7817833830@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse qui est la nôtre on ne peut se passer de étudier toutes les issues de bon sens
+
+Cordialement,
+Bob Smith
+

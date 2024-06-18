@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 30 Nov 2005 00:00:00 +0000
+Message-ID: <8465193733@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs contemporaine il faut de toute urgence imaginer l'ensemble des problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

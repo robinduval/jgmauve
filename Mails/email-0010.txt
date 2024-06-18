@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 25 Dec 2003 00:00:00 +0000
+Message-ID: <1017850893@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il serait bon de examiner la totalité des voies envisageables
+
+Cordialement,
+Sophie Martin
+

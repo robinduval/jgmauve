@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Wed, 16 Jul 2003 00:00:00 +0000
+Message-ID: <4179552932@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse actuelle il est nécessaire de avoir à l'esprit certaines voies possibles
+
+Cordialement,
+Michael Taylor
+

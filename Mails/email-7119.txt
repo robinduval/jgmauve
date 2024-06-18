@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Sun, 25 May 2003 00:00:00 +0000
+Message-ID: <7836805371@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance présente on se doit de ne pas négliger certaines solutions déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

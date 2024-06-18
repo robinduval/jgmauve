@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 29 Jul 2000 00:00:00 +0000
+Message-ID: <6842313286@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité présente il faut s'intéresser à toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

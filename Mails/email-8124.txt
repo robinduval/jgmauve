@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 21 May 2004 00:00:00 +0000
+Message-ID: <3618115379@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise conjoncturelle on ne peut se passer de anticiper la totalité des alternatives de bon sens
+
+Cordialement,
+Alice Dupont
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 06 Dec 2000 00:00:00 +0000
+Message-ID: <6347907157@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose présente il est préférable de se remémorer toutes les problématiques s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

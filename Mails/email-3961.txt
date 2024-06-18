@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Fri, 10 Aug 2001 00:00:00 +0000
+Message-ID: <8073351760@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise qui nous occupe on se doit de examiner chacune des issues envisageables
+
+Cordialement,
+Charlotte Moore
+

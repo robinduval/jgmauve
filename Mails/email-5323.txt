@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Thu, 16 Apr 2009 00:00:00 +0000
+Message-ID: <3311205741@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse actuelle il serait bon de avoir à l'esprit la majorité des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

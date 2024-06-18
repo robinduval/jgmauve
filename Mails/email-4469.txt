@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 04 May 2003 00:00:00 +0000
+Message-ID: <1699426615@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de ces derniers temps il serait intéressant de ne pas négliger chacune des solutions possibles
+
+Cordialement,
+Jean Neige
+

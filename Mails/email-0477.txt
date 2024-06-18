@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 01 Dec 2006 00:00:00 +0000
+Message-ID: <6701884169@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation de ces derniers temps il serait intéressant de s'intéresser à certaines solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 04 Jun 2005 00:00:00 +0000
+Message-ID: <1352529775@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps on ne peut se passer de s'intéresser à la somme des voies s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

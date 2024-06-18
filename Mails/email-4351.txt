@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 28 Nov 2001 00:00:00 +0000
+Message-ID: <3342690475@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il serait bon de examiner la somme des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

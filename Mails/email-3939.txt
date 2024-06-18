@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 03 Jun 2006 00:00:00 +0000
+Message-ID: <3627338720@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance de ces derniers temps il ne faut pas négliger de anticiper la globalité des voies de bon sens
+
+Cordialement,
+Jean Neige
+

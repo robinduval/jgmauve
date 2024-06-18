@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 22 Jun 2001 00:00:00 +0000
+Message-ID: <4580323764@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de ces derniers temps il serait bon de ne pas négliger certaines solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

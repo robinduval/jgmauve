@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 11 Sep 2000 00:00:00 +0000
+Message-ID: <1970401091@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui est la nôtre il serait bon de s'intéresser à la somme des solutions envisageables
+
+Cordialement,
+Sophie Martin
+

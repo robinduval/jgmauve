@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 27 Jul 2009 00:00:00 +0000
+Message-ID: <5770930165@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de cette fin de siècle il convient de anticiper toutes les alternatives envisageables
+
+Cordialement,
+Daniel Clark
+

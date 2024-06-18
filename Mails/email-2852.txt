@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 01 Feb 2003 00:00:00 +0000
+Message-ID: <5210282349@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs de la société il serait bon de étudier la totalité des issues envisageables
+
+Cordialement,
+William Jackson
+

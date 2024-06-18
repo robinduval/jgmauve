@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Thu, 18 Aug 2005 00:00:00 +0000
+Message-ID: <1127618408@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie qui est la nôtre il serait intéressant de prendre en considération la globalité des problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

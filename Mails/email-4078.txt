@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 13 Mar 2002 00:00:00 +0000
+Message-ID: <3456345088@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise conjoncturelle il est préférable de se préoccuper de toutes les issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

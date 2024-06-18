@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 17 Sep 2001 00:00:00 +0000
+Message-ID: <7649805341@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture de ces derniers temps il faut anticiper la somme des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

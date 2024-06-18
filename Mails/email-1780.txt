@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 17 Jan 2002 00:00:00 +0000
+Message-ID: <8535322621@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs conjoncturelle on se doit de ne pas négliger la majorité des voies s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 23 May 2002 00:00:00 +0000
+Message-ID: <8940986611@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse actuelle il serait intéressant de s'intéresser à chacune des solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

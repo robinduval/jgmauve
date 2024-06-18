@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Fri, 16 Dec 2005 00:00:00 +0000
+Message-ID: <3595689476@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs présente il convient de imaginer toutes les voies possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Sat, 25 Apr 2009 00:00:00 +0000
+Message-ID: <5222692449@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de la société il est nécessaire de se remémorer certaines solutions de bon sens
+
+Cordialement,
+David Brown
+

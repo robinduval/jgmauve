@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 12 Aug 2005 00:00:00 +0000
+Message-ID: <8068310065@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de ces derniers temps il est nécessaire de anticiper la totalité des solutions de bon sens
+
+Cordialement,
+David Brown
+

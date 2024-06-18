@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 12 Feb 2007 00:00:00 +0000
+Message-ID: <7242885253@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente il est préférable de étudier chacune des solutions envisageables
+
+Cordialement,
+William Jackson
+

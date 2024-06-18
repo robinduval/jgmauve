@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 26 Jan 2002 00:00:00 +0000
+Message-ID: <2292336985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de cette fin de siècle il est préférable de imaginer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

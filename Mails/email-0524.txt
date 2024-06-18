@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 26 Apr 2000 00:00:00 +0000
+Message-ID: <6512764348@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie conjoncturelle il est nécessaire de s'intéresser à certaines voies possibles
+
+Cordialement,
+Charlotte Moore
+

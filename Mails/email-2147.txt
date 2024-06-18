@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Wed, 01 Feb 2006 00:00:00 +0000
+Message-ID: <5598223782@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de ces derniers temps on ne peut se passer de avoir à l'esprit chacune des issues envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Sun, 30 Apr 2000 00:00:00 +0000
+Message-ID: <2067420660@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance contemporaine on ne peut se passer de s'intéresser à l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

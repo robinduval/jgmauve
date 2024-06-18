@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Mon, 01 Jul 2002 00:00:00 +0000
+Message-ID: <7222044730@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance induite on ne peut se passer de se remémorer la globalité des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

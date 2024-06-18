@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Tue, 25 Feb 2003 00:00:00 +0000
+Message-ID: <9337986455@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui est la nôtre il est préférable de étudier certaines solutions possibles
+
+Cordialement,
+Sophie Martin
+

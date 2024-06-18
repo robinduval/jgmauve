@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sat, 26 Apr 2008 00:00:00 +0000
+Message-ID: <2608815273@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose qui nous occupe il convient de se préoccuper de toutes les issues envisageables
+
+Cordialement,
+Laura Wilson
+

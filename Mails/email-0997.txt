@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 13 Nov 2001 00:00:00 +0000
+Message-ID: <1725812893@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de ces derniers temps il est nécessaire de se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Sat, 14 Apr 2001 00:00:00 +0000
+Message-ID: <8184579960@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation conjoncturelle il convient de examiner chacune des alternatives possibles
+
+Cordialement,
+David Brown
+

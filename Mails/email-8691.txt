@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 27 Jun 2003 00:00:00 +0000
+Message-ID: <2966042014@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse induite il serait bon de se remémorer l'ensemble des alternatives envisageables
+
+Cordialement,
+Jean Neige
+

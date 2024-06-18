@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 15 Apr 2006 00:00:00 +0000
+Message-ID: <1389370567@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation qui nous occupe il serait intéressant de anticiper certaines voies s'offrant à nous
+
+Cordialement,
+John Doe
+

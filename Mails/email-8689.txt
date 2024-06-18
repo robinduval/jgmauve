@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 12 Jul 2005 00:00:00 +0000
+Message-ID: <2125787578@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui est la nôtre il ne faut pas négliger de examiner la somme des issues s'offrant à nous
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 31 Oct 2004 00:00:00 +0000
+Message-ID: <1811062905@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture contemporaine on ne peut se passer de se remémorer la totalité des problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

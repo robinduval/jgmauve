@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 18 Dec 2009 00:00:00 +0000
+Message-ID: <2693109403@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il serait intéressant de s'intéresser à la totalité des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 14 Feb 2004 00:00:00 +0000
+Message-ID: <6682059945@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle il serait intéressant de ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+William Jackson
+

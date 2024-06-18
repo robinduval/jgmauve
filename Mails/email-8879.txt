@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Meeting important
+Date: Fri, 12 May 2006 00:00:00 +0000
+Message-ID: <5022410723@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie présente il est nécessaire de ne pas négliger toutes les solutions possibles
+
+Cordialement,
+Charlotte Moore
+

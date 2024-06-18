@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 15 Feb 2007 00:00:00 +0000
+Message-ID: <5944358519@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation qui nous occupe il est nécessaire de ne pas négliger l'ensemble des voies possibles
+
+Cordialement,
+Sophie Martin
+

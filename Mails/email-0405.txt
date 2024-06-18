@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 22 Mar 2008 00:00:00 +0000
+Message-ID: <2153621665@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de ces derniers temps il serait intéressant de examiner la globalité des solutions envisageables
+
+Cordialement,
+Eva Thomas
+

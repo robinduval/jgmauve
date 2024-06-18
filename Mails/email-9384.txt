@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Tue, 28 Oct 2008 00:00:00 +0000
+Message-ID: <5981824136@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui nous occupe il ne faut pas négliger de s'intéresser à l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

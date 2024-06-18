@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Wed, 08 May 2002 00:00:00 +0000
+Message-ID: <4449950138@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie qui nous occupe il faut de toute urgence imaginer chacune des alternatives de bon sens
+
+Cordialement,
+David Brown
+

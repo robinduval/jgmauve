@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 30 Apr 2007 00:00:00 +0000
+Message-ID: <1455626898@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance qui est la nôtre il est préférable de anticiper l'ensemble des problématiques de bon sens
+
+Cordialement,
+Eva Thomas
+

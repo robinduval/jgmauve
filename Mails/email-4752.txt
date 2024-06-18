@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 11 Feb 2007 00:00:00 +0000
+Message-ID: <3842281015@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose de cette fin de siècle il est nécessaire de ne pas négliger certaines problématiques envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 17 Aug 2003 00:00:00 +0000
+Message-ID: <1407305021@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité actuelle il est nécessaire de s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Nouvelle offre spéciale
+Date: Fri, 25 Nov 2005 00:00:00 +0000
+Message-ID: <2895539385@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre il faut de toute urgence anticiper chacune des problématiques s'offrant à nous
+
+Cordialement,
+David Brown
+

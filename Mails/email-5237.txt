@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Sun, 09 Sep 2001 00:00:00 +0000
+Message-ID: <8656218304@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre il est préférable de prendre en considération la globalité des alternatives possibles
+
+Cordialement,
+Laura Wilson
+

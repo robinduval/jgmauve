@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Rapport de projet
+Date: Mon, 22 Sep 2008 00:00:00 +0000
+Message-ID: <6659587627@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la sinistrose qui est la nôtre on ne peut se passer de étudier toutes les alternatives envisageables
+
+Cordialement,
+Laura Wilson
+

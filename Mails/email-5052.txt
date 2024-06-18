@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Demande de collaboration
+Date: Fri, 02 Jun 2000 00:00:00 +0000
+Message-ID: <9575744525@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose contemporaine on se doit de prendre en considération chacune des voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

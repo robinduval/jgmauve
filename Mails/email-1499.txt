@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 21 Jul 2000 00:00:00 +0000
+Message-ID: <4490936739@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation conjoncturelle il est préférable de s'intéresser à l'ensemble des problématiques s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

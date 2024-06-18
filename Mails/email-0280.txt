@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 19 Apr 2009 00:00:00 +0000
+Message-ID: <3710229170@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité présente on ne peut se passer de ne pas négliger la majorité des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

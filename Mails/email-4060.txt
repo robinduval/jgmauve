@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Sat, 05 Mar 2005 00:00:00 +0000
+Message-ID: <8516772952@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance présente il serait bon de s'intéresser à toutes les problématiques s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

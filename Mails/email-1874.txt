@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 19 Jun 2007 00:00:00 +0000
+Message-ID: <2756310757@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose actuelle il serait bon de imaginer toutes les problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

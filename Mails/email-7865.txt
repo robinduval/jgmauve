@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 02 Nov 2003 00:00:00 +0000
+Message-ID: <3493806994@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise présente il serait bon de examiner toutes les voies possibles
+
+Cordialement,
+Alice Dupont
+

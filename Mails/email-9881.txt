@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Sun, 10 Sep 2006 00:00:00 +0000
+Message-ID: <4355469702@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise de la société il est nécessaire de imaginer la totalité des alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

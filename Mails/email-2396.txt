@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 23 Mar 2005 00:00:00 +0000
+Message-ID: <8838918787@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation induite il est nécessaire de s'intéresser à la somme des alternatives possibles
+
+Cordialement,
+Emma Lee
+

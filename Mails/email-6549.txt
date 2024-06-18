@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 16 Mar 2005 00:00:00 +0000
+Message-ID: <6154330187@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui est la nôtre on se doit de imaginer la globalité des voies déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

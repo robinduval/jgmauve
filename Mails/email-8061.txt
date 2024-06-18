@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 01 Jan 2003 00:00:00 +0000
+Message-ID: <2707606791@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse présente il est préférable de avoir à l'esprit la globalité des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

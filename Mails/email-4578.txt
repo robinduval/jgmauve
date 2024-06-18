@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 18 Jun 2005 00:00:00 +0000
+Message-ID: <8460791322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui nous occupe on ne peut se passer de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+Laura Wilson
+

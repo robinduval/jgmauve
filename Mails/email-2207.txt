@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 07 Feb 2001 00:00:00 +0000
+Message-ID: <1996357588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité actuelle il faut se préoccuper de toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

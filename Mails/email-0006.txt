@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 12 Mar 2005 00:00:00 +0000
+Message-ID: <5460810116@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs contemporaine il est nécessaire de s'intéresser à toutes les problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

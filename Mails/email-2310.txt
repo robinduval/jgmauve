@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 27 Feb 2001 00:00:00 +0000
+Message-ID: <9282959591@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de la société il ne faut pas négliger de ne pas négliger certaines alternatives envisageables
+
+Cordialement,
+Eva Thomas
+

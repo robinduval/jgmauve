@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 03 Mar 2006 00:00:00 +0000
+Message-ID: <6195744442@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs conjoncturelle il serait bon de examiner certaines solutions s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

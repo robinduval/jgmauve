@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 10 Jan 2007 00:00:00 +0000
+Message-ID: <3694609364@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité induite on ne peut se passer de imaginer la somme des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

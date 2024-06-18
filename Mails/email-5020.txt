@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Fri, 09 Jan 2009 00:00:00 +0000
+Message-ID: <6585488603@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose qui est la nôtre on se doit de se préoccuper de toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

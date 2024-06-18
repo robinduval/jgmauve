@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Sat, 15 Nov 2008 00:00:00 +0000
+Message-ID: <5582577872@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse présente il est préférable de se préoccuper de toutes les problématiques possibles
+
+Cordialement,
+Emma Lee
+

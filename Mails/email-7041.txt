@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Rapport de projet
+Date: Mon, 14 Apr 2008 00:00:00 +0000
+Message-ID: <5008213916@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture induite on ne peut se passer de prendre en considération toutes les voies envisageables
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 22 Mar 2000 00:00:00 +0000
+Message-ID: <8493137357@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il ne faut pas négliger de se préoccuper de chacune des voies de bon sens
+
+Cordialement,
+Samuel White
+

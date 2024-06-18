@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 07 Dec 2001 00:00:00 +0000
+Message-ID: <8489959162@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe il ne faut pas négliger de examiner la totalité des voies possibles
+
+Cordialement,
+Sophie Martin
+

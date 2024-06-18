@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Wed, 25 Oct 2000 00:00:00 +0000
+Message-ID: <7901071269@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui nous occupe il est nécessaire de ne pas négliger chacune des problématiques de bon sens
+
+Cordialement,
+David Brown
+

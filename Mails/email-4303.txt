@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 21 Sep 2006 00:00:00 +0000
+Message-ID: <9522581108@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose contemporaine il faut de toute urgence étudier la globalité des solutions envisageables
+
+Cordialement,
+John Doe
+

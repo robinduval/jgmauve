@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Sun, 21 Aug 2005 00:00:00 +0000
+Message-ID: <2227525369@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise de la société il convient de se préoccuper de certaines solutions déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

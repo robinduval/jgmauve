@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sat, 02 Sep 2006 00:00:00 +0000
+Message-ID: <8186055750@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de cette fin de siècle il faut de toute urgence anticiper toutes les solutions envisageables
+
+Cordialement,
+David Brown
+

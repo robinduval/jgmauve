@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 11 Aug 2007 00:00:00 +0000
+Message-ID: <9660446335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs induite il est préférable de avoir à l'esprit toutes les voies de bon sens
+
+Cordialement,
+David Brown
+

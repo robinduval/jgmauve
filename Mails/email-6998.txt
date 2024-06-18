@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 17 Apr 2002 00:00:00 +0000
+Message-ID: <6684734072@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de la société il ne faut pas négliger de se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

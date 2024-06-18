@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 17 Jun 2009 00:00:00 +0000
+Message-ID: <6327500572@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation présente on se doit de se remémorer l'ensemble des voies possibles
+
+Cordialement,
+Laura Wilson
+

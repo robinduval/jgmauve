@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rapport de projet
+Date: Thu, 07 Dec 2000 00:00:00 +0000
+Message-ID: <1996029042@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il est nécessaire de se préoccuper de l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

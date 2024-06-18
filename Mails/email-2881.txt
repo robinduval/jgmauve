@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 13 Mar 2007 00:00:00 +0000
+Message-ID: <6585934525@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de cette fin de siècle il faut de toute urgence prendre en considération la somme des problématiques possibles
+
+Cordialement,
+Alice Dupont
+

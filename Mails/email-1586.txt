@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 18 Feb 2007 00:00:00 +0000
+Message-ID: <9432970528@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dégradation des moeurs qui nous occupe on se doit de prendre en considération chacune des problématiques envisageables
+
+Cordialement,
+John Doe
+

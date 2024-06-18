@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Sun, 14 Oct 2007 00:00:00 +0000
+Message-ID: <1290111697@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité qui nous occupe on se doit de examiner toutes les problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

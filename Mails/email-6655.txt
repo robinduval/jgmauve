@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 17 Aug 2008 00:00:00 +0000
+Message-ID: <4534719799@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture de la société il faut imaginer toutes les problématiques envisageables
+
+Cordialement,
+Emma Lee
+

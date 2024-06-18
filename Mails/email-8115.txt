@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Sat, 08 Apr 2000 00:00:00 +0000
+Message-ID: <8192487515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui nous occupe il faut ne pas négliger toutes les voies de bon sens
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Meeting important
+Date: Sun, 13 Jan 2002 00:00:00 +0000
+Message-ID: <5761022950@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de ces derniers temps il ne faut pas négliger de examiner chacune des voies envisageables
+
+Cordialement,
+Laura Wilson
+

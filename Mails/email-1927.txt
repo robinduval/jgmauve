@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 18 Jun 2008 00:00:00 +0000
+Message-ID: <9666401995@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de ces derniers temps on ne peut se passer de examiner toutes les solutions déjà en notre possession
+
+Cordialement,
+David Brown
+

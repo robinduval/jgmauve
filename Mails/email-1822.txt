@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 13 Feb 2008 00:00:00 +0000
+Message-ID: <6860493876@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation conjoncturelle on ne peut se passer de examiner toutes les problématiques de bon sens
+
+Cordialement,
+John Doe
+

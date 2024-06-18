@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 30 Sep 2005 00:00:00 +0000
+Message-ID: <4472391410@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation actuelle il est préférable de avoir à l'esprit chacune des problématiques s'offrant à nous
+
+Cordialement,
+Emma Lee
+

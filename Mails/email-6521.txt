@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 21 May 2009 00:00:00 +0000
+Message-ID: <2495642915@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse qui est la nôtre on ne peut se passer de examiner toutes les alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

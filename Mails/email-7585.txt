@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 07 Jan 2002 00:00:00 +0000
+Message-ID: <4287891288@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la crise induite il serait bon de imaginer toutes les voies envisageables
+
+Cordialement,
+Sophie Martin
+

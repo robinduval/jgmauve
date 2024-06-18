@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 05 Apr 2005 00:00:00 +0000
+Message-ID: <3016078549@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise actuelle on se doit de ne pas négliger toutes les alternatives envisageables
+
+Cordialement,
+Daniel Clark
+

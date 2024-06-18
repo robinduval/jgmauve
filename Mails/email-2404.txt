@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 16 Nov 2000 00:00:00 +0000
+Message-ID: <8603005513@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de cette fin de siècle on se doit de étudier toutes les alternatives de bon sens
+
+Cordialement,
+Daniel Clark
+

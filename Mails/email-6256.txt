@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 18 May 2007 00:00:00 +0000
+Message-ID: <4035492551@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité contemporaine il faut de toute urgence avoir à l'esprit toutes les solutions envisageables
+
+Cordialement,
+Laura Wilson
+

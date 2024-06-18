@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 01 Aug 2005 00:00:00 +0000
+Message-ID: <7510897747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il est nécessaire de examiner toutes les issues de bon sens
+
+Cordialement,
+Daniel Clark
+

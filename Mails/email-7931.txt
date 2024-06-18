@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 08 Oct 2003 00:00:00 +0000
+Message-ID: <6636031457@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation actuelle on se doit de anticiper la globalité des solutions possibles
+
+Cordialement,
+Samuel White
+

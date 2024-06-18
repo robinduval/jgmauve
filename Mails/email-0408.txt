@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 05 Nov 2000 00:00:00 +0000
+Message-ID: <3207865086@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise induite il est nécessaire de examiner toutes les alternatives s'offrant à nous
+
+Cordialement,
+Bob Smith
+

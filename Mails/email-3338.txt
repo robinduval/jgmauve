@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 13 Aug 2008 00:00:00 +0000
+Message-ID: <1309991711@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de ces derniers temps il serait bon de anticiper la majorité des solutions possibles
+
+Cordialement,
+Olivia Harris
+

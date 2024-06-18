@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 27 Feb 2000 00:00:00 +0000
+Message-ID: <5182211529@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie conjoncturelle il convient de étudier la globalité des alternatives de bon sens
+
+Cordialement,
+Bob Smith
+

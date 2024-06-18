@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 06 Oct 2001 00:00:00 +0000
+Message-ID: <8491585382@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie présente il serait intéressant de examiner certaines solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

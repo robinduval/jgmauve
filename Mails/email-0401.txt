@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 27 Aug 2001 00:00:00 +0000
+Message-ID: <1048602104@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de cette fin de siècle il convient de s'intéresser à toutes les alternatives s'offrant à nous
+
+Cordialement,
+Emma Lee
+

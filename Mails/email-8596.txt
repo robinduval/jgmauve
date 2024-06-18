@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 06 Sep 2000 00:00:00 +0000
+Message-ID: <1659067423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse qui nous occupe il convient de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+William Jackson
+

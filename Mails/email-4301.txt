@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 13 Jul 2009 00:00:00 +0000
+Message-ID: <4399876731@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dégradation des moeurs conjoncturelle il faut imaginer la somme des issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

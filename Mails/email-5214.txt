@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 28 Jun 2002 00:00:00 +0000
+Message-ID: <4385263984@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation de ces derniers temps il ne faut pas négliger de ne pas négliger la somme des solutions de bon sens
+
+Cordialement,
+Bob Smith
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 11 Dec 2006 00:00:00 +0000
+Message-ID: <2952147304@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de ces derniers temps il est nécessaire de anticiper certaines voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

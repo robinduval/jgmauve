@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 19 Feb 2005 00:00:00 +0000
+Message-ID: <4313292959@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture de la société il est nécessaire de imaginer toutes les solutions de bon sens
+
+Cordialement,
+William Jackson
+

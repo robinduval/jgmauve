@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 29 Sep 2002 00:00:00 +0000
+Message-ID: <8587389230@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de cette fin de siècle il serait intéressant de ne pas négliger la globalité des solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

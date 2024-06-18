@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Annonce de vacances
+Date: Sun, 30 Mar 2008 00:00:00 +0000
+Message-ID: <6258628747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de ces derniers temps il est préférable de prendre en considération la globalité des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

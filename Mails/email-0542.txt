@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 06 Sep 2002 00:00:00 +0000
+Message-ID: <3439938493@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie actuelle on ne peut se passer de avoir à l'esprit la globalité des problématiques possibles
+
+Cordialement,
+Laura Wilson
+

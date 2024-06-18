@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Fri, 27 Jun 2003 00:00:00 +0000
+Message-ID: <8541397278@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance contemporaine il est préférable de ne pas négliger chacune des problématiques envisageables
+
+Cordialement,
+Charlotte Moore
+

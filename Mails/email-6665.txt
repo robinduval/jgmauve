@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 04 Aug 2002 00:00:00 +0000
+Message-ID: <2359038342@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse de cette fin de siècle il ne faut pas négliger de se préoccuper de la globalité des issues envisageables
+
+Cordialement,
+Emma Lee
+

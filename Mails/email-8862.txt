@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Sat, 08 Dec 2007 00:00:00 +0000
+Message-ID: <8841167081@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité qui nous occupe il convient de examiner certaines solutions possibles
+
+Cordialement,
+Laura Wilson
+

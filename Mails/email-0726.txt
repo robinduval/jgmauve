@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Thu, 30 Oct 2003 00:00:00 +0000
+Message-ID: <7857144740@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation présente il faut examiner la somme des issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

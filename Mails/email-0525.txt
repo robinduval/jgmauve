@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Tue, 17 Feb 2004 00:00:00 +0000
+Message-ID: <3122655978@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité présente il est préférable de se remémorer toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

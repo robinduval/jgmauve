@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Annonce de vacances
+Date: Mon, 17 Nov 2008 00:00:00 +0000
+Message-ID: <4445404139@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'extrémité qui est la nôtre il convient de se préoccuper de toutes les issues déjà en notre possession
+
+Cordialement,
+Sophie Martin
+

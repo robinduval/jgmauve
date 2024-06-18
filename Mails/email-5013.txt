@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 08 Jun 2000 00:00:00 +0000
+Message-ID: <2400105597@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise actuelle il faut examiner toutes les issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

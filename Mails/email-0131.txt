@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 25 May 2004 00:00:00 +0000
+Message-ID: <1609763059@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse de ces derniers temps on ne peut se passer de étudier toutes les solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

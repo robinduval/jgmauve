@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 10 Jun 2005 00:00:00 +0000
+Message-ID: <8763661872@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation présente on ne peut se passer de étudier toutes les voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

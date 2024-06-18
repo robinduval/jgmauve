@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Tue, 17 Jun 2008 00:00:00 +0000
+Message-ID: <1619329961@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation actuelle il convient de se préoccuper de la totalité des solutions envisageables
+
+Cordialement,
+John Doe
+

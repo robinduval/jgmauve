@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 03 Apr 2004 00:00:00 +0000
+Message-ID: <5543974033@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse présente on ne peut se passer de examiner certaines voies envisageables
+
+Cordialement,
+John Doe
+

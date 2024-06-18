@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Tue, 08 Jul 2008 00:00:00 +0000
+Message-ID: <8116635928@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de ces derniers temps il est nécessaire de se remémorer toutes les alternatives envisageables
+
+Cordialement,
+Daniel Clark
+

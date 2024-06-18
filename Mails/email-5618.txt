@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sun, 22 Sep 2002 00:00:00 +0000
+Message-ID: <8383335026@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de cette fin de siècle on se doit de prendre en considération toutes les solutions de bon sens
+
+Cordialement,
+Charlotte Moore
+

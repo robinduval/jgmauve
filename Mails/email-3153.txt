@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 23 Nov 2006 00:00:00 +0000
+Message-ID: <2473220112@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose de la société on se doit de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 08 Nov 2001 00:00:00 +0000
+Message-ID: <9650981367@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de cette fin de siècle il faut de toute urgence se préoccuper de l'ensemble des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

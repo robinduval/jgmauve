@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 27 Aug 2006 00:00:00 +0000
+Message-ID: <3557815944@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle on ne peut se passer de avoir à l'esprit la majorité des voies de bon sens
+
+Cordialement,
+William Jackson
+

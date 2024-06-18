@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 02 Jun 2002 00:00:00 +0000
+Message-ID: <3082478322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'impasse de la société il serait intéressant de examiner toutes les issues déjà en notre possession
+
+Cordialement,
+William Jackson
+

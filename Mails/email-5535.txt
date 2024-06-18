@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 10 Sep 2007 00:00:00 +0000
+Message-ID: <8671835386@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de la société on ne peut se passer de prendre en considération la globalité des solutions possibles
+
+Cordialement,
+Daniel Clark
+

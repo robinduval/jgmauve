@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Tue, 02 Mar 2004 00:00:00 +0000
+Message-ID: <3007280564@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie conjoncturelle il convient de avoir à l'esprit la somme des issues de bon sens
+
+Cordialement,
+Samuel White
+

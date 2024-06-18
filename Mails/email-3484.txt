@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 14 Feb 2003 00:00:00 +0000
+Message-ID: <9052120302@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il est préférable de anticiper toutes les issues possibles
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 28 May 2004 00:00:00 +0000
+Message-ID: <7606765810@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle il serait intéressant de avoir à l'esprit l'ensemble des alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

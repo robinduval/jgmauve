@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 31 Oct 2002 00:00:00 +0000
+Message-ID: <3850198734@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse conjoncturelle il est préférable de ne pas négliger la globalité des issues envisageables
+
+Cordialement,
+Samuel White
+

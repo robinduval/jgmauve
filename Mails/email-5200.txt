@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 02 Oct 2003 00:00:00 +0000
+Message-ID: <3307730144@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la crise de la société on se doit de prendre en considération l'ensemble des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

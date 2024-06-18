@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Mon, 22 Mar 2004 00:00:00 +0000
+Message-ID: <4651452180@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance présente on ne peut se passer de anticiper la totalité des alternatives s'offrant à nous
+
+Cordialement,
+John Doe
+

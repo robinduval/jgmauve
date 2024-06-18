@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 11 Oct 2004 00:00:00 +0000
+Message-ID: <9751017259@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité qui est la nôtre il ne faut pas négliger de ne pas négliger la majorité des alternatives s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

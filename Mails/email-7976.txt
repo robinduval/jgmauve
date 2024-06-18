@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Demande de collaboration
+Date: Fri, 15 Dec 2000 00:00:00 +0000
+Message-ID: <2442719588@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation de ces derniers temps on se doit de anticiper l'ensemble des voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

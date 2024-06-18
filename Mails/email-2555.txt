@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 08 Jan 2004 00:00:00 +0000
+Message-ID: <2779350924@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il serait bon de étudier chacune des issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

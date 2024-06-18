@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 15 Jul 2004 00:00:00 +0000
+Message-ID: <8760086518@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité présente il est préférable de ne pas négliger toutes les voies possibles
+
+Cordialement,
+Emma Lee
+

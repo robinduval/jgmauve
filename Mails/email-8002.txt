@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 06 Aug 2008 00:00:00 +0000
+Message-ID: <6925670959@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la situation présente il est préférable de examiner l'ensemble des issues déjà en notre possession
+
+Cordialement,
+Bob Smith
+

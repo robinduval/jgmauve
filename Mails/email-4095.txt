@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 25 Mar 2004 00:00:00 +0000
+Message-ID: <8928697985@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle on ne peut se passer de étudier toutes les alternatives possibles
+
+Cordialement,
+Olivia Harris
+

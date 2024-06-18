@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 19 Feb 2006 00:00:00 +0000
+Message-ID: <4556571899@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose induite il est nécessaire de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

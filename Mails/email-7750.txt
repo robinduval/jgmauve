@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 29 Dec 2005 00:00:00 +0000
+Message-ID: <6574872887@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui nous occupe il convient de prendre en considération chacune des problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

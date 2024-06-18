@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 18 Apr 2005 00:00:00 +0000
+Message-ID: <8409917767@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose contemporaine il faut de toute urgence se préoccuper de la totalité des voies envisageables
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Annonce de vacances
+Date: Sat, 12 Jul 2008 00:00:00 +0000
+Message-ID: <1939424599@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de la société il ne faut pas négliger de ne pas négliger l'ensemble des problématiques possibles
+
+Cordialement,
+Olivia Harris
+

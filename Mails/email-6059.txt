@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 07 Jan 2003 00:00:00 +0000
+Message-ID: <7436826606@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse conjoncturelle il est nécessaire de prendre en considération l'ensemble des issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

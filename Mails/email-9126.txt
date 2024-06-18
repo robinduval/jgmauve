@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 26 Mar 2003 00:00:00 +0000
+Message-ID: <9474686377@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture contemporaine il est préférable de examiner la globalité des issues de bon sens
+
+Cordialement,
+Alice Dupont
+

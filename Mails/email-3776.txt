@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 27 Oct 2003 00:00:00 +0000
+Message-ID: <9178139170@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de ces derniers temps il convient de se remémorer la totalité des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

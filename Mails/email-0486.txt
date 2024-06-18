@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Tue, 24 Aug 2004 00:00:00 +0000
+Message-ID: <3210692884@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture qui nous occupe il faut s'intéresser à la globalité des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

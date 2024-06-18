@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 20 Nov 2003 00:00:00 +0000
+Message-ID: <1056092035@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation conjoncturelle il serait bon de ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+David Brown
+

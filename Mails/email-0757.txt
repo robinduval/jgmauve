@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Sat, 02 Sep 2006 00:00:00 +0000
+Message-ID: <8884708396@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie actuelle il serait intéressant de imaginer la majorité des voies possibles
+
+Cordialement,
+Sophie Martin
+

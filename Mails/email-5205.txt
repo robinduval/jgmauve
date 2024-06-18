@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 23 Nov 2007 00:00:00 +0000
+Message-ID: <7104893141@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité conjoncturelle il convient de ne pas négliger toutes les alternatives possibles
+
+Cordialement,
+Michael Taylor
+

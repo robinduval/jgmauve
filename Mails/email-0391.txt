@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 01 May 2005 00:00:00 +0000
+Message-ID: <5377341752@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de cette fin de siècle il ne faut pas négliger de prendre en considération toutes les problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

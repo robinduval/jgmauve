@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Mon, 12 Nov 2001 00:00:00 +0000
+Message-ID: <5955726458@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité de cette fin de siècle on se doit de examiner toutes les voies possibles
+
+Cordialement,
+Jean Neige
+

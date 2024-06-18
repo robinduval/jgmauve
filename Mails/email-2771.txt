@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 11 May 2006 00:00:00 +0000
+Message-ID: <7244177331@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise qui nous occupe on ne peut se passer de anticiper la somme des problématiques envisageables
+
+Cordialement,
+Emma Lee
+

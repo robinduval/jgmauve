@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <6911902422@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs induite il serait intéressant de s'intéresser à la totalité des problématiques possibles
+
+Cordialement,
+William Jackson
+

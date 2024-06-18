@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 25 May 2005 00:00:00 +0000
+Message-ID: <8138951193@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs conjoncturelle il faut de toute urgence examiner toutes les alternatives s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

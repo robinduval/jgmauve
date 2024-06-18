@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 24 Oct 2007 00:00:00 +0000
+Message-ID: <6350294160@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui est la nôtre il est nécessaire de se remémorer toutes les solutions possibles
+
+Cordialement,
+Jean Neige
+

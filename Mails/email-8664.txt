@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Annonce de vacances
+Date: Sun, 10 Sep 2006 00:00:00 +0000
+Message-ID: <9541711464@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il est nécessaire de étudier toutes les issues possibles
+
+Cordialement,
+Emma Lee
+

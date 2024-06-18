@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Thu, 29 Nov 2007 00:00:00 +0000
+Message-ID: <1975507560@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse induite on se doit de imaginer l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+David Brown
+

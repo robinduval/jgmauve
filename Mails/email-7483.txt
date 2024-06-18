@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 04 Aug 2001 00:00:00 +0000
+Message-ID: <8721538681@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie actuelle on se doit de prendre en considération chacune des problématiques envisageables
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Sat, 17 Nov 2001 00:00:00 +0000
+Message-ID: <1625859413@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs contemporaine il convient de anticiper chacune des problématiques s'offrant à nous
+
+Cordialement,
+Bob Smith
+

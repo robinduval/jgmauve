@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 20 Jul 2007 00:00:00 +0000
+Message-ID: <9151989521@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse présente il est nécessaire de anticiper l'ensemble des voies envisageables
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Thu, 25 Aug 2005 00:00:00 +0000
+Message-ID: <3940092485@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse conjoncturelle il serait bon de se remémorer la globalité des issues possibles
+
+Cordialement,
+Sophie Martin
+

@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Meeting important
+Date: Sat, 05 Apr 2008 00:00:00 +0000
+Message-ID: <4449703804@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs conjoncturelle il serait bon de s'intéresser à la totalité des problématiques envisageables
+
+Cordialement,
+John Doe
+

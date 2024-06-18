@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Thu, 23 Oct 2003 00:00:00 +0000
+Message-ID: <1590585289@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de ces derniers temps il convient de examiner toutes les alternatives déjà en notre possession
+
+Cordialement,
+David Brown
+

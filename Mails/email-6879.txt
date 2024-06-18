@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 11 Apr 2000 00:00:00 +0000
+Message-ID: <8634972491@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie de la société on ne peut se passer de se préoccuper de la majorité des issues possibles
+
+Cordialement,
+Olivia Harris
+

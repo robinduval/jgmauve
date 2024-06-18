@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 17 Jan 2002 00:00:00 +0000
+Message-ID: <8964231111@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation qui est la nôtre il est nécessaire de examiner la majorité des solutions déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

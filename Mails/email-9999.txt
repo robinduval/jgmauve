@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Meeting important
+Date: Thu, 14 Sep 2000 00:00:00 +0000
+Message-ID: <3800140309@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de ces derniers temps il est préférable de prendre en considération la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Samuel White
+

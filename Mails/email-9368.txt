@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 08 Jan 2002 00:00:00 +0000
+Message-ID: <5191658282@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de la société on se doit de se préoccuper de certaines problématiques possibles
+
+Cordialement,
+Eva Thomas
+

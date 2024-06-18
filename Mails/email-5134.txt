@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 29 Aug 2001 00:00:00 +0000
+Message-ID: <9543889518@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture actuelle il faut de toute urgence ne pas négliger toutes les voies de bon sens
+
+Cordialement,
+Michael Taylor
+

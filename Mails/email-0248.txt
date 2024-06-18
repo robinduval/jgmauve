@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 27 Jun 2000 00:00:00 +0000
+Message-ID: <4962394452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation présente il est préférable de avoir à l'esprit certaines voies de bon sens
+
+Cordialement,
+Eva Thomas
+

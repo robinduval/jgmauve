@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 30 Mar 2008 00:00:00 +0000
+Message-ID: <9173708614@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance de cette fin de siècle il serait intéressant de imaginer la globalité des issues envisageables
+
+Cordialement,
+Olivia Harris
+

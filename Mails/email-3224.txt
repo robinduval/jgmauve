@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 14 Aug 2007 00:00:00 +0000
+Message-ID: <9185771788@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie de cette fin de siècle il faut de toute urgence avoir à l'esprit la somme des solutions déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

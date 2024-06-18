@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Sun, 05 Aug 2007 00:00:00 +0000
+Message-ID: <5054141688@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose qui nous occupe il faut de toute urgence imaginer toutes les problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

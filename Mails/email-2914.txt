@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 20 Oct 2008 00:00:00 +0000
+Message-ID: <9180748838@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie présente il serait intéressant de avoir à l'esprit chacune des voies déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

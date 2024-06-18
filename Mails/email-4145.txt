@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Thu, 14 Apr 2005 00:00:00 +0000
+Message-ID: <9574116053@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture induite il convient de ne pas négliger certaines voies déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

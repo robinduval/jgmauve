@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 01 Dec 2005 00:00:00 +0000
+Message-ID: <4929371257@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation de cette fin de siècle il faut prendre en considération toutes les issues déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

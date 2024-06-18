@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 29 May 2005 00:00:00 +0000
+Message-ID: <9903555506@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs contemporaine on se doit de avoir à l'esprit chacune des voies de bon sens
+
+Cordialement,
+Daniel Clark
+

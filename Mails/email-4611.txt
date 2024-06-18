@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 26 Oct 2006 00:00:00 +0000
+Message-ID: <5725851537@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la conjoncture qui est la nôtre il serait bon de s'intéresser à certaines alternatives de bon sens
+
+Cordialement,
+Jean Neige
+

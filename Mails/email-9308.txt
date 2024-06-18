@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 23 Aug 2007 00:00:00 +0000
+Message-ID: <6476571062@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture qui est la nôtre il est nécessaire de examiner la majorité des issues s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 18 Apr 2000 00:00:00 +0000
+Message-ID: <3091021494@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de ces derniers temps il est préférable de se préoccuper de la totalité des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

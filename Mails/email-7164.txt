@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 25 Jan 2003 00:00:00 +0000
+Message-ID: <7410472467@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de la société il faut se remémorer toutes les solutions de bon sens
+
+Cordialement,
+John Doe
+

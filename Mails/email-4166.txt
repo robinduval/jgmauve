@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 10 Dec 2006 00:00:00 +0000
+Message-ID: <5058530564@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la sinistrose conjoncturelle il est préférable de se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+Laura Wilson
+

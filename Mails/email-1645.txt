@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 22 Jan 2000 00:00:00 +0000
+Message-ID: <2796965858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture conjoncturelle il convient de examiner toutes les issues s'offrant à nous
+
+Cordialement,
+David Brown
+

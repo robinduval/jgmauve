@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suivi de la candidature
+Date: Wed, 10 Sep 2003 00:00:00 +0000
+Message-ID: <8313170147@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance conjoncturelle on ne peut se passer de anticiper la majorité des voies envisageables
+
+Cordialement,
+David Brown
+

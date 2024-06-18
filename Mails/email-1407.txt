@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Demande de collaboration
+Date: Mon, 26 Nov 2001 00:00:00 +0000
+Message-ID: <2129222352@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité de cette fin de siècle il est préférable de se préoccuper de toutes les alternatives déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

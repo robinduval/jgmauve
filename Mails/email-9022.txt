@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 21 Jun 2002 00:00:00 +0000
+Message-ID: <9933859960@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie présente il serait intéressant de ne pas négliger toutes les voies de bon sens
+
+Cordialement,
+Charlotte Moore
+

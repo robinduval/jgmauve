@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 10 Mar 2006 00:00:00 +0000
+Message-ID: <4160011031@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs présente il faut étudier l'ensemble des issues envisageables
+
+Cordialement,
+John Doe
+

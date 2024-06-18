@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Annonce de vacances
+Date: Fri, 21 Apr 2000 00:00:00 +0000
+Message-ID: <3363143724@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose conjoncturelle il est préférable de examiner la globalité des solutions envisageables
+
+Cordialement,
+Sophie Martin
+

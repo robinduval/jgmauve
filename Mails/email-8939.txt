@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 25 Jan 2003 00:00:00 +0000
+Message-ID: <6120531249@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse conjoncturelle il serait bon de s'intéresser à la majorité des issues de bon sens
+
+Cordialement,
+Laura Wilson
+

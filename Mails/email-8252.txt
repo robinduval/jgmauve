@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 02 Mar 2000 00:00:00 +0000
+Message-ID: <1202064516@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de la société il est préférable de avoir à l'esprit toutes les alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

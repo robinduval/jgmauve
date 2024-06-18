@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Demande de collaboration
+Date: Mon, 06 Mar 2000 00:00:00 +0000
+Message-ID: <9097909460@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui nous occupe il serait bon de étudier la globalité des solutions s'offrant à nous
+
+Cordialement,
+Emma Lee
+

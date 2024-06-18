@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 27 Apr 2003 00:00:00 +0000
+Message-ID: <9020993200@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité présente il faut de toute urgence avoir à l'esprit l'ensemble des alternatives de bon sens
+
+Cordialement,
+Samuel White
+

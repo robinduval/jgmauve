@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Tue, 28 Jul 2009 00:00:00 +0000
+Message-ID: <9361153514@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la situation induite il faut s'intéresser à la globalité des alternatives s'offrant à nous
+
+Cordialement,
+William Jackson
+

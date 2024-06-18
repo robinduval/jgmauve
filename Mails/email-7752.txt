@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 07 Apr 2000 00:00:00 +0000
+Message-ID: <9051582291@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la crise qui nous occupe il faut de toute urgence s'intéresser à toutes les alternatives possibles
+
+Cordialement,
+Jean Neige
+

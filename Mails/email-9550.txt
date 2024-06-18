@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Thu, 07 Feb 2008 00:00:00 +0000
+Message-ID: <9286303452@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de cette fin de siècle il convient de prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

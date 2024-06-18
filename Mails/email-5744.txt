@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 16 Nov 2002 00:00:00 +0000
+Message-ID: <8601050187@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité de la société on ne peut se passer de avoir à l'esprit toutes les solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

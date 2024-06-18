@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 08 Mar 2007 00:00:00 +0000
+Message-ID: <4988863340@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance actuelle on se doit de prendre en considération la totalité des solutions envisageables
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Thu, 07 Apr 2005 00:00:00 +0000
+Message-ID: <8671239047@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la situation de la société il faut de toute urgence se préoccuper de toutes les voies déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

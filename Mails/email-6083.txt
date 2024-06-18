@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 23 Nov 2002 00:00:00 +0000
+Message-ID: <7415962335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie présente il est nécessaire de se préoccuper de la somme des problématiques de bon sens
+
+Cordialement,
+Charlotte Moore
+

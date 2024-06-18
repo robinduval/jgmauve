@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 02 May 2005 00:00:00 +0000
+Message-ID: <1674067799@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle on se doit de ne pas négliger toutes les solutions déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

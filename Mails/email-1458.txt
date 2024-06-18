@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 03 Apr 2002 00:00:00 +0000
+Message-ID: <7551584069@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance qui nous occupe il serait intéressant de anticiper l'ensemble des alternatives de bon sens
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 02 Aug 2007 00:00:00 +0000
+Message-ID: <2168103639@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie qui nous occupe on ne peut se passer de prendre en considération la globalité des voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

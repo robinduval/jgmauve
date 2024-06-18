@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 02 Jun 2005 00:00:00 +0000
+Message-ID: <1863131614@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui est la nôtre il est nécessaire de prendre en considération toutes les solutions de bon sens
+
+Cordialement,
+Alice Dupont
+

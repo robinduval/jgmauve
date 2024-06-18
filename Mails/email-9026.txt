@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 03 Feb 2000 00:00:00 +0000
+Message-ID: <4638973942@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de ces derniers temps il faut imaginer la somme des voies de bon sens
+
+Cordialement,
+William Jackson
+

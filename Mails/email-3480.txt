@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Wed, 26 Sep 2007 00:00:00 +0000
+Message-ID: <9471208481@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs induite il serait intéressant de s'intéresser à chacune des solutions possibles
+
+Cordialement,
+John Doe
+

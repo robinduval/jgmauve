@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 17 Mar 2007 00:00:00 +0000
+Message-ID: <6784321279@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie contemporaine il ne faut pas négliger de examiner certaines issues possibles
+
+Cordialement,
+Sophie Martin
+

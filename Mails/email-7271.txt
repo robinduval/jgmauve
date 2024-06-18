@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Thu, 10 Jan 2008 00:00:00 +0000
+Message-ID: <8630090515@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture de cette fin de siècle il faut de toute urgence étudier la somme des solutions possibles
+
+Cordialement,
+Charlotte Moore
+

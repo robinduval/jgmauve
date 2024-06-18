@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 05 Apr 2000 00:00:00 +0000
+Message-ID: <4107461931@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de la société il faut de toute urgence avoir à l'esprit la majorité des issues s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

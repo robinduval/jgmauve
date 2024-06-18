@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 03 Feb 2005 00:00:00 +0000
+Message-ID: <9020168197@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie contemporaine il convient de avoir à l'esprit toutes les problématiques de bon sens
+
+Cordialement,
+David Brown
+

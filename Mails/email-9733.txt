@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 17 Nov 2000 00:00:00 +0000
+Message-ID: <6128372408@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation qui est la nôtre il serait intéressant de se préoccuper de l'ensemble des solutions envisageables
+
+Cordialement,
+David Brown
+

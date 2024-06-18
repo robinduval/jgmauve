@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Sun, 02 Jun 2002 00:00:00 +0000
+Message-ID: <8871049514@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dualité de la situation qui nous occupe il serait bon de imaginer chacune des solutions de bon sens
+
+Cordialement,
+Sophie Martin
+

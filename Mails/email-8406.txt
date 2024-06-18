@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Sat, 29 May 2004 00:00:00 +0000
+Message-ID: <1973780262@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui nous occupe on ne peut se passer de se préoccuper de toutes les issues déjà en notre possession
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 27 Jun 2007 00:00:00 +0000
+Message-ID: <2560036590@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il ne faut pas négliger de avoir à l'esprit toutes les issues envisageables
+
+Cordialement,
+Emma Lee
+

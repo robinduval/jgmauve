@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 19 Sep 2005 00:00:00 +0000
+Message-ID: <1361560229@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de ces derniers temps il faut de toute urgence ne pas négliger certaines solutions de bon sens
+
+Cordialement,
+Alice Dupont
+

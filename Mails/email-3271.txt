@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Thu, 27 Mar 2003 00:00:00 +0000
+Message-ID: <5898672514@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture qui nous occupe il est nécessaire de ne pas négliger la totalité des solutions de bon sens
+
+Cordialement,
+Eva Thomas
+

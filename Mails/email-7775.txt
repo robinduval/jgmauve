@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Annonce de vacances
+Date: Sat, 24 Feb 2007 00:00:00 +0000
+Message-ID: <1216272459@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture conjoncturelle il est préférable de ne pas négliger l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

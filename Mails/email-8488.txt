@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Mon, 18 Feb 2002 00:00:00 +0000
+Message-ID: <7377057008@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture contemporaine on se doit de imaginer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Emma Lee
+

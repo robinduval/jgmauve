@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 19 May 2003 00:00:00 +0000
+Message-ID: <6999872318@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs qui est la nôtre il convient de ne pas négliger chacune des voies possibles
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rappel de rendez-vous
+Date: Sun, 09 Apr 2000 00:00:00 +0000
+Message-ID: <5184610608@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture conjoncturelle il convient de ne pas négliger la somme des problématiques envisageables
+
+Cordialement,
+Bob Smith
+

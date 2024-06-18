@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rapport de projet
+Date: Thu, 24 Mar 2005 00:00:00 +0000
+Message-ID: <6470211722@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la conjoncture conjoncturelle il faut de toute urgence se préoccuper de toutes les voies envisageables
+
+Cordialement,
+David Brown
+

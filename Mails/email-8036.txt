@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 18 Aug 2005 00:00:00 +0000
+Message-ID: <9187253336@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie de cette fin de siècle il serait bon de anticiper toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 12 Nov 2001 00:00:00 +0000
+Message-ID: <2699611639@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de cette fin de siècle il convient de avoir à l'esprit la somme des solutions possibles
+
+Cordialement,
+William Jackson
+

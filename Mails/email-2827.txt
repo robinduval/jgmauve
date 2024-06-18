@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Meeting important
+Date: Fri, 24 Oct 2003 00:00:00 +0000
+Message-ID: <7279546510@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse qui est la nôtre il faut prendre en considération certaines issues de bon sens
+
+Cordialement,
+David Brown
+

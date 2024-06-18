@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Thu, 13 Jul 2006 00:00:00 +0000
+Message-ID: <8844261547@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la situation de la société il est préférable de imaginer l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

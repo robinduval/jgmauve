@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 26 Mar 2000 00:00:00 +0000
+Message-ID: <9126470468@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture qui est la nôtre il ne faut pas négliger de étudier chacune des alternatives envisageables
+
+Cordialement,
+William Jackson
+

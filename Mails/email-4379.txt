@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 07 Jan 2003 00:00:00 +0000
+Message-ID: <5273461815@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation de la société on se doit de se remémorer toutes les alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

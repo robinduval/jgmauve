@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 14 Sep 2004 00:00:00 +0000
+Message-ID: <6307025584@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture de la société il faut étudier toutes les problématiques s'offrant à nous
+
+Cordialement,
+William Jackson
+

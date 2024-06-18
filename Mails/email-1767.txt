@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 10 Oct 2007 00:00:00 +0000
+Message-ID: <2815127677@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de cette fin de siècle on se doit de imaginer la totalité des solutions envisageables
+
+Cordialement,
+Alice Dupont
+

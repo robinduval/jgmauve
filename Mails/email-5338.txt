@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 13 Feb 2001 00:00:00 +0000
+Message-ID: <5135745707@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de cette fin de siècle il est préférable de anticiper l'ensemble des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

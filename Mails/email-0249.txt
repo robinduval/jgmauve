@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 29 Apr 2003 00:00:00 +0000
+Message-ID: <8351224847@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs induite il est nécessaire de se préoccuper de la totalité des problématiques envisageables
+
+Cordialement,
+Eva Thomas
+

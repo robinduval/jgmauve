@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 13 Jun 2008 00:00:00 +0000
+Message-ID: <3125067001@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dégradation des moeurs de ces derniers temps il faut de toute urgence étudier la somme des solutions possibles
+
+Cordialement,
+Alice Dupont
+

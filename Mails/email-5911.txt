@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 21 Apr 2003 00:00:00 +0000
+Message-ID: <1063624644@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie qui est la nôtre il est nécessaire de examiner la totalité des voies envisageables
+
+Cordialement,
+Charlotte Moore
+

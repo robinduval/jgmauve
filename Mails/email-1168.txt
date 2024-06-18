@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 10 Apr 2001 00:00:00 +0000
+Message-ID: <1694144247@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise conjoncturelle il est préférable de avoir à l'esprit la totalité des solutions déjà en notre possession
+
+Cordialement,
+Emma Lee
+

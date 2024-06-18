@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 20 Jan 2004 00:00:00 +0000
+Message-ID: <1563435381@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise induite il convient de anticiper toutes les alternatives s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

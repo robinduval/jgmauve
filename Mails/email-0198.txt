@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 07 Aug 2002 00:00:00 +0000
+Message-ID: <5603315511@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation qui nous occupe il ne faut pas négliger de se remémorer la globalité des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

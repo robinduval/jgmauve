@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Demande de collaboration
+Date: Thu, 28 Mar 2002 00:00:00 +0000
+Message-ID: <5143270779@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie conjoncturelle on ne peut se passer de étudier toutes les solutions de bon sens
+
+Cordialement,
+Laura Wilson
+

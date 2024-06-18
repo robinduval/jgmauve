@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 27 May 2004 00:00:00 +0000
+Message-ID: <1352271690@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose contemporaine il faut anticiper l'ensemble des solutions de bon sens
+
+Cordialement,
+Olivia Harris
+

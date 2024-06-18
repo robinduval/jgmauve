@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Tue, 29 Apr 2008 00:00:00 +0000
+Message-ID: <8973486040@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs de ces derniers temps on se doit de anticiper toutes les solutions possibles
+
+Cordialement,
+Alice Dupont
+

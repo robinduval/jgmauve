@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Sun, 30 Jul 2000 00:00:00 +0000
+Message-ID: <4854169900@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie conjoncturelle on se doit de examiner la somme des issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

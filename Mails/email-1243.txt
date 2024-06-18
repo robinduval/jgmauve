@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 21 Apr 2008 00:00:00 +0000
+Message-ID: <5186746475@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui nous occupe il est nécessaire de examiner toutes les voies s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

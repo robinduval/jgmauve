@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 19 Mar 2006 00:00:00 +0000
+Message-ID: <9798001891@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'impasse qui nous occupe il est préférable de se préoccuper de la somme des issues possibles
+
+Cordialement,
+Daniel Clark
+

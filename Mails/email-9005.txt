@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Annonce de vacances
+Date: Sat, 17 Nov 2007 00:00:00 +0000
+Message-ID: <2471829272@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dégradation des moeurs de la société on se doit de se remémorer toutes les voies de bon sens
+
+Cordialement,
+Olivia Harris
+

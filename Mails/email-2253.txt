@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 31 Jul 2004 00:00:00 +0000
+Message-ID: <2187057731@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse contemporaine il serait intéressant de prendre en considération certaines alternatives déjà en notre possession
+
+Cordialement,
+Michael Taylor
+

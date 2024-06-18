@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rapport de projet
+Date: Mon, 17 Oct 2005 00:00:00 +0000
+Message-ID: <7739310548@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose actuelle il faut avoir à l'esprit toutes les alternatives s'offrant à nous
+
+Cordialement,
+Samuel White
+

@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 12 Apr 2002 00:00:00 +0000
+Message-ID: <2337394554@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation actuelle il serait bon de imaginer toutes les alternatives envisageables
+
+Cordialement,
+David Brown
+

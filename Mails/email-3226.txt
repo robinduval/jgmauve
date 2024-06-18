@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Wed, 15 Nov 2006 00:00:00 +0000
+Message-ID: <2114799323@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'extrémité de ces derniers temps il ne faut pas négliger de se remémorer la somme des solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

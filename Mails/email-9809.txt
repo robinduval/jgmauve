@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Mon, 15 Dec 2008 00:00:00 +0000
+Message-ID: <4760408228@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui est la nôtre on ne peut se passer de prendre en considération toutes les solutions s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

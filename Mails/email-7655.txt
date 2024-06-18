@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Annonce de vacances
+Date: Wed, 19 Dec 2001 00:00:00 +0000
+Message-ID: <7088450589@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de ces derniers temps il est nécessaire de anticiper certaines issues de bon sens
+
+Cordialement,
+William Jackson
+

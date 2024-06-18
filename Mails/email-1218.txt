@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 25 Apr 2006 00:00:00 +0000
+Message-ID: <4974773249@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité actuelle il faut se préoccuper de toutes les solutions envisageables
+
+Cordialement,
+Eva Thomas
+

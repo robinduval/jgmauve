@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 01 Jul 2008 00:00:00 +0000
+Message-ID: <8505336890@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie contemporaine il faut anticiper la somme des issues possibles
+
+Cordialement,
+Laura Wilson
+

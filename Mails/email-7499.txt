@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 13 Apr 2005 00:00:00 +0000
+Message-ID: <8757265215@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance de la société on se doit de avoir à l'esprit toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

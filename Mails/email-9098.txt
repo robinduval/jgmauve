@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 02 Jan 2002 00:00:00 +0000
+Message-ID: <7731609577@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la situation induite il serait bon de se préoccuper de toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 13 Mar 2004 00:00:00 +0000
+Message-ID: <9366754242@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs de ces derniers temps il est préférable de s'intéresser à chacune des problématiques de bon sens
+
+Cordialement,
+Daniel Clark
+

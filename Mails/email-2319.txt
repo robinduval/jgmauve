@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suggestion d'amélioration
+Date: Sat, 10 Jun 2000 00:00:00 +0000
+Message-ID: <1280353694@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise induite on se doit de imaginer toutes les problématiques envisageables
+
+Cordialement,
+Samuel White
+

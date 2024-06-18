@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Fri, 21 Jul 2000 00:00:00 +0000
+Message-ID: <8522405730@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation de ces derniers temps on ne peut se passer de avoir à l'esprit certaines problématiques déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

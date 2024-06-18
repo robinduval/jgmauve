@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 03 Jun 2009 00:00:00 +0000
+Message-ID: <4794101889@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture contemporaine on ne peut se passer de étudier la majorité des voies de bon sens
+
+Cordialement,
+John Doe
+

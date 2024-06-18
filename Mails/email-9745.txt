@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 19 Jan 2003 00:00:00 +0000
+Message-ID: <3339186541@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose de cette fin de siècle il serait intéressant de imaginer la globalité des problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

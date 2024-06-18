@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 11 Dec 2001 00:00:00 +0000
+Message-ID: <5425006088@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance de cette fin de siècle il est nécessaire de s'intéresser à la majorité des solutions possibles
+
+Cordialement,
+Olivia Harris
+

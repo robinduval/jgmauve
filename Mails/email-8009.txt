@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Thu, 25 Sep 2003 00:00:00 +0000
+Message-ID: <8693445044@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation de la société il est nécessaire de se préoccuper de la globalité des alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

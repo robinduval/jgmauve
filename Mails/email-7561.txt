@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Suivi de la candidature
+Date: Thu, 22 Jul 2004 00:00:00 +0000
+Message-ID: <3663201516@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse contemporaine il serait intéressant de anticiper chacune des voies possibles
+
+Cordialement,
+Jean Neige
+

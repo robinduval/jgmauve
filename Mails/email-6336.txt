@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 22 Sep 2008 00:00:00 +0000
+Message-ID: <1899548329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation de ces derniers temps on ne peut se passer de examiner la majorité des solutions envisageables
+
+Cordialement,
+Daniel Clark
+

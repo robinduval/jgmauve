@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Rapport de projet
+Date: Mon, 05 Dec 2005 00:00:00 +0000
+Message-ID: <3625255589@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation qui est la nôtre on se doit de ne pas négliger toutes les alternatives déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

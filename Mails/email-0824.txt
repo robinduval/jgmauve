@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Meeting important
+Date: Sat, 22 Feb 2003 00:00:00 +0000
+Message-ID: <7279376426@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise de la société on se doit de étudier toutes les problématiques déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

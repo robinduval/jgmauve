@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Annonce de vacances
+Date: Wed, 25 Nov 2009 00:00:00 +0000
+Message-ID: <6289596772@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation actuelle il serait bon de imaginer l'ensemble des voies s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

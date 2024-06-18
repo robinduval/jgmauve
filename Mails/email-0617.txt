@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 28 Nov 2005 00:00:00 +0000
+Message-ID: <8714377214@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité induite il est préférable de avoir à l'esprit certaines problématiques s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Annonce de vacances
+Date: Thu, 28 Dec 2000 00:00:00 +0000
+Message-ID: <2988920405@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation induite il faut se préoccuper de la somme des solutions de bon sens
+
+Cordialement,
+Emma Lee
+

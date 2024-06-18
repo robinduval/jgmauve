@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Demande de collaboration
+Date: Sat, 22 Jan 2000 00:00:00 +0000
+Message-ID: <5797612252@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la conjoncture contemporaine il convient de examiner chacune des solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

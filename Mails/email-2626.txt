@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 21 Jan 2003 00:00:00 +0000
+Message-ID: <5492814826@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise présente il ne faut pas négliger de se remémorer certaines voies de bon sens
+
+Cordialement,
+Laura Wilson
+

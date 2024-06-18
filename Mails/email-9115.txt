@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Tue, 07 Oct 2003 00:00:00 +0000
+Message-ID: <6455893856@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture qui est la nôtre il faut de toute urgence se remémorer toutes les issues déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

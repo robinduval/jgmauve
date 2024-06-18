@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 01 Aug 2004 00:00:00 +0000
+Message-ID: <3272185802@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle il serait intéressant de avoir à l'esprit toutes les solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

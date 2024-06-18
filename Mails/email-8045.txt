@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 04 Nov 2008 00:00:00 +0000
+Message-ID: <2692889366@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'extrémité de la société il est nécessaire de anticiper l'ensemble des problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

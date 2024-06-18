@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 23 Oct 2005 00:00:00 +0000
+Message-ID: <5841965417@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise actuelle on se doit de ne pas négliger certaines issues envisageables
+
+Cordialement,
+Eva Thomas
+

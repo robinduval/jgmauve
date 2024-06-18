@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Demande de collaboration
+Date: Wed, 26 Oct 2005 00:00:00 +0000
+Message-ID: <7959187217@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la sinistrose de ces derniers temps il convient de prendre en considération la majorité des voies de bon sens
+
+Cordialement,
+William Jackson
+

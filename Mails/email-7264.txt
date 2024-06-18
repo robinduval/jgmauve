@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Thu, 27 Sep 2001 00:00:00 +0000
+Message-ID: <4876214615@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie de la société on ne peut se passer de se préoccuper de l'ensemble des problématiques possibles
+
+Cordialement,
+Jean Neige
+

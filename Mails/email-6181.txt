@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 01 Dec 2006 00:00:00 +0000
+Message-ID: <5822035957@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation présente il faut de toute urgence avoir à l'esprit chacune des issues déjà en notre possession
+
+Cordialement,
+Samuel White
+

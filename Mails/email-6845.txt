@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Confirmation de réservation
+Date: Mon, 22 Jun 2009 00:00:00 +0000
+Message-ID: <2968091617@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de ces derniers temps on ne peut se passer de prendre en considération la somme des problématiques s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

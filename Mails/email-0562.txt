@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Sat, 03 Nov 2007 00:00:00 +0000
+Message-ID: <3971568602@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose induite il est préférable de imaginer la totalité des alternatives de bon sens
+
+Cordialement,
+Bob Smith
+

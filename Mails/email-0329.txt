@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 23 Jul 2003 00:00:00 +0000
+Message-ID: <4999342322@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie qui est la nôtre on ne peut se passer de anticiper la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Charlotte Moore
+

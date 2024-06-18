@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 03 Oct 2005 00:00:00 +0000
+Message-ID: <3475361470@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne l'inertie de cette fin de siècle il est préférable de se préoccuper de certaines alternatives envisageables
+
+Cordialement,
+Sophie Martin
+

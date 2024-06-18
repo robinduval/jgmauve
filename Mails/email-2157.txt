@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Sun, 24 Sep 2006 00:00:00 +0000
+Message-ID: <6531648255@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs présente il serait intéressant de ne pas négliger la majorité des solutions possibles
+
+Cordialement,
+Alice Dupont
+

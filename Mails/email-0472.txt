@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 07 Oct 2005 00:00:00 +0000
+Message-ID: <8013014817@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la conjoncture contemporaine il ne faut pas négliger de ne pas négliger certaines issues envisageables
+
+Cordialement,
+David Brown
+

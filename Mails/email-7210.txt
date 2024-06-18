@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suivi de la candidature
+Date: Fri, 19 Jan 2001 00:00:00 +0000
+Message-ID: <3329641017@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité contemporaine il ne faut pas négliger de étudier toutes les alternatives s'offrant à nous
+
+Cordialement,
+Jean Neige
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Demande de collaboration
+Date: Mon, 12 Apr 2004 00:00:00 +0000
+Message-ID: <9535872244@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance induite on se doit de imaginer la majorité des problématiques envisageables
+
+Cordialement,
+Charlotte Moore
+

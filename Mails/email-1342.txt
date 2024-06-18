@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 17 Sep 2006 00:00:00 +0000
+Message-ID: <1492614188@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise de ces derniers temps on se doit de s'intéresser à toutes les solutions de bon sens
+
+Cordialement,
+John Doe
+

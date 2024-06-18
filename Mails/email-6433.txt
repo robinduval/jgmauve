@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Sat, 21 Nov 2009 00:00:00 +0000
+Message-ID: <4028037919@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui est la nôtre il est nécessaire de étudier certaines problématiques de bon sens
+
+Cordialement,
+Samuel White
+

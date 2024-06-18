@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Mon, 03 Feb 2003 00:00:00 +0000
+Message-ID: <5839776032@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de la société il ne faut pas négliger de ne pas négliger certaines alternatives envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 08 Sep 2005 00:00:00 +0000
+Message-ID: <2372065750@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité de la société il faut de toute urgence avoir à l'esprit toutes les voies déjà en notre possession
+
+Cordialement,
+Alice Dupont
+

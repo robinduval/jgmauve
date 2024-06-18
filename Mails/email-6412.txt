@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Mon, 09 Jan 2006 00:00:00 +0000
+Message-ID: <8354694923@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il est nécessaire de anticiper toutes les solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

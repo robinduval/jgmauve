@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Sat, 13 Sep 2008 00:00:00 +0000
+Message-ID: <7483438504@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance de ces derniers temps il est nécessaire de examiner l'ensemble des problématiques de bon sens
+
+Cordialement,
+David Brown
+

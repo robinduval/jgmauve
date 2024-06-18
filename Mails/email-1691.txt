@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Annonce de vacances
+Date: Tue, 14 Jan 2003 00:00:00 +0000
+Message-ID: <6000782751@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation actuelle il serait bon de anticiper la totalité des voies envisageables
+
+Cordialement,
+Daniel Clark
+

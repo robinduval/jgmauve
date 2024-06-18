@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Rapport de projet
+Date: Sun, 25 Jan 2009 00:00:00 +0000
+Message-ID: <4958444819@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la crise de cette fin de siècle on se doit de étudier la somme des voies s'offrant à nous
+
+Cordialement,
+Emma Lee
+

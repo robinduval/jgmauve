@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 27 May 2002 00:00:00 +0000
+Message-ID: <4872221780@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dualité de la situation contemporaine il serait bon de imaginer la totalité des issues s'offrant à nous
+
+Cordialement,
+John Doe
+

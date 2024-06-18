@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sun, 18 Oct 2009 00:00:00 +0000
+Message-ID: <5927187483@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse qui nous occupe il convient de examiner toutes les problématiques de bon sens
+
+Cordialement,
+William Jackson
+

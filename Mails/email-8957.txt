@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 10 Apr 2000 00:00:00 +0000
+Message-ID: <3904879556@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie induite il est préférable de anticiper toutes les alternatives possibles
+
+Cordialement,
+Jean Neige
+

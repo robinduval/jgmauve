@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 11 Oct 2007 00:00:00 +0000
+Message-ID: <2919967152@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise contemporaine il est nécessaire de prendre en considération la majorité des issues possibles
+
+Cordialement,
+Olivia Harris
+

@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Rapport de projet
+Date: Mon, 11 Dec 2000 00:00:00 +0000
+Message-ID: <4683238466@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dualité de la situation qui est la nôtre il convient de examiner la somme des issues possibles
+
+Cordialement,
+Charlotte Moore
+

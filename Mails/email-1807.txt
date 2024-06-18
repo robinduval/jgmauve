@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 20 May 2003 00:00:00 +0000
+Message-ID: <9556756364@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la conjoncture induite il serait intéressant de prendre en considération toutes les voies possibles
+
+Cordialement,
+Bob Smith
+

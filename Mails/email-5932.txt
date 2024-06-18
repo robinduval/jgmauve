@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 01 Dec 2008 00:00:00 +0000
+Message-ID: <4001462370@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise présente il serait bon de s'intéresser à la totalité des problématiques possibles
+
+Cordialement,
+David Brown
+

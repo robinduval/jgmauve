@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 02 Jun 2005 00:00:00 +0000
+Message-ID: <9056939031@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs induite il serait bon de se préoccuper de l'ensemble des issues de bon sens
+
+Cordialement,
+John Doe
+

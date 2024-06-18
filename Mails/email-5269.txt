@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 30 May 2003 00:00:00 +0000
+Message-ID: <4351713095@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse contemporaine il est nécessaire de étudier chacune des voies de bon sens
+
+Cordialement,
+Alice Dupont
+

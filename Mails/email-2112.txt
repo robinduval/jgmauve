@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 18 Jun 2008 00:00:00 +0000
+Message-ID: <7592596625@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité conjoncturelle on ne peut se passer de ne pas négliger toutes les problématiques de bon sens
+
+Cordialement,
+David Brown
+

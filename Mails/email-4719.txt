@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Sun, 27 Mar 2005 00:00:00 +0000
+Message-ID: <9753300659@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre il est nécessaire de anticiper la totalité des voies s'offrant à nous
+
+Cordialement,
+William Jackson
+

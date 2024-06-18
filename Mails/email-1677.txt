@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 12 Aug 2003 00:00:00 +0000
+Message-ID: <8148931761@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture actuelle on se doit de se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Michael Taylor
+

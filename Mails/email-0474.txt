@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 21 Jan 2005 00:00:00 +0000
+Message-ID: <7199371674@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise contemporaine on ne peut se passer de avoir à l'esprit la majorité des voies envisageables
+
+Cordialement,
+David Brown
+

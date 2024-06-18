@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Bilan trimestriel
+Date: Thu, 17 Jan 2008 00:00:00 +0000
+Message-ID: <6780258754@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'inertie actuelle il serait intéressant de imaginer la globalité des problématiques possibles
+
+Cordialement,
+Michael Taylor
+

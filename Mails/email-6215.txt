@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 09 May 2003 00:00:00 +0000
+Message-ID: <5052351780@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation de la société il faut imaginer certaines issues déjà en notre possession
+
+Cordialement,
+Laura Wilson
+

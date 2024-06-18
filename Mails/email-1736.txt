@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Confirmation de réservation
+Date: Wed, 26 Jul 2000 00:00:00 +0000
+Message-ID: <8460223425@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'inertie conjoncturelle il convient de ne pas négliger la totalité des issues de bon sens
+
+Cordialement,
+Charlotte Moore
+

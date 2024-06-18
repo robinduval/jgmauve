@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Meeting important
+Date: Sun, 22 Oct 2006 00:00:00 +0000
+Message-ID: <3139981566@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation contemporaine on ne peut se passer de ne pas négliger l'ensemble des problématiques possibles
+
+Cordialement,
+Jean Neige
+

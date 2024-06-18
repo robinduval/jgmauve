@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 10 Aug 2005 00:00:00 +0000
+Message-ID: <4320477925@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dualité de la situation de la société on ne peut se passer de étudier la somme des problématiques possibles
+
+Cordialement,
+Daniel Clark
+

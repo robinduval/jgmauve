@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Rapport de projet
+Date: Sat, 08 Feb 2003 00:00:00 +0000
+Message-ID: <4035914095@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie contemporaine il est nécessaire de avoir à l'esprit la totalité des voies possibles
+
+Cordialement,
+Alice Dupont
+

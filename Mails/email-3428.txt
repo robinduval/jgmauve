@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Annonce de vacances
+Date: Fri, 25 Jun 2004 00:00:00 +0000
+Message-ID: <7781885307@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'inertie conjoncturelle il serait intéressant de s'intéresser à certaines issues s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

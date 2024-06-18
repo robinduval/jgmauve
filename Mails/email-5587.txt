@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 29 Jul 2007 00:00:00 +0000
+Message-ID: <9637403142@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la baisse de confiance conjoncturelle il faut de toute urgence s'intéresser à la somme des voies déjà en notre possession
+
+Cordialement,
+Emma Lee
+

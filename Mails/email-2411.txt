@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Meeting important
+Date: Thu, 18 Nov 2004 00:00:00 +0000
+Message-ID: <8161225423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse de cette fin de siècle il faut de toute urgence anticiper chacune des solutions envisageables
+
+Cordialement,
+Bob Smith
+

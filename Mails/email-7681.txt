@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Point sur les objectifs
+Date: Tue, 17 Dec 2002 00:00:00 +0000
+Message-ID: <8562057101@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose contemporaine on se doit de imaginer toutes les alternatives de bon sens
+
+Cordialement,
+Samuel White
+

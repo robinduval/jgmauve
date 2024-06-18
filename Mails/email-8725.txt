@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 15 May 2003 00:00:00 +0000
+Message-ID: <2430356329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'extrémité qui est la nôtre il est nécessaire de s'intéresser à toutes les alternatives déjà en notre possession
+
+Cordialement,
+Emma Lee
+

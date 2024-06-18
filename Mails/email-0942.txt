@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 03 Sep 2003 00:00:00 +0000
+Message-ID: <9331565084@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'impasse actuelle il faut de toute urgence s'intéresser à toutes les alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

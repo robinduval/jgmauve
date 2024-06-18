@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 26 Jun 2000 00:00:00 +0000
+Message-ID: <2456247828@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise de cette fin de siècle il faut ne pas négliger toutes les voies déjà en notre possession
+
+Cordialement,
+John Doe
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 17 Sep 2001 00:00:00 +0000
+Message-ID: <2227695972@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité de ces derniers temps il convient de étudier chacune des issues s'offrant à nous
+
+Cordialement,
+Alice Dupont
+

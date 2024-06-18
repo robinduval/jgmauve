@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 24 Apr 2004 00:00:00 +0000
+Message-ID: <4283387976@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance présente il faut se remémorer toutes les issues de bon sens
+
+Cordialement,
+Alice Dupont
+

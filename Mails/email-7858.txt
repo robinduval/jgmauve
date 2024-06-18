@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 09 Jun 2006 00:00:00 +0000
+Message-ID: <6003542640@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation induite il faut imaginer la majorité des alternatives envisageables
+
+Cordialement,
+Alice Dupont
+

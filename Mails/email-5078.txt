@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 03 Sep 2003 00:00:00 +0000
+Message-ID: <8917217353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité présente il est nécessaire de anticiper la majorité des issues envisageables
+
+Cordialement,
+Eva Thomas
+

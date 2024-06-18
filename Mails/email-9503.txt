@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Annonce de vacances
+Date: Sat, 20 Nov 2004 00:00:00 +0000
+Message-ID: <8339616000@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose induite il convient de ne pas négliger la somme des solutions envisageables
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 26 Dec 2003 00:00:00 +0000
+Message-ID: <4574329268@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation induite il est nécessaire de avoir à l'esprit la totalité des solutions envisageables
+
+Cordialement,
+Olivia Harris
+

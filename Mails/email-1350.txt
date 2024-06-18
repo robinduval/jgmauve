@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Tue, 25 Oct 2005 00:00:00 +0000
+Message-ID: <2949601527@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation qui nous occupe il est nécessaire de avoir à l'esprit la totalité des solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

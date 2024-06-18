@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Tue, 17 Apr 2001 00:00:00 +0000
+Message-ID: <8582772866@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la baisse de confiance induite il faut de toute urgence examiner la somme des solutions s'offrant à nous
+
+Cordialement,
+Charlotte Moore
+

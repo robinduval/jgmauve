@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 09 Jul 2001 00:00:00 +0000
+Message-ID: <4117322512@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité qui est la nôtre il convient de se remémorer toutes les alternatives possibles
+
+Cordialement,
+Sophie Martin
+

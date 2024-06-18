@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Sat, 02 May 2009 00:00:00 +0000
+Message-ID: <2070715765@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs qui nous occupe on se doit de imaginer toutes les issues s'offrant à nous
+
+Cordialement,
+Sophie Martin
+

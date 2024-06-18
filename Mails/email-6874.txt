@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Annonce de vacances
+Date: Thu, 20 Oct 2005 00:00:00 +0000
+Message-ID: <6768618193@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la dualité de la situation de cette fin de siècle il faut avoir à l'esprit la globalité des issues déjà en notre possession
+
+Cordialement,
+Daniel Clark
+

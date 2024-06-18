@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suivi de la candidature
+Date: Sat, 07 May 2005 00:00:00 +0000
+Message-ID: <5243976649@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la sinistrose induite il est préférable de anticiper la totalité des voies déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

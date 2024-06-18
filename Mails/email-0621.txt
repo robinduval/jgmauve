@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Suivi de la candidature
+Date: Sun, 27 Jan 2008 00:00:00 +0000
+Message-ID: <7785519950@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation qui est la nôtre on ne peut se passer de ne pas négliger la totalité des solutions possibles
+
+Cordialement,
+Samuel White
+

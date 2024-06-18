@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suivi de la candidature
+Date: Mon, 07 May 2007 00:00:00 +0000
+Message-ID: <2195738073@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la crise qui nous occupe il faut imaginer la majorité des problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

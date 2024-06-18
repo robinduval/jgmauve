@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Sun, 16 Nov 2008 00:00:00 +0000
+Message-ID: <6472173257@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose qui est la nôtre on ne peut se passer de anticiper chacune des solutions de bon sens
+
+Cordialement,
+Samuel White
+

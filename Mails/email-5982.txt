@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 08 Jan 2005 00:00:00 +0000
+Message-ID: <1371187089@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation actuelle il est préférable de se remémorer toutes les alternatives de bon sens
+
+Cordialement,
+John Doe
+

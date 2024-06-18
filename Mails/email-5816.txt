@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 11 Oct 2007 00:00:00 +0000
+Message-ID: <7649698947@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de la société il faut de toute urgence avoir à l'esprit la totalité des issues de bon sens
+
+Cordialement,
+Daniel Clark
+

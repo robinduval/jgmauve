@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Rapport de projet
+Date: Fri, 01 Dec 2000 00:00:00 +0000
+Message-ID: <5503780664@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose conjoncturelle il serait intéressant de prendre en considération la totalité des problématiques envisageables
+
+Cordialement,
+Michael Taylor
+

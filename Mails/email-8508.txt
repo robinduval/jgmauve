@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 15 Feb 2001 00:00:00 +0000
+Message-ID: <5298135938@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture induite il est nécessaire de anticiper chacune des problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 26 Mar 2000 00:00:00 +0000
+Message-ID: <9712687638@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la sinistrose de cette fin de siècle il est nécessaire de avoir à l'esprit la somme des problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

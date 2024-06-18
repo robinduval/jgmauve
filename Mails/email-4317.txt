@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rappel de rendez-vous
+Date: Mon, 26 Jun 2000 00:00:00 +0000
+Message-ID: <6421442858@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité induite il convient de prendre en considération certaines voies envisageables
+
+Cordialement,
+William Jackson
+

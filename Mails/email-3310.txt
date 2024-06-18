@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 26 Apr 2001 00:00:00 +0000
+Message-ID: <2218155223@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation de la société il serait bon de se remémorer la totalité des voies possibles
+
+Cordialement,
+William Jackson
+

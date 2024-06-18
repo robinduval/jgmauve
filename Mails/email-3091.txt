@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Tue, 08 Feb 2000 00:00:00 +0000
+Message-ID: <7988749664@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la baisse de confiance contemporaine il faut de toute urgence ne pas négliger toutes les issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

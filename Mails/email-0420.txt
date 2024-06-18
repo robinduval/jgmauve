@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 26 Nov 2000 00:00:00 +0000
+Message-ID: <5089836771@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la sinistrose qui nous occupe il serait intéressant de anticiper toutes les problématiques possibles
+
+Cordialement,
+David Brown
+

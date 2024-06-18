@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Confirmation de réservation
+Date: Sat, 10 Oct 2009 00:00:00 +0000
+Message-ID: <4461638313@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'extrémité qui nous occupe il serait intéressant de s'intéresser à la totalité des voies possibles
+
+Cordialement,
+John Doe
+

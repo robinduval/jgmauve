@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 05 May 2002 00:00:00 +0000
+Message-ID: <6014660430@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'extrémité qui nous occupe on se doit de s'intéresser à toutes les solutions envisageables
+
+Cordialement,
+Daniel Clark
+

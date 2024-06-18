@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <3830779071@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse conjoncturelle on ne peut se passer de anticiper toutes les issues possibles
+
+Cordialement,
+Olivia Harris
+

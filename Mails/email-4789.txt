@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Tue, 14 Mar 2000 00:00:00 +0000
+Message-ID: <4216618082@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la situation actuelle il faut prendre en considération la somme des problématiques envisageables
+
+Cordialement,
+Bob Smith
+

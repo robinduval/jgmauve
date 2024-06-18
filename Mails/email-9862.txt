@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Sun, 07 Aug 2005 00:00:00 +0000
+Message-ID: <5189230707@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de ces derniers temps il est préférable de avoir à l'esprit la majorité des issues envisageables
+
+Cordialement,
+Emma Lee
+

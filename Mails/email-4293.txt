@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Fri, 02 Sep 2005 00:00:00 +0000
+Message-ID: <9186831813@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie de la société il est préférable de imaginer certaines solutions possibles
+
+Cordialement,
+Samuel White
+

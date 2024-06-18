@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Rappel de rendez-vous
+Date: Fri, 20 Nov 2009 00:00:00 +0000
+Message-ID: <7414460089@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la situation présente il faut de toute urgence imaginer certaines solutions possibles
+
+Cordialement,
+Samuel White
+

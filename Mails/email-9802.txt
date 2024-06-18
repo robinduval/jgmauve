@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Annonce de vacances
+Date: Mon, 29 Nov 2004 00:00:00 +0000
+Message-ID: <1930868899@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation contemporaine il ne faut pas négliger de étudier la totalité des solutions s'offrant à nous
+
+Cordialement,
+John Doe
+

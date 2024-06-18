@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Suggestion d'amélioration
+Date: Wed, 11 Mar 2009 00:00:00 +0000
+Message-ID: <5633287047@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose de ces derniers temps il faut de toute urgence se remémorer certaines issues s'offrant à nous
+
+Cordialement,
+Michael Taylor
+

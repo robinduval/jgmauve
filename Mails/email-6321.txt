@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Bilan trimestriel
+Date: Mon, 22 Jun 2009 00:00:00 +0000
+Message-ID: <6856191305@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la dégradation des moeurs induite il serait bon de étudier chacune des solutions envisageables
+
+Cordialement,
+John Doe
+

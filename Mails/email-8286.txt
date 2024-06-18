@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 31 Dec 2003 00:00:00 +0000
+Message-ID: <8368433895@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance qui nous occupe il faut anticiper la majorité des problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

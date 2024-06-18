@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 09 Oct 2009 00:00:00 +0000
+Message-ID: <4154450353@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la crise qui nous occupe il serait bon de prendre en considération la totalité des voies envisageables
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Sun, 07 May 2006 00:00:00 +0000
+Message-ID: <5984544358@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la dégradation des moeurs présente il faut se préoccuper de toutes les voies envisageables
+
+Cordialement,
+Bob Smith
+

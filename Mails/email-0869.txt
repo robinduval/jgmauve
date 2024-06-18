@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Fri, 25 May 2001 00:00:00 +0000
+Message-ID: <8066175678@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'inertie conjoncturelle on se doit de se remémorer toutes les voies de bon sens
+
+Cordialement,
+Eva Thomas
+

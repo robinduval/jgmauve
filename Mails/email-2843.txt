@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 19 Sep 2007 00:00:00 +0000
+Message-ID: <3106592498@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la conjoncture qui est la nôtre il serait intéressant de avoir à l'esprit l'ensemble des solutions déjà en notre possession
+
+Cordialement,
+John Doe
+

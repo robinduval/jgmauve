@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Point sur les objectifs
+Date: Wed, 05 Apr 2000 00:00:00 +0000
+Message-ID: <9189758231@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la baisse de confiance actuelle il serait intéressant de ne pas négliger toutes les issues de bon sens
+
+Cordialement,
+Eva Thomas
+

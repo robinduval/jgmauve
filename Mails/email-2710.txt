@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Nouvelle offre spéciale
+Date: Tue, 21 Mar 2000 00:00:00 +0000
+Message-ID: <9572135002@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité conjoncturelle il faut se remémorer la somme des issues s'offrant à nous
+
+Cordialement,
+David Brown
+

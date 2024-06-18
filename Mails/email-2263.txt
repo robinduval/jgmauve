@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 03 Dec 2008 00:00:00 +0000
+Message-ID: <1594103556@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle on se doit de étudier la totalité des alternatives déjà en notre possession
+
+Cordialement,
+John Doe
+

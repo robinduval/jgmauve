@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Meeting important
+Date: Tue, 07 May 2002 00:00:00 +0000
+Message-ID: <9469566585@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'inertie de cette fin de siècle il convient de étudier certaines problématiques de bon sens
+
+Cordialement,
+Olivia Harris
+

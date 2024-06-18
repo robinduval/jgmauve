@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 13 Nov 2001 00:00:00 +0000
+Message-ID: <7405435334@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose de ces derniers temps il est préférable de se remémorer la totalité des problématiques déjà en notre possession
+
+Cordialement,
+Bob Smith
+

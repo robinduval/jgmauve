@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Confirmation de réservation
+Date: Fri, 20 Jun 2008 00:00:00 +0000
+Message-ID: <7222170729@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la crise présente on se doit de se remémorer la somme des problématiques de bon sens
+
+Cordialement,
+William Jackson
+

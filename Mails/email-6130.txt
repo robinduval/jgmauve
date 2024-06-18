@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 30 Mar 2008 00:00:00 +0000
+Message-ID: <8711940209@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance de cette fin de siècle il est préférable de avoir à l'esprit toutes les alternatives possibles
+
+Cordialement,
+John Doe
+

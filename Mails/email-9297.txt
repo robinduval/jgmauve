@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Fri, 22 Aug 2008 00:00:00 +0000
+Message-ID: <6792812607@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'impasse actuelle il est préférable de ne pas négliger toutes les solutions envisageables
+
+Cordialement,
+William Jackson
+

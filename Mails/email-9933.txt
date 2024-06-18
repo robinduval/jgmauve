@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Meeting important
+Date: Sun, 27 Sep 2009 00:00:00 +0000
+Message-ID: <5959441922@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse conjoncturelle il faut examiner toutes les voies de bon sens
+
+Cordialement,
+Olivia Harris
+

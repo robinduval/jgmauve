@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Rapport de projet
+Date: Tue, 28 Oct 2003 00:00:00 +0000
+Message-ID: <6394639329@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la sinistrose de la société il faut de toute urgence anticiper chacune des solutions déjà en notre possession
+
+Cordialement,
+Eva Thomas
+

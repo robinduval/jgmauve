@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Nouvelle offre spéciale
+Date: Wed, 06 Oct 2004 00:00:00 +0000
+Message-ID: <5479073519@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de l'inertie actuelle on ne peut se passer de se préoccuper de la totalité des solutions déjà en notre possession
+
+Cordialement,
+Bob Smith
+

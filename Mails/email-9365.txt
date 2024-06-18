@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 05 Apr 2000 00:00:00 +0000
+Message-ID: <4260277747@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation de la société il est nécessaire de prendre en considération la somme des problématiques possibles
+
+Cordialement,
+Jean Neige
+

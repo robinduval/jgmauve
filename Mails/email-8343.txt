@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 06 Feb 2006 00:00:00 +0000
+Message-ID: <2889184969@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs qui nous occupe on ne peut se passer de examiner certaines solutions envisageables
+
+Cordialement,
+Michael Taylor
+

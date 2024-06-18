@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Wed, 03 Sep 2003 00:00:00 +0000
+Message-ID: <8904791950@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie actuelle il est nécessaire de anticiper certaines issues possibles
+
+Cordialement,
+Eva Thomas
+

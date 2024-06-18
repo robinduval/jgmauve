@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Rapport de projet
+Date: Mon, 29 Sep 2008 00:00:00 +0000
+Message-ID: <8988525911@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose de la société il est nécessaire de examiner toutes les alternatives envisageables
+
+Cordialement,
+Samuel White
+

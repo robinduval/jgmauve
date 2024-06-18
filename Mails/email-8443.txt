@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Feedback sur la présentation
+Date: Tue, 25 Dec 2007 00:00:00 +0000
+Message-ID: <9918550185@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la sinistrose contemporaine il serait intéressant de étudier l'ensemble des issues de bon sens
+
+Cordialement,
+Eva Thomas
+

@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Demande de collaboration
+Date: Fri, 07 Apr 2000 00:00:00 +0000
+Message-ID: <7203982834@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dualité de la situation contemporaine on ne peut se passer de imaginer la totalité des solutions possibles
+
+Cordialement,
+Alice Dupont
+

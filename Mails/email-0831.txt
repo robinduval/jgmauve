@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Nouvelle offre spéciale
+Date: Sun, 21 Sep 2008 00:00:00 +0000
+Message-ID: <3209523354@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'inertie qui est la nôtre il serait bon de se préoccuper de toutes les solutions s'offrant à nous
+
+Cordialement,
+Laura Wilson
+

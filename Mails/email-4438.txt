@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 05 Mar 2004 00:00:00 +0000
+Message-ID: <9644315757@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la dualité de la situation induite il est préférable de se remémorer la globalité des issues déjà en notre possession
+
+Cordialement,
+John Doe
+

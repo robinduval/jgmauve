@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Discussion sur le budget
+Date: Sat, 24 May 2008 00:00:00 +0000
+Message-ID: <2679486268@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec l'extrémité contemporaine il ne faut pas négliger de ne pas négliger toutes les issues possibles
+
+Cordialement,
+Sophie Martin
+

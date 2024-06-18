@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: David Brown <david.brown@example.com>
+Subject: Bilan trimestriel
+Date: Fri, 19 Sep 2008 00:00:00 +0000
+Message-ID: <6568912536@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation de ces derniers temps il convient de examiner certaines voies de bon sens
+
+Cordialement,
+Alice Dupont
+

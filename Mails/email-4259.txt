@@ -1,0 +1,14 @@
+From: Sophie Martin <sophie.martin@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Discussion sur le budget
+Date: Tue, 08 Mar 2005 00:00:00 +0000
+Message-ID: <3747841644@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la situation contemporaine il est préférable de prendre en considération l'ensemble des issues de bon sens
+
+Cordialement,
+Sophie Martin
+

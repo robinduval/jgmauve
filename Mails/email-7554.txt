@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Point sur les objectifs
+Date: Thu, 22 Jun 2006 00:00:00 +0000
+Message-ID: <5735325724@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'impasse de la société il faut examiner la totalité des voies s'offrant à nous
+
+Cordialement,
+Daniel Clark
+

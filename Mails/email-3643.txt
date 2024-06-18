@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Invitation à une conférence
+Date: Sat, 24 Nov 2001 00:00:00 +0000
+Message-ID: <9687957206@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la dualité de la situation de ces derniers temps on ne peut se passer de imaginer chacune des alternatives s'offrant à nous
+
+Cordialement,
+Eva Thomas
+

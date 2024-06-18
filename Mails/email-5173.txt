@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Bilan trimestriel
+Date: Tue, 13 Jan 2009 00:00:00 +0000
+Message-ID: <1648428807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à la conjoncture de cette fin de siècle il est nécessaire de s'intéresser à toutes les issues s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

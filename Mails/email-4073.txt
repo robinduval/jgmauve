@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 19 Jan 2003 00:00:00 +0000
+Message-ID: <7556012578@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'extrémité de la société il est préférable de anticiper toutes les issues déjà en notre possession
+
+Cordialement,
+David Brown
+

@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 06 May 2009 00:00:00 +0000
+Message-ID: <9811417271@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'extrémité actuelle il est nécessaire de s'intéresser à l'ensemble des issues s'offrant à nous
+
+Cordialement,
+Samuel White
+

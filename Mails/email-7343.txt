@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Feedback sur la présentation
+Date: Fri, 06 Sep 2002 00:00:00 +0000
+Message-ID: <4735791698@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la crise qui est la nôtre il serait bon de anticiper la somme des alternatives envisageables
+
+Cordialement,
+John Doe
+

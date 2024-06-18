@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Bob Smith <bob.smith@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 07 Jun 2009 00:00:00 +0000
+Message-ID: <2949857408@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance contemporaine on ne peut se passer de s'intéresser à toutes les problématiques déjà en notre possession
+
+Cordialement,
+William Jackson
+

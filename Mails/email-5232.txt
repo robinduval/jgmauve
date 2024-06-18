@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Invitation à une conférence
+Date: Mon, 02 Oct 2006 00:00:00 +0000
+Message-ID: <9285564327@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la dualité de la situation qui est la nôtre il serait intéressant de se remémorer toutes les solutions de bon sens
+
+Cordialement,
+Daniel Clark
+

@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Charlotte Moore <charlotte.moore@example.com>
+Subject: Bilan trimestriel
+Date: Sat, 19 Aug 2000 00:00:00 +0000
+Message-ID: <6868416407@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance actuelle on se doit de examiner certaines alternatives possibles
+
+Cordialement,
+Michael Taylor
+

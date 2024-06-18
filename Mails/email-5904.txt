@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Invitation à une conférence
+Date: Fri, 04 Jan 2002 00:00:00 +0000
+Message-ID: <8608311956@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène l'extrémité présente il convient de imaginer la majorité des issues s'offrant à nous
+
+Cordialement,
+John Doe
+

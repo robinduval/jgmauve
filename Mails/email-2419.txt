@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 20 Sep 2007 00:00:00 +0000
+Message-ID: <7845958630@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dualité de la situation de la société il serait bon de étudier la majorité des solutions envisageables
+
+Cordialement,
+Michael Taylor
+

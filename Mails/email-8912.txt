@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Demande de collaboration
+Date: Sun, 22 Jul 2007 00:00:00 +0000
+Message-ID: <5797836326@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit l'impasse conjoncturelle il serait intéressant de anticiper chacune des problématiques possibles
+
+Cordialement,
+Emma Lee
+

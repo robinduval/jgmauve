@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Demande de collaboration
+Date: Sun, 30 Jan 2000 00:00:00 +0000
+Message-ID: <2218303650@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la baisse de confiance induite il serait bon de se préoccuper de toutes les issues possibles
+
+Cordialement,
+David Brown
+

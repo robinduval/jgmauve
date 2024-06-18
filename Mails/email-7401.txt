@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Annonce de vacances
+Date: Sat, 23 May 2009 00:00:00 +0000
+Message-ID: <4751264335@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de l'impasse qui nous occupe il serait intéressant de imaginer toutes les solutions possibles
+
+Cordialement,
+Emma Lee
+

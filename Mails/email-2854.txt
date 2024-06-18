@@ -1,0 +1,14 @@
+From: Jean Neige <jean.neige@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Meeting important
+Date: Wed, 27 Aug 2008 00:00:00 +0000
+Message-ID: <7539110462@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera l'impasse conjoncturelle il ne faut pas négliger de étudier certaines issues de bon sens
+
+Cordialement,
+Jean Neige
+

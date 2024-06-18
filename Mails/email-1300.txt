@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Demande de collaboration
+Date: Wed, 29 Sep 2004 00:00:00 +0000
+Message-ID: <1015606653@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la crise qui nous occupe il ne faut pas négliger de imaginer certaines alternatives de bon sens
+
+Cordialement,
+Samuel White
+

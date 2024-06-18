@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: William Jackson <william.jackson@example.com>
+Subject: Meeting important
+Date: Sun, 13 Jan 2008 00:00:00 +0000
+Message-ID: <9193191970@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la baisse de confiance conjoncturelle il faut de toute urgence prendre en considération la totalité des alternatives possibles
+
+Cordialement,
+Olivia Harris
+

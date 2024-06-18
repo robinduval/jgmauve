@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rappel de rendez-vous
+Date: Thu, 01 Sep 2005 00:00:00 +0000
+Message-ID: <3932763927@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dans le cas particulier de la situation conjoncturelle on ne peut se passer de se préoccuper de certaines voies possibles
+
+Cordialement,
+Olivia Harris
+

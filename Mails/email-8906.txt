@@ -1,0 +1,14 @@
+From: Eva Thomas <eva.thomas@example.com>
+To: Olivia Harris <olivia.harris@example.com>
+Subject: Discussion sur le budget
+Date: Sun, 08 Apr 2001 00:00:00 +0000
+Message-ID: <2939042064@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs présente il faut de toute urgence anticiper la globalité des solutions possibles
+
+Cordialement,
+Eva Thomas
+

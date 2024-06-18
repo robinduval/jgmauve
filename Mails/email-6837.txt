@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Michael Taylor <michael.taylor@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 11 Oct 2007 00:00:00 +0000
+Message-ID: <2630071107@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Tant que durera la dégradation des moeurs conjoncturelle il est préférable de étudier la somme des solutions envisageables
+
+Cordialement,
+John Doe
+

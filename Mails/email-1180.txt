@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Feedback sur la présentation
+Date: Wed, 17 Jul 2002 00:00:00 +0000
+Message-ID: <3754923947@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'inertie de cette fin de siècle il faut de toute urgence prendre en considération certaines voies possibles
+
+Cordialement,
+David Brown
+

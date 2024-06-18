@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: John Doe <john.doe@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 16 Nov 2006 00:00:00 +0000
+Message-ID: <6407323628@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant la sinistrose actuelle on se doit de prendre en considération l'ensemble des problématiques envisageables
+
+Cordialement,
+Olivia Harris
+

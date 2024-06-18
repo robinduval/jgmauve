@@ -1,0 +1,14 @@
+From: Michael Taylor <michael.taylor@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Résumé de la réunion
+Date: Tue, 29 Oct 2002 00:00:00 +0000
+Message-ID: <7801380807@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle il faut de toute urgence examiner toutes les issues de bon sens
+
+Cordialement,
+Michael Taylor
+

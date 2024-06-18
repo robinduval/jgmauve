@@ -1,0 +1,14 @@
+From: Laura Wilson <laura.wilson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Suggestion d'amélioration
+Date: Mon, 04 Dec 2006 00:00:00 +0000
+Message-ID: <9685123958@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la baisse de confiance qui est la nôtre il serait intéressant de se préoccuper de toutes les voies possibles
+
+Cordialement,
+Laura Wilson
+

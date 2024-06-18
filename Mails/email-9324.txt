@@ -1,0 +1,14 @@
+From: Bob Smith <bob.smith@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Résumé de la réunion
+Date: Mon, 21 Apr 2008 00:00:00 +0000
+Message-ID: <4286965484@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse qui est la nôtre il serait bon de examiner la globalité des problématiques déjà en notre possession
+
+Cordialement,
+Bob Smith
+

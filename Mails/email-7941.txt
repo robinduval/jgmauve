@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Emma Lee <emma.lee@example.com>
+Subject: Suggestion d'amélioration
+Date: Thu, 31 Aug 2000 00:00:00 +0000
+Message-ID: <4103157618@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu l'impasse contemporaine il serait bon de avoir à l'esprit chacune des solutions envisageables
+
+Cordialement,
+Samuel White
+

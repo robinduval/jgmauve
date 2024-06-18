@@ -1,0 +1,14 @@
+From: Daniel Clark <daniel.clark@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Suggestion d'amélioration
+Date: Sun, 20 Aug 2000 00:00:00 +0000
+Message-ID: <6983571989@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+En ce qui concerne la conjoncture de cette fin de siècle il serait bon de imaginer certaines problématiques envisageables
+
+Cordialement,
+Daniel Clark
+

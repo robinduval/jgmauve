@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Résumé de la réunion
+Date: Thu, 21 Jun 2007 00:00:00 +0000
+Message-ID: <1734595684@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Quelle que soit la crise qui nous occupe il est préférable de examiner la majorité des issues de bon sens
+
+Cordialement,
+Samuel White
+

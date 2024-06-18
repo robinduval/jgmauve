@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Laura Wilson <laura.wilson@example.com>
+Subject: Invitation à une conférence
+Date: Thu, 24 Jan 2008 00:00:00 +0000
+Message-ID: <3572143207@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Considérant l'inertie présente il faut étudier la majorité des issues envisageables
+
+Cordialement,
+Alice Dupont
+

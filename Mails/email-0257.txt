@@ -1,0 +1,14 @@
+From: Samuel White <samuel.white@example.com>
+To: Alice Dupont <alice.dupont@example.com>
+Subject: Rapport de projet
+Date: Sat, 12 Mar 2005 00:00:00 +0000
+Message-ID: <4736219773@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la conjoncture actuelle il faut de toute urgence étudier toutes les solutions de bon sens
+
+Cordialement,
+Samuel White
+

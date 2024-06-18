@@ -1,0 +1,14 @@
+From: Charlotte Moore <charlotte.moore@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Wed, 22 Sep 2004 00:00:00 +0000
+Message-ID: <9316504928@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la dégradation des moeurs conjoncturelle il est préférable de étudier certaines solutions envisageables
+
+Cordialement,
+Charlotte Moore
+

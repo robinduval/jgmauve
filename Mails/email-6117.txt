@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Daniel Clark <daniel.clark@example.com>
+Subject: Meeting important
+Date: Wed, 13 Aug 2008 00:00:00 +0000
+Message-ID: <4698188399@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Eu égard à l'impasse qui nous occupe on se doit de imaginer la somme des problématiques de bon sens
+
+Cordialement,
+Emma Lee
+

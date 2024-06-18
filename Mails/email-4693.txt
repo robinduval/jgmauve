@@ -1,0 +1,14 @@
+From: Alice Dupont <alice.dupont@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Résumé de la réunion
+Date: Sun, 26 Sep 2004 00:00:00 +0000
+Message-ID: <9491548345@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Avec la situation de ces derniers temps il est nécessaire de se préoccuper de toutes les voies possibles
+
+Cordialement,
+Alice Dupont
+

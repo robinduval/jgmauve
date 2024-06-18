@@ -1,0 +1,14 @@
+From: John Doe <john.doe@example.com>
+To: Eva Thomas <eva.thomas@example.com>
+Subject: Feedback sur la présentation
+Date: Mon, 24 Aug 2009 00:00:00 +0000
+Message-ID: <6451658852@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la sinistrose qui est la nôtre on ne peut se passer de imaginer la somme des alternatives envisageables
+
+Cordialement,
+John Doe
+

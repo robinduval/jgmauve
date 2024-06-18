@@ -1,0 +1,14 @@
+From: William Jackson <william.jackson@example.com>
+To: Samuel White <samuel.white@example.com>
+Subject: Demande de collaboration
+Date: Sun, 03 Apr 2005 00:00:00 +0000
+Message-ID: <6799993737@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Où que nous mène la baisse de confiance conjoncturelle il faut de toute urgence se préoccuper de l'ensemble des alternatives de bon sens
+
+Cordialement,
+William Jackson
+

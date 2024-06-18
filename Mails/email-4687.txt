@@ -1,0 +1,14 @@
+From: Emma Lee <emma.lee@example.com>
+To: Jean-Guy Mauve <jean-guy.mauve@example.com>
+Subject: Rapport de projet
+Date: Thu, 27 Apr 2006 00:00:00 +0000
+Message-ID: <8671791481@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Du fait de la dégradation des moeurs conjoncturelle il convient de avoir à l'esprit l'ensemble des issues possibles
+
+Cordialement,
+Emma Lee
+

@@ -1,0 +1,14 @@
+From: Olivia Harris <olivia.harris@example.com>
+To: Sophie Martin <sophie.martin@example.com>
+Subject: Discussion sur le budget
+Date: Fri, 10 Aug 2001 00:00:00 +0000
+Message-ID: <6130179423@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la dégradation des moeurs de ces derniers temps il faut s'intéresser à toutes les problématiques s'offrant à nous
+
+Cordialement,
+Olivia Harris
+

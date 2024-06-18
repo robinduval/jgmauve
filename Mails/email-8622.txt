@@ -1,0 +1,14 @@
+From: David Brown <david.brown@example.com>
+To: Jean Neige <jean.neige@example.com>
+Subject: Bilan trimestriel
+Date: Wed, 23 Feb 2000 00:00:00 +0000
+Message-ID: <4956779691@rino.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Vu la baisse de confiance de la société il faut avoir à l'esprit la globalité des voies s'offrant à nous
+
+Cordialement,
+David Brown
+
